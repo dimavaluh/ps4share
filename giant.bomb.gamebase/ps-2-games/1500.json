@@ -1,0 +1,3445 @@
+{
+  "error": "OK",
+  "limit": 100,
+  "offset": 1500,
+  "number_of_page_results": 100,
+  "number_of_total_results": 3211,
+  "status_code": 1,
+  "results": [
+    {
+      "deck": "Gunfighter II: Revenge of Jesse James is the second game in the Gunfighter light gun series.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4647/840205-583519_24217_front.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4647/840205-583519_24217_front.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4647/840205-583519_24217_front.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4647/840205-583519_24217_front.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4647/840205-583519_24217_front.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4647/840205-583519_24217_front.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4647/840205-583519_24217_front.jpg"
+      },
+      "name": "Gunfighter II: Revenge of Jesse James",
+      "original_release_date": "2003-03-28 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": "SSX Tricky is the second game in the SSX franchise and was released under the now-defunct EA Sports Big label. Tricky is the first game in the series to feature Uber Tricks. ",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2139875-box_ssx2.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139875-box_ssx2.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2139875-box_ssx2.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2139875-box_ssx2.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2139875-box_ssx2.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2139875-box_ssx2.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2139875-box_ssx2.png"
+      },
+      "name": "SSX Tricky",
+      "original_release_date": "2001-11-06 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-4/",
+          "id": 4,
+          "name": "Game Boy Advance",
+          "site_detail_url": "http://www.giantbomb.com/game-boy-advance/3045-4/",
+          "abbreviation": "GBA"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        }
+      ]
+    },
+    {
+      "deck": "The X Factor Sing is based on the popular British TV show lets the player experience the thrill of singing in front of a live audience from the comfort of there living room. The game uses a microphone peripheral similar to Singstar.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4647/839398-61359_large.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4647/839398-61359_large.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4647/839398-61359_large.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4647/839398-61359_large.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4647/839398-61359_large.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4647/839398-61359_large.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4647/839398-61359_large.jpg"
+      },
+      "name": "The X Factor Sing",
+      "original_release_date": "2005-12-31 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "AFL Premiership 2007 is based on the popular sport of Australian Rules Football.  It features all 16 AFL teams as well as their stadiums.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/6/60173/1551271-fileafl_premiership_2007_cover.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/6/60173/1551271-fileafl_premiership_2007_cover.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/6/60173/1551271-fileafl_premiership_2007_cover.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/6/60173/1551271-fileafl_premiership_2007_cover.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/6/60173/1551271-fileafl_premiership_2007_cover.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/6/60173/1551271-fileafl_premiership_2007_cover.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/6/60173/1551271-fileafl_premiership_2007_cover.jpg"
+      },
+      "name": "AFL Premiership 2007",
+      "original_release_date": null,
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": "The Hustle: Detroit Streets is a billiards game for the Xbox, PSP, and Playstation 2.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/1804001-box_thds.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1804001-box_thds.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/1804001-box_thds.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/1804001-box_thds.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/1804001-box_thds.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/1804001-box_thds.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/1804001-box_thds.png"
+      },
+      "name": "The Hustle: Detroit Streets",
+      "original_release_date": "2007-03-09 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-18/",
+          "id": 18,
+          "name": "PlayStation Portable",
+          "site_detail_url": "http://www.giantbomb.com/playstation-portable/3045-18/",
+          "abbreviation": "PSP"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        }
+      ]
+    },
+    {
+      "deck": null,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4647/840253-925414_61177_front.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4647/840253-925414_61177_front.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4647/840253-925414_61177_front.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4647/840253-925414_61177_front.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4647/840253-925414_61177_front.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4647/840253-925414_61177_front.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4647/840253-925414_61177_front.jpg"
+      },
+      "name": "Conspiracy: Weapons of Mass Destruction",
+      "original_release_date": "2005-06-30 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "Mix and match various mobile suits from the Gundam franchise in this turn-based RPG.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2421679-box_mssand.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2421679-box_mssand.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2421679-box_mssand.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2421679-box_mssand.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2421679-box_mssand.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2421679-box_mssand.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2421679-box_mssand.png"
+      },
+      "name": "MS Saga: A New Dawn",
+      "original_release_date": "2006-02-21 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": null,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4647/841598-918995_28637_front.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4647/841598-918995_28637_front.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4647/841598-918995_28637_front.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4647/841598-918995_28637_front.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4647/841598-918995_28637_front.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4647/841598-918995_28637_front.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4647/841598-918995_28637_front.jpg"
+      },
+      "name": "Fame Academy: Dance Edition",
+      "original_release_date": null,
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": "Become like the greatest manager in English football and possibly the world.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4647/839986-581569_21545_front.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4647/839986-581569_21545_front.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4647/839986-581569_21545_front.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4647/839986-581569_21545_front.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4647/839986-581569_21545_front.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4647/839986-581569_21545_front.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4647/839986-581569_21545_front.jpg"
+      },
+      "name": "Alex Ferguson's Player Manager 2001",
+      "original_release_date": null,
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-22/",
+          "id": 22,
+          "name": "PlayStation",
+          "site_detail_url": "http://www.giantbomb.com/playstation/3045-22/",
+          "abbreviation": "PS1"
+        }
+      ]
+    },
+    {
+      "deck": "Play as Cate Archer, an operative for UNITY, as she battles against an evil plot hatched by the global terrorist organization, H.A.R.M. in the groovy 1960s.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2130/625459-nolf1.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/2130/625459-nolf1.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2130/625459-nolf1.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/2130/625459-nolf1.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2130/625459-nolf1.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/2130/625459-nolf1.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2130/625459-nolf1.jpg"
+      },
+      "name": "The Operative: No One Lives Forever",
+      "original_release_date": "2000-11-09 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+          "id": 17,
+          "name": "Mac",
+          "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+          "abbreviation": "MAC"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": null,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4647/840093-versailles_ii__testament_of_the_king.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4647/840093-versailles_ii__testament_of_the_king.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4647/840093-versailles_ii__testament_of_the_king.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4647/840093-versailles_ii__testament_of_the_king.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4647/840093-versailles_ii__testament_of_the_king.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4647/840093-versailles_ii__testament_of_the_king.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4647/840093-versailles_ii__testament_of_the_king.jpg"
+      },
+      "name": "Versailles II: Testament of the King",
+      "original_release_date": "2001-11-30 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "A hack and slash game based on the 2005 movie of the same name.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2285668-box_ka.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285668-box_ka.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2285668-box_ka.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2285668-box_ka.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2285668-box_ka.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2285668-box_ka.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2285668-box_ka.png"
+      },
+      "name": "King Arthur",
+      "original_release_date": "2004-11-16 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        }
+      ]
+    },
+    {
+      "deck": "Malice, a goddess with help from The Metal Guardian, must stop the Dog God from destroying her world and the Universe. Armed with a giant club, she must find eight logic keys to track the Dog God down.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/1798102-box_malice.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1798102-box_malice.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/1798102-box_malice.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/1798102-box_malice.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/1798102-box_malice.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/1798102-box_malice.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/1798102-box_malice.png"
+      },
+      "name": "Malice",
+      "original_release_date": "2004-06-02 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        }
+      ]
+    },
+    {
+      "deck": "One of the first games to utilize a Bob and Weave mechanic, Victorious boxers is more than a simple anime license cash in.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2291785-box_vb.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2291785-box_vb.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2291785-box_vb.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2291785-box_vb.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2291785-box_vb.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2291785-box_vb.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2291785-box_vb.png"
+      },
+      "name": "Victorious Boxers: Ippo's Road to Glory",
+      "original_release_date": "2001-11-05 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": "Play as a nameless Spartan waging war against the Roman Empire in Greco-Roman locations such as Sparta, Athens, the fabled city of Troy and eventually Rome it self in this spin-off game of the Total War series.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2115778-box_stw.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2115778-box_stw.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2115778-box_stw.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2115778-box_stw.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2115778-box_stw.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2115778-box_stw.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2115778-box_stw.png"
+      },
+      "name": "Spartan: Total Warrior",
+      "original_release_date": "2005-10-25 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        }
+      ]
+    },
+    {
+      "deck": "Planetarian is a Japanese, all ages post-apocalyptic visual novel developed by Key and released for PC over the internet on November 29, 2004. It was later re-released with full voice acting in CD and also ported to PlayStation 2, PSP, mobile phones in 2006 and Nintendo DS release which is only available in chinese called xing zhi meng DS.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2410691-b1.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2410691-b1.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2410691-b1.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2410691-b1.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2410691-b1.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/9/97089/2410691-b1.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2410691-b1.png"
+      },
+      "name": "Planetarian: The Reverie of a Little Planet",
+      "original_release_date": "2004-11-29 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-18/",
+          "id": 18,
+          "name": "PlayStation Portable",
+          "site_detail_url": "http://www.giantbomb.com/playstation-portable/3045-18/",
+          "abbreviation": "PSP"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-52/",
+          "id": 52,
+          "name": "Nintendo DS",
+          "site_detail_url": "http://www.giantbomb.com/nintendo-ds/3045-52/",
+          "abbreviation": "DS"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-96/",
+          "id": 96,
+          "name": "iPhone",
+          "site_detail_url": "http://www.giantbomb.com/iphone/3045-96/",
+          "abbreviation": "IPHN"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-116/",
+          "id": 116,
+          "name": "PlayStation Network (PSP)",
+          "site_detail_url": "http://www.giantbomb.com/playstation-network-psp/3045-116/",
+          "abbreviation": "PSPN"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-123/",
+          "id": 123,
+          "name": "Android",
+          "site_detail_url": "http://www.giantbomb.com/android/3045-123/",
+          "abbreviation": "ANDR"
+        }
+      ]
+    },
+    {
+      "deck": "Thrillville is a theme park management game with minigames from the creators of RollerCoaster Tycoon 3.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/1804003-box_tville.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1804003-box_tville.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/1804003-box_tville.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/1804003-box_tville.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/1804003-box_tville.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/1804003-box_tville.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/1804003-box_tville.png"
+      },
+      "name": "Thrillville",
+      "original_release_date": "2006-11-21 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-18/",
+          "id": 18,
+          "name": "PlayStation Portable",
+          "site_detail_url": "http://www.giantbomb.com/playstation-portable/3045-18/",
+          "abbreviation": "PSP"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        }
+      ]
+    },
+    {
+      "deck": null,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/1801413-box_achopper2.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1801413-box_achopper2.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/1801413-box_achopper2.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/1801413-box_achopper2.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/1801413-box_achopper2.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/1801413-box_achopper2.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/1801413-box_achopper2.png"
+      },
+      "name": "American Chopper 2: Full Throttle",
+      "original_release_date": "2005-11-17 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "In 2010, catastrophe strikes the city of Del Ray as the levees that protect the municipality fail and the Cascade Lake begins to drown the city.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2243875-box_rawdanger.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2243875-box_rawdanger.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2243875-box_rawdanger.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2243875-box_rawdanger.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2243875-box_rawdanger.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2243875-box_rawdanger.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2243875-box_rawdanger.png"
+      },
+      "name": "Raw Danger",
+      "original_release_date": "2007-03-30 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+          "id": 88,
+          "name": "PlayStation Network (PS3)",
+          "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+          "abbreviation": "PS3N"
+        }
+      ]
+    },
+    {
+      "deck": "The fourth installment of Konami's long-running RPG series Suikoden. In this game, set 150 years prior to the original Suikoden, players will begin an adventure through the rough seas of the Suikoden universe's Island Nations.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2099995-box_suikoden4.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2099995-box_suikoden4.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2099995-box_suikoden4.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2099995-box_suikoden4.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2099995-box_suikoden4.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2099995-box_suikoden4.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2099995-box_suikoden4.png"
+      },
+      "name": "Suikoden IV",
+      "original_release_date": "2005-01-11 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": "Hop and bop your way through the second installment of the ATV Offroad Fury franchise.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2275969-box_atvof2.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2275969-box_atvof2.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2275969-box_atvof2.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2275969-box_atvof2.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2275969-box_atvof2.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2275969-box_atvof2.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2275969-box_atvof2.png"
+      },
+      "name": "ATV Offroad Fury 2",
+      "original_release_date": "2002-11-09 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": null,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2360853-box_cbgh.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2360853-box_cbgh.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2360853-box_cbgh.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2360853-box_cbgh.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2360853-box_cbgh.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2360853-box_cbgh.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2360853-box_cbgh.png"
+      },
+      "name": "Cabela's Big Game Hunter",
+      "original_release_date": "2002-12-11 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-4/",
+          "id": 4,
+          "name": "Game Boy Advance",
+          "site_detail_url": "http://www.giantbomb.com/game-boy-advance/3045-4/",
+          "abbreviation": "GBA"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "Super Bust-A-Move is a puzzle game developed by Taito Corporation.  It was released on the Playstaion 2 and the PC on November 20, 2000.  It was later ported to the Gameboy Advance on November 27, 2001.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2481866-box_sbam.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2481866-box_sbam.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2481866-box_sbam.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2481866-box_sbam.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2481866-box_sbam.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2481866-box_sbam.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2481866-box_sbam.png"
+      },
+      "name": "Super Bust-A-Move",
+      "original_release_date": "2000-11-26 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-4/",
+          "id": 4,
+          "name": "Game Boy Advance",
+          "site_detail_url": "http://www.giantbomb.com/game-boy-advance/3045-4/",
+          "abbreviation": "GBA"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "Blast your way through jungle infested, nazi-esque worlds in this compilation of the Metal Slug franchise.  Includes every arcade Metal Slug game, which makes this game Metal Slug 6's Western debut.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/12/121177/1691411-metal_slug_anthology_us_retail_cover.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/12/121177/1691411-metal_slug_anthology_us_retail_cover.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/12/121177/1691411-metal_slug_anthology_us_retail_cover.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/12/121177/1691411-metal_slug_anthology_us_retail_cover.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/12/121177/1691411-metal_slug_anthology_us_retail_cover.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/12/121177/1691411-metal_slug_anthology_us_retail_cover.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/12/121177/1691411-metal_slug_anthology_us_retail_cover.jpg"
+      },
+      "name": "Metal Slug Anthology",
+      "original_release_date": "2006-12-14 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-18/",
+          "id": 18,
+          "name": "PlayStation Portable",
+          "site_detail_url": "http://www.giantbomb.com/playstation-portable/3045-18/",
+          "abbreviation": "PSP"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-36/",
+          "id": 36,
+          "name": "Wii",
+          "site_detail_url": "http://www.giantbomb.com/wii/3045-36/",
+          "abbreviation": "Wii"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+          "id": 146,
+          "name": "PlayStation 4",
+          "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+          "abbreviation": "PS4"
+        }
+      ]
+    },
+    {
+      "deck": "Top Spin is a realistic tennis simulator available for the Xbox, Playstation 2, and the PC.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2266553-box_ts.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2266553-box_ts.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2266553-box_ts.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2266553-box_ts.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2266553-box_ts.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2266553-box_ts.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2266553-box_ts.png"
+      },
+      "name": "Top Spin",
+      "original_release_date": "2003-10-28 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "Action packed ATV racing.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2275967-box_atvof.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2275967-box_atvof.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2275967-box_atvof.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2275967-box_atvof.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2275967-box_atvof.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2275967-box_atvof.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2275967-box_atvof.png"
+      },
+      "name": "ATV Offroad Fury",
+      "original_release_date": "2001-02-07 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": null,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10831/467454-prf.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/1/10831/467454-prf.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10831/467454-prf.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/1/10831/467454-prf.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10831/467454-prf.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/1/10831/467454-prf.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10831/467454-prf.jpg"
+      },
+      "name": "Pro Rally",
+      "original_release_date": "2002-11-11 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        }
+      ]
+    },
+    {
+      "deck": "Total Club Manager 2004 is a sports simulation game in which you are a manager in charge of a soccer club and you take your team game by game through up to ten seasons.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/18185/639467-51ncv8sc8vl._sl500_.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/1/18185/639467-51ncv8sc8vl._sl500_.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/18185/639467-51ncv8sc8vl._sl500_.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/1/18185/639467-51ncv8sc8vl._sl500_.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/1/18185/639467-51ncv8sc8vl._sl500_.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/1/18185/639467-51ncv8sc8vl._sl500_.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/18185/639467-51ncv8sc8vl._sl500_.jpg"
+      },
+      "name": "Total Club Manager 2004",
+      "original_release_date": "2003-11-28 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "A cel-shaded vehicular combat game.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2275977-box_celd.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2275977-box_celd.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2275977-box_celd.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2275977-box_celd.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2275977-box_celd.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2275977-box_celd.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2275977-box_celd.png"
+      },
+      "name": "Cel Damage",
+      "original_release_date": "2001-11-14 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+          "id": 88,
+          "name": "PlayStation Network (PS3)",
+          "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+          "abbreviation": "PS3N"
+        }
+      ]
+    },
+    {
+      "deck": "The fifth game in the Suikoden series. Set six years before Suikoden I, the game follows the Prince of the Queendom of Falena, as he struggles to unite the 108 Stars of Destiny and end a civil war that threatens to tear the realm apart.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2099996-box_suikoden5.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2099996-box_suikoden5.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2099996-box_suikoden5.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2099996-box_suikoden5.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2099996-box_suikoden5.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2099996-box_suikoden5.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2099996-box_suikoden5.png"
+      },
+      "name": "Suikoden V",
+      "original_release_date": "2006-03-21 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": "Invictus Thrax a Warrior Slave is chosen by the Gods to save the Roman Empire.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/1797966-box_gsov.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1797966-box_gsov.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/1797966-box_gsov.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/1797966-box_gsov.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/1797966-box_gsov.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/1797966-box_gsov.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/1797966-box_gsov.png"
+      },
+      "name": "Gladiator: Sword of Vengeance",
+      "original_release_date": "2003-11-05 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "B.J. Blazkowicz returns to fight elite Nazi troopers, supernatural creatures, and mechanized super soldiers in this reboot of the original 1991 classic Wolfenstein 3D.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93770/2287889-rtcw.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2287889-rtcw.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93770/2287889-rtcw.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/9/93770/2287889-rtcw.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93770/2287889-rtcw.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/9/93770/2287889-rtcw.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93770/2287889-rtcw.png"
+      },
+      "name": "Return to Castle Wolfenstein",
+      "original_release_date": "2001-11-19 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+          "id": 17,
+          "name": "Mac",
+          "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+          "abbreviation": "MAC"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "Ty the Tasmanian Tiger 3 revolves around saving the outback from the Quinkan invaders. The third game in the Ty the Tasmanian Tiger series was also the first to be published by a company other than EA Games.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2261155-box_ty3.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2261155-box_ty3.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2261155-box_ty3.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2261155-box_ty3.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2261155-box_ty3.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2261155-box_ty3.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2261155-box_ty3.png"
+      },
+      "name": "Ty the Tasmanian Tiger 3: Night of the Quinkan",
+      "original_release_date": "2005-10-11 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-4/",
+          "id": 4,
+          "name": "Game Boy Advance",
+          "site_detail_url": "http://www.giantbomb.com/game-boy-advance/3045-4/",
+          "abbreviation": "GBA"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        }
+      ]
+    },
+    {
+      "deck": null,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4647/841595-918639_25413_front.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4647/841595-918639_25413_front.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4647/841595-918639_25413_front.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4647/841595-918639_25413_front.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4647/841595-918639_25413_front.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4647/841595-918639_25413_front.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4647/841595-918639_25413_front.jpg"
+      },
+      "name": "Karaoke Revolution: J-POP Best vol.2",
+      "original_release_date": "2003-12-12 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": "Forge your destiny in a land of Legends as you team up with friendly people from around the world to fight monsters, complete challenging quests and explore dangerous and spectacular frontiers.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2275987-box_eqoaf.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2275987-box_eqoaf.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2275987-box_eqoaf.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2275987-box_eqoaf.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2275987-box_eqoaf.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2275987-box_eqoaf.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2275987-box_eqoaf.png"
+      },
+      "name": "EverQuest Online Adventures: Frontiers",
+      "original_release_date": "2003-11-18 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": null,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/1846033-box.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/9/97089/1846033-box.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/1846033-box.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/1846033-box.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/1846033-box.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/9/97089/1846033-box.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/1846033-box.jpg"
+      },
+      "name": "Magical Pachinko Cotton",
+      "original_release_date": null,
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": null,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9234/275579-package_l.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/9234/275579-package_l.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9234/275579-package_l.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/9234/275579-package_l.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9234/275579-package_l.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/9234/275579-package_l.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9234/275579-package_l.jpg"
+      },
+      "name": "Sakura Taisen Monogatari: Mysterious Paris",
+      "original_release_date": "2004-03-18 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": "Set eighteen years after the original Drakengard, the young warrior Nowe and Legna, the dragon that raised him, are pulled into a conflict when a group of rebels threaten the seals that hold the world's balance in check.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2375787-box_dgard2.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2375787-box_dgard2.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2375787-box_dgard2.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2375787-box_dgard2.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2375787-box_dgard2.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2375787-box_dgard2.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2375787-box_dgard2.png"
+      },
+      "name": "Drakengard 2",
+      "original_release_date": "2006-02-14 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": "A light gun game developed for the Playstation 2 in 2001. the game was originally an arcade game and was released in 2000 and later ported to the Playstation 2.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2491492-box_vn.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2491492-box_vn.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2491492-box_vn.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2491492-box_vn.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2491492-box_vn.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2491492-box_vn.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2491492-box_vn.png"
+      },
+      "name": "Vampire Night",
+      "original_release_date": "2001-11-14 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-84/",
+          "id": 84,
+          "name": "Arcade",
+          "site_detail_url": "http://www.giantbomb.com/arcade/3045-84/",
+          "abbreviation": "ARC"
+        }
+      ]
+    },
+    {
+      "deck": "The first in a long-running revision history of Guilty Gear X2 adds numerous gameplay balance changes and is the first in the franchise to feature online multiplayer (in its the Xbox version).",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/1879021-box_ggx2r.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1879021-box_ggx2r.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/1879021-box_ggx2r.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/1879021-box_ggx2r.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/1879021-box_ggx2r.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/1879021-box_ggx2r.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/1879021-box_ggx2r.png"
+      },
+      "name": "Guilty Gear XX #Reload",
+      "original_release_date": "2003-03-26 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-18/",
+          "id": 18,
+          "name": "PlayStation Portable",
+          "site_detail_url": "http://www.giantbomb.com/playstation-portable/3045-18/",
+          "abbreviation": "PSP"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-84/",
+          "id": 84,
+          "name": "Arcade",
+          "site_detail_url": "http://www.giantbomb.com/arcade/3045-84/",
+          "abbreviation": "ARC"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+          "id": 86,
+          "name": "Xbox 360 Games Store",
+          "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+          "abbreviation": "XBGS"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "Buffy the Vampire Slayer: Chaos Bleeds is a third-person action game, released for several consoles in 2003. Chaos Bleeds lets you play as several characters from the show, in an all-new adventure written specifically for the game. Among others, Eliza Dushku and James Marsters voice their TV-characters in the game.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/1796974-box_buffycb.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1796974-box_buffycb.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/1796974-box_buffycb.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/1796974-box_buffycb.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/1796974-box_buffycb.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/1796974-box_buffycb.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/1796974-box_buffycb.png"
+      },
+      "name": "Buffy the Vampire Slayer: Chaos Bleeds",
+      "original_release_date": "2003-08-27 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        }
+      ]
+    },
+    {
+      "deck": "Headhunter was released for the Sega Dreamcast November 16th 2001, and the Sony PlayStation 2 May 9th 2002.  Headhunter takes place in a near future Los Angeles and tells the story of Jack Wade, a professional bounty hunter. ",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2428397-box_hh.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2428397-box_hh.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2428397-box_hh.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2428397-box_hh.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2428397-box_hh.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2428397-box_hh.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2428397-box_hh.png"
+      },
+      "name": "Headhunter",
+      "original_release_date": "2002-05-09 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-37/",
+          "id": 37,
+          "name": "Dreamcast",
+          "site_detail_url": "http://www.giantbomb.com/dreamcast/3045-37/",
+          "abbreviation": "DC"
+        }
+      ]
+    },
+    {
+      "deck": null,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2372451-box_buzzmus.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2372451-box_buzzmus.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2372451-box_buzzmus.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2372451-box_buzzmus.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2372451-box_buzzmus.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2372451-box_buzzmus.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2372451-box_buzzmus.png"
+      },
+      "name": "Buzz!: The Music Quiz",
+      "original_release_date": "2005-10-21 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+          "id": 35,
+          "name": "PlayStation 3",
+          "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+          "abbreviation": "PS3"
+        }
+      ]
+    },
+    {
+      "deck": null,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2409921-box_wdltt.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2409921-box_wdltt.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2409921-box_wdltt.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2409921-box_wdltt.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2409921-box_wdltt.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2409921-box_wdltt.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2409921-box_wdltt.png"
+      },
+      "name": "World Destruction League: Thunder Tanks",
+      "original_release_date": "2000-09-09 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-22/",
+          "id": 22,
+          "name": "PlayStation",
+          "site_detail_url": "http://www.giantbomb.com/playstation/3045-22/",
+          "abbreviation": "PS1"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-57/",
+          "id": 57,
+          "name": "Game Boy Color",
+          "site_detail_url": "http://www.giantbomb.com/game-boy-color/3045-57/",
+          "abbreviation": "GBC"
+        }
+      ]
+    },
+    {
+      "deck": null,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2276050-box_nhlfo01.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276050-box_nhlfo01.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2276050-box_nhlfo01.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2276050-box_nhlfo01.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2276050-box_nhlfo01.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2276050-box_nhlfo01.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2276050-box_nhlfo01.png"
+      },
+      "name": "NHL FaceOff 2001",
+      "original_release_date": "2000-09-05 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-22/",
+          "id": 22,
+          "name": "PlayStation",
+          "site_detail_url": "http://www.giantbomb.com/playstation/3045-22/",
+          "abbreviation": "PS1"
+        }
+      ]
+    },
+    {
+      "deck": null,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2285700-box_sh2.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285700-box_sh2.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2285700-box_sh2.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2285700-box_sh2.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2285700-box_sh2.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2285700-box_sh2.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2285700-box_sh2.png"
+      },
+      "name": "SpyHunter 2",
+      "original_release_date": "2003-11-20 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        }
+      ]
+    },
+    {
+      "deck": "FIFA 08 is the 2008 installment of Electronic Arts' series of football video games. It was developed by EA Canada.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2266505-box_fifa08.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2266505-box_fifa08.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2266505-box_fifa08.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2266505-box_fifa08.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2266505-box_fifa08.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2266505-box_fifa08.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2266505-box_fifa08.png"
+      },
+      "name": "FIFA Soccer 08",
+      "original_release_date": "2007-09-28 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-4/",
+          "id": 4,
+          "name": "Game Boy Advance",
+          "site_detail_url": "http://www.giantbomb.com/game-boy-advance/3045-4/",
+          "abbreviation": "GBA"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-6/",
+          "id": 6,
+          "name": "Genesis",
+          "site_detail_url": "http://www.giantbomb.com/genesis/3045-6/",
+          "abbreviation": "GEN"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-18/",
+          "id": 18,
+          "name": "PlayStation Portable",
+          "site_detail_url": "http://www.giantbomb.com/playstation-portable/3045-18/",
+          "abbreviation": "PSP"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+          "id": 20,
+          "name": "Xbox 360",
+          "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+          "abbreviation": "X360"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+          "id": 35,
+          "name": "PlayStation 3",
+          "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+          "abbreviation": "PS3"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-36/",
+          "id": 36,
+          "name": "Wii",
+          "site_detail_url": "http://www.giantbomb.com/wii/3045-36/",
+          "abbreviation": "Wii"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-52/",
+          "id": 52,
+          "name": "Nintendo DS",
+          "site_detail_url": "http://www.giantbomb.com/nintendo-ds/3045-52/",
+          "abbreviation": "DS"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "The Rise of Zilart is the first expansion in the Final Fantasy XI Online series.  It adds many new features such as three new jobs, new summonable avatars, over 30 new areas, new quests and missions.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4086/281122-379b_8.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4086/281122-379b_8.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4086/281122-379b_8.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4086/281122-379b_8.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4086/281122-379b_8.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4086/281122-379b_8.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4086/281122-379b_8.jpg"
+      },
+      "name": "Final Fantasy XI Online: Rise of Zilart",
+      "original_release_date": "2003-10-28 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+          "id": 20,
+          "name": "Xbox 360",
+          "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+          "abbreviation": "X360"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": null,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14912/822640-a_train_6_pal_front.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/1/14912/822640-a_train_6_pal_front.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14912/822640-a_train_6_pal_front.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/1/14912/822640-a_train_6_pal_front.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14912/822640-a_train_6_pal_front.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/1/14912/822640-a_train_6_pal_front.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14912/822640-a_train_6_pal_front.jpg"
+      },
+      "name": "A Train 6",
+      "original_release_date": "2004-05-25 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+          "id": 88,
+          "name": "PlayStation Network (PS3)",
+          "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+          "abbreviation": "PS3N"
+        }
+      ]
+    },
+    {
+      "deck": "In Ape Escape 3, you can try to stop another attempt by Specter and his evil monkeys to rule the world. Use nets and other weapons to capture  monkeys.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/1875175-box_ae3.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1875175-box_ae3.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/1875175-box_ae3.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/1875175-box_ae3.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/1875175-box_ae3.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/1875175-box_ae3.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/1875175-box_ae3.png"
+      },
+      "name": "Ape Escape 3",
+      "original_release_date": "2006-01-17 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": "The first PlayStation 2 entry in the Hot Shots Golf series.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2222513-box_hsg3.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2222513-box_hsg3.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2222513-box_hsg3.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2222513-box_hsg3.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2222513-box_hsg3.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2222513-box_hsg3.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2222513-box_hsg3.png"
+      },
+      "name": "Hot Shots Golf 3",
+      "original_release_date": "2001-07-26 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": null,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2525285-box_wout.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525285-box_wout.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2525285-box_wout.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2525285-box_wout.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2525285-box_wout.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2525285-box_wout.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2525285-box_wout.png"
+      },
+      "name": "Whiteout",
+      "original_release_date": "2002-11-26 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "Shadow's first self-titled adventure, Shadow the Hedgehog, became one of the most controversial games in the series, due to its darker and edgier nature, and the fact that Shadow is able to wield guns.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/1870225-box_shadowth.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1870225-box_shadowth.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/1870225-box_shadowth.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/1870225-box_shadowth.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/1870225-box_shadowth.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/1870225-box_shadowth.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/1870225-box_shadowth.png"
+      },
+      "name": "Shadow the Hedgehog",
+      "original_release_date": "2005-11-15 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        }
+      ]
+    },
+    {
+      "deck": null,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4647/837369-932961_75493_front.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4647/837369-932961_75493_front.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4647/837369-932961_75493_front.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4647/837369-932961_75493_front.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4647/837369-932961_75493_front.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4647/837369-932961_75493_front.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4647/837369-932961_75493_front.jpg"
+      },
+      "name": "World Series of Poker: Tournament of Champions",
+      "original_release_date": "2006-09-19 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-18/",
+          "id": 18,
+          "name": "PlayStation Portable",
+          "site_detail_url": "http://www.giantbomb.com/playstation-portable/3045-18/",
+          "abbreviation": "PSP"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+          "id": 20,
+          "name": "Xbox 360",
+          "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+          "abbreviation": "X360"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-36/",
+          "id": 36,
+          "name": "Wii",
+          "site_detail_url": "http://www.giantbomb.com/wii/3045-36/",
+          "abbreviation": "Wii"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "NHL Hitz 20-03 is the second release of Midway's arcade style hockey series.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2276058-box_nhlhitz03.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276058-box_nhlhitz03.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2276058-box_nhlhitz03.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2276058-box_nhlhitz03.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2276058-box_nhlhitz03.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2276058-box_nhlhitz03.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2276058-box_nhlhitz03.png"
+      },
+      "name": "NHL Hitz 20-03",
+      "original_release_date": "2002-09-16 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-4/",
+          "id": 4,
+          "name": "Game Boy Advance",
+          "site_detail_url": "http://www.giantbomb.com/game-boy-advance/3045-4/",
+          "abbreviation": "GBA"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        }
+      ]
+    },
+    {
+      "deck": "The game takes control over a orphan called Cyprien, who is taken to a nightmarish world and possesses the ability to transform into a Super version of himself.His alter-ego, Supercyp aids him in his journey to Loren Darith to free his teddy bear, Lenny. This game was Europe release only.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4647/839995-369788_21554_front.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4647/839995-369788_21554_front.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4647/839995-369788_21554_front.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4647/839995-369788_21554_front.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4647/839995-369788_21554_front.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4647/839995-369788_21554_front.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4647/839995-369788_21554_front.jpg"
+      },
+      "name": "Evil Twin: Cyprien's Chronicles",
+      "original_release_date": "2001-12-07 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-37/",
+          "id": 37,
+          "name": "Dreamcast",
+          "site_detail_url": "http://www.giantbomb.com/dreamcast/3045-37/",
+          "abbreviation": "DC"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "Tarzan Untamed is an action game released in 2001 and was a Gamecube launch title.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2285753-box_tu.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285753-box_tu.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2285753-box_tu.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2285753-box_tu.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2285753-box_tu.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2285753-box_tu.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2285753-box_tu.png"
+      },
+      "name": "Disney's Tarzan Untamed",
+      "original_release_date": "2001-11-13 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        }
+      ]
+    },
+    {
+      "deck": "This minigame collection let's you play as cast members from Jackass, as they do crazy stunts.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/5822/325587-jackasspsp.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/5822/325587-jackasspsp.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/5822/325587-jackasspsp.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/5822/325587-jackasspsp.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/5822/325587-jackasspsp.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/5822/325587-jackasspsp.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/5822/325587-jackasspsp.jpg"
+      },
+      "name": "Jackass: The Game",
+      "original_release_date": "2007-01-01 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-18/",
+          "id": 18,
+          "name": "PlayStation Portable",
+          "site_detail_url": "http://www.giantbomb.com/playstation-portable/3045-18/",
+          "abbreviation": "PSP"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": "A hunting based first person shooter published by Activision.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2360861-box_cdh.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2360861-box_cdh.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2360861-box_cdh.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2360861-box_cdh.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2360861-box_cdh.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2360861-box_cdh.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2360861-box_cdh.png"
+      },
+      "name": "Cabela's Dangerous Hunts",
+      "original_release_date": "2003-11-11 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "Auto Modellista is a cel-shaded, self-titled \"driving simulator\" by Capcom.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2491494-box_am.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2491494-box_am.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2491494-box_am.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2491494-box_am.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2491494-box_am.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2491494-box_am.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2491494-box_am.png"
+      },
+      "name": "Auto Modellista",
+      "original_release_date": "2002-12-06 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        }
+      ]
+    },
+    {
+      "deck": "Piglet's Big Game puts the character of Piglet on center stage in A.A Milne's world of 'Winnie the Pooh'.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/3/32849/1630860-piglet_s_big_game.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/3/32849/1630860-piglet_s_big_game.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/3/32849/1630860-piglet_s_big_game.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/3/32849/1630860-piglet_s_big_game.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/3/32849/1630860-piglet_s_big_game.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/3/32849/1630860-piglet_s_big_game.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/3/32849/1630860-piglet_s_big_game.jpg"
+      },
+      "name": "Piglet's Big Game",
+      "original_release_date": "2003-03-19 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        }
+      ]
+    },
+    {
+      "deck": "Starring the red-headed protagonist Adol Christin, Ys: The Ark of Napishtim is the sixth game in the long-running action RPG series.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2100009-box_ys6.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2100009-box_ys6.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2100009-box_ys6.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2100009-box_ys6.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2100009-box_ys6.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2100009-box_ys6.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2100009-box_ys6.png"
+      },
+      "name": "Ys: The Ark of Napishtim",
+      "original_release_date": "2003-09-27 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-18/",
+          "id": 18,
+          "name": "PlayStation Portable",
+          "site_detail_url": "http://www.giantbomb.com/playstation-portable/3045-18/",
+          "abbreviation": "PSP"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "World Heroes 2 is a 2D fighting game by ADK for the Neo Geo. The second game in the series features new characters and gameplay elements along with a revamped Death Match system.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4737/400350-worldheroes2.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4737/400350-worldheroes2.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4737/400350-worldheroes2.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4737/400350-worldheroes2.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4737/400350-worldheroes2.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4737/400350-worldheroes2.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4737/400350-worldheroes2.jpg"
+      },
+      "name": "World Heroes 2",
+      "original_release_date": "1993-06-04 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-9/",
+          "id": 9,
+          "name": "Super Nintendo Entertainment System",
+          "site_detail_url": "http://www.giantbomb.com/super-nintendo-entertainment-system/3045-9/",
+          "abbreviation": "SNES"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-25/",
+          "id": 25,
+          "name": "Neo Geo",
+          "site_detail_url": "http://www.giantbomb.com/neo-geo/3045-25/",
+          "abbreviation": "NEO"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-53/",
+          "id": 53,
+          "name": "TurboGrafx-CD",
+          "site_detail_url": "http://www.giantbomb.com/turbografx-cd/3045-53/",
+          "abbreviation": "TGCD"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-59/",
+          "id": 59,
+          "name": "Neo Geo CD",
+          "site_detail_url": "http://www.giantbomb.com/neo-geo-cd/3045-59/",
+          "abbreviation": "NGCD"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-87/",
+          "id": 87,
+          "name": "Wii Shop",
+          "site_detail_url": "http://www.giantbomb.com/wii-shop/3045-87/",
+          "abbreviation": "WSHP"
+        }
+      ]
+    },
+    {
+      "deck": "Cold Fear is a survival horror game by Ubisoft where you play as Tom Hansen, a U.S. Coast Guard sent out to board a drifting Russian whaling ship in the middle of a howling storm on the Bering Sea. Things quickly go sour and Tom must fight to survive.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2117015-box_coldfear.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2117015-box_coldfear.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2117015-box_coldfear.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2117015-box_coldfear.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2117015-box_coldfear.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2117015-box_coldfear.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2117015-box_coldfear.png"
+      },
+      "name": "Cold Fear",
+      "original_release_date": "2005-03-15 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "Redcard 20-03 is an action sports game that revolves around soccer. The game features 50 International teams and 11-on-11 gameplay.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2543564-box_rc2003.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2543564-box_rc2003.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2543564-box_rc2003.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2543564-box_rc2003.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2543564-box_rc2003.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2543564-box_rc2003.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2543564-box_rc2003.png"
+      },
+      "name": "RedCard 20-03",
+      "original_release_date": "2002-06-25 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        }
+      ]
+    },
+    {
+      "deck": "An action adventure game based on the disney film Chicken Little where you control the likes of Chicken Little, Abby Mallard, Runt of the litter as you fight off an alien invasion. Along with a the core platforming elements, the game features unlockable mini-games and concept art.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/1803613-box_chicklit.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803613-box_chicklit.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/1803613-box_chicklit.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/1803613-box_chicklit.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/1803613-box_chicklit.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/1803613-box_chicklit.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/1803613-box_chicklit.png"
+      },
+      "name": "Disney's Chicken Little",
+      "original_release_date": "2005-10-20 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-4/",
+          "id": 4,
+          "name": "Game Boy Advance",
+          "site_detail_url": "http://www.giantbomb.com/game-boy-advance/3045-4/",
+          "abbreviation": "GBA"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "War of the Monsters is a 3D fighting game styled after old-school 'creature feature' films of the '50s and '60s, with a variety of playable characters inspired by movie monsters from that era.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2417203-box_wotm.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2417203-box_wotm.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2417203-box_wotm.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2417203-box_wotm.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2417203-box_wotm.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2417203-box_wotm.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2417203-box_wotm.png"
+      },
+      "name": "War of the Monsters",
+      "original_release_date": "2003-01-14 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+          "id": 88,
+          "name": "PlayStation Network (PS3)",
+          "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+          "abbreviation": "PS3N"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+          "id": 146,
+          "name": "PlayStation 4",
+          "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+          "abbreviation": "PS4"
+        }
+      ]
+    },
+    {
+      "deck": "XGRA: Extreme G Racing Association is a futuristic, weapon-based racing game, similar to F-Zero and the WipEout franchises.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/1797249-box_xgra.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1797249-box_xgra.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/1797249-box_xgra.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/1797249-box_xgra.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/1797249-box_xgra.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/1797249-box_xgra.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/1797249-box_xgra.png"
+      },
+      "name": "XGRA: Extreme G Racing Association",
+      "original_release_date": "2003-09-11 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        }
+      ]
+    },
+    {
+      "deck": "RC Cars is a RC Car racing game developed by Creat Studio, released on the 11th of December, 2003.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4647/1230128-rccars.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1230128-rccars.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4647/1230128-rccars.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4647/1230128-rccars.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4647/1230128-rccars.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4647/1230128-rccars.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4647/1230128-rccars.jpg"
+      },
+      "name": "RC Cars",
+      "original_release_date": "2003-12-11 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": null,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4647/839361-sasantiterrorforcefrontzm6.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4647/839361-sasantiterrorforcefrontzm6.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4647/839361-sasantiterrorforcefrontzm6.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4647/839361-sasantiterrorforcefrontzm6.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4647/839361-sasantiterrorforcefrontzm6.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4647/839361-sasantiterrorforcefrontzm6.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4647/839361-sasantiterrorforcefrontzm6.jpg"
+      },
+      "name": "SAS Anti-Terror Force",
+      "original_release_date": "2006-11-03 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "Commandos 2 is a historically based stealth-action game Developed  by Pyro Studios in 2001.  You control a variety of elite commandos in an attempt to thwart the Axis powers throughout WW2.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2314058-box_c2moc.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2314058-box_c2moc.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2314058-box_c2moc.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2314058-box_c2moc.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2314058-box_c2moc.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2314058-box_c2moc.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2314058-box_c2moc.png"
+      },
+      "name": "Commandos 2: Men of Courage",
+      "original_release_date": "2001-09-20 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+          "id": 17,
+          "name": "Mac",
+          "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+          "abbreviation": "MAC"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "A mysterious deadly mist is ravaging the land of Solum, and the Imperial Legion soldier Spero and his companions adventure the land to stop it.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2199427-box_sdeus.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2199427-box_sdeus.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2199427-box_sdeus.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2199427-box_sdeus.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2199427-box_sdeus.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2199427-box_sdeus.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2199427-box_sdeus.png"
+      },
+      "name": "Stella Deus: The Gate of Eternity",
+      "original_release_date": "2004-10-28 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+          "id": 88,
+          "name": "PlayStation Network (PS3)",
+          "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+          "abbreviation": "PS3N"
+        }
+      ]
+    },
+    {
+      "deck": "The clash of two American titans: the power of General Motors collides with Ford Motor Company in a battle for supremacy.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/1803631-box_fvc.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803631-box_fvc.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/1803631-box_fvc.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/1803631-box_fvc.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/1803631-box_fvc.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/1803631-box_fvc.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/1803631-box_fvc.png"
+      },
+      "name": "Ford Vs. Chevy",
+      "original_release_date": "2005-11-09 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        }
+      ]
+    },
+    {
+      "deck": "Have you Frolfed today? Send frogs careening around bizarre courses littered with power-ups, danger, and distractions to rack up points or go for the elusive and high-scoring Frog-in-One!",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2491512-box_rk.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2491512-box_rk.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2491512-box_rk.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2491512-box_rk.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2491512-box_rk.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2491512-box_rk.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2491512-box_rk.png"
+      },
+      "name": "Ribbit King",
+      "original_release_date": "2004-06-15 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        }
+      ]
+    },
+    {
+      "deck": "One Piece: Pirates' Carnival is a PlayStation 2 and GameCube action game based on the One Piece anime series.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2209416-box_oppc.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2209416-box_oppc.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2209416-box_oppc.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2209416-box_oppc.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2209416-box_oppc.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2209416-box_oppc.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2209416-box_oppc.png"
+      },
+      "name": "One Piece: Pirates' Carnival",
+      "original_release_date": "2006-09-12 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        }
+      ]
+    },
+    {
+      "deck": "Summoner is a realtime role-playing game from Red Faction creators Volition.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2115780-box_summoner.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2115780-box_summoner.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2115780-box_summoner.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2115780-box_summoner.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2115780-box_summoner.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2115780-box_summoner.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2115780-box_summoner.png"
+      },
+      "name": "Summoner",
+      "original_release_date": "2000-10-25 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+          "id": 17,
+          "name": "Mac",
+          "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+          "abbreviation": "MAC"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "Onimusha 2 brings us back to feudal Japan to battle Nobunaga once again. This entry introduces a friendship system that can drastically alter story scenes and result in different playable characters.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2115767-box_onimusha2.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2115767-box_onimusha2.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2115767-box_onimusha2.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2115767-box_onimusha2.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2115767-box_onimusha2.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2115767-box_onimusha2.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2115767-box_onimusha2.png"
+      },
+      "name": "Onimusha 2: Samurai's Destiny",
+      "original_release_date": "2002-03-07 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": "Become the Hulk and turn the world into the ultimate plaything in this superhero action game from Radical.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2280526-box_tihud.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2280526-box_tihud.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2280526-box_tihud.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2280526-box_tihud.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2280526-box_tihud.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2280526-box_tihud.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2280526-box_tihud.png"
+      },
+      "name": "The Incredible Hulk: Ultimate Destruction",
+      "original_release_date": "2005-08-24 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        }
+      ]
+    },
+    {
+      "deck": null,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4647/841580-916724_52029_front.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4647/841580-916724_52029_front.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4647/841580-916724_52029_front.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4647/841580-916724_52029_front.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4647/841580-916724_52029_front.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4647/841580-916724_52029_front.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4647/841580-916724_52029_front.jpg"
+      },
+      "name": "SEGA AGES 2500 Vol.5: Golden Axe",
+      "original_release_date": "2003-10-25 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": "A scrolling shooter for the Dreamcast, Gunbird lets you choose one of seven characters, from a magician to a combat android, to battle God (oddly an elephant) and his angels (actually an army of frogs).",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/15846/944950-gunbird_2_cover.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/1/15846/944950-gunbird_2_cover.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/15846/944950-gunbird_2_cover.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/1/15846/944950-gunbird_2_cover.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/1/15846/944950-gunbird_2_cover.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/1/15846/944950-gunbird_2_cover.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/15846/944950-gunbird_2_cover.jpg"
+      },
+      "name": "Gunbird 2",
+      "original_release_date": "1998-12-31 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-37/",
+          "id": 37,
+          "name": "Dreamcast",
+          "site_detail_url": "http://www.giantbomb.com/dreamcast/3045-37/",
+          "abbreviation": "DC"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-84/",
+          "id": 84,
+          "name": "Arcade",
+          "site_detail_url": "http://www.giantbomb.com/arcade/3045-84/",
+          "abbreviation": "ARC"
+        }
+      ]
+    },
+    {
+      "deck": "Falling stars is a role playing videogame, developed by Ivolgamus and published by Agetec.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/18205/611358-fastp2001.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/1/18205/611358-fastp2001.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/18205/611358-fastp2001.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/1/18205/611358-fastp2001.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/1/18205/611358-fastp2001.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/1/18205/611358-fastp2001.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/18205/611358-fastp2001.jpg"
+      },
+      "name": "Falling Stars",
+      "original_release_date": "2008-08-26 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "Lifeline is a game for the Playstation 2 in which players use a unique voice command system to help two people survive an alien invasion.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2151945-box_lifeline.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2151945-box_lifeline.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2151945-box_lifeline.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2151945-box_lifeline.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2151945-box_lifeline.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2151945-box_lifeline.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2151945-box_lifeline.png"
+      },
+      "name": "Lifeline",
+      "original_release_date": "2004-03-02 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": "Based on the animated movie of the same name with variations in gameplay depending on the platform version",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2285671-box_mh.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285671-box_mh.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2285671-box_mh.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2285671-box_mh.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2285671-box_mh.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2285671-box_mh.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2285671-box_mh.png"
+      },
+      "name": "Monster House",
+      "original_release_date": "2006-07-18 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-4/",
+          "id": 4,
+          "name": "Game Boy Advance",
+          "site_detail_url": "http://www.giantbomb.com/game-boy-advance/3045-4/",
+          "abbreviation": "GBA"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-52/",
+          "id": 52,
+          "name": "Nintendo DS",
+          "site_detail_url": "http://www.giantbomb.com/nintendo-ds/3045-52/",
+          "abbreviation": "DS"
+        }
+      ]
+    },
+    {
+      "deck": "A winter sports game.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4647/836061-915162_51996_front.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4647/836061-915162_51996_front.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4647/836061-915162_51996_front.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4647/836061-915162_51996_front.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4647/836061-915162_51996_front.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4647/836061-915162_51996_front.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4647/836061-915162_51996_front.jpg"
+      },
+      "name": "ESPN International Winter Sports 2002",
+      "original_release_date": "2002-01-28 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-4/",
+          "id": 4,
+          "name": "Game Boy Advance",
+          "site_detail_url": "http://www.giantbomb.com/game-boy-advance/3045-4/",
+          "abbreviation": "GBA"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        }
+      ]
+    },
+    {
+      "deck": "Mister Mosquito is a quirky third-person \"fly\"ing game published by FreshGames and Eidos. Winter is coming and Mr. Mosquito needs to store enough blood to survive! Pester the hapless Yamada family and suck enough of their blood to survive the winter ahead!",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2303979-box_mmos.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2303979-box_mmos.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2303979-box_mmos.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2303979-box_mmos.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2303979-box_mmos.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2303979-box_mmos.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2303979-box_mmos.png"
+      },
+      "name": "Mister Mosquito",
+      "original_release_date": "2002-03-14 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": "The third installment of the NFL Street series. ",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2121651-box_nflstreet3.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2121651-box_nflstreet3.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2121651-box_nflstreet3.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2121651-box_nflstreet3.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2121651-box_nflstreet3.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2121651-box_nflstreet3.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2121651-box_nflstreet3.png"
+      },
+      "name": "NFL Street 3",
+      "original_release_date": "2006-11-14 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-18/",
+          "id": 18,
+          "name": "PlayStation Portable",
+          "site_detail_url": "http://www.giantbomb.com/playstation-portable/3045-18/",
+          "abbreviation": "PSP"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": "Continuing the series, Colin McRae Rally 3 is a racing game that both simulaton and arcade racing fans can enjoy.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2213148-box_cmr3.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2213148-box_cmr3.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2213148-box_cmr3.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2213148-box_cmr3.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2213148-box_cmr3.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2213148-box_cmr3.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2213148-box_cmr3.png"
+      },
+      "name": "Colin McRae Rally 3",
+      "original_release_date": "2002-02-18 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "NASCAR: Dirt to Daytona is a Nascar racing game developed by Monster Games and published by Infogrames in November 2002 for the PlayStation 2 and Nintendo GameCube.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2210273-box_nascardtd.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2210273-box_nascardtd.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2210273-box_nascardtd.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2210273-box_nascardtd.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2210273-box_nascardtd.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2210273-box_nascardtd.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2210273-box_nascardtd.png"
+      },
+      "name": "NASCAR: Dirt to Daytona",
+      "original_release_date": "2002-11-12 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        }
+      ]
+    },
+    {
+      "deck": "Armored Core 2 is the second Mecha combat game in the Armored Core series and unlike the future games in the series, stays within the story universe of its predecessor. ",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2129471-box_ac2.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2129471-box_ac2.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2129471-box_ac2.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2129471-box_ac2.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2129471-box_ac2.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2129471-box_ac2.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2129471-box_ac2.png"
+      },
+      "name": "Armored Core 2",
+      "original_release_date": "2000-10-24 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": "Venus &amp; Braves: Majo to Megami to Horobi no Yogen is a fantasy RPG and sequel to the JRPG Seven: The Calvary of Molmoth, Venus &amp; Braves.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/238/558850-venus_and_braves_front.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/238/558850-venus_and_braves_front.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/238/558850-venus_and_braves_front.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/238/558850-venus_and_braves_front.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/238/558850-venus_and_braves_front.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/238/558850-venus_and_braves_front.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/238/558850-venus_and_braves_front.jpg"
+      },
+      "name": "Venus & Braves: Majo to Megami to Horobi no Yogen",
+      "original_release_date": "2003-02-13 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": null,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/19490/680661-rugby_05_pal.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/1/19490/680661-rugby_05_pal.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/19490/680661-rugby_05_pal.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/1/19490/680661-rugby_05_pal.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/1/19490/680661-rugby_05_pal.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/1/19490/680661-rugby_05_pal.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/19490/680661-rugby_05_pal.jpg"
+      },
+      "name": "Rugby 2005",
+      "original_release_date": "2005-03-08 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "7 Sins was a PC and PS2 game, rated 18 for it's Mature content. The game is essentially a dating sim.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/15405/806745-7_sins.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/1/15405/806745-7_sins.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/15405/806745-7_sins.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/1/15405/806745-7_sins.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/1/15405/806745-7_sins.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/1/15405/806745-7_sins.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/15405/806745-7_sins.jpg"
+      },
+      "name": "7 Sins",
+      "original_release_date": "2006-05-27 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "The fifth game in the Sakura Taisen franchise and the first to receive an official North American localization, courtesy of NIS America.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/1988895-box_swslml.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1988895-box_swslml.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/1988895-box_swslml.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/1988895-box_swslml.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/1988895-box_swslml.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/1988895-box_swslml.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/1988895-box_swslml.png"
+      },
+      "name": "Sakura Wars: So Long, My Love",
+      "original_release_date": "2005-07-07 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-36/",
+          "id": 36,
+          "name": "Wii",
+          "site_detail_url": "http://www.giantbomb.com/wii/3045-36/",
+          "abbreviation": "Wii"
+        }
+      ]
+    },
+    {
+      "deck": "A remake of the classic Playstation title. Return to the legendary realm of Filgaia where an evil force from ancient prophecies threatens to destroy all life on the planet.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2100006-box_wildarmsacf.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2100006-box_wildarmsacf.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2100006-box_wildarmsacf.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2100006-box_wildarmsacf.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2100006-box_wildarmsacf.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2100006-box_wildarmsacf.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2100006-box_wildarmsacf.png"
+      },
+      "name": "Wild Arms Alter Code: F",
+      "original_release_date": "2005-11-15 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        }
+      ]
+    },
+    {
+      "deck": "Race Formula One cars just like Sly Stallone in the film of the same name.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2285644-box_driven.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285644-box_driven.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2285644-box_driven.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2285644-box_driven.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2285644-box_driven.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2285644-box_driven.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2285644-box_driven.png"
+      },
+      "name": "Driven",
+      "original_release_date": "2001-11-06 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        }
+      ]
+    },
+    {
+      "deck": "A 3D platformer staring everyone's favourite ghost buster, Pac-Man.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2421685-box_pmw2.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2421685-box_pmw2.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2421685-box_pmw2.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2421685-box_pmw2.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2421685-box_pmw2.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/2421685-box_pmw2.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2421685-box_pmw2.png"
+      },
+      "name": "Pac-Man World 2",
+      "original_release_date": "2003-12-31 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-4/",
+          "id": 4,
+          "name": "Game Boy Advance",
+          "site_detail_url": "http://www.giantbomb.com/game-boy-advance/3045-4/",
+          "abbreviation": "GBA"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-23/",
+          "id": 23,
+          "name": "GameCube",
+          "site_detail_url": "http://www.giantbomb.com/gamecube/3045-23/",
+          "abbreviation": "GCN"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": null,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10831/505911-918875_26428_front.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/1/10831/505911-918875_26428_front.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10831/505911-918875_26428_front.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/1/10831/505911-918875_26428_front.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10831/505911-918875_26428_front.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/1/10831/505911-918875_26428_front.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10831/505911-918875_26428_front.jpg"
+      },
+      "name": "AFL Live 2004",
+      "original_release_date": "2004-04-29 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "AMF Xtreme Bowling is a bowling game for the Playstation 2 and Xbox.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/1803943-box_amfxb.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803943-box_amfxb.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/1803943-box_amfxb.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/1803943-box_amfxb.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/1803943-box_amfxb.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/1803943-box_amfxb.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/1803943-box_amfxb.png"
+      },
+      "name": "AMF Xtreme Bowling",
+      "original_release_date": "2006-06-28 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-32/",
+          "id": 32,
+          "name": "Xbox",
+          "site_detail_url": "http://www.giantbomb.com/xbox/3045-32/",
+          "abbreviation": "XBOX"
+        }
+      ]
+    },
+    {
+      "deck": "Help Woody Woodpecker rescue nephew Knothead and niece Splinter, then escape from Buzz Buzzard's park.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4938/625130-woody_woodpecker.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4938/625130-woody_woodpecker.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4938/625130-woody_woodpecker.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4938/625130-woody_woodpecker.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4938/625130-woody_woodpecker.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4938/625130-woody_woodpecker.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4938/625130-woody_woodpecker.jpg"
+      },
+      "name": "Woody Woodpecker: Escape from Buzz Buzzard Park",
+      "original_release_date": "2001-12-07 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    },
+    {
+      "deck": "Friend or Foe is a beat 'em up where Spider-Man teams up with his enemies to save the day and stop an unknown nemesis.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/1817080-box_smanfof.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1817080-box_smanfof.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/1817080-box_smanfof.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/1817080-box_smanfof.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/1817080-box_smanfof.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/87790/1817080-box_smanfof.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/1817080-box_smanfof.png"
+      },
+      "name": "Spider-Man: Friend or Foe",
+      "original_release_date": "2007-10-02 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-18/",
+          "id": 18,
+          "name": "PlayStation Portable",
+          "site_detail_url": "http://www.giantbomb.com/playstation-portable/3045-18/",
+          "abbreviation": "PSP"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+          "id": 19,
+          "name": "PlayStation 2",
+          "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+          "abbreviation": "PS2"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+          "id": 20,
+          "name": "Xbox 360",
+          "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+          "abbreviation": "X360"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-36/",
+          "id": 36,
+          "name": "Wii",
+          "site_detail_url": "http://www.giantbomb.com/wii/3045-36/",
+          "abbreviation": "Wii"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-52/",
+          "id": 52,
+          "name": "Nintendo DS",
+          "site_detail_url": "http://www.giantbomb.com/nintendo-ds/3045-52/",
+          "abbreviation": "DS"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+          "id": 86,
+          "name": "Xbox 360 Games Store",
+          "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+          "abbreviation": "XBGS"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        }
+      ]
+    }
+  ],
+  "version": "1.0"
+}

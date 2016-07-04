@@ -1,0 +1,232 @@
+{
+  "error": "OK",
+  "limit": 100,
+  "offset": 1300,
+  "number_of_page_results": 6,
+  "number_of_total_results": 1306,
+  "status_code": 1,
+  "results": [
+    {
+      "deck": "Disc Jam is a disc-based future sport for 2 to 4 players.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2862947-header.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2862947-header.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2862947-header.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2862947-header.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2862947-header.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/1992/2862947-header.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2862947-header.jpg"
+      },
+      "name": "Disc Jam",
+      "original_release_date": null,
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+          "id": 146,
+          "name": "PlayStation 4",
+          "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+          "abbreviation": "PS4"
+        }
+      ]
+    },
+    {
+      "deck": "A top-down fast-paced action game reminiscent of Hotline Miami made by a team of veterans of the games industry.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/8381/2863160-mrshifty-fullsize.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/8381/2863160-mrshifty-fullsize.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/8381/2863160-mrshifty-fullsize.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/8381/2863160-mrshifty-fullsize.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/8381/2863160-mrshifty-fullsize.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/8381/2863160-mrshifty-fullsize.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/8381/2863160-mrshifty-fullsize.png"
+      },
+      "name": "Mr Shifty",
+      "original_release_date": null,
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+          "id": 145,
+          "name": "Xbox One",
+          "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+          "abbreviation": "XONE"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+          "id": 146,
+          "name": "PlayStation 4",
+          "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+          "abbreviation": "PS4"
+        }
+      ]
+    },
+    {
+      "deck": "Drawful 2 is the sequel to Drawful, a game in which players are prompted to draw weird or impossible things.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/32/321452/2864093-drawful2_gb_coverimage.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/32/321452/2864093-drawful2_gb_coverimage.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/32/321452/2864093-drawful2_gb_coverimage.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/32/321452/2864093-drawful2_gb_coverimage.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/32/321452/2864093-drawful2_gb_coverimage.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/32/321452/2864093-drawful2_gb_coverimage.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/32/321452/2864093-drawful2_gb_coverimage.png"
+      },
+      "name": "Drawful 2",
+      "original_release_date": "2016-06-21 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+          "id": 17,
+          "name": "Mac",
+          "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+          "abbreviation": "MAC"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+          "id": 145,
+          "name": "Xbox One",
+          "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+          "abbreviation": "XONE"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+          "id": 146,
+          "name": "PlayStation 4",
+          "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+          "abbreviation": "PS4"
+        }
+      ]
+    },
+    {
+      "deck": "The third party games bundle from Jackbox Games",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/217562/2864614-3610520484-jbpp3.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/21/217562/2864614-3610520484-jbpp3.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/217562/2864614-3610520484-jbpp3.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/21/217562/2864614-3610520484-jbpp3.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/21/217562/2864614-3610520484-jbpp3.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/21/217562/2864614-3610520484-jbpp3.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/217562/2864614-3610520484-jbpp3.jpg"
+      },
+      "name": "The Jackbox Party Pack 3",
+      "original_release_date": null,
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+          "id": 17,
+          "name": "Mac",
+          "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+          "abbreviation": "MAC"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+          "id": 145,
+          "name": "Xbox One",
+          "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+          "abbreviation": "XONE"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+          "id": 146,
+          "name": "PlayStation 4",
+          "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+          "abbreviation": "PS4"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-155/",
+          "id": 155,
+          "name": "Amazon Fire TV",
+          "site_detail_url": "http://www.giantbomb.com/amazon-fire-tv/3045-155/",
+          "abbreviation": "FIRE"
+        }
+      ]
+    },
+    {
+      "deck": "Asemblance is a single-player, first-person, psychological thriller.",
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/32/321771/2865480-asemblancetwitch.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/32/321771/2865480-asemblancetwitch.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/32/321771/2865480-asemblancetwitch.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/32/321771/2865480-asemblancetwitch.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/32/321771/2865480-asemblancetwitch.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/32/321771/2865480-asemblancetwitch.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/32/321771/2865480-asemblancetwitch.png"
+      },
+      "name": "Asemblance",
+      "original_release_date": "2016-06-21 00:00:00",
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+          "id": 146,
+          "name": "PlayStation 4",
+          "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+          "abbreviation": "PS4"
+        }
+      ]
+    },
+    {
+      "deck": "NASCAR Heat Evolution is a NASCAR themed driving simulator by Monster Games",
+      "image": null,
+      "name": "NASCAR Heat Evolution",
+      "original_release_date": null,
+      "platforms": [
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+          "id": 94,
+          "name": "PC",
+          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+          "abbreviation": "PC"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+          "id": 145,
+          "name": "Xbox One",
+          "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+          "abbreviation": "XONE"
+        },
+        {
+          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+          "id": 146,
+          "name": "PlayStation 4",
+          "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+          "abbreviation": "PS4"
+        }
+      ]
+    }
+  ],
+  "version": "1.0"
+}

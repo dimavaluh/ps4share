@@ -1,0 +1,1511 @@
+{
+  "error": "OK",
+  "limit": 100,
+  "offset": 0,
+  "number_of_page_results": 100,
+  "number_of_total_results": 148,
+  "status_code": 1,
+  "results": [
+    {
+      "abbreviation": "AMI",
+      "deck": "The Amiga was a personal computer from Commodore that was released in a variety of different configurations.",
+      "id": 1,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10069-a500_plus1.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10069-a500_plus1.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10069-a500_plus1.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10069-a500_plus1.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10069-a500_plus1.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10069-a500_plus1.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10069-a500_plus1.jpg"
+      },
+      "name": "Amiga"
+    },
+    {
+      "abbreviation": "GB",
+      "deck": "Nintendo's first handheld gaming console was immensely popular among gamers, selling millions. Despite its grayscale color scheme, it still got support from developers and publishers.",
+      "id": 3,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/1426210-logo.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1426210-logo.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/1426210-logo.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/1426210-logo.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/1426210-logo.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/1992/1426210-logo.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/1426210-logo.jpg"
+      },
+      "name": "Game Boy"
+    },
+    {
+      "abbreviation": "GBA",
+      "deck": "The third platform in the Game Boy line, the Game Boy Advance was offered in a multitude of colors and had three hardware offerings, the sideways Game Boy Advance, the flip Game Boy Advance SP and the tiny Game Boy Advance Micro.",
+      "id": 4,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2121789-gba.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2121789-gba.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2121789-gba.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2121789-gba.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2121789-gba.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/1992/2121789-gba.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2121789-gba.png"
+      },
+      "name": "Game Boy Advance"
+    },
+    {
+      "abbreviation": "GG",
+      "deck": "Sega's first hand held video game system.  It was the portable version of the Master System.",
+      "id": 5,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/1426271-logo.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1426271-logo.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/1426271-logo.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/1426271-logo.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/1426271-logo.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/1992/1426271-logo.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/1426271-logo.jpg"
+      },
+      "name": "Game Gear"
+    },
+    {
+      "abbreviation": "GEN",
+      "deck": "After the cult success of their 8-bit Master System, Sega decided to give gamers a taste of their arcade capabilities with a 16-bit console. Known worldwide as the Mega Drive but called Genesis in the US, it provided graphics and sound a couple of steps below their popular System 16 arcade boards. The Mega Drive/Genesis turned out to be Sega's most successful console.",
+      "id": 6,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10576-genesis.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10576-genesis.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10576-genesis.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10576-genesis.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10576-genesis.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10576-genesis.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10576-genesis.jpg"
+      },
+      "name": "Genesis"
+    },
+    {
+      "abbreviation": "LYNX",
+      "deck": "Atari's 1989 color, backlit handheld console",
+      "id": 7,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10608-lynx2.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10608-lynx2.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10608-lynx2.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10608-lynx2.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10608-lynx2.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10608-lynx2.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10608-lynx2.jpg"
+      },
+      "name": "Atari Lynx"
+    },
+    {
+      "abbreviation": "SMS",
+      "deck": "The 8-bit Master System, while not embraced by a large audience in the US and Japan, was a major success in Europe and South America, and it remains an important and entertaining console that laid the foundation for generations of future console releases from Sega.",
+      "id": 8,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/25/176128-sega_master_system__6_.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/25/176128-sega_master_system__6_.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/25/176128-sega_master_system__6_.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/25/176128-sega_master_system__6_.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/25/176128-sega_master_system__6_.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/25/176128-sega_master_system__6_.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/25/176128-sega_master_system__6_.jpg"
+      },
+      "name": "Sega Master System"
+    },
+    {
+      "abbreviation": "SNES",
+      "deck": "The Super Nintendo Entertainment System was the second home console released by Nintendo.",
+      "id": 9,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2287891-snes_sfc.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2287891-snes_sfc.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2287891-snes_sfc.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2287891-snes_sfc.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2287891-snes_sfc.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/82063/2287891-snes_sfc.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2287891-snes_sfc.jpg"
+      },
+      "name": "Super Nintendo Entertainment System"
+    },
+    {
+      "abbreviation": "CPC",
+      "deck": "The Amstrad CPC (Colour Personal Computer) was a series of 8-bit personal computers developed by Amstrad between 1984 and 1990. During its lifetime, approximately 3 million CPCs were sold.",
+      "id": 11,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10073-Amstrad_CPC464.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10073-Amstrad_CPC464.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10073-Amstrad_CPC464.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10073-Amstrad_CPC464.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10073-Amstrad_CPC464.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10073-Amstrad_CPC464.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10073-Amstrad_CPC464.jpg"
+      },
+      "name": "Amstrad CPC"
+    },
+    {
+      "abbreviation": "APL2",
+      "deck": "Introduced at the West Coast Computer Faire in 1977, the Apple II was the first mass produced microcomputer on the market, becoming very popular in classrooms throughout the 1980s and 1990s. Somewhere between five and six million Apple II series computers were sold.",
+      "id": 12,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10074-apple_ii_large.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10074-apple_ii_large.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10074-apple_ii_large.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10074-apple_ii_large.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10074-apple_ii_large.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10074-apple_ii_large.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10074-apple_ii_large.jpg"
+      },
+      "name": "Apple II"
+    },
+    {
+      "abbreviation": "AST",
+      "deck": "Atari's 16-bit computer line was one of the most popular computers in the mid-80's to early 90's.",
+      "id": 13,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/5258/220119-atari_1040stf.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/5258/220119-atari_1040stf.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/5258/220119-atari_1040stf.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/5258/220119-atari_1040stf.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/5258/220119-atari_1040stf.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/5258/220119-atari_1040stf.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/5258/220119-atari_1040stf.jpg"
+      },
+      "name": "Atari ST"
+    },
+    {
+      "abbreviation": "C64",
+      "deck": "The Commodore 64 personal computer dominated the market from 1983-1985, and stands as one of the best-selling personal computers of all time.",
+      "id": 14,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10289-c64.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10289-c64.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10289-c64.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10289-c64.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10289-c64.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10289-c64.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10289-c64.jpg"
+      },
+      "name": "Commodore 64"
+    },
+    {
+      "abbreviation": "MSX",
+      "deck": "MSX is a standardized home computer architecture. It was popular in Japan, South Korea, Brazil, Netherlands, France, Spain, Finland, Arabian Gulf countries and former Soviet Union during the 1980s. Like the PC of today, the MSX computers were manufactured by many different companies.",
+      "id": 15,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/25/176106-msx_philips_vg8020.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/25/176106-msx_philips_vg8020.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/25/176106-msx_philips_vg8020.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/25/176106-msx_philips_vg8020.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/25/176106-msx_philips_vg8020.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/25/176106-msx_philips_vg8020.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/25/176106-msx_philips_vg8020.jpg"
+      },
+      "name": "MSX"
+    },
+    {
+      "abbreviation": "SPEC",
+      "deck": "The ZX Spectrum is one of the most popular European computers of all time.  Its software library is enormous and its fame in Europe rivals the Commodore 64 in the US.",
+      "id": 16,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/25/176104-zxspectrum48k.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/25/176104-zxspectrum48k.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/25/176104-zxspectrum48k.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/25/176104-zxspectrum48k.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/25/176104-zxspectrum48k.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/25/176104-zxspectrum48k.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/25/176104-zxspectrum48k.jpg"
+      },
+      "name": "ZX Spectrum"
+    },
+    {
+      "abbreviation": "MAC",
+      "deck": "The Macintosh (Mac) line of personal computers is designed and developed by Apple, Inc. - formerly Apple Computer, Inc. It runs an operating system called Mac OS. Its current version, Mac OS X 10.11 \"El Capitan,\" was released September 30th, 2015.",
+      "id": 17,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/5150/1500874-overview_gallery3_20090828.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1500874-overview_gallery3_20090828.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/5150/1500874-overview_gallery3_20090828.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/5150/1500874-overview_gallery3_20090828.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/5150/1500874-overview_gallery3_20090828.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/5150/1500874-overview_gallery3_20090828.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/5150/1500874-overview_gallery3_20090828.jpg"
+      },
+      "name": "Mac"
+    },
+    {
+      "abbreviation": "PSP",
+      "deck": "PlayStation Portable (PSP) is Sony's first entry into the handheld gaming market. The PSP also sports multimedia features including music and video playback, a photo viewer, and an online store. Several model revisions have been released: the PSP-2000, 3000, PSPgo and the PSP-E1000.",
+      "id": 18,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2122792-pspmain.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2122792-pspmain.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2122792-pspmain.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2122792-pspmain.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2122792-pspmain.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/1992/2122792-pspmain.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2122792-pspmain.png"
+      },
+      "name": "PlayStation Portable"
+    },
+    {
+      "abbreviation": "PS2",
+      "deck": "Sony's PlayStation 2 is the second home video game console produced by Sony Computer Entertainment Incorporated, and to date is the best-selling home console of all time, with an install base of 150 million units since its launch.",
+      "id": 19,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9595/438868-ps2_full_large.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/9595/438868-ps2_full_large.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9595/438868-ps2_full_large.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/9595/438868-ps2_full_large.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9595/438868-ps2_full_large.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/9595/438868-ps2_full_large.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9595/438868-ps2_full_large.jpg"
+      },
+      "name": "PlayStation 2"
+    },
+    {
+      "abbreviation": "X360",
+      "deck": "The Xbox 360 is the second game console produced by Microsoft Corporation and is the successor to the original Xbox.",
+      "id": 20,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/498/195092-xbox_360_console_02.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/498/195092-xbox_360_console_02.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/498/195092-xbox_360_console_02.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/498/195092-xbox_360_console_02.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/498/195092-xbox_360_console_02.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/498/195092-xbox_360_console_02.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/498/195092-xbox_360_console_02.jpg"
+      },
+      "name": "Xbox 360"
+    },
+    {
+      "abbreviation": "NES",
+      "deck": "The NES, also known as Famicom, launched in 1983 in Japan and 1985 in North America, where the video game industry was headed downhill due to a deluge of poor games and over-saturation. Nintendo's second home console became an enormous success, establishing consoles as a mainstream market in Japan and pulling the North American industry back to its feet.",
+      "id": 21,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/99864/2419866-nes_console_set.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/9/99864/2419866-nes_console_set.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/99864/2419866-nes_console_set.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/9/99864/2419866-nes_console_set.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/9/99864/2419866-nes_console_set.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/9/99864/2419866-nes_console_set.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/99864/2419866-nes_console_set.png"
+      },
+      "name": "Nintendo Entertainment System"
+    },
+    {
+      "abbreviation": "PS1",
+      "deck": "Sony's first video game console established the PlayStation brand. It dominated the 32/64-bit era and was the best-selling home console up until the PlayStation 2.",
+      "id": 22,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/1426393-logo.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1426393-logo.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/1426393-logo.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/1426393-logo.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/1426393-logo.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/1992/1426393-logo.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/1426393-logo.jpg"
+      },
+      "name": "PlayStation"
+    },
+    {
+      "abbreviation": "GCN",
+      "deck": "The Nintendo GameCube is a sixth generation video game console released by Nintendo on September 15, 2001 in Japan, November 18, 2001 in North America, May 3, 2002 in Europe, and May 17, 2002 in Australia.",
+      "id": 23,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/1426256-logo.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1426256-logo.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/1426256-logo.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/1426256-logo.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/1426256-logo.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/1992/1426256-logo.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/1426256-logo.jpg"
+      },
+      "name": "GameCube"
+    },
+    {
+      "abbreviation": "A800",
+      "deck": "A line of 8-bit computers produced by Atari, Inc. from 1979 to 1992.",
+      "id": 24,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10170-Atari-800.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10170-Atari-800.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10170-Atari-800.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10170-Atari-800.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10170-Atari-800.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10170-Atari-800.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10170-Atari-800.jpg"
+      },
+      "name": "Atari 8-bit"
+    },
+    {
+      "abbreviation": "NEO",
+      "deck": "The Neo Geo was a console released by SNK in 1990, featuring a 16/32-bit 68000 CPU with an additional 8-bit Z80 CPU and custom GPU chipset. An arcade-based console considerably powerful for a home system at the time, the Neo Geo was notoriously expensive (costing $650 at launch) and aggressively marketed as an Advanced Entertainment System (AES).",
+      "id": 25,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/13362/613868-neo_20geo.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/1/13362/613868-neo_20geo.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/13362/613868-neo_20geo.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/1/13362/613868-neo_20geo.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/1/13362/613868-neo_20geo.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/1/13362/613868-neo_20geo.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/13362/613868-neo_20geo.jpg"
+      },
+      "name": "Neo Geo"
+    },
+    {
+      "abbreviation": "3DO",
+      "deck": "3DO was a video game console manufactured by Panasonic, Goldstar, and Sanyo. Despite the initial hype surrounding the system, the console's $700 price tag proved to be the ultimate kiss of death for the system.",
+      "id": 26,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10067-goldstar+3do.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10067-goldstar+3do.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10067-goldstar+3do.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10067-goldstar+3do.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10067-goldstar+3do.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10067-goldstar+3do.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10067-goldstar+3do.jpg"
+      },
+      "name": "3DO"
+    },
+    {
+      "abbreviation": "CDI",
+      "deck": "The CD-i was the first CD-based game console. Produced by Philips, it was intended to be a computer for your living room.",
+      "id": 27,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10173-cd-i.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10173-cd-i.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10173-cd-i.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10173-cd-i.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10173-cd-i.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10173-cd-i.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10173-cd-i.jpg"
+      },
+      "name": "CD-i"
+    },
+    {
+      "abbreviation": "JAG",
+      "deck": "The Atari Jaguar was the first 64-Bit game console, and Atari's final console.",
+      "id": 28,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10845-atarijaguar.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10845-atarijaguar.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10845-atarijaguar.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10845-atarijaguar.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10845-atarijaguar.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10845-atarijaguar.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10845-atarijaguar.jpg"
+      },
+      "name": "Jaguar"
+    },
+    {
+      "abbreviation": "SCD",
+      "deck": "The Sega CD was one of the first CD-ROM based gaming consoles. The extra storage space this medium allowed gave rise to inclusion of full motion video, higher quality audio, and improved graphics in games.  ",
+      "id": 29,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/25/176099-20070529172508_sega_mega_cd_ii__pal_.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/25/176099-20070529172508_sega_mega_cd_ii__pal_.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/25/176099-20070529172508_sega_mega_cd_ii__pal_.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/25/176099-20070529172508_sega_mega_cd_ii__pal_.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/25/176099-20070529172508_sega_mega_cd_ii__pal_.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/25/176099-20070529172508_sega_mega_cd_ii__pal_.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/25/176099-20070529172508_sega_mega_cd_ii__pal_.jpg"
+      },
+      "name": "Sega CD"
+    },
+    {
+      "abbreviation": "VC20",
+      "deck": "An 8-bit computer produced by Commodore Electronics Ltd. Also known as the VIC-1001, it was the first microcomputer to sell one million units.",
+      "id": 30,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4/176108-vic.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4/176108-vic.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4/176108-vic.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4/176108-vic.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4/176108-vic.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4/176108-vic.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4/176108-vic.jpg"
+      },
+      "name": "VIC-20"
+    },
+    {
+      "abbreviation": "32X",
+      "deck": "Sega's short-lived jump into the 32-bit gaming era began with this add-on to the Sega Genesis.",
+      "id": 31,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/25/176101-32x_usa_box.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/25/176101-32x_usa_box.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/25/176101-32x_usa_box.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/25/176101-32x_usa_box.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/25/176101-32x_usa_box.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/25/176101-32x_usa_box.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/25/176101-32x_usa_box.jpg"
+      },
+      "name": "Sega 32X"
+    },
+    {
+      "abbreviation": "XBOX",
+      "deck": "Microsoft's first home gaming system and one of the first to include an internal hard drive and built in online play capability. It was considered the first console to have fully supported meaningful online play.",
+      "id": 32,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/3699/359843-xbox.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/3699/359843-xbox.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/3699/359843-xbox.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/3699/359843-xbox.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/3699/359843-xbox.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/3699/359843-xbox.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/3699/359843-xbox.jpg"
+      },
+      "name": "Xbox"
+    },
+    {
+      "abbreviation": "NGE",
+      "deck": "The N-Gage (later re-released as N-Gage QD) was a failed gaming platform developed by phone manufacturer Nokia. Games in MMC-Card format were sold for the platform, and towards the end, games were available for download to your own MMC. ",
+      "id": 34,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14912/702653-ngageqd.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/1/14912/702653-ngageqd.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14912/702653-ngageqd.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/1/14912/702653-ngageqd.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14912/702653-ngageqd.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/1/14912/702653-ngageqd.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14912/702653-ngageqd.jpg"
+      },
+      "name": "N-Gage"
+    },
+    {
+      "abbreviation": "PS3",
+      "deck": "The PlayStation 3 (often abbreviated PS3) is the third home video game console created and released by Sony Computer Entertainment Inc.",
+      "id": 35,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/1426360-logo.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1426360-logo.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/1426360-logo.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/1426360-logo.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/1426360-logo.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/1992/1426360-logo.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/1426360-logo.jpg"
+      },
+      "name": "PlayStation 3"
+    },
+    {
+      "abbreviation": "Wii",
+      "deck": "The Nintendo Wii is a home video game console released on November 19, 2006. The Wii's main selling point was the innovative use of motion controls that its signature Wii Remote and Nunchuk controllers allowed for. It became the best selling home console of its respective generation of hardware.",
+      "id": 36,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/498/195278-nintendo_wii_controllers_in_super_hi_res_20060509002211184.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/498/195278-nintendo_wii_controllers_in_super_hi_res_20060509002211184.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/498/195278-nintendo_wii_controllers_in_super_hi_res_20060509002211184.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/498/195278-nintendo_wii_controllers_in_super_hi_res_20060509002211184.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/498/195278-nintendo_wii_controllers_in_super_hi_res_20060509002211184.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/498/195278-nintendo_wii_controllers_in_super_hi_res_20060509002211184.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/498/195278-nintendo_wii_controllers_in_super_hi_res_20060509002211184.jpg"
+      },
+      "name": "Wii"
+    },
+    {
+      "abbreviation": "DC",
+      "deck": "The Dreamcast is the fifth and final console developed by Sega and the first of the sixth-generation of consoles to release. As the first 128-bit system, it was the first to offer truly arcade-quality 3D graphics. It is famous for being the first console to include worldwide online capability, its game library, and its unexpectedly short life span.",
+      "id": 37,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/99864/2419863-dreamcast_console_set.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/9/99864/2419863-dreamcast_console_set.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/99864/2419863-dreamcast_console_set.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/9/99864/2419863-dreamcast_console_set.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/9/99864/2419863-dreamcast_console_set.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/9/99864/2419863-dreamcast_console_set.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/99864/2419863-dreamcast_console_set.png"
+      },
+      "name": "Dreamcast"
+    },
+    {
+      "abbreviation": "A2GS",
+      "deck": "The Apple ][gs - which stood for \"Graphics and Sound\" - was Apple's upgraded version of the popular Apple ][ line of computers.  The system was capable of playing standard Apple ][ games, as well as games made specifically for the GS.",
+      "id": 38,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10075-appleiigs.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10075-appleiigs.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10075-appleiigs.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10075-appleiigs.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10075-appleiigs.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10075-appleiigs.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10075-appleiigs.jpg"
+      },
+      "name": "Apple IIgs"
+    },
+    {
+      "abbreviation": "CD32",
+      "deck": "The Amiga CD32 was Commodore's attempt at a gaming console and what turned out to be their swan song. The majority of its library were upgraded Amiga games.",
+      "id": 39,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10070-cd32.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10070-cd32.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10070-cd32.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10070-cd32.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10070-cd32.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10070-cd32.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10070-cd32.jpg"
+      },
+      "name": "Amiga CD32"
+    },
+    {
+      "abbreviation": "2600",
+      "deck": "The Atari 2600 is one of the first home game consoles, and one of the most successful at the time. Though it could be seen as the Grandfather of Consoles, it was also nearly the Grim Reaper, contributing to the industry collapse years later.",
+      "id": 40,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10066-atari2600.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10066-atari2600.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10066-atari2600.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10066-atari2600.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10066-atari2600.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10066-atari2600.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10066-atari2600.jpg"
+      },
+      "name": "Atari 2600"
+    },
+    {
+      "abbreviation": "SAT",
+      "deck": "32-bit game console developed by Sega. Due to development difficulties and the rising popularity of the PS1 and N64, the Saturn was discontinued overseas in 1998, but continued to sell in Japan until 2000. It was Sega's most successful console in Japan (where it outsold the N64) yet their least successful console overseas.",
+      "id": 42,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/6/60997/1142464-sega_saturn.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/6/60997/1142464-sega_saturn.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/6/60997/1142464-sega_saturn.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/6/60997/1142464-sega_saturn.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/6/60997/1142464-sega_saturn.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/6/60997/1142464-sega_saturn.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/6/60997/1142464-sega_saturn.jpg"
+      },
+      "name": "Saturn"
+    },
+    {
+      "abbreviation": "N64",
+      "deck": "The successor to the SNES was Nintendo's entry in the fifth home console generation, as well as the company's first system designed specifically to handle polygonal 3D graphics.",
+      "id": 43,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/1426281-logo.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1426281-logo.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/1426281-logo.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/1426281-logo.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/1426281-logo.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/1992/1426281-logo.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/1426281-logo.jpg"
+      },
+      "name": "Nintendo 64"
+    },
+    {
+      "abbreviation": "CVIS",
+      "deck": "The ColecoVision came out in 1982 and had a successful run as the Atari 5200's competitor until 1984.",
+      "id": 47,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/1270971-colecovision.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/1270971-colecovision.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/1270971-colecovision.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/1270971-colecovision.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/1270971-colecovision.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/1270971-colecovision.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/1270971-colecovision.jpg"
+      },
+      "name": "ColecoVision"
+    },
+    {
+      "abbreviation": "TI99",
+      "deck": "A home computer created by Texas Instruments and released in 1981. It was the first home console to feature a 16-bit processor and included a prototype plug-and-play serial bus similar to what would become known as USB.",
+      "id": 48,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/1427020-logo.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1427020-logo.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/1427020-logo.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/1427020-logo.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/1427020-logo.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/1992/1427020-logo.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/1427020-logo.jpg"
+      },
+      "name": "TI-99/4A"
+    },
+    {
+      "abbreviation": "INTV",
+      "deck": "The Intellivision by Mattel Electronics was a system known for its unique controllers and cutting-edge graphics in the early 1980s, but it was ultimately overshadowed by the technically less powerful, Atari 2600.",
+      "id": 51,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/24/176540-intellivision_small.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/24/176540-intellivision_small.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/24/176540-intellivision_small.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/24/176540-intellivision_small.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/24/176540-intellivision_small.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/24/176540-intellivision_small.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/24/176540-intellivision_small.jpg"
+      },
+      "name": "Intellivision"
+    },
+    {
+      "abbreviation": "DS",
+      "deck": "The Nintendo DS is a handheld featuring two screens, one of which is a resistive touchscreen. Four different models are available: the original DS, the DS Lite, the DSi, the DSi XL.",
+      "id": 52,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2122822-ds.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2122822-ds.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2122822-ds.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2122822-ds.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2122822-ds.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/1992/2122822-ds.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2122822-ds.png"
+      },
+      "name": "Nintendo DS"
+    },
+    {
+      "abbreviation": "TGCD",
+      "deck": "NEC's CD-ROM add-on for its PC Engine / TurboGrafx-16 console. Originally released as the PC Engine CD-ROM² in Japan in 1988, this was the first system to use the CD-ROM format. It would later be released in North America as the TurboGrafx-CD in 1989. While it had little impact on the ailing TurboGrafx-16 in North America, this add-on boosted PC Engine sales in Japan.",
+      "id": 53,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/25/176113-turbografx.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/25/176113-turbografx.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/25/176113-turbografx.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/25/176113-turbografx.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/25/176113-turbografx.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/25/176113-turbografx.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/25/176113-turbografx.jpg"
+      },
+      "name": "TurboGrafx-CD"
+    },
+    {
+      "abbreviation": "WSC",
+      "deck": "A Handheld gaming device from Bandai. The system was noteworthy for supporting play on the system vertically or horizontally, depending on the particular game.",
+      "id": 54,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/25/176139-wswpeablu.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/25/176139-wswpeablu.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/25/176139-wswpeablu.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/25/176139-wswpeablu.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/25/176139-wswpeablu.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/25/176139-wswpeablu.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/25/176139-wswpeablu.jpg"
+      },
+      "name": "WonderSwan Color"
+    },
+    {
+      "abbreviation": "TG16",
+      "deck": "The TurboGrafx-16, or PC Engine, is a console that was marketed as the first 16-bit console. It was for some time the market leader in Japan, but failed to capture a large market share in North America. It was best known for featuring the first CD-ROM peripheral, the TurboGrafx-CD. It also introduced features such as a multitap peripheral, internal save memory, and RAM expansions.",
+      "id": 55,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/25/176127-turbografx_16.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/25/176127-turbografx_16.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/25/176127-turbografx_16.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/25/176127-turbografx_16.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/25/176127-turbografx_16.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/25/176127-turbografx_16.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/25/176127-turbografx_16.jpg"
+      },
+      "name": "TurboGrafx-16"
+    },
+    {
+      "abbreviation": "GBC",
+      "deck": "Nintendo's successor to the Game Boy, featuring a color screen and backwards compatibility for all previous Game Boy titles.",
+      "id": 57,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/1426240-logo.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1426240-logo.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/1426240-logo.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/1426240-logo.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/1426240-logo.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/1992/1426240-logo.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/1426240-logo.jpg"
+      },
+      "name": "Game Boy Color"
+    },
+    {
+      "abbreviation": "C128",
+      "deck": "The Commodore 128 is the successor to the extremely popular Commodore 64 computer. The Commodore 128 is the last 8-bit computer produced by Commodore Business Machines.",
+      "id": 58,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10287-c128.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10287-c128.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10287-c128.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10287-c128.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10287-c128.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10287-c128.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10287-c128.png"
+      },
+      "name": "Commodore 128"
+    },
+    {
+      "abbreviation": "NGCD",
+      "deck": "The Neo Geo CD was released after its cartridge-based equivalent, in an effort to reduce manufacturing costs.",
+      "id": 59,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/25/176112-neogeocd.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/25/176112-neogeocd.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/25/176112-neogeocd.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/25/176112-neogeocd.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/25/176112-neogeocd.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/25/176112-neogeocd.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/25/176112-neogeocd.jpg"
+      },
+      "name": "Neo Geo CD"
+    },
+    {
+      "abbreviation": "ODY2",
+      "deck": "The Odyssey 2 was Magnavox's second console, which competed with the Atari 2600 and Fairchild Channel F.",
+      "id": 60,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/25/176130-o2_hard.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/25/176130-o2_hard.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/25/176130-o2_hard.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/25/176130-o2_hard.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/25/176130-o2_hard.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/25/176130-o2_hard.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/25/176130-o2_hard.jpg"
+      },
+      "name": "Odyssey 2"
+    },
+    {
+      "abbreviation": "DRAG",
+      "deck": "The Dragon 32 and Dragon 64 is to date the only computer to be made in Wales, UK.  The companies short history spanned only August 1982 - June 1984.",
+      "id": 61,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10321-dragon64.gif",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10321-dragon64.gif",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10321-dragon64.gif",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10321-dragon64.gif",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10321-dragon64.gif",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10321-dragon64.gif",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10321-dragon64.gif"
+      },
+      "name": "Dragon 32/64"
+    },
+    {
+      "abbreviation": "CBM",
+      "deck": "The PET (Personal Electronic Transactor) was a home-/personal computer produced by Commodore starting in 1977.",
+      "id": 62,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10320-Commodore_PET4032.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10320-Commodore_PET4032.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10320-Commodore_PET4032.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10320-Commodore_PET4032.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10320-Commodore_PET4032.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10320-Commodore_PET4032.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10320-Commodore_PET4032.jpg"
+      },
+      "name": "Commodore PET/CBM"
+    },
+    {
+      "abbreviation": "TRS8",
+      "deck": "The TRS-80 was a very popular early microcomputer with standout features such as a full keyboard, included monitor, impressive floating point BASIC programming language, and a $600 pricepoint.",
+      "id": 63,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/25/176129-trs80_2.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/25/176129-trs80_2.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/25/176129-trs80_2.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/25/176129-trs80_2.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/25/176129-trs80_2.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/25/176129-trs80_2.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/25/176129-trs80_2.jpg"
+      },
+      "name": "TRS-80"
+    },
+    {
+      "abbreviation": "ZOD",
+      "deck": "A Palm based PDA/Portable games console with a touch screen, which for a short time had an active homebrew community. It was released in two different editions with different amounts of onboard memory, the Zodiac 1 (32MB) and the Zodiac 2 (128MB).",
+      "id": 64,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10460-zodiac.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10460-zodiac.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10460-zodiac.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10460-zodiac.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10460-zodiac.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10460-zodiac.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10460-zodiac.jpg"
+      },
+      "name": "Zodiac"
+    },
+    {
+      "abbreviation": "WSW",
+      "deck": "The WonderSwan was a Japan-only handheld game system that had a fairly large library of games and many accessories.",
+      "id": 65,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/25/176117-wonderswan.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/25/176117-wonderswan.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/25/176117-wonderswan.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/25/176117-wonderswan.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/25/176117-wonderswan.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/25/176117-wonderswan.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/25/176117-wonderswan.jpg"
+      },
+      "name": "WonderSwan"
+    },
+    {
+      "abbreviation": "CHANF",
+      "deck": "The Fairchild Video Entertainment System, later called the Fairchild Channel F, was the first video game console to feature a microprocessor, interchangeable game cartridges, and detachable controllers.",
+      "id": 66,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10174-fairchild+channel+f.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10174-fairchild+channel+f.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10174-fairchild+channel+f.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10174-fairchild+channel+f.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10174-fairchild+channel+f.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10174-fairchild+channel+f.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10174-fairchild+channel+f.jpg"
+      },
+      "name": "Channel F"
+    },
+    {
+      "abbreviation": "5200",
+      "deck": "The Atari 5200 Supersystem was released in 1982, as a followup to the successful VCS/Atari 2600.",
+      "id": 67,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10083-5200.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10083-5200.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10083-5200.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10083-5200.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10083-5200.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10083-5200.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10083-5200.jpg"
+      },
+      "name": "Atari 5200"
+    },
+    {
+      "abbreviation": "COCO",
+      "deck": "The Tandy TRS-80 Color Computer, affectionatly nicknamed CoCo, was a home computer launched in 1980. It had limited video and sound capabilites compared to its rivals, but was easy to program for and was produced in various incarnations until 1991.",
+      "id": 68,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4/176059-320px_trs_80_color_computer_1.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4/176059-320px_trs_80_color_computer_1.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4/176059-320px_trs_80_color_computer_1.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4/176059-320px_trs_80_color_computer_1.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4/176059-320px_trs_80_color_computer_1.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4/176059-320px_trs_80_color_computer_1.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4/176059-320px_trs_80_color_computer_1.jpg"
+      },
+      "name": "TRS-80 CoCo"
+    },
+    {
+      "abbreviation": "7800",
+      "deck": "The third console released by Atari, and successor to the Atari 5200. It features backwards compatibility with the Atari 2600.",
+      "id": 70,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10088-7800.gif",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10088-7800.gif",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10088-7800.gif",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10088-7800.gif",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10088-7800.gif",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10088-7800.gif",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10088-7800.gif"
+      },
+      "name": "Atari 7800"
+    },
+    {
+      "abbreviation": "IPOD",
+      "deck": "The Apple iPod is a popular MP3 player that garnered a bit of game support due to its large market.  Support for games never took off until the newer, touch-screen iPod Touch and iPhones were released, and development of iPod Classic games has ceased.",
+      "id": 72,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10886-ipod.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10886-ipod.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10886-ipod.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10886-ipod.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10886-ipod.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10886-ipod.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10886-ipod.png"
+      },
+      "name": "iPod"
+    },
+    {
+      "abbreviation": "ODY",
+      "deck": "The Magnavox Odyssey was the first home video game console.",
+      "id": 74,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/139866/2606039-3801669138-Magna.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2606039-3801669138-Magna.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/139866/2606039-3801669138-Magna.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/13/139866/2606039-3801669138-Magna.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/13/139866/2606039-3801669138-Magna.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/13/139866/2606039-3801669138-Magna.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/139866/2606039-3801669138-Magna.jpg"
+      },
+      "name": "Odyssey"
+    },
+    {
+      "abbreviation": "PCFX",
+      "deck": "The NEC PC-FX was a console designed in the form of a PC and planned to be upgradable.  It failed due to lack of 3D graphical power and little developer support.  The PC-FX is known for it's large percentage of adult titles and was NEC Corporation's last gaming console.",
+      "id": 75,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/25/176114-pc_fx.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/25/176114-pc_fx.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/25/176114-pc_fx.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/25/176114-pc_fx.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/25/176114-pc_fx.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/25/176114-pc_fx.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/25/176114-pc_fx.jpg"
+      },
+      "name": "PC-FX"
+    },
+    {
+      "abbreviation": "VECT",
+      "deck": "The Vectrex was a short lived home video game system that used Vector graphics. Most games came with a colored 'overlay' for the screen to give the illusion of the game being in color.",
+      "id": 76,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4/176109-vectrex.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4/176109-vectrex.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4/176109-vectrex.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4/176109-vectrex.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4/176109-vectrex.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4/176109-vectrex.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4/176109-vectrex.jpg"
+      },
+      "name": "Vectrex"
+    },
+    {
+      "abbreviation": "GCOM",
+      "deck": "Tiger's second short-lived portable console was a video game and PDA hybrid",
+      "id": 77,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10352-gamecom.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10352-gamecom.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10352-gamecom.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10352-gamecom.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10352-gamecom.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10352-gamecom.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10352-gamecom.jpg"
+      },
+      "name": "Game.Com"
+    },
+    {
+      "abbreviation": "GIZ",
+      "deck": "The Gizmondo is a failed handheld console, which launched in 2005. It was potentially revolutionary for having functionality such as GPRS mobile data connection, a camera, GPS, a multimedia player and of course game playing all in one unit.",
+      "id": 78,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10602-gizmondo.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10602-gizmondo.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10602-gizmondo.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10602-gizmondo.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10602-gizmondo.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10602-gizmondo.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10602-gizmondo.jpg"
+      },
+      "name": "Gizmondo"
+    },
+    {
+      "abbreviation": "VBOY",
+      "deck": "The Virtual Boy pioneered portable 3D gaming, but became Nintendo's biggest (and arguably only) market blunder. Despite innovative display technology, various design and marketing mistakes doomed it to poor sales and quick retirement. Fewer than two dozen titles came out worldwide and only 14 in North America.",
+      "id": 79,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/25/176098-virtual_boy_sistem.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/25/176098-virtual_boy_sistem.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/25/176098-virtual_boy_sistem.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/25/176098-virtual_boy_sistem.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/25/176098-virtual_boy_sistem.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/25/176098-virtual_boy_sistem.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/25/176098-virtual_boy_sistem.jpg"
+      },
+      "name": "Virtual Boy"
+    },
+    {
+      "abbreviation": "NGP",
+      "deck": "The Neo Geo Pocket is SNK Playmore's first handheld video game console. The console did not do as well as expected, and had a short life span and small game library.",
+      "id": 80,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2122615-neo_geo_pocket_ligts_on.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2122615-neo_geo_pocket_ligts_on.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2122615-neo_geo_pocket_ligts_on.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2122615-neo_geo_pocket_ligts_on.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2122615-neo_geo_pocket_ligts_on.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/1992/2122615-neo_geo_pocket_ligts_on.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2122615-neo_geo_pocket_ligts_on.jpg"
+      },
+      "name": "Neo Geo Pocket"
+    },
+    {
+      "abbreviation": "NGPC",
+      "deck": "The Neo Geo Pocket Color is a 16 bit color handheld console from SNK.",
+      "id": 81,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/1426322-logo.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1426322-logo.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/1426322-logo.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/1426322-logo.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/1426322-logo.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/1992/1426322-logo.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/1426322-logo.jpg"
+      },
+      "name": "Neo Geo Pocket Color"
+    },
+    {
+      "abbreviation": "VSML",
+      "deck": "The V.Smile is an educational video game console made for young children.",
+      "id": 82,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10324-vsmile.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10324-vsmile.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10324-vsmile.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10324-vsmile.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10324-vsmile.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10324-vsmile.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10324-vsmile.jpg"
+      },
+      "name": "V.Smile"
+    },
+    {
+      "abbreviation": "PIN",
+      "deck": "In a pinball machine the player is in control of two or more \"flippers\" (small movable bars) that are used to shoot a metal ball against different physical targets inside the machine.",
+      "id": 83,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/3948/955933-6a00d83452989a69e2010536fbd197970b_800wi.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/3948/955933-6a00d83452989a69e2010536fbd197970b_800wi.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/3948/955933-6a00d83452989a69e2010536fbd197970b_800wi.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/3948/955933-6a00d83452989a69e2010536fbd197970b_800wi.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/3948/955933-6a00d83452989a69e2010536fbd197970b_800wi.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/3948/955933-6a00d83452989a69e2010536fbd197970b_800wi.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/3948/955933-6a00d83452989a69e2010536fbd197970b_800wi.jpg"
+      },
+      "name": "Pinball"
+    },
+    {
+      "abbreviation": "ARC",
+      "deck": "Stand-alone machines that generally only play one video game each. Arcades began the game industry and peaked in popularity before home consoles took over the gaming public. Arcade games usually cost 25 cents, or 100 yen, per play. Known for the most cutting-edge technology of their time, arcades have the largest video game library, and greatest variety of control methods, of any platform.",
+      "id": 84,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9566/401036-mame_arcade_essential_cabinet.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/9566/401036-mame_arcade_essential_cabinet.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9566/401036-mame_arcade_essential_cabinet.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/9566/401036-mame_arcade_essential_cabinet.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9566/401036-mame_arcade_essential_cabinet.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/9566/401036-mame_arcade_essential_cabinet.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9566/401036-mame_arcade_essential_cabinet.jpg"
+      },
+      "name": "Arcade"
+    },
+    {
+      "abbreviation": "NUON",
+      "deck": "Originally called \"Project X\", the Nuon started out as a concept for a stand alone console but instead became a built in 3D enhancement technology in a handful of DVD players.  NUON technology fared abysmally and the platform only managed to get 8 titles.",
+      "id": 85,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/11422-nuon-logo.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/11422-nuon-logo.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/11422-nuon-logo.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/11422-nuon-logo.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/11422-nuon-logo.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/11422-nuon-logo.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/11422-nuon-logo.jpg"
+      },
+      "name": "NUON"
+    },
+    {
+      "abbreviation": "XBGS",
+      "deck": "Xbox Live Games Store is an online store for the Xbox 360 and Xbox One which allows users to purchase games digitally.",
+      "id": 86,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2564457-8881913767-XboxL.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2564457-8881913767-XboxL.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2564457-8881913767-XboxL.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2564457-8881913767-XboxL.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2564457-8881913767-XboxL.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/1992/2564457-8881913767-XboxL.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2564457-8881913767-XboxL.png"
+      },
+      "name": "Xbox 360 Games Store"
+    },
+    {
+      "abbreviation": "WSHP",
+      "deck": "The Wii Shop Channel is Nintendo's way of digitally distributing games. It includes WiiWare for newly developed games, as well as the Virtual Console for classic titles from various consoles and arcade systems.",
+      "id": 87,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2287884-wii_shop_channel.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2287884-wii_shop_channel.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2287884-wii_shop_channel.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2287884-wii_shop_channel.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2287884-wii_shop_channel.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/8/82063/2287884-wii_shop_channel.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2287884-wii_shop_channel.png"
+      },
+      "name": "Wii Shop"
+    },
+    {
+      "abbreviation": "PS3N",
+      "deck": "The PlayStation Network is the online service by Sony Computer Entertainment, providing downloads of games, trailers, themes and much more. The service is free, but also offers a paid version for various benefits.",
+      "id": 88,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2122559-psnps3.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2122559-psnps3.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2122559-psnps3.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2122559-psnps3.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2122559-psnps3.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/1992/2122559-psnps3.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2122559-psnps3.png"
+      },
+      "name": "PlayStation Network (PS3)"
+    },
+    {
+      "abbreviation": "LEAP",
+      "deck": "The LeapFrog Leapster is a stylus-based educational game device aimed at children under 10.",
+      "id": 89,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10607-leapster.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10607-leapster.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10607-leapster.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10607-leapster.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10607-leapster.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10607-leapster.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10607-leapster.jpg"
+      },
+      "name": "Leapster"
+    },
+    {
+      "abbreviation": "MVIS",
+      "deck": "The first gaming handheld, Surpisingly big but extremely rare.",
+      "id": 90,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10813-MicroVision.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10813-MicroVision.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10813-MicroVision.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10813-MicroVision.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10813-MicroVision.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10813-MicroVision.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10813-MicroVision.jpg"
+      },
+      "name": "Microvision"
+    },
+    {
+      "abbreviation": "FDS",
+      "deck": "The Famicom Disk System was an add-on accessory for the Nintendo Entertainment System's Japanese counterpart. With its games coming on a floppy disk-like medium, many of its releases saw conversions to cartridges both overseas and within Japan.",
+      "id": 91,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/10341-fds.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/10341-fds.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/10341-fds.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/10341-fds.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/10341-fds.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/10341-fds.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/10341-fds.jpg"
+      },
+      "name": "Famicom Disk System"
+    },
+    {
+      "abbreviation": "LACT",
+      "deck": "Pioneer LaserActive was a failed modular laserdisc-based game console notable for its use of expansion modules as well as being the second highest priced console of all time.",
+      "id": 92,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4/176058-laserinteractive.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4/176058-laserinteractive.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4/176058-laserinteractive.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4/176058-laserinteractive.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4/176058-laserinteractive.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4/176058-laserinteractive.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4/176058-laserinteractive.jpg"
+      },
+      "name": "Pioneer LaserActive"
+    },
+    {
+      "abbreviation": "AVIS",
+      "deck": "The Adventure Vision is a handheld video game console developed by Entex Industries in 1982.",
+      "id": 93,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/1248213-adventurevision.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/46/1248213-adventurevision.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/1248213-adventurevision.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/46/1248213-adventurevision.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/46/1248213-adventurevision.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/46/1248213-adventurevision.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/46/1248213-adventurevision.jpg"
+      },
+      "name": "Adventure Vision"
+    },
+    {
+      "abbreviation": "PC",
+      "deck": "The PC (Personal Computer) is a highly configurable and upgradable gaming platform that, among home systems, sports the widest variety of control methods, largest library of games, and cutting edge graphics and sound capabilities.",
+      "id": 94,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/3661/1650285-ibm_pc_5150.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/3661/1650285-ibm_pc_5150.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/3661/1650285-ibm_pc_5150.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/3661/1650285-ibm_pc_5150.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/3661/1650285-ibm_pc_5150.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/3661/1650285-ibm_pc_5150.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/3661/1650285-ibm_pc_5150.jpg"
+      },
+      "name": "PC"
+    },
+    {
+      "abbreviation": "X68K",
+      "deck": "The Sharp X68000 is a 16/32-bit Japanese computer platform that was originally released in 1987. It was the first home system to offer arcade-quality graphics, serving as the development machine for the Capcom CPS arcade system over the next several years. It was the most powerful home gaming system of the 1980s.",
+      "id": 95,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4/176060-x68000xvihd8.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4/176060-x68000xvihd8.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4/176060-x68000xvihd8.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4/176060-x68000xvihd8.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4/176060-x68000xvihd8.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4/176060-x68000xvihd8.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4/176060-x68000xvihd8.jpg"
+      },
+      "name": "Sharp X68000"
+    },
+    {
+      "abbreviation": "IPHN",
+      "deck": "The iPhone is a multimedia multi-touch smartphone created by Apple Inc.",
+      "id": 96,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/3/38405/1750597-apple_iphone_4_101.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/3/38405/1750597-apple_iphone_4_101.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/3/38405/1750597-apple_iphone_4_101.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/3/38405/1750597-apple_iphone_4_101.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/3/38405/1750597-apple_iphone_4_101.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/3/38405/1750597-apple_iphone_4_101.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/3/38405/1750597-apple_iphone_4_101.jpg"
+      },
+      "name": "iPhone"
+    },
+    {
+      "abbreviation": "BS-X",
+      "deck": "The Satellaview was an add-on for the Super Famicom, released only in Japan.  It downloaded games and news via satellite broadcast, and received live, streaming voice acting and hints for some games.",
+      "id": 98,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/429/177828-600px_satellaview_with_super_famicom.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/429/177828-600px_satellaview_with_super_famicom.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/429/177828-600px_satellaview_with_super_famicom.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/429/177828-600px_satellaview_with_super_famicom.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/429/177828-600px_satellaview_with_super_famicom.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/429/177828-600px_satellaview_with_super_famicom.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/429/177828-600px_satellaview_with_super_famicom.jpg"
+      },
+      "name": "Satellaview"
+    },
+    {
+      "abbreviation": "A2K1",
+      "deck": "Arcadia 2001 is an 8-bit console made by Emerson.",
+      "id": 99,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/187197-arcadia2001.gif",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/46/187197-arcadia2001.gif",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/187197-arcadia2001.gif",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/46/187197-arcadia2001.gif",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/46/187197-arcadia2001.gif",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/46/187197-arcadia2001.gif",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/46/187197-arcadia2001.gif"
+      },
+      "name": "Arcadia 2001"
+    },
+    {
+      "abbreviation": "AQUA",
+      "deck": "Aquarius is a home computer made by Mattel.  Released in June 1983, it was discontinued only a few months later in October 1983.\n\n",
+      "id": 100,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/187822-aquarius.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/46/187822-aquarius.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/187822-aquarius.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/46/187822-aquarius.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/46/187822-aquarius.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/46/187822-aquarius.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/46/187822-aquarius.jpg"
+      },
+      "name": "Aquarius"
+    },
+    {
+      "abbreviation": "64DD",
+      "deck": "The Nintendo 64 Disk Drive was an expansion for the Nintendo 64 allowing the use of magnetic disks that offered greater storage capacity and the ability to be written to.",
+      "id": 101,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/189175-n64dd.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/46/189175-n64dd.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/189175-n64dd.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/46/189175-n64dd.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/46/189175-n64dd.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/46/189175-n64dd.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/46/189175-n64dd.jpg"
+      },
+      "name": "Nintendo 64DD"
+    },
+    {
+      "abbreviation": "PIPN",
+      "deck": "This short-lived multimedia device was designed by Apple and manufactured by Bandai.  It is widely regarded as one of the worst video game consoles of all time.",
+      "id": 102,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/278609-blackconsole.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/46/278609-blackconsole.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/278609-blackconsole.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/46/278609-blackconsole.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/46/278609-blackconsole.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/46/278609-blackconsole.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/46/278609-blackconsole.jpg"
+      },
+      "name": "Pippin"
+    },
+    {
+      "abbreviation": "RZON",
+      "deck": "The R-Zone was a heavily marketed, cartridge based LCD handheld that ultimately flopped.  It marked Tiger's first attempt at a handheld game system.",
+      "id": 103,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/611/204270-dscn0584.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/611/204270-dscn0584.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/611/204270-dscn0584.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/611/204270-dscn0584.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/611/204270-dscn0584.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/611/204270-dscn0584.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/611/204270-dscn0584.jpg"
+      },
+      "name": "R-Zone"
+    },
+    {
+      "abbreviation": "HSCN",
+      "deck": "Mattel's HyperScan allowed players to scan in RFID-equipped cards to bring in new characters, weapons, and powers. It came packaged with X-Men, Spider-Man and Ben 10.",
+      "id": 104,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2681/841197-hyperscan.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/2681/841197-hyperscan.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2681/841197-hyperscan.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/2681/841197-hyperscan.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2681/841197-hyperscan.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/2681/841197-hyperscan.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2681/841197-hyperscan.jpg"
+      },
+      "name": "HyperScan"
+    },
+    {
+      "abbreviation": "GWAV",
+      "deck": "The Game Wave Family Entertainment System is a simple DVD-based game platform from ZAPiT Games.",
+      "id": 105,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4647/2799503-gw_onwhite_remote_logo.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4647/2799503-gw_onwhite_remote_logo.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4647/2799503-gw_onwhite_remote_logo.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4647/2799503-gw_onwhite_remote_logo.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4647/2799503-gw_onwhite_remote_logo.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4647/2799503-gw_onwhite_remote_logo.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4647/2799503-gw_onwhite_remote_logo.jpg"
+      },
+      "name": "Game Wave"
+    },
+    {
+      "abbreviation": "DSI",
+      "deck": "DSiWare is Nintendo's name for its downloadable games appearing on the new Nintendo DSi system.",
+      "id": 106,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/847036-dsiware.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/847036-dsiware.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/847036-dsiware.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/847036-dsiware.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/847036-dsiware.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/847036-dsiware.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/847036-dsiware.jpg"
+      },
+      "name": "DSiWare"
+    },
+    {
+      "abbreviation": "HALC",
+      "deck": "The RDI Halcyon was a short-lived laserdisc-based game platform. Only two games were properly released for the system.  It was the most expensive video game console ever released, retailing at $2,500.",
+      "id": 107,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/874497-rdi.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/26/874497-rdi.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/874497-rdi.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/26/874497-rdi.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/874497-rdi.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/26/874497-rdi.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/874497-rdi.jpg"
+      },
+      "name": "RDI Halcyon"
+    },
+    {
+      "abbreviation": "FMT",
+      "deck": "A proprietary 32-bit computer from Fujitsu, released in 1989 only in Japan. The first computer with a standard CD-ROM drive, it had many CD enhanced versions of Eastern and Western games (including action, adventure and RPG titles) which are sought after to this day by collectors. Its console version, FM Towns Marty, released in 1993 as the first 5th-gen console.",
+      "id": 108,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/5450/897563-fm_towns_1.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/5450/897563-fm_towns_1.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/5450/897563-fm_towns_1.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/5450/897563-fm_towns_1.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/5450/897563-fm_towns_1.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/5450/897563-fm_towns_1.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/5450/897563-fm_towns_1.jpg"
+      },
+      "name": "FM Towns"
+    },
+    {
+      "abbreviation": "PC88",
+      "deck": "This NEC computer was released in 1981 and is more commonly referred to as the PC-88.",
+      "id": 109,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4647/961635-nec_pc8801_1.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4647/961635-nec_pc8801_1.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4647/961635-nec_pc8801_1.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4647/961635-nec_pc8801_1.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4647/961635-nec_pc8801_1.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4647/961635-nec_pc8801_1.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4647/961635-nec_pc8801_1.jpg"
+      },
+      "name": "NEC PC-8801"
+    },
+    {
+      "abbreviation": "BBCM",
+      "deck": "Designed and built by Acorn Computers in 1981 as part of the BBC's Computer Literacy Project, the BBC Microcomputer System was notable for its rugged build quality, expandability and feature set. Several notable British developers started out making games for this system.",
+      "id": 110,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/5028/1738077-bbc_micro_owl.png",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/5028/1738077-bbc_micro_owl.png",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/5028/1738077-bbc_micro_owl.png",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/5028/1738077-bbc_micro_owl.png",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/5028/1738077-bbc_micro_owl.png",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/5028/1738077-bbc_micro_owl.png",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/5028/1738077-bbc_micro_owl.png"
+      },
+      "name": "BBC Micro"
+    },
+    {
+      "abbreviation": "PLATO",
+      "deck": "PLATO stands for Programmed Logic for Automated Teaching Operations. Mainly used for assisting in instruction and offering coursework originally built by the University of Illinois. ",
+      "id": 111,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4647/1101577-240px_platovterm1981.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1101577-240px_platovterm1981.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4647/1101577-240px_platovterm1981.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4647/1101577-240px_platovterm1981.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4647/1101577-240px_platovterm1981.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4647/1101577-240px_platovterm1981.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4647/1101577-240px_platovterm1981.jpg"
+      },
+      "name": "PLATO"
+    },
+    {
+      "abbreviation": "PC98",
+      "deck": "A 16/32-bit Japanese personal computer system launched by NEC in 1982. It was the most successful computer platform in Japan and one of the best-selling computer systems of the 20th century. It has a very large video game library with thousands of titles, the majority of which were never released outside Japan.",
+      "id": 112,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/59247/1129864-pc_9801_l.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1129864-pc_9801_l.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/59247/1129864-pc_9801_l.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/5/59247/1129864-pc_9801_l.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/5/59247/1129864-pc_9801_l.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/5/59247/1129864-pc_9801_l.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/59247/1129864-pc_9801_l.jpg"
+      },
+      "name": "NEC PC-9801"
+    },
+    {
+      "abbreviation": "X1",
+      "deck": "The first in Sharp's X line of computers. It was the successor to the Sharp MZ, and was in turn succeeded by the Sharp X68000.",
+      "id": 113,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/59247/1129861-sharpx1.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1129861-sharpx1.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/59247/1129861-sharpx1.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/5/59247/1129861-sharpx1.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/5/59247/1129861-sharpx1.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/5/59247/1129861-sharpx1.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/59247/1129861-sharpx1.jpg"
+      },
+      "name": "Sharp X1"
+    },
+    {
+      "abbreviation": "FM7",
+      "deck": "The second in Fujitsu's FM line of computers, the FM-7 was intended more for the mass market, and received fair popularity in Japan.",
+      "id": 114,
+      "image": {
+        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4/1151387-fm7ad.jpg",
+        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/4/1151387-fm7ad.jpg",
+        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4/1151387-fm7ad.jpg",
+        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/4/1151387-fm7ad.jpg",
+        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4/1151387-fm7ad.jpg",
+        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/4/1151387-fm7ad.jpg",
+        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4/1151387-fm7ad.jpg"
+      },
+      "name": "FM-7"
+    }
+  ],
+  "version": "1.0"
+}
