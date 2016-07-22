@@ -1,232 +1,658 @@
 {
-  "error": "OK",
-  "limit": 100,
-  "offset": 1300,
-  "number_of_page_results": 6,
-  "number_of_total_results": 1306,
-  "status_code": 1,
-  "results": [
+  error: "OK",
+  limit: 100,
+  offset: 1300,
+  number_of_page_results: 20,
+  number_of_total_results: 1320,
+  status_code: 1,
+  results: [
     {
-      "deck": "Disc Jam is a disc-based future sport for 2 to 4 players.",
-      "image": {
-        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2862947-header.jpg",
-        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2862947-header.jpg",
-        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2862947-header.jpg",
-        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2862947-header.jpg",
-        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2862947-header.jpg",
-        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/1992/2862947-header.jpg",
-        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2862947-header.jpg"
+      deck: "Resident Evil undergoes another soft-reboot with Resident Evil 7 biohazard.",
+      id: 54231,
+      image: {
+        icon_url: "http://www.giantbomb.com/api/image/square_avatar/2861553-7830541057-2b658.jpg",
+        medium_url: "http://www.giantbomb.com/api/image/scale_medium/2861553-7830541057-2b658.jpg",
+        screen_url: "http://www.giantbomb.com/api/image/screen_medium/2861553-7830541057-2b658.jpg",
+        small_url: "http://www.giantbomb.com/api/image/scale_small/2861553-7830541057-2b658.jpg",
+        super_url: "http://www.giantbomb.com/api/image/scale_large/2861553-7830541057-2b658.jpg",
+        thumb_url: "http://www.giantbomb.com/api/image/scale_avatar/2861553-7830541057-2b658.jpg",
+        tiny_url: "http://www.giantbomb.com/api/image/square_mini/2861553-7830541057-2b658.jpg"
       },
-      "name": "Disc Jam",
-      "original_release_date": null,
-      "platforms": [
+      name: "Resident Evil 7 biohazard",
+      original_release_date: null,
+      platforms: [
         {
-          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
-          "id": 94,
-          "name": "PC",
-          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
-          "abbreviation": "PC"
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-94/",
+          id: 94,
+          name: "PC",
+          site_detail_url: "http://www.giantbomb.com/pc/3045-94/",
+          abbreviation: "PC"
         },
         {
-          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
-          "id": 146,
-          "name": "PlayStation 4",
-          "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
-          "abbreviation": "PS4"
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-145/",
+          id: 145,
+          name: "Xbox One",
+          site_detail_url: "http://www.giantbomb.com/xbox-one/3045-145/",
+          abbreviation: "XONE"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-146/",
+          id: 146,
+          name: "PlayStation 4",
+          site_detail_url: "http://www.giantbomb.com/playstation-4/3045-146/",
+          abbreviation: "PS4"
         }
       ]
     },
     {
-      "deck": "A top-down fast-paced action game reminiscent of Hotline Miami made by a team of veterans of the games industry.",
-      "image": {
-        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/8381/2863160-mrshifty-fullsize.png",
-        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/0/8381/2863160-mrshifty-fullsize.png",
-        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/8381/2863160-mrshifty-fullsize.png",
-        "small_url": "http://static.giantbomb.com/uploads/scale_small/0/8381/2863160-mrshifty-fullsize.png",
-        "super_url": "http://static.giantbomb.com/uploads/scale_large/0/8381/2863160-mrshifty-fullsize.png",
-        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/0/8381/2863160-mrshifty-fullsize.png",
-        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/8381/2863160-mrshifty-fullsize.png"
+      deck: "Death Stranding is the first game from Hideo Kojima since leaving Konami.",
+      id: 54232,
+      image: {
+        icon_url: "http://www.giantbomb.com/api/image/square_avatar/2861554-screen%20shot%202016-06-13%20at%2010.13.58%20pm.png",
+        medium_url: "http://www.giantbomb.com/api/image/scale_medium/2861554-screen%20shot%202016-06-13%20at%2010.13.58%20pm.png",
+        screen_url: "http://www.giantbomb.com/api/image/screen_medium/2861554-screen%20shot%202016-06-13%20at%2010.13.58%20pm.png",
+        small_url: "http://www.giantbomb.com/api/image/scale_small/2861554-screen%20shot%202016-06-13%20at%2010.13.58%20pm.png",
+        super_url: "http://www.giantbomb.com/api/image/scale_large/2861554-screen%20shot%202016-06-13%20at%2010.13.58%20pm.png",
+        thumb_url: "http://www.giantbomb.com/api/image/scale_avatar/2861554-screen%20shot%202016-06-13%20at%2010.13.58%20pm.png",
+        tiny_url: "http://www.giantbomb.com/api/image/square_mini/2861554-screen%20shot%202016-06-13%20at%2010.13.58%20pm.png"
       },
-      "name": "Mr Shifty",
-      "original_release_date": null,
-      "platforms": [
+      name: "Death Stranding",
+      original_release_date: null,
+      platforms: [
         {
-          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
-          "id": 94,
-          "name": "PC",
-          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
-          "abbreviation": "PC"
-        },
-        {
-          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
-          "id": 145,
-          "name": "Xbox One",
-          "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
-          "abbreviation": "XONE"
-        },
-        {
-          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
-          "id": 146,
-          "name": "PlayStation 4",
-          "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
-          "abbreviation": "PS4"
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-146/",
+          id: 146,
+          name: "PlayStation 4",
+          site_detail_url: "http://www.giantbomb.com/playstation-4/3045-146/",
+          abbreviation: "PS4"
         }
       ]
     },
     {
-      "deck": "Drawful 2 is the sequel to Drawful, a game in which players are prompted to draw weird or impossible things.",
-      "image": {
-        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/32/321452/2864093-drawful2_gb_coverimage.png",
-        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/32/321452/2864093-drawful2_gb_coverimage.png",
-        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/32/321452/2864093-drawful2_gb_coverimage.png",
-        "small_url": "http://static.giantbomb.com/uploads/scale_small/32/321452/2864093-drawful2_gb_coverimage.png",
-        "super_url": "http://static.giantbomb.com/uploads/scale_large/32/321452/2864093-drawful2_gb_coverimage.png",
-        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/32/321452/2864093-drawful2_gb_coverimage.png",
-        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/32/321452/2864093-drawful2_gb_coverimage.png"
+      deck: "From Insomniac exclusively for PlayStation 4.",
+      id: 54233,
+      image: {
+        icon_url: "http://www.giantbomb.com/api/image/square_avatar/2862190-27046534534_059ff73a97_o.jpg",
+        medium_url: "http://www.giantbomb.com/api/image/scale_medium/2862190-27046534534_059ff73a97_o.jpg",
+        screen_url: "http://www.giantbomb.com/api/image/screen_medium/2862190-27046534534_059ff73a97_o.jpg",
+        small_url: "http://www.giantbomb.com/api/image/scale_small/2862190-27046534534_059ff73a97_o.jpg",
+        super_url: "http://www.giantbomb.com/api/image/scale_large/2862190-27046534534_059ff73a97_o.jpg",
+        thumb_url: "http://www.giantbomb.com/api/image/scale_avatar/2862190-27046534534_059ff73a97_o.jpg",
+        tiny_url: "http://www.giantbomb.com/api/image/square_mini/2862190-27046534534_059ff73a97_o.jpg"
       },
-      "name": "Drawful 2",
-      "original_release_date": "2016-06-21 00:00:00",
-      "platforms": [
+      name: "Spider-Man",
+      original_release_date: null,
+      platforms: [
         {
-          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
-          "id": 17,
-          "name": "Mac",
-          "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
-          "abbreviation": "MAC"
-        },
-        {
-          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
-          "id": 94,
-          "name": "PC",
-          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
-          "abbreviation": "PC"
-        },
-        {
-          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
-          "id": 145,
-          "name": "Xbox One",
-          "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
-          "abbreviation": "XONE"
-        },
-        {
-          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
-          "id": 146,
-          "name": "PlayStation 4",
-          "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
-          "abbreviation": "PS4"
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-146/",
+          id: 146,
+          name: "PlayStation 4",
+          site_detail_url: "http://www.giantbomb.com/playstation-4/3045-146/",
+          abbreviation: "PS4"
         }
       ]
     },
     {
-      "deck": "The third party games bundle from Jackbox Games",
-      "image": {
-        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/217562/2864614-3610520484-jbpp3.jpg",
-        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/21/217562/2864614-3610520484-jbpp3.jpg",
-        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/217562/2864614-3610520484-jbpp3.jpg",
-        "small_url": "http://static.giantbomb.com/uploads/scale_small/21/217562/2864614-3610520484-jbpp3.jpg",
-        "super_url": "http://static.giantbomb.com/uploads/scale_large/21/217562/2864614-3610520484-jbpp3.jpg",
-        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/21/217562/2864614-3610520484-jbpp3.jpg",
-        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/217562/2864614-3610520484-jbpp3.jpg"
+      deck: "A VR short story within the Arkham universe.",
+      id: 54242,
+      image: {
+        icon_url: "http://www.giantbomb.com/api/image/square_avatar/2861864-bavr.jpg",
+        medium_url: "http://www.giantbomb.com/api/image/scale_medium/2861864-bavr.jpg",
+        screen_url: "http://www.giantbomb.com/api/image/screen_medium/2861864-bavr.jpg",
+        small_url: "http://www.giantbomb.com/api/image/scale_small/2861864-bavr.jpg",
+        super_url: "http://www.giantbomb.com/api/image/scale_large/2861864-bavr.jpg",
+        thumb_url: "http://www.giantbomb.com/api/image/scale_avatar/2861864-bavr.jpg",
+        tiny_url: "http://www.giantbomb.com/api/image/square_mini/2861864-bavr.jpg"
       },
-      "name": "The Jackbox Party Pack 3",
-      "original_release_date": null,
-      "platforms": [
+      name: "Batman: Arkham VR",
+      original_release_date: null,
+      platforms: [
         {
-          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
-          "id": 17,
-          "name": "Mac",
-          "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
-          "abbreviation": "MAC"
-        },
-        {
-          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
-          "id": 94,
-          "name": "PC",
-          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
-          "abbreviation": "PC"
-        },
-        {
-          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
-          "id": 145,
-          "name": "Xbox One",
-          "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
-          "abbreviation": "XONE"
-        },
-        {
-          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
-          "id": 146,
-          "name": "PlayStation 4",
-          "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
-          "abbreviation": "PS4"
-        },
-        {
-          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-155/",
-          "id": 155,
-          "name": "Amazon Fire TV",
-          "site_detail_url": "http://www.giantbomb.com/amazon-fire-tv/3045-155/",
-          "abbreviation": "FIRE"
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-146/",
+          id: 146,
+          name: "PlayStation 4",
+          site_detail_url: "http://www.giantbomb.com/playstation-4/3045-146/",
+          abbreviation: "PS4"
         }
       ]
     },
     {
-      "deck": "Asemblance is a single-player, first-person, psychological thriller.",
-      "image": {
-        "icon_url": "http://static.giantbomb.com/uploads/square_avatar/32/321771/2865480-asemblancetwitch.png",
-        "medium_url": "http://static.giantbomb.com/uploads/scale_medium/32/321771/2865480-asemblancetwitch.png",
-        "screen_url": "http://static.giantbomb.com/uploads/screen_medium/32/321771/2865480-asemblancetwitch.png",
-        "small_url": "http://static.giantbomb.com/uploads/scale_small/32/321771/2865480-asemblancetwitch.png",
-        "super_url": "http://static.giantbomb.com/uploads/scale_large/32/321771/2865480-asemblancetwitch.png",
-        "thumb_url": "http://static.giantbomb.com/uploads/scale_avatar/32/321771/2865480-asemblancetwitch.jpg",
-        "tiny_url": "http://static.giantbomb.com/uploads/square_mini/32/321771/2865480-asemblancetwitch.png"
+      deck: "Farpoint is a sci-fi adventure for PlayStaiton VR.",
+      id: 54243,
+      image: {
+        icon_url: "http://www.giantbomb.com/api/image/square_avatar/2861591-screen%20shot%202016-06-13%20at%2011.54.55%20pm.png",
+        medium_url: "http://www.giantbomb.com/api/image/scale_medium/2861591-screen%20shot%202016-06-13%20at%2011.54.55%20pm.png",
+        screen_url: "http://www.giantbomb.com/api/image/screen_medium/2861591-screen%20shot%202016-06-13%20at%2011.54.55%20pm.png",
+        small_url: "http://www.giantbomb.com/api/image/scale_small/2861591-screen%20shot%202016-06-13%20at%2011.54.55%20pm.png",
+        super_url: "http://www.giantbomb.com/api/image/scale_large/2861591-screen%20shot%202016-06-13%20at%2011.54.55%20pm.png",
+        thumb_url: "http://www.giantbomb.com/api/image/scale_avatar/2861591-screen%20shot%202016-06-13%20at%2011.54.55%20pm.png",
+        tiny_url: "http://www.giantbomb.com/api/image/square_mini/2861591-screen%20shot%202016-06-13%20at%2011.54.55%20pm.png"
       },
-      "name": "Asemblance",
-      "original_release_date": "2016-06-21 00:00:00",
-      "platforms": [
+      name: "Farpoint",
+      original_release_date: null,
+      platforms: [
         {
-          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
-          "id": 94,
-          "name": "PC",
-          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
-          "abbreviation": "PC"
-        },
-        {
-          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
-          "id": 146,
-          "name": "PlayStation 4",
-          "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
-          "abbreviation": "PS4"
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-146/",
+          id: 146,
+          name: "PlayStation 4",
+          site_detail_url: "http://www.giantbomb.com/playstation-4/3045-146/",
+          abbreviation: "PS4"
         }
       ]
     },
     {
-      "deck": "NASCAR Heat Evolution is a NASCAR themed driving simulator by Monster Games",
-      "image": null,
-      "name": "NASCAR Heat Evolution",
-      "original_release_date": null,
-      "platforms": [
+      deck: "Here They Lie is a first-person horror game for PlayStation VR from Tangentlemen and Sony Santa Monica.",
+      id: 54244,
+      image: {
+        icon_url: "http://www.giantbomb.com/api/image/square_avatar/2861596-screen%20shot%202016-06-14%20at%2012.07.40%20am.png",
+        medium_url: "http://www.giantbomb.com/api/image/scale_medium/2861596-screen%20shot%202016-06-14%20at%2012.07.40%20am.png",
+        screen_url: "http://www.giantbomb.com/api/image/screen_medium/2861596-screen%20shot%202016-06-14%20at%2012.07.40%20am.png",
+        small_url: "http://www.giantbomb.com/api/image/scale_small/2861596-screen%20shot%202016-06-14%20at%2012.07.40%20am.png",
+        super_url: "http://www.giantbomb.com/api/image/scale_large/2861596-screen%20shot%202016-06-14%20at%2012.07.40%20am.png",
+        thumb_url: "http://www.giantbomb.com/api/image/scale_avatar/2861596-screen%20shot%202016-06-14%20at%2012.07.40%20am.png",
+        tiny_url: "http://www.giantbomb.com/api/image/square_mini/2861596-screen%20shot%202016-06-14%20at%2012.07.40%20am.png"
+      },
+      name: "Here They Lie",
+      original_release_date: null,
+      platforms: [
         {
-          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
-          "id": 94,
-          "name": "PC",
-          "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
-          "abbreviation": "PC"
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-146/",
+          id: 146,
+          name: "PlayStation 4",
+          site_detail_url: "http://www.giantbomb.com/playstation-4/3045-146/",
+          abbreviation: "PS4"
+        }
+      ]
+    },
+    {
+      deck: "A sci-fi adventure for PlayStation VR.",
+      id: 54247,
+      image: {
+        icon_url: "http://www.giantbomb.com/api/image/square_avatar/2861867-robinson-the-journey-announce.jpg",
+        medium_url: "http://www.giantbomb.com/api/image/scale_medium/2861867-robinson-the-journey-announce.jpg",
+        screen_url: "http://www.giantbomb.com/api/image/screen_medium/2861867-robinson-the-journey-announce.jpg",
+        small_url: "http://www.giantbomb.com/api/image/scale_small/2861867-robinson-the-journey-announce.jpg",
+        super_url: "http://www.giantbomb.com/api/image/scale_large/2861867-robinson-the-journey-announce.jpg",
+        thumb_url: "http://www.giantbomb.com/api/image/scale_avatar/2861867-robinson-the-journey-announce.jpg",
+        tiny_url: "http://www.giantbomb.com/api/image/square_mini/2861867-robinson-the-journey-announce.jpg"
+      },
+      name: "Robinson: The Journey",
+      original_release_date: null,
+      platforms: [
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-146/",
+          id: 146,
+          name: "PlayStation 4",
+          site_detail_url: "http://www.giantbomb.com/playstation-4/3045-146/",
+          abbreviation: "PS4"
+        }
+      ]
+    },
+    {
+      deck: "Get on your bicycle once again and take on the 2016 edition of the Tour de France",
+      id: 54265,
+      image: {
+        icon_url: "http://www.giantbomb.com/api/image/square_avatar/2862754-7f3d3aea-3464-494c-bf4a-701badf4d6b6.jpeg",
+        medium_url: "http://www.giantbomb.com/api/image/scale_medium/2862754-7f3d3aea-3464-494c-bf4a-701badf4d6b6.jpeg",
+        screen_url: "http://www.giantbomb.com/api/image/screen_medium/2862754-7f3d3aea-3464-494c-bf4a-701badf4d6b6.jpeg",
+        small_url: "http://www.giantbomb.com/api/image/scale_small/2862754-7f3d3aea-3464-494c-bf4a-701badf4d6b6.jpeg",
+        super_url: "http://www.giantbomb.com/api/image/scale_large/2862754-7f3d3aea-3464-494c-bf4a-701badf4d6b6.jpeg",
+        thumb_url: "http://www.giantbomb.com/api/image/scale_avatar/2862754-7f3d3aea-3464-494c-bf4a-701badf4d6b6.jpeg",
+        tiny_url: "http://www.giantbomb.com/api/image/square_mini/2862754-7f3d3aea-3464-494c-bf4a-701badf4d6b6.jpeg"
+      },
+      name: "Le Tour de France 2016",
+      original_release_date: "2016-06-16 00:00:00",
+      platforms: [
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-145/",
+          id: 145,
+          name: "Xbox One",
+          site_detail_url: "http://www.giantbomb.com/xbox-one/3045-145/",
+          abbreviation: "XONE"
         },
         {
-          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
-          "id": 145,
-          "name": "Xbox One",
-          "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
-          "abbreviation": "XONE"
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-146/",
+          id: 146,
+          name: "PlayStation 4",
+          site_detail_url: "http://www.giantbomb.com/playstation-4/3045-146/",
+          abbreviation: "PS4"
+        }
+      ]
+    },
+    {
+      deck: "Disc Jam is a disc-based future sport for 2 to 4 players.",
+      id: 54269,
+      image: {
+        icon_url: "http://www.giantbomb.com/api/image/square_avatar/2862947-header.jpg",
+        medium_url: "http://www.giantbomb.com/api/image/scale_medium/2862947-header.jpg",
+        screen_url: "http://www.giantbomb.com/api/image/screen_medium/2862947-header.jpg",
+        small_url: "http://www.giantbomb.com/api/image/scale_small/2862947-header.jpg",
+        super_url: "http://www.giantbomb.com/api/image/scale_large/2862947-header.jpg",
+        thumb_url: "http://www.giantbomb.com/api/image/scale_avatar/2862947-header.jpg",
+        tiny_url: "http://www.giantbomb.com/api/image/square_mini/2862947-header.jpg"
+      },
+      name: "Disc Jam",
+      original_release_date: null,
+      platforms: [
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-94/",
+          id: 94,
+          name: "PC",
+          site_detail_url: "http://www.giantbomb.com/pc/3045-94/",
+          abbreviation: "PC"
         },
         {
-          "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
-          "id": 146,
-          "name": "PlayStation 4",
-          "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
-          "abbreviation": "PS4"
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-146/",
+          id: 146,
+          name: "PlayStation 4",
+          site_detail_url: "http://www.giantbomb.com/playstation-4/3045-146/",
+          abbreviation: "PS4"
+        }
+      ]
+    },
+    {
+      deck: "A top-down fast-paced action game reminiscent of Hotline Miami made by a team of veterans of the games industry.",
+      id: 54270,
+      image: {
+        icon_url: "http://www.giantbomb.com/api/image/square_avatar/2863160-mrshifty-fullsize.png",
+        medium_url: "http://www.giantbomb.com/api/image/scale_medium/2863160-mrshifty-fullsize.png",
+        screen_url: "http://www.giantbomb.com/api/image/screen_medium/2863160-mrshifty-fullsize.png",
+        small_url: "http://www.giantbomb.com/api/image/scale_small/2863160-mrshifty-fullsize.png",
+        super_url: "http://www.giantbomb.com/api/image/scale_large/2863160-mrshifty-fullsize.png",
+        thumb_url: "http://www.giantbomb.com/api/image/scale_avatar/2863160-mrshifty-fullsize.png",
+        tiny_url: "http://www.giantbomb.com/api/image/square_mini/2863160-mrshifty-fullsize.png"
+      },
+      name: "Mr Shifty",
+      original_release_date: null,
+      platforms: [
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-94/",
+          id: 94,
+          name: "PC",
+          site_detail_url: "http://www.giantbomb.com/pc/3045-94/",
+          abbreviation: "PC"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-145/",
+          id: 145,
+          name: "Xbox One",
+          site_detail_url: "http://www.giantbomb.com/xbox-one/3045-145/",
+          abbreviation: "XONE"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-146/",
+          id: 146,
+          name: "PlayStation 4",
+          site_detail_url: "http://www.giantbomb.com/playstation-4/3045-146/",
+          abbreviation: "PS4"
+        }
+      ]
+    },
+    {
+      deck: "Drawful 2 is the sequel to Drawful, a game in which players are prompted to draw weird or impossible things.",
+      id: 54286,
+      image: {
+        icon_url: "http://www.giantbomb.com/api/image/square_avatar/2864093-drawful2_gb_coverimage.png",
+        medium_url: "http://www.giantbomb.com/api/image/scale_medium/2864093-drawful2_gb_coverimage.png",
+        screen_url: "http://www.giantbomb.com/api/image/screen_medium/2864093-drawful2_gb_coverimage.png",
+        small_url: "http://www.giantbomb.com/api/image/scale_small/2864093-drawful2_gb_coverimage.png",
+        super_url: "http://www.giantbomb.com/api/image/scale_large/2864093-drawful2_gb_coverimage.png",
+        thumb_url: "http://www.giantbomb.com/api/image/scale_avatar/2864093-drawful2_gb_coverimage.png",
+        tiny_url: "http://www.giantbomb.com/api/image/square_mini/2864093-drawful2_gb_coverimage.png"
+      },
+      name: "Drawful 2",
+      original_release_date: "2016-06-21 00:00:00",
+      platforms: [
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-17/",
+          id: 17,
+          name: "Mac",
+          site_detail_url: "http://www.giantbomb.com/mac/3045-17/",
+          abbreviation: "MAC"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-94/",
+          id: 94,
+          name: "PC",
+          site_detail_url: "http://www.giantbomb.com/pc/3045-94/",
+          abbreviation: "PC"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-145/",
+          id: 145,
+          name: "Xbox One",
+          site_detail_url: "http://www.giantbomb.com/xbox-one/3045-145/",
+          abbreviation: "XONE"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-146/",
+          id: 146,
+          name: "PlayStation 4",
+          site_detail_url: "http://www.giantbomb.com/playstation-4/3045-146/",
+          abbreviation: "PS4"
+        }
+      ]
+    },
+    {
+      deck: "The third party games bundle from Jackbox Games",
+      id: 54322,
+      image: {
+        icon_url: "http://www.giantbomb.com/api/image/square_avatar/2864614-3610520484-jbpp3.jpg",
+        medium_url: "http://www.giantbomb.com/api/image/scale_medium/2864614-3610520484-jbpp3.jpg",
+        screen_url: "http://www.giantbomb.com/api/image/screen_medium/2864614-3610520484-jbpp3.jpg",
+        small_url: "http://www.giantbomb.com/api/image/scale_small/2864614-3610520484-jbpp3.jpg",
+        super_url: "http://www.giantbomb.com/api/image/scale_large/2864614-3610520484-jbpp3.jpg",
+        thumb_url: "http://www.giantbomb.com/api/image/scale_avatar/2864614-3610520484-jbpp3.jpg",
+        tiny_url: "http://www.giantbomb.com/api/image/square_mini/2864614-3610520484-jbpp3.jpg"
+      },
+      name: "The Jackbox Party Pack 3",
+      original_release_date: null,
+      platforms: [
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-17/",
+          id: 17,
+          name: "Mac",
+          site_detail_url: "http://www.giantbomb.com/mac/3045-17/",
+          abbreviation: "MAC"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-94/",
+          id: 94,
+          name: "PC",
+          site_detail_url: "http://www.giantbomb.com/pc/3045-94/",
+          abbreviation: "PC"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-145/",
+          id: 145,
+          name: "Xbox One",
+          site_detail_url: "http://www.giantbomb.com/xbox-one/3045-145/",
+          abbreviation: "XONE"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-146/",
+          id: 146,
+          name: "PlayStation 4",
+          site_detail_url: "http://www.giantbomb.com/playstation-4/3045-146/",
+          abbreviation: "PS4"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-155/",
+          id: 155,
+          name: "Amazon Fire TV",
+          site_detail_url: "http://www.giantbomb.com/amazon-fire-tv/3045-155/",
+          abbreviation: "FIRE"
+        }
+      ]
+    },
+    {
+      deck: "An action-MOBA game centering around the theme of pirates.",
+      id: 54337,
+      image: {
+        icon_url: "http://www.giantbomb.com/api/image/square_avatar/2864804-splash%20screen01_v4_1080.jpg",
+        medium_url: "http://www.giantbomb.com/api/image/scale_medium/2864804-splash%20screen01_v4_1080.jpg",
+        screen_url: "http://www.giantbomb.com/api/image/screen_medium/2864804-splash%20screen01_v4_1080.jpg",
+        small_url: "http://www.giantbomb.com/api/image/scale_small/2864804-splash%20screen01_v4_1080.jpg",
+        super_url: "http://www.giantbomb.com/api/image/scale_large/2864804-splash%20screen01_v4_1080.jpg",
+        thumb_url: "http://www.giantbomb.com/api/image/scale_avatar/2864804-splash%20screen01_v4_1080.jpg",
+        tiny_url: "http://www.giantbomb.com/api/image/square_mini/2864804-splash%20screen01_v4_1080.jpg"
+      },
+      name: "Pirates: Treasure Hunters",
+      original_release_date: "2016-06-21 00:00:00",
+      platforms: [
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-94/",
+          id: 94,
+          name: "PC",
+          site_detail_url: "http://www.giantbomb.com/pc/3045-94/",
+          abbreviation: "PC"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-146/",
+          id: 146,
+          name: "PlayStation 4",
+          site_detail_url: "http://www.giantbomb.com/playstation-4/3045-146/",
+          abbreviation: "PS4"
+        }
+      ]
+    },
+    {
+      deck: "Asemblance is a single-player, first-person, psychological thriller.",
+      id: 54348,
+      image: {
+        icon_url: "http://www.giantbomb.com/api/image/square_avatar/2865480-asemblancetwitch.png",
+        medium_url: "http://www.giantbomb.com/api/image/scale_medium/2865480-asemblancetwitch.png",
+        screen_url: "http://www.giantbomb.com/api/image/screen_medium/2865480-asemblancetwitch.png",
+        small_url: "http://www.giantbomb.com/api/image/scale_small/2865480-asemblancetwitch.png",
+        super_url: "http://www.giantbomb.com/api/image/scale_large/2865480-asemblancetwitch.png",
+        thumb_url: "http://www.giantbomb.com/api/image/scale_avatar/2865480-asemblancetwitch.png",
+        tiny_url: "http://www.giantbomb.com/api/image/square_mini/2865480-asemblancetwitch.png"
+      },
+      name: "Asemblance",
+      original_release_date: "2016-06-21 00:00:00",
+      platforms: [
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-94/",
+          id: 94,
+          name: "PC",
+          site_detail_url: "http://www.giantbomb.com/pc/3045-94/",
+          abbreviation: "PC"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-146/",
+          id: 146,
+          name: "PlayStation 4",
+          site_detail_url: "http://www.giantbomb.com/playstation-4/3045-146/",
+          abbreviation: "PS4"
+        }
+      ]
+    },
+    {
+      deck: "NASCAR Heat Evolution is a NASCAR themed driving simulator by Monster Games",
+      id: 54417,
+      image: null,
+      name: "NASCAR Heat Evolution",
+      original_release_date: null,
+      platforms: [
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-94/",
+          id: 94,
+          name: "PC",
+          site_detail_url: "http://www.giantbomb.com/pc/3045-94/",
+          abbreviation: "PC"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-145/",
+          id: 145,
+          name: "Xbox One",
+          site_detail_url: "http://www.giantbomb.com/xbox-one/3045-145/",
+          abbreviation: "XONE"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-146/",
+          id: 146,
+          name: "PlayStation 4",
+          site_detail_url: "http://www.giantbomb.com/playstation-4/3045-146/",
+          abbreviation: "PS4"
+        }
+      ]
+    },
+    {
+      deck: "Remastered versions of the BioShock trilogy in one collection.",
+      id: 54453,
+      image: {
+        icon_url: "http://www.giantbomb.com/api/image/square_avatar/2867552-0739647122-BioSh.jpg",
+        medium_url: "http://www.giantbomb.com/api/image/scale_medium/2867552-0739647122-BioSh.jpg",
+        screen_url: "http://www.giantbomb.com/api/image/screen_medium/2867552-0739647122-BioSh.jpg",
+        small_url: "http://www.giantbomb.com/api/image/scale_small/2867552-0739647122-BioSh.jpg",
+        super_url: "http://www.giantbomb.com/api/image/scale_large/2867552-0739647122-BioSh.jpg",
+        thumb_url: "http://www.giantbomb.com/api/image/scale_avatar/2867552-0739647122-BioSh.jpg",
+        tiny_url: "http://www.giantbomb.com/api/image/square_mini/2867552-0739647122-BioSh.jpg"
+      },
+      name: "BioShock: The Collection",
+      original_release_date: null,
+      platforms: [
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-94/",
+          id: 94,
+          name: "PC",
+          site_detail_url: "http://www.giantbomb.com/pc/3045-94/",
+          abbreviation: "PC"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-145/",
+          id: 145,
+          name: "Xbox One",
+          site_detail_url: "http://www.giantbomb.com/xbox-one/3045-145/",
+          abbreviation: "XONE"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-146/",
+          id: 146,
+          name: "PlayStation 4",
+          site_detail_url: "http://www.giantbomb.com/playstation-4/3045-146/",
+          abbreviation: "PS4"
+        }
+      ]
+    },
+    {
+      deck: "Carmageddon: Max Damage is the driving sensation where your opponents are a bunch of crazies in a twisted mix of mad cars. Select from more than 30 metal mangling vehicles designed for the job in wrecking opponents, chasing down pedestrians, and causing maximum chaos!",
+      id: 54462,
+      image: {
+        icon_url: "http://www.giantbomb.com/api/image/square_avatar/2867663-27394888233_65ef4bd61a_o.jpg",
+        medium_url: "http://www.giantbomb.com/api/image/scale_medium/2867663-27394888233_65ef4bd61a_o.jpg",
+        screen_url: "http://www.giantbomb.com/api/image/screen_medium/2867663-27394888233_65ef4bd61a_o.jpg",
+        small_url: "http://www.giantbomb.com/api/image/scale_small/2867663-27394888233_65ef4bd61a_o.jpg",
+        super_url: "http://www.giantbomb.com/api/image/scale_large/2867663-27394888233_65ef4bd61a_o.jpg",
+        thumb_url: "http://www.giantbomb.com/api/image/scale_avatar/2867663-27394888233_65ef4bd61a_o.jpg",
+        tiny_url: "http://www.giantbomb.com/api/image/square_mini/2867663-27394888233_65ef4bd61a_o.jpg"
+      },
+      name: "Carmageddon: Max Damage",
+      original_release_date: "2016-07-05 00:00:00",
+      platforms: [
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-145/",
+          id: 145,
+          name: "Xbox One",
+          site_detail_url: "http://www.giantbomb.com/xbox-one/3045-145/",
+          abbreviation: "XONE"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-146/",
+          id: 146,
+          name: "PlayStation 4",
+          site_detail_url: "http://www.giantbomb.com/playstation-4/3045-146/",
+          abbreviation: "PS4"
+        }
+      ]
+    },
+    {
+      deck: "MilitAnt",
+      id: 54622,
+      image: {
+        icon_url: "http://www.giantbomb.com/api/image/square_avatar/2869166-bannermilitant2.jpg",
+        medium_url: "http://www.giantbomb.com/api/image/scale_medium/2869166-bannermilitant2.jpg",
+        screen_url: "http://www.giantbomb.com/api/image/screen_medium/2869166-bannermilitant2.jpg",
+        small_url: "http://www.giantbomb.com/api/image/scale_small/2869166-bannermilitant2.jpg",
+        super_url: "http://www.giantbomb.com/api/image/scale_large/2869166-bannermilitant2.jpg",
+        thumb_url: "http://www.giantbomb.com/api/image/scale_avatar/2869166-bannermilitant2.jpg",
+        tiny_url: "http://www.giantbomb.com/api/image/square_mini/2869166-bannermilitant2.jpg"
+      },
+      name: "MilitAnt",
+      original_release_date: null,
+      platforms: [
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-94/",
+          id: 94,
+          name: "PC",
+          site_detail_url: "http://www.giantbomb.com/pc/3045-94/",
+          abbreviation: "PC"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-143/",
+          id: 143,
+          name: "PlayStation Network (Vita)",
+          site_detail_url: "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+          abbreviation: "PSNV"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-146/",
+          id: 146,
+          name: "PlayStation 4",
+          site_detail_url: "http://www.giantbomb.com/playstation-4/3045-146/",
+          abbreviation: "PS4"
+        }
+      ]
+    },
+    {
+      deck: "Last Wings is a 2D air combat game. Developed by by Vertice Games.",
+      id: 54626,
+      image: {
+        icon_url: "http://www.giantbomb.com/api/image/square_avatar/2869319-6292109555-image",
+        medium_url: "http://www.giantbomb.com/api/image/scale_medium/2869319-6292109555-image",
+        screen_url: "http://www.giantbomb.com/api/image/screen_medium/2869319-6292109555-image",
+        small_url: "http://www.giantbomb.com/api/image/scale_small/2869319-6292109555-image",
+        super_url: "http://www.giantbomb.com/api/image/scale_large/2869319-6292109555-image",
+        thumb_url: "http://www.giantbomb.com/api/image/scale_avatar/2869319-6292109555-image",
+        tiny_url: "http://www.giantbomb.com/api/image/square_mini/2869319-6292109555-image"
+      },
+      name: "Last Wings",
+      original_release_date: "2016-07-12 00:00:00",
+      platforms: [
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-143/",
+          id: 143,
+          name: "PlayStation Network (Vita)",
+          site_detail_url: "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+          abbreviation: "PSNV"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-146/",
+          id: 146,
+          name: "PlayStation 4",
+          site_detail_url: "http://www.giantbomb.com/playstation-4/3045-146/",
+          abbreviation: "PS4"
+        }
+      ]
+    },
+    {
+      deck: "Ubisoft's take on the classic game",
+      id: 54682,
+      image: {
+        icon_url: "http://www.giantbomb.com/api/image/square_avatar/2870848-uno_logo_pr_announcement_20160719_4pm_cet_1468855694.png",
+        medium_url: "http://www.giantbomb.com/api/image/scale_medium/2870848-uno_logo_pr_announcement_20160719_4pm_cet_1468855694.png",
+        screen_url: "http://www.giantbomb.com/api/image/screen_medium/2870848-uno_logo_pr_announcement_20160719_4pm_cet_1468855694.png",
+        small_url: "http://www.giantbomb.com/api/image/scale_small/2870848-uno_logo_pr_announcement_20160719_4pm_cet_1468855694.png",
+        super_url: "http://www.giantbomb.com/api/image/scale_large/2870848-uno_logo_pr_announcement_20160719_4pm_cet_1468855694.png",
+        thumb_url: "http://www.giantbomb.com/api/image/scale_avatar/2870848-uno_logo_pr_announcement_20160719_4pm_cet_1468855694.png",
+        tiny_url: "http://www.giantbomb.com/api/image/square_mini/2870848-uno_logo_pr_announcement_20160719_4pm_cet_1468855694.png"
+      },
+      name: "Uno",
+      original_release_date: null,
+      platforms: [
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-94/",
+          id: 94,
+          name: "PC",
+          site_detail_url: "http://www.giantbomb.com/pc/3045-94/",
+          abbreviation: "PC"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-145/",
+          id: 145,
+          name: "Xbox One",
+          site_detail_url: "http://www.giantbomb.com/xbox-one/3045-145/",
+          abbreviation: "XONE"
+        },
+        {
+          api_detail_url: "http://www.giantbomb.com/api/platform/3045-146/",
+          id: 146,
+          name: "PlayStation 4",
+          site_detail_url: "http://www.giantbomb.com/playstation-4/3045-146/",
+          abbreviation: "PS4"
         }
       ]
     }
   ],
-  "version": "1.0"
+  version: "1.0"
 }
