@@ -2,63 +2,60 @@
 
 const data = require('./games_ids/ps4-games-ids.json');
 const fs = require("fs");
+const async = require("async");
 const underscore = require("underscore");
 const _ = require('lodash');
 const request = require('request');
 const jsonfile = require('jsonfile');
-const async = require('async');
 
 const baseUrl = "http://www.giantbomb.com/api/game/";
 const format = "/?format=json";
 const apiKey = "&api_key=aaba549e362b68c090bbc073b0bde1cf799d1468";
 const fieldList = "&field_list=name,description,deck,id,original_release_date,image,images,genres,platforms,publishers,developers,videos,releases,api_detail_url,site_detail_url";
 
-var idsArr = [];
-var gamesArrOutput = [];
+async.map(data.results, (game, done) => {
+    //setTimeout(requestNotification, 5000); WRONG!!!
+    request( doTimeout() + game.id + format + apiKey + fieldList, (err, resp, body) => {
+        if (err) done (err);
 
-for (var i = 0; i < data.length; i++) {
-    console.log(data[i].id);
-    idsArr.push(data[i].id);
+        if (resp.statusCode === 200) {
+            console.log('statusCode === 200');
+            done(null, JSON.parse(body).results);
+        }
+        })
+    }, (err, results) => {
+            if (err) console.error(err);
+            jsonfile.writeFile('./games/ps4-games.json+', results, {spaces: 2}, (err) => {
+                if ( err ) {
+                console.error( err );
+                }
+            } )
+        })
+
+function doTimeout() {
+    setTimeout(function returnBaseUrl() {
+        return "http://www.giantbomb.com/api/game/";
+    }, 1000);
 }
 
-i = -1;
-async.each(idsArr, function requestGameObject() {
-
-    i++;
-    if (i % 100 === 0 && i !== 0) {
-        setTimeout(
-        function requestGames() {
-            request(baseUrl + idsArr[i] + format + apiKey + fieldList, function (error, response, body) {
-                if (!error && response.statusCode == 200) {
-                    fs.appendFile('./games/ps4-games.json', JSON.stringify(JSON.parse(body).results) + ",", (err) => {
-                        if(err) throw err;
-                    console.log('Wrote!');
-                })
-                }
-            })
-        }, 3600000)
-    } else {
-        request(baseUrl + idsArr[i] + format + apiKey + fieldList, function (error, response, body) {
-            if (!error && response.statusCode == 200) {
-                fs.appendFile('./games/ps4-games.json', JSON.stringify(JSON.parse(body).results) + ",", (err) => {
-                    if(err) throw err;
-                console.log('Wrote!');
-            })
-            }
-        })
-    }
-
-}, function callback(error, done) {
-        if (error) {
-            console.log('Access restricted!');
-            throw error;
-        }
-        console.log('Hacker!');
-        return done;
-    }
-);
-
-
+// THIS TRULY WORKS BUT HERE NEED TO IMPLEMENT BREAK BETWEEN EACH REQUEST
+//async.map(data.results, (game, done) => {
+//    request(baseUrl + game.id + format + apiKey + fieldList, (err, resp, body) => {
+//        if (err) done (err);
+//
+//if (resp.statusCode === 200) {
+//    console.log('statusCode === 200');
+//    done(null, JSON.parse(body).results);
+//}
+//})
+//}, (err, results) => {
+//    if (err) console.error(err);
+//    jsonfile.writeFile('./games/ps4-games.json+', results, {spaces: 2}, (err) => {
+//        if ( err ) {
+//        console.error( err );
+//    }
+//} )
+//})
 
 
 
