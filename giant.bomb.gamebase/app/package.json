@@ -10,10 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "async": "^2.0.1",
-    "fs": "*",
     "jsonfile": "*",
-    "lodash": "^4.14.0",
-    "request": "^2.74.0",
-    "underscore": "*"
+    "request": "^2.74.0"
+
   }
 }
