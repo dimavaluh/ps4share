@@ -1,0 +1,475 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-42915/",
+  "deck": "RedLynx takes their bike-platforming franchise to the future (and PlayStation) with the addition of a physics-based trick system.",
+  "id": 42915,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2710530-6245312201-24448.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2710530-6245312201-24448.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2710530-6245312201-24448.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2710530-6245312201-24448.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2710530-6245312201-24448.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2710530-6245312201-24448.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2710530-6245312201-24448.jpg"
+  },
+  "name": "Trials Fusion",
+  "original_release_date": "2014-04-15 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/trials-fusion/3030-42915/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2710530-6245312201-24448.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2710530-6245312201-24448.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2710530-6245312201-24448.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2710530-6245312201-24448.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/141373/2710530-6245312201-24448.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/141373/2710530-6245312201-24448.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/141373/2710530-6245312201-24448.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2642259-box_tfusion.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2642259-box_tfusion.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2642259-box_tfusion.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2642259-box_tfusion.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2642259-box_tfusion.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2642259-box_tfusion.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2642259-box_tfusion.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631060-trials+fusion%E2%84%A2_20140509222532.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631060-trials+fusion%E2%84%A2_20140509222532.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631060-trials+fusion%E2%84%A2_20140509222532.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631060-trials+fusion%E2%84%A2_20140509222532.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2631060-trials+fusion%E2%84%A2_20140509222532.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2631060-trials+fusion%E2%84%A2_20140509222532.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2631060-trials+fusion%E2%84%A2_20140509222532.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631059-trials+fusion%E2%84%A2_20140509222438.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631059-trials+fusion%E2%84%A2_20140509222438.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631059-trials+fusion%E2%84%A2_20140509222438.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631059-trials+fusion%E2%84%A2_20140509222438.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2631059-trials+fusion%E2%84%A2_20140509222438.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2631059-trials+fusion%E2%84%A2_20140509222438.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2631059-trials+fusion%E2%84%A2_20140509222438.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631058-trials+fusion%E2%84%A2_20140509222321.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631058-trials+fusion%E2%84%A2_20140509222321.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631058-trials+fusion%E2%84%A2_20140509222321.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631058-trials+fusion%E2%84%A2_20140509222321.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2631058-trials+fusion%E2%84%A2_20140509222321.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2631058-trials+fusion%E2%84%A2_20140509222321.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2631058-trials+fusion%E2%84%A2_20140509222321.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631057-trials+fusion%E2%84%A2_20140509222236.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631057-trials+fusion%E2%84%A2_20140509222236.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631057-trials+fusion%E2%84%A2_20140509222236.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631057-trials+fusion%E2%84%A2_20140509222236.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2631057-trials+fusion%E2%84%A2_20140509222236.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2631057-trials+fusion%E2%84%A2_20140509222236.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2631057-trials+fusion%E2%84%A2_20140509222236.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631056-trials+fusion%E2%84%A2_20140509222142.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631056-trials+fusion%E2%84%A2_20140509222142.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631056-trials+fusion%E2%84%A2_20140509222142.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631056-trials+fusion%E2%84%A2_20140509222142.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2631056-trials+fusion%E2%84%A2_20140509222142.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2631056-trials+fusion%E2%84%A2_20140509222142.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2631056-trials+fusion%E2%84%A2_20140509222142.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631055-trials+fusion%E2%84%A2_20140509222021.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631055-trials+fusion%E2%84%A2_20140509222021.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631055-trials+fusion%E2%84%A2_20140509222021.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631055-trials+fusion%E2%84%A2_20140509222021.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2631055-trials+fusion%E2%84%A2_20140509222021.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2631055-trials+fusion%E2%84%A2_20140509222021.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2631055-trials+fusion%E2%84%A2_20140509222021.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631054-trials+fusion%E2%84%A2_20140509222001.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631054-trials+fusion%E2%84%A2_20140509222001.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631054-trials+fusion%E2%84%A2_20140509222001.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631054-trials+fusion%E2%84%A2_20140509222001.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2631054-trials+fusion%E2%84%A2_20140509222001.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2631054-trials+fusion%E2%84%A2_20140509222001.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2631054-trials+fusion%E2%84%A2_20140509222001.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631053-trials+fusion%E2%84%A2_20140509221911.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631053-trials+fusion%E2%84%A2_20140509221911.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631053-trials+fusion%E2%84%A2_20140509221911.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631053-trials+fusion%E2%84%A2_20140509221911.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2631053-trials+fusion%E2%84%A2_20140509221911.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2631053-trials+fusion%E2%84%A2_20140509221911.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2631053-trials+fusion%E2%84%A2_20140509221911.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631052-trials+fusion%E2%84%A2_20140509221751.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631052-trials+fusion%E2%84%A2_20140509221751.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631052-trials+fusion%E2%84%A2_20140509221751.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631052-trials+fusion%E2%84%A2_20140509221751.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2631052-trials+fusion%E2%84%A2_20140509221751.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2631052-trials+fusion%E2%84%A2_20140509221751.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2631052-trials+fusion%E2%84%A2_20140509221751.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631051-trials+fusion%E2%84%A2_20140509221404.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631051-trials+fusion%E2%84%A2_20140509221404.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631051-trials+fusion%E2%84%A2_20140509221404.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631051-trials+fusion%E2%84%A2_20140509221404.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2631051-trials+fusion%E2%84%A2_20140509221404.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2631051-trials+fusion%E2%84%A2_20140509221404.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2631051-trials+fusion%E2%84%A2_20140509221404.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631050-trials+fusion%E2%84%A2_20140509221346.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631050-trials+fusion%E2%84%A2_20140509221346.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631050-trials+fusion%E2%84%A2_20140509221346.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631050-trials+fusion%E2%84%A2_20140509221346.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2631050-trials+fusion%E2%84%A2_20140509221346.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2631050-trials+fusion%E2%84%A2_20140509221346.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2631050-trials+fusion%E2%84%A2_20140509221346.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631049-trials+fusion%E2%84%A2_20140504172208.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631049-trials+fusion%E2%84%A2_20140504172208.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631049-trials+fusion%E2%84%A2_20140504172208.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631049-trials+fusion%E2%84%A2_20140504172208.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2631049-trials+fusion%E2%84%A2_20140504172208.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2631049-trials+fusion%E2%84%A2_20140504172208.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2631049-trials+fusion%E2%84%A2_20140504172208.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631048-trials+fusion%E2%84%A2_20140504172046.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631048-trials+fusion%E2%84%A2_20140504172046.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631048-trials+fusion%E2%84%A2_20140504172046.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631048-trials+fusion%E2%84%A2_20140504172046.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2631048-trials+fusion%E2%84%A2_20140504172046.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2631048-trials+fusion%E2%84%A2_20140504172046.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2631048-trials+fusion%E2%84%A2_20140504172046.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631047-trials+fusion%E2%84%A2_20140504172032.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631047-trials+fusion%E2%84%A2_20140504172032.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2631047-trials+fusion%E2%84%A2_20140504172032.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2631047-trials+fusion%E2%84%A2_20140504172032.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2631047-trials+fusion%E2%84%A2_20140504172032.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2631047-trials+fusion%E2%84%A2_20140504172032.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2631047-trials+fusion%E2%84%A2_20140504172032.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2625002-sp+disc+cover.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2625002-sp+disc+cover.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2625002-sp+disc+cover.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2625002-sp+disc+cover.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2625002-sp+disc+cover.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2625002-sp+disc+cover.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2625002-sp+disc+cover.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2625001-sp+cover_0002.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2625001-sp+cover_0002.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2625001-sp+cover_0002.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2625001-sp+cover_0002.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2625001-sp+cover_0002.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2625001-sp+cover_0002.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2625001-sp+cover_0002.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2625000-sp+cover.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2625000-sp+cover.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2625000-sp+cover.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2625000-sp+cover.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2625000-sp+cover.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2625000-sp+cover.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2625000-sp+cover.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621351-dsc05603.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621351-dsc05603.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621351-dsc05603.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621351-dsc05603.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2621351-dsc05603.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2621351-dsc05603.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2621351-dsc05603.jpg",
+      "tags": "All Images, Ubisoft, PAX East 2014 Booth, PAX East 2014"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621350-dsc05602.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621350-dsc05602.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621350-dsc05602.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621350-dsc05602.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2621350-dsc05602.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2621350-dsc05602.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2621350-dsc05602.jpg",
+      "tags": "All Images, Ubisoft, PAX East 2014 Booth, PAX East 2014"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621348-dsc05600.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621348-dsc05600.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621348-dsc05600.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621348-dsc05600.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2621348-dsc05600.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2621348-dsc05600.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2621348-dsc05600.jpg",
+      "tags": "All Images, Ubisoft, PAX East 2014 Booth, PAX East 2014"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621347-dsc05599.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621347-dsc05599.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621347-dsc05599.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621347-dsc05599.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2621347-dsc05599.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2621347-dsc05599.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2621347-dsc05599.jpg",
+      "tags": "All Images, Ubisoft, PAX East 2014 Booth, PAX East 2014"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621346-dsc05598.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621346-dsc05598.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621346-dsc05598.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621346-dsc05598.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2621346-dsc05598.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2621346-dsc05598.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2621346-dsc05598.jpg",
+      "tags": "All Images, Ubisoft, PAX East 2014 Booth, PAX East 2014"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2605445-track_editor_editing_xbox_1392978348.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2605445-track_editor_editing_xbox_1392978348.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2605445-track_editor_editing_xbox_1392978348.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2605445-track_editor_editing_xbox_1392978348.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/30/2605445-track_editor_editing_xbox_1392978348.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/30/2605445-track_editor_editing_xbox_1392978348.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/30/2605445-track_editor_editing_xbox_1392978348.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2605444-track_editor_editing_ps4_1392978346.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2605444-track_editor_editing_ps4_1392978346.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2605444-track_editor_editing_ps4_1392978346.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2605444-track_editor_editing_ps4_1392978346.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/30/2605444-track_editor_editing_ps4_1392978346.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/30/2605444-track_editor_editing_ps4_1392978346.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/30/2605444-track_editor_editing_ps4_1392978346.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2605443-track_central_tracks_xbox_1392978345.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2605443-track_central_tracks_xbox_1392978345.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2605443-track_central_tracks_xbox_1392978345.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2605443-track_central_tracks_xbox_1392978345.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/30/2605443-track_central_tracks_xbox_1392978345.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/30/2605443-track_central_tracks_xbox_1392978345.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/30/2605443-track_central_tracks_xbox_1392978345.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2605442-track_central_tracks_ps4_1392978344.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2605442-track_central_tracks_ps4_1392978344.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2605442-track_central_tracks_ps4_1392978344.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2605442-track_central_tracks_ps4_1392978344.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/30/2605442-track_central_tracks_ps4_1392978344.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/30/2605442-track_central_tracks_ps4_1392978344.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/30/2605442-track_central_tracks_ps4_1392978344.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2605441-single_turbineterror_1392978344.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2605441-single_turbineterror_1392978344.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2605441-single_turbineterror_1392978344.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2605441-single_turbineterror_1392978344.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/30/2605441-single_turbineterror_1392978344.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/30/2605441-single_turbineterror_1392978344.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/30/2605441-single_turbineterror_1392978344.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2605440-single_quad_1392978343.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2605440-single_quad_1392978343.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2605440-single_quad_1392978343.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2605440-single_quad_1392978343.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/30/2605440-single_quad_1392978343.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/30/2605440-single_quad_1392978343.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/30/2605440-single_quad_1392978343.png",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7511/",
+      "id": 7511,
+      "name": "E3 2013: Trials Jumps to Next-Gen with Fusion and onto Mobile with Frontier",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-trials-jumps-to-next-gen-with-fusion-and-o/2300-7511/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8555/",
+      "id": 8555,
+      "name": "Unfinished: Trials Fusion 02/26/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/unfinished-trials-fusion-02-26-2014/2300-8555/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8669/",
+      "id": 8669,
+      "name": "Trials Fusion Shows Off Some New Tricks",
+      "site_detail_url": "http://www.giantbomb.com/videos/trials-fusion-shows-off-some-new-tricks/2300-8669/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8750/",
+      "id": 8750,
+      "name": "Trials Fusion Is Out Now",
+      "site_detail_url": "http://www.giantbomb.com/videos/trials-fusion-is-out-now/2300-8750/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8753/",
+      "id": 8753,
+      "name": "Quick Look: Trials Fusion",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-trials-fusion/2300-8753/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8765/",
+      "id": 8765,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 04/18/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-04-18-2014/2300-8765/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9292/",
+      "id": 9292,
+      "name": "Unprofessional Fridays: 08/01/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/unprofessional-fridays-08-01-2014/2300-9292/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10300/",
+      "id": 10300,
+      "name": "E3 2015: There's a Cat Riding a Unicorn in Trials Fusion",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2015-there-s-a-cat-riding-a-unicorn-in-trials-f/2300-10300/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10517/",
+      "id": 10517,
+      "name": "Quick Look: Trials Fusion: Awesome Level MAX",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-trials-fusion-awesome-level-max/2300-10517/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10842/",
+      "id": 10842,
+      "name": "Extra Life 2015 - Jason: Part 03",
+      "site_detail_url": "http://www.giantbomb.com/videos/extra-life-2015-jason-part-03/2300-10842/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-6/",
+      "id": 6,
+      "name": "Driving/Racing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=drivingracing&wikiTypeId=3060&wikiId=6&genre=6"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133883/",
+      "id": 133883,
+      "name": "Trials Fusion",
+      "site_detail_url": "http://www.giantbomb.com/trials-fusion/3030-42915/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133928/",
+      "id": 133928,
+      "name": "Trials Fusion",
+      "site_detail_url": "http://www.giantbomb.com/trials-fusion/3030-42915/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133929/",
+      "id": 133929,
+      "name": "Trials Fusion",
+      "site_detail_url": "http://www.giantbomb.com/trials-fusion/3030-42915/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133930/",
+      "id": 133930,
+      "name": "Trials Fusion",
+      "site_detail_url": "http://www.giantbomb.com/trials-fusion/3030-42915/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133931/",
+      "id": 133931,
+      "name": "Trials Fusion",
+      "site_detail_url": "http://www.giantbomb.com/trials-fusion/3030-42915/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135200/",
+      "id": 135200,
+      "name": "Trials Fusion (Deluxe Edition)",
+      "site_detail_url": "http://www.giantbomb.com/trials-fusion/3030-42915/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142952/",
+      "id": 142952,
+      "name": "Trials Fusion (Deluxe Edition)",
+      "site_detail_url": "http://www.giantbomb.com/trials-fusion/3030-42915/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148582/",
+      "id": 148582,
+      "name": "Trials Fusion (Deluxe Edition)",
+      "site_detail_url": "http://www.giantbomb.com/trials-fusion/3030-42915/releases/"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49052/",
+  "deck": "The popular collectible card game goes free-to-play.",
+  "id": 49052,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2765543-icon175x175.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2765543-icon175x175.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2765543-icon175x175.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2765543-icon175x175.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2765543-icon175x175.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2765543-icon175x175.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2765543-icon175x175.png"
+  },
+  "name": "Magic Duels: Origins",
+  "original_release_date": "2015-07-08 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-121/",
+      "id": 121,
+      "name": "iPad",
+      "site_detail_url": "http://www.giantbomb.com/ipad/3045-121/",
+      "abbreviation": "IPAD"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/magic-duels-origins/3030-49052/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2765543-icon175x175.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2765543-icon175x175.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2765543-icon175x175.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2765543-icon175x175.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2765543-icon175x175.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2765543-icon175x175.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2765543-icon175x175.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-13/",
+      "id": 13,
+      "name": "Card Game",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=card-game&wikiTypeId=3060&wikiId=13&genre=13"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142527/",
+      "id": 142527,
+      "name": "Magic Duels",
+      "site_detail_url": "http://www.giantbomb.com/magic-duels-origins/3030-49052/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142528/",
+      "id": 142528,
+      "name": "Magic Duels",
+      "site_detail_url": "http://www.giantbomb.com/magic-duels-origins/3030-49052/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142823/",
+      "id": 142823,
+      "name": "Magic Duels: Origins",
+      "site_detail_url": "http://www.giantbomb.com/magic-duels-origins/3030-49052/releases/"
+    }
+  ]
+}

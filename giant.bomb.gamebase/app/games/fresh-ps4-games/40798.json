@@ -1,0 +1,579 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-40798/",
+  "deck": "Blood, souls, and tears are continually spent as players traverse the land of Drangleic in FromSoftware's third entry in the Souls series.",
+  "id": 40798,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2555227-ds2clean.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2555227-ds2clean.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2555227-ds2clean.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2555227-ds2clean.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2555227-ds2clean.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2555227-ds2clean.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2555227-ds2clean.jpg"
+  },
+  "name": "Dark Souls II",
+  "original_release_date": "2014-03-11 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/dark-souls-ii/3030-40798/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/145119/2714859-1202619867-IO82R.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/145119/2714859-1202619867-IO82R.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/145119/2714859-1202619867-IO82R.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/145119/2714859-1202619867-IO82R.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/145119/2714859-1202619867-IO82R.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/145119/2714859-1202619867-IO82R.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/145119/2714859-1202619867-IO82R.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/145119/2714858-4235576158-IO82R.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/145119/2714858-4235576158-IO82R.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/145119/2714858-4235576158-IO82R.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/145119/2714858-4235576158-IO82R.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/145119/2714858-4235576158-IO82R.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/145119/2714858-4235576158-IO82R.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/145119/2714858-4235576158-IO82R.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/80421/2634001-sinner.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/80421/2634001-sinner.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/80421/2634001-sinner.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/80421/2634001-sinner.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/80421/2634001-sinner.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/80421/2634001-sinner.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/80421/2634001-sinner.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/11/118108/2627417-2014-04-29_00020.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/11/118108/2627417-2014-04-29_00020.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/11/118108/2627417-2014-04-29_00020.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/11/118108/2627417-2014-04-29_00020.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/11/118108/2627417-2014-04-29_00020.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/11/118108/2627417-2014-04-29_00020.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/11/118108/2627417-2014-04-29_00020.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/11/118108/2627416-2014-04-29_00019.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/11/118108/2627416-2014-04-29_00019.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/11/118108/2627416-2014-04-29_00019.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/11/118108/2627416-2014-04-29_00019.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/11/118108/2627416-2014-04-29_00019.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/11/118108/2627416-2014-04-29_00019.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/11/118108/2627416-2014-04-29_00019.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/11/118108/2627415-2014-04-28_00016.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/11/118108/2627415-2014-04-28_00016.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/11/118108/2627415-2014-04-28_00016.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/11/118108/2627415-2014-04-28_00016.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/11/118108/2627415-2014-04-28_00016.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/11/118108/2627415-2014-04-28_00016.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/11/118108/2627415-2014-04-28_00016.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/11/118108/2627413-2014-04-30_00013.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/11/118108/2627413-2014-04-30_00013.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/11/118108/2627413-2014-04-30_00013.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/11/118108/2627413-2014-04-30_00013.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/11/118108/2627413-2014-04-30_00013.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/11/118108/2627413-2014-04-30_00013.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/11/118108/2627413-2014-04-30_00013.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/11/118108/2627412-2014-04-30_00001.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/11/118108/2627412-2014-04-30_00001.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/11/118108/2627412-2014-04-30_00001.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/11/118108/2627412-2014-04-30_00001.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/11/118108/2627412-2014-04-30_00001.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/11/118108/2627412-2014-04-30_00001.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/11/118108/2627412-2014-04-30_00001.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/11/118108/2627411-2014-04-29_00004.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/11/118108/2627411-2014-04-29_00004.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/11/118108/2627411-2014-04-29_00004.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/11/118108/2627411-2014-04-29_00004.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/11/118108/2627411-2014-04-29_00004.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/11/118108/2627411-2014-04-29_00004.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/11/118108/2627411-2014-04-29_00004.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/3/31135/2614790-20140329_213152.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/3/31135/2614790-20140329_213152.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/3/31135/2614790-20140329_213152.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/3/31135/2614790-20140329_213152.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/3/31135/2614790-20140329_213152.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/3/31135/2614790-20140329_213152.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/3/31135/2614790-20140329_213152.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592036-025590.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592036-025590.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592036-025590.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592036-025590.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2592036-025590.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2592036-025590.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2592036-025590.jpg",
+      "tags": "All Images, Character Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592034-025589.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592034-025589.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592034-025589.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592034-025589.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2592034-025589.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2592034-025589.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2592034-025589.jpg",
+      "tags": "All Images, Character Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592033-025588.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592033-025588.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592033-025588.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592033-025588.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2592033-025588.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2592033-025588.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2592033-025588.jpg",
+      "tags": "All Images, Character Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592031-025587.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592031-025587.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592031-025587.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592031-025587.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2592031-025587.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2592031-025587.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2592031-025587.jpg",
+      "tags": "All Images, Character Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592030-025586.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592030-025586.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592030-025586.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592030-025586.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2592030-025586.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2592030-025586.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2592030-025586.jpg",
+      "tags": "All Images, Character Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592029-025585.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592029-025585.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592029-025585.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592029-025585.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2592029-025585.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2592029-025585.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2592029-025585.jpg",
+      "tags": "All Images, Character Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592028-025584.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592028-025584.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592028-025584.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592028-025584.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2592028-025584.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2592028-025584.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2592028-025584.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592027-025583.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592027-025583.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592027-025583.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592027-025583.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2592027-025583.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2592027-025583.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2592027-025583.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592026-025582.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592026-025582.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592026-025582.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592026-025582.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2592026-025582.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2592026-025582.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2592026-025582.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592025-025581.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592025-025581.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592025-025581.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592025-025581.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2592025-025581.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2592025-025581.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2592025-025581.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592024-025580.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592024-025580.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592024-025580.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592024-025580.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2592024-025580.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2592024-025580.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2592024-025580.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592023-025579.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592023-025579.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592023-025579.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592023-025579.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2592023-025579.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2592023-025579.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2592023-025579.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592022-025578.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592022-025578.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592022-025578.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592022-025578.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2592022-025578.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2592022-025578.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2592022-025578.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592021-025577.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592021-025577.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592021-025577.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592021-025577.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2592021-025577.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2592021-025577.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2592021-025577.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592020-025576.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592020-025576.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592020-025576.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592020-025576.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2592020-025576.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2592020-025576.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2592020-025576.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592019-025575.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592019-025575.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592019-025575.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592019-025575.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2592019-025575.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2592019-025575.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2592019-025575.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592004-025574.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592004-025574.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592004-025574.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592004-025574.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2592004-025574.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2592004-025574.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2592004-025574.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592003-025573.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592003-025573.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592003-025573.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592003-025573.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2592003-025573.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2592003-025573.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2592003-025573.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592002-025572.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592002-025572.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592002-025572.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592002-025572.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2592002-025572.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2592002-025572.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2592002-025572.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592001-025571.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592001-025571.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2592001-025571.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2592001-025571.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2592001-025571.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2592001-025571.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2592001-025571.jpg",
+      "tags": "All Images, Screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7247/",
+      "id": 7247,
+      "name": "Dark Souls II Has a New Teaser Trailer",
+      "site_detail_url": "http://www.giantbomb.com/videos/dark-souls-ii-has-a-new-teaser-trailer/2300-7247/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7483/",
+      "id": 7483,
+      "name": "E3 2013: Are You Mentally Prepared for Dark Souls II?",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-are-you-mentally-prepared-for-dark-souls-i/2300-7483/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8369/",
+      "id": 8369,
+      "name": "There Be Monsters In This Here Dark Souls II Trailer",
+      "site_detail_url": "http://www.giantbomb.com/videos/there-be-monsters-in-this-here-dark-souls-ii-trail/2300-8369/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8434/",
+      "id": 8434,
+      "name": "Let's Talk Dark Souls II",
+      "site_detail_url": "http://www.giantbomb.com/videos/let-s-talk-dark-souls-ii/2300-8434/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8526/",
+      "id": 8526,
+      "name": "Dark Souls II Isn't All About Death, Says Uplifting Trailer",
+      "site_detail_url": "http://www.giantbomb.com/videos/dark-souls-ii-isn-t-all-about-death-says-uplifting/2300-8526/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8610/",
+      "id": 8610,
+      "name": "Quick Look: Dark Souls II",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-dark-souls-ii/2300-8610/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8613/",
+      "id": 8613,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 03/10/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-03-10-2014/2300-8613/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8617/",
+      "id": 8617,
+      "name": "Why Yes, Dark Souls II Is Out Today",
+      "site_detail_url": "http://www.giantbomb.com/videos/why-yes-dark-souls-ii-is-out-today/2300-8617/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8620/",
+      "id": 8620,
+      "name": "We're Playing Dark Souls Too! - Part 01",
+      "site_detail_url": "http://www.giantbomb.com/videos/we-re-playing-dark-souls-too-part-01/2300-8620/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8634/",
+      "id": 8634,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 03/14/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-03-14-2014/2300-8634/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8649/",
+      "id": 8649,
+      "name": "We're Playing Dark Souls Too! - Part 02",
+      "site_detail_url": "http://www.giantbomb.com/videos/we-re-playing-dark-souls-too-part-02/2300-8649/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8671/",
+      "id": 8671,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 03/25/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-03-25-2014/2300-8671/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8690/",
+      "id": 8690,
+      "name": "We're Playing Dark Souls Too! - Part 03",
+      "site_detail_url": "http://www.giantbomb.com/videos/we-re-playing-dark-souls-too-part-03/2300-8690/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8692/",
+      "id": 8692,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 03/28/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-03-28-2014/2300-8692/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8695/",
+      "id": 8695,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 03/31/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-03-31-2014/2300-8695/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8719/",
+      "id": 8719,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 04/04/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-04-04-2014/2300-8719/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8726/",
+      "id": 8726,
+      "name": "Quick Look: Dark Souls II (PC)",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-dark-souls-ii-pc/2300-8726/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8924/",
+      "id": 8924,
+      "name": "Clear Eyes, Full Glass of Water, Can't Lose: 05/23/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/clear-eyes-full-glass-of-water-cant-lose-05-23-201/2300-8924/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8955/",
+      "id": 8955,
+      "name": "Dark Souls II Getting Trilogy of DLC This Year",
+      "site_detail_url": "http://www.giantbomb.com/videos/dark-souls-ii-getting-trilogy-of-dlc-this-year/2300-8955/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9643/",
+      "id": 9643,
+      "name": "Extra Life 2014 - Day 1: Part 08",
+      "site_detail_url": "http://www.giantbomb.com/videos/extra-life-2014-day-1-part-08/2300-9643/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9741/",
+      "id": 9741,
+      "name": "Dark Souls II Getting More Updates With Scholar of the First Sin",
+      "site_detail_url": "http://www.giantbomb.com/videos/dark-souls-ii-getting-more-updates-with-scholar-of/2300-9741/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9919/",
+      "id": 9919,
+      "name": "Here's a New Trailer for Dark Souls II's 'Scholar of the First Sin'",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-a-new-trailer-for-dark-souls-ii-s-scholar-o/2300-9919/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126768/",
+      "id": 126768,
+      "name": "Dark Souls II",
+      "site_detail_url": "http://www.giantbomb.com/dark-souls-ii/3030-40798/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126769/",
+      "id": 126769,
+      "name": "Dark Souls II",
+      "site_detail_url": "http://www.giantbomb.com/dark-souls-ii/3030-40798/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126770/",
+      "id": 126770,
+      "name": "Dark Souls II",
+      "site_detail_url": "http://www.giantbomb.com/dark-souls-ii/3030-40798/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126897/",
+      "id": 126897,
+      "name": "Dark Souls II",
+      "site_detail_url": "http://www.giantbomb.com/dark-souls-ii/3030-40798/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126898/",
+      "id": 126898,
+      "name": "Dark Souls II",
+      "site_detail_url": "http://www.giantbomb.com/dark-souls-ii/3030-40798/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126899/",
+      "id": 126899,
+      "name": "Dark Souls II",
+      "site_detail_url": "http://www.giantbomb.com/dark-souls-ii/3030-40798/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126900/",
+      "id": 126900,
+      "name": "Dark Souls II",
+      "site_detail_url": "http://www.giantbomb.com/dark-souls-ii/3030-40798/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133309/",
+      "id": 133309,
+      "name": "Dark Souls II",
+      "site_detail_url": "http://www.giantbomb.com/dark-souls-ii/3030-40798/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134504/",
+      "id": 134504,
+      "name": "Dark Souls II (Black Armour Edition)",
+      "site_detail_url": "http://www.giantbomb.com/dark-souls-ii/3030-40798/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138829/",
+      "id": 138829,
+      "name": "Dark Souls II Collector's Edition",
+      "site_detail_url": "http://www.giantbomb.com/dark-souls-ii/3030-40798/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138830/",
+      "id": 138830,
+      "name": "Dark Souls II Collector's Edition",
+      "site_detail_url": "http://www.giantbomb.com/dark-souls-ii/3030-40798/releases/"
+    }
+  ]
+}

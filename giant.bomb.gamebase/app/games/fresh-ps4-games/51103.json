@@ -1,0 +1,96 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-51103/",
+  "deck": "Jackbox Games returns with five more comedic party games.",
+  "id": 51103,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2788095-feature_tjpp2.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2788095-feature_tjpp2.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2788095-feature_tjpp2.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2788095-feature_tjpp2.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2788095-feature_tjpp2.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2788095-feature_tjpp2.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2788095-feature_tjpp2.jpg"
+  },
+  "name": "The Jackbox Party Pack 2",
+  "original_release_date": "2015-10-13 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-155/",
+      "id": 155,
+      "name": "Amazon Fire TV",
+      "site_detail_url": "http://www.giantbomb.com/amazon-fire-tv/3045-155/",
+      "abbreviation": "FIRE"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/the-jackbox-party-pack-2/3030-51103/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/11/115535/2788095-feature_tjpp2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/11/115535/2788095-feature_tjpp2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/11/115535/2788095-feature_tjpp2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/11/115535/2788095-feature_tjpp2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/11/115535/2788095-feature_tjpp2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/11/115535/2788095-feature_tjpp2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/11/115535/2788095-feature_tjpp2.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10758/",
+      "id": 10758,
+      "name": "Unprofessional Fridays: 10/09/2015",
+      "site_detail_url": "http://www.giantbomb.com/videos/unprofessional-fridays-10092015/2300-10758/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10763/",
+      "id": 10763,
+      "name": "Here Comes a New Jackbox Party Pack",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-comes-a-new-jackbox-party-pack/2300-10763/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-17/",
+      "id": 17,
+      "name": "Minigame Collection",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=minigame-collection&wikiTypeId=3060&wikiId=17&genre=17"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144085/",
+      "id": 144085,
+      "name": "The Jackbox Party Pack 2",
+      "site_detail_url": "http://www.giantbomb.com/the-jackbox-party-pack-2/3030-51103/releases/"
+    }
+  ]
+}

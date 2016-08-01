@@ -1,0 +1,113 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-47592/",
+  "deck": "An arcade-puzzle game developed by Unfinished Pixel.",
+  "id": 47592,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2752350-rsz_spy8ur1n.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2752350-rsz_spy8ur1n.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2752350-rsz_spy8ur1n.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2752350-rsz_spy8ur1n.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2752350-rsz_spy8ur1n.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2752350-rsz_spy8ur1n.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2752350-rsz_spy8ur1n.jpg"
+  },
+  "name": "Spy Chameleon RGB Agent",
+  "original_release_date": "2015-05-22 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/spy-chameleon-rgb-agent/3030-47592/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2752350-rsz_spy8ur1n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2752350-rsz_spy8ur1n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2752350-rsz_spy8ur1n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2752350-rsz_spy8ur1n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2752350-rsz_spy8ur1n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2752350-rsz_spy8ur1n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2752350-rsz_spy8ur1n.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/15/158386/2718954-972415nbvcvbvc.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/15/158386/2718954-972415nbvcvbvc.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/15/158386/2718954-972415nbvcvbvc.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/15/158386/2718954-972415nbvcvbvc.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/15/158386/2718954-972415nbvcvbvc.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/15/158386/2718954-972415nbvcvbvc.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/15/158386/2718954-972415nbvcvbvc.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/24/240127/2687457-redspy.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/24/240127/2687457-redspy.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/24/240127/2687457-redspy.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/24/240127/2687457-redspy.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/24/240127/2687457-redspy.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/24/240127/2687457-redspy.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/24/240127/2687457-redspy.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141772/",
+      "id": 141772,
+      "name": "Spy Chameleon",
+      "site_detail_url": "http://www.giantbomb.com/spy-chameleon-rgb-agent/3030-47592/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148316/",
+      "id": 148316,
+      "name": "Spy Chameleon",
+      "site_detail_url": "http://www.giantbomb.com/spy-chameleon-rgb-agent/3030-47592/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148621/",
+      "id": 148621,
+      "name": "Spy Chameleon",
+      "site_detail_url": "http://www.giantbomb.com/spy-chameleon-rgb-agent/3030-47592/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148693/",
+      "id": 148693,
+      "name": "Spy Chameleon",
+      "site_detail_url": "http://www.giantbomb.com/spy-chameleon-rgb-agent/3030-47592/releases/"
+    }
+  ]
+}

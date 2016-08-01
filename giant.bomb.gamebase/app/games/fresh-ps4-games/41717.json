@@ -1,0 +1,307 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-41717/",
+  "deck": "Action puzzle game where the player controls a mining machine on a procedurally-generated Mars.",
+  "id": 41717,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2578171-box_sml.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2578171-box_sml.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2578171-box_sml.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2578171-box_sml.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2578171-box_sml.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2578171-box_sml.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2578171-box_sml.png"
+  },
+  "name": "Super Motherload",
+  "original_release_date": "2013-11-15 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/super-motherload/3030-41717/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2578171-box_sml.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2578171-box_sml.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2578171-box_sml.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2578171-box_sml.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2578171-box_sml.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2578171-box_sml.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2578171-box_sml.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563722-sml_ps4_2013_10.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563722-sml_ps4_2013_10.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563722-sml_ps4_2013_10.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563722-sml_ps4_2013_10.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/21/215362/2563722-sml_ps4_2013_10.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/21/215362/2563722-sml_ps4_2013_10.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/215362/2563722-sml_ps4_2013_10.png",
+      "tags": "All Images, Screenshots, Gameplay"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563721-sml_ps4_2013_09.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563721-sml_ps4_2013_09.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563721-sml_ps4_2013_09.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563721-sml_ps4_2013_09.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/21/215362/2563721-sml_ps4_2013_09.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/21/215362/2563721-sml_ps4_2013_09.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/215362/2563721-sml_ps4_2013_09.png",
+      "tags": "All Images, Screenshots, Gameplay"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563720-sml_ps4_2013_08.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563720-sml_ps4_2013_08.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563720-sml_ps4_2013_08.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563720-sml_ps4_2013_08.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/21/215362/2563720-sml_ps4_2013_08.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/21/215362/2563720-sml_ps4_2013_08.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/215362/2563720-sml_ps4_2013_08.png",
+      "tags": "All Images, Screenshots, Gameplay"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563719-sml_ps4_2013_07.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563719-sml_ps4_2013_07.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563719-sml_ps4_2013_07.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563719-sml_ps4_2013_07.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/21/215362/2563719-sml_ps4_2013_07.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/21/215362/2563719-sml_ps4_2013_07.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/215362/2563719-sml_ps4_2013_07.png",
+      "tags": "All Images, Screenshots, Gameplay"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563718-sml_ps4_2013_06.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563718-sml_ps4_2013_06.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563718-sml_ps4_2013_06.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563718-sml_ps4_2013_06.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/21/215362/2563718-sml_ps4_2013_06.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/21/215362/2563718-sml_ps4_2013_06.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/215362/2563718-sml_ps4_2013_06.png",
+      "tags": "All Images, Screenshots, Gameplay"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563717-sml_ps4_2013_05.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563717-sml_ps4_2013_05.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563717-sml_ps4_2013_05.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563717-sml_ps4_2013_05.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/21/215362/2563717-sml_ps4_2013_05.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/21/215362/2563717-sml_ps4_2013_05.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/215362/2563717-sml_ps4_2013_05.png",
+      "tags": "All Images, Screenshots, Gameplay"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563716-sml_ps4_2013_04.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563716-sml_ps4_2013_04.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563716-sml_ps4_2013_04.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563716-sml_ps4_2013_04.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/21/215362/2563716-sml_ps4_2013_04.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/21/215362/2563716-sml_ps4_2013_04.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/215362/2563716-sml_ps4_2013_04.png",
+      "tags": "All Images, Screenshots, Gameplay"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563715-sml_ps4_2013_03.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563715-sml_ps4_2013_03.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563715-sml_ps4_2013_03.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563715-sml_ps4_2013_03.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/21/215362/2563715-sml_ps4_2013_03.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/21/215362/2563715-sml_ps4_2013_03.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/215362/2563715-sml_ps4_2013_03.png",
+      "tags": "All Images, Screenshots, Gameplay"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563714-sml_ps4_2013_02.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563714-sml_ps4_2013_02.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563714-sml_ps4_2013_02.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563714-sml_ps4_2013_02.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/21/215362/2563714-sml_ps4_2013_02.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/21/215362/2563714-sml_ps4_2013_02.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/215362/2563714-sml_ps4_2013_02.png",
+      "tags": "All Images, Screenshots, Gameplay"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563713-sml_ps4_2013_01.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563713-sml_ps4_2013_01.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563713-sml_ps4_2013_01.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563713-sml_ps4_2013_01.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/21/215362/2563713-sml_ps4_2013_01.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/21/215362/2563713-sml_ps4_2013_01.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/215362/2563713-sml_ps4_2013_01.png",
+      "tags": "All Images, Screenshots, Gameplay"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563712-sml_ps4_2013_00.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563712-sml_ps4_2013_00.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/215362/2563712-sml_ps4_2013_00.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/21/215362/2563712-sml_ps4_2013_00.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/21/215362/2563712-sml_ps4_2013_00.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/21/215362/2563712-sml_ps4_2013_00.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/215362/2563712-sml_ps4_2013_00.png",
+      "tags": "All Images, Screenshots, Gameplay"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2441503-super_motherload1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2441503-super_motherload1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2441503-super_motherload1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2441503-super_motherload1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2441503-super_motherload1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2441503-super_motherload1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2441503-super_motherload1.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2441502-super_motherload2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2441502-super_motherload2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2441502-super_motherload2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2441502-super_motherload2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2441502-super_motherload2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2441502-super_motherload2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2441502-super_motherload2.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2441501-super_motherload3.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2441501-super_motherload3.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2441501-super_motherload3.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2441501-super_motherload3.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2441501-super_motherload3.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2441501-super_motherload3.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2441501-super_motherload3.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2441500-super_motherload4.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2441500-super_motherload4.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2441500-super_motherload4.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2441500-super_motherload4.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2441500-super_motherload4.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2441500-super_motherload4.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2441500-super_motherload4.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2441499-super_motherload5.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2441499-super_motherload5.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2441499-super_motherload5.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2441499-super_motherload5.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2441499-super_motherload5.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2441499-super_motherload5.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2441499-super_motherload5.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2441498-super_motherload6.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2441498-super_motherload6.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2441498-super_motherload6.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2441498-super_motherload6.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2441498-super_motherload6.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2441498-super_motherload6.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2441498-super_motherload6.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2441497-super_motherload7.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2441497-super_motherload7.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2441497-super_motherload7.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2441497-super_motherload7.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2441497-super_motherload7.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2441497-super_motherload7.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2441497-super_motherload7.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2441496-super_motherload8.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2441496-super_motherload8.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2441496-super_motherload8.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2441496-super_motherload8.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2441496-super_motherload8.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2441496-super_motherload8.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2441496-super_motherload8.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2441487-supermotherload_2_1280x800.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2441487-supermotherload_2_1280x800.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2441487-supermotherload_2_1280x800.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2441487-supermotherload_2_1280x800.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2441487-supermotherload_2_1280x800.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2441487-supermotherload_2_1280x800.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2441487-supermotherload_2_1280x800.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8238/",
+      "id": 8238,
+      "name": "PlayStation 4 Launchstravaganza: Part 04",
+      "site_detail_url": "http://www.giantbomb.com/videos/playstation-4-launchstravaganza-part-04/2300-8238/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-18/",
+      "id": 18,
+      "name": "Puzzle",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=puzzle&wikiTypeId=3060&wikiId=18&genre=18"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130834/",
+      "id": 130834,
+      "name": "Super Motherload",
+      "site_detail_url": "http://www.giantbomb.com/super-motherload/3030-41717/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-131452/",
+      "id": 131452,
+      "name": "Super Motherload",
+      "site_detail_url": "http://www.giantbomb.com/super-motherload/3030-41717/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-131453/",
+      "id": 131453,
+      "name": "Super Motherload",
+      "site_detail_url": "http://www.giantbomb.com/super-motherload/3030-41717/releases/"
+    }
+  ]
+}

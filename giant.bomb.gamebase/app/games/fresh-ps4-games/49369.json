@@ -1,0 +1,427 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49369/",
+  "deck": "Fantasy SRPG Utawarerumono gets a sequel over a decade since the original's release.",
+  "id": 49369,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2766341-main.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2766341-main.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2766341-main.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2766341-main.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2766341-main.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2766341-main.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2766341-main.png"
+  },
+  "name": "Utawarerumono: Itsuwari no Kamen",
+  "original_release_date": "2015-09-24 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/utawarerumono-itsuwari-no-kamen/3030-49369/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766356-utawarerumono-false-mask_2015_07-16-15_017.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766356-utawarerumono-false-mask_2015_07-16-15_017.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766356-utawarerumono-false-mask_2015_07-16-15_017.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766356-utawarerumono-false-mask_2015_07-16-15_017.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2766356-utawarerumono-false-mask_2015_07-16-15_017.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2766356-utawarerumono-false-mask_2015_07-16-15_017.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2766356-utawarerumono-false-mask_2015_07-16-15_017.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766355-utawarerumono-false-mask_2015_07-16-15_016.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766355-utawarerumono-false-mask_2015_07-16-15_016.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766355-utawarerumono-false-mask_2015_07-16-15_016.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766355-utawarerumono-false-mask_2015_07-16-15_016.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2766355-utawarerumono-false-mask_2015_07-16-15_016.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2766355-utawarerumono-false-mask_2015_07-16-15_016.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2766355-utawarerumono-false-mask_2015_07-16-15_016.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766354-utawarerumono-false-mask_2015_07-16-15_015.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766354-utawarerumono-false-mask_2015_07-16-15_015.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766354-utawarerumono-false-mask_2015_07-16-15_015.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766354-utawarerumono-false-mask_2015_07-16-15_015.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2766354-utawarerumono-false-mask_2015_07-16-15_015.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2766354-utawarerumono-false-mask_2015_07-16-15_015.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2766354-utawarerumono-false-mask_2015_07-16-15_015.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766353-utawarerumono-false-mask_2015_07-16-15_014.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766353-utawarerumono-false-mask_2015_07-16-15_014.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766353-utawarerumono-false-mask_2015_07-16-15_014.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766353-utawarerumono-false-mask_2015_07-16-15_014.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2766353-utawarerumono-false-mask_2015_07-16-15_014.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2766353-utawarerumono-false-mask_2015_07-16-15_014.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2766353-utawarerumono-false-mask_2015_07-16-15_014.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766352-utawarerumono-false-mask_2015_07-16-15_012.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766352-utawarerumono-false-mask_2015_07-16-15_012.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766352-utawarerumono-false-mask_2015_07-16-15_012.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766352-utawarerumono-false-mask_2015_07-16-15_012.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2766352-utawarerumono-false-mask_2015_07-16-15_012.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2766352-utawarerumono-false-mask_2015_07-16-15_012.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2766352-utawarerumono-false-mask_2015_07-16-15_012.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766351-utawarerumono-false-mask_2015_07-16-15_011.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766351-utawarerumono-false-mask_2015_07-16-15_011.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766351-utawarerumono-false-mask_2015_07-16-15_011.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766351-utawarerumono-false-mask_2015_07-16-15_011.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2766351-utawarerumono-false-mask_2015_07-16-15_011.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2766351-utawarerumono-false-mask_2015_07-16-15_011.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2766351-utawarerumono-false-mask_2015_07-16-15_011.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766350-utawarerumono-false-mask_2015_07-16-15_010.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766350-utawarerumono-false-mask_2015_07-16-15_010.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766350-utawarerumono-false-mask_2015_07-16-15_010.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766350-utawarerumono-false-mask_2015_07-16-15_010.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2766350-utawarerumono-false-mask_2015_07-16-15_010.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2766350-utawarerumono-false-mask_2015_07-16-15_010.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2766350-utawarerumono-false-mask_2015_07-16-15_010.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766349-utawarerumono-false-mask_2015_07-16-15_009.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766349-utawarerumono-false-mask_2015_07-16-15_009.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766349-utawarerumono-false-mask_2015_07-16-15_009.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766349-utawarerumono-false-mask_2015_07-16-15_009.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2766349-utawarerumono-false-mask_2015_07-16-15_009.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2766349-utawarerumono-false-mask_2015_07-16-15_009.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2766349-utawarerumono-false-mask_2015_07-16-15_009.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766348-utawarerumono-false-mask_2015_07-16-15_008.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766348-utawarerumono-false-mask_2015_07-16-15_008.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766348-utawarerumono-false-mask_2015_07-16-15_008.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766348-utawarerumono-false-mask_2015_07-16-15_008.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2766348-utawarerumono-false-mask_2015_07-16-15_008.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2766348-utawarerumono-false-mask_2015_07-16-15_008.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2766348-utawarerumono-false-mask_2015_07-16-15_008.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766347-utawarerumono-false-mask_2015_07-16-15_007.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766347-utawarerumono-false-mask_2015_07-16-15_007.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766347-utawarerumono-false-mask_2015_07-16-15_007.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766347-utawarerumono-false-mask_2015_07-16-15_007.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2766347-utawarerumono-false-mask_2015_07-16-15_007.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2766347-utawarerumono-false-mask_2015_07-16-15_007.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2766347-utawarerumono-false-mask_2015_07-16-15_007.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766346-utawarerumono-false-mask_2015_07-16-15_006.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766346-utawarerumono-false-mask_2015_07-16-15_006.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766346-utawarerumono-false-mask_2015_07-16-15_006.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766346-utawarerumono-false-mask_2015_07-16-15_006.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2766346-utawarerumono-false-mask_2015_07-16-15_006.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2766346-utawarerumono-false-mask_2015_07-16-15_006.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2766346-utawarerumono-false-mask_2015_07-16-15_006.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766345-utawarerumono-false-mask_2015_07-16-15_005.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766345-utawarerumono-false-mask_2015_07-16-15_005.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766345-utawarerumono-false-mask_2015_07-16-15_005.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766345-utawarerumono-false-mask_2015_07-16-15_005.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2766345-utawarerumono-false-mask_2015_07-16-15_005.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2766345-utawarerumono-false-mask_2015_07-16-15_005.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2766345-utawarerumono-false-mask_2015_07-16-15_005.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766344-utawarerumono-false-mask_2015_07-16-15_004.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766344-utawarerumono-false-mask_2015_07-16-15_004.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766344-utawarerumono-false-mask_2015_07-16-15_004.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766344-utawarerumono-false-mask_2015_07-16-15_004.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2766344-utawarerumono-false-mask_2015_07-16-15_004.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2766344-utawarerumono-false-mask_2015_07-16-15_004.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2766344-utawarerumono-false-mask_2015_07-16-15_004.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766343-utawarerumono-false-mask_2015_07-16-15_003.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766343-utawarerumono-false-mask_2015_07-16-15_003.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766343-utawarerumono-false-mask_2015_07-16-15_003.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766343-utawarerumono-false-mask_2015_07-16-15_003.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2766343-utawarerumono-false-mask_2015_07-16-15_003.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2766343-utawarerumono-false-mask_2015_07-16-15_003.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2766343-utawarerumono-false-mask_2015_07-16-15_003.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766342-utawarerumono-false-mask_2015_07-16-15_002.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766342-utawarerumono-false-mask_2015_07-16-15_002.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766342-utawarerumono-false-mask_2015_07-16-15_002.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766342-utawarerumono-false-mask_2015_07-16-15_002.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2766342-utawarerumono-false-mask_2015_07-16-15_002.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2766342-utawarerumono-false-mask_2015_07-16-15_002.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2766342-utawarerumono-false-mask_2015_07-16-15_002.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766341-main.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766341-main.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766341-main.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766341-main.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2766341-main.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2766341-main.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2766341-main.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766340-u2vita.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766340-u2vita.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766340-u2vita.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766340-u2vita.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2766340-u2vita.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2766340-u2vita.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2766340-u2vita.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766339-u2ps4.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766339-u2ps4.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766339-u2ps4.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766339-u2ps4.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2766339-u2ps4.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2766339-u2ps4.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2766339-u2ps4.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766338-u2ps3.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766338-u2ps3.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2766338-u2ps3.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2766338-u2ps3.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2766338-u2ps3.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2766338-u2ps3.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2766338-u2ps3.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2755724-u8.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2755724-u8.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2755724-u8.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2755724-u8.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2755724-u8.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2755724-u8.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2755724-u8.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2755723-u7.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2755723-u7.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2755723-u7.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2755723-u7.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2755723-u7.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2755723-u7.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2755723-u7.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2755722-u6.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2755722-u6.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2755722-u6.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2755722-u6.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2755722-u6.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2755722-u6.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2755722-u6.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2755721-u5.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2755721-u5.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2755721-u5.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2755721-u5.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2755721-u5.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2755721-u5.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2755721-u5.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2755720-u4.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2755720-u4.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2755720-u4.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2755720-u4.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2755720-u4.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2755720-u4.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2755720-u4.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2755719-u3.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2755719-u3.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2755719-u3.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2755719-u3.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2755719-u3.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2755719-u3.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2755719-u3.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2755718-u2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2755718-u2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2755718-u2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2755718-u2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2755718-u2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2755718-u2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2755718-u2.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2755717-u1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2755717-u1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2755717-u1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2755717-u1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2755717-u1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2755717-u1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2755717-u1.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2751513-first.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2751513-first.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2751513-first.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2751513-first.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2751513-first.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2751513-first.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2751513-first.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2751511-withlogo.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2751511-withlogo.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2751511-withlogo.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2751511-withlogo.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2751511-withlogo.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2751511-withlogo.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2751511-withlogo.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2748054-untitled.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2748054-untitled.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2748054-untitled.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2748054-untitled.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2748054-untitled.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2748054-untitled.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2748054-untitled.jpg",
+      "tags": "All Images, Artwork"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-2/",
+      "id": 2,
+      "name": "Strategy",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=strategy&wikiTypeId=3060&wikiId=2&genre=2"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-4/",
+      "id": 4,
+      "name": "Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=adventure&wikiTypeId=3060&wikiId=4&genre=4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141099/",
+      "id": 141099,
+      "name": "Utawarerumono: Itsuwari no Kamen",
+      "site_detail_url": "http://www.giantbomb.com/utawarerumono-itsuwari-no-kamen/3030-49369/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142604/",
+      "id": 142604,
+      "name": "Utawarerumono: Itsuwari no Kamen",
+      "site_detail_url": "http://www.giantbomb.com/utawarerumono-itsuwari-no-kamen/3030-49369/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142605/",
+      "id": 142605,
+      "name": "Utawarerumono: Itsuwari no Kamen",
+      "site_detail_url": "http://www.giantbomb.com/utawarerumono-itsuwari-no-kamen/3030-49369/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143719/",
+      "id": 143719,
+      "name": "Utawarerumono: Itsuwari no Kamen (Premium Edition)",
+      "site_detail_url": "http://www.giantbomb.com/utawarerumono-itsuwari-no-kamen/3030-49369/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143720/",
+      "id": 143720,
+      "name": "Utawarerumono: Itsuwari no Kamen (Premium Edition)",
+      "site_detail_url": "http://www.giantbomb.com/utawarerumono-itsuwari-no-kamen/3030-49369/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143721/",
+      "id": 143721,
+      "name": "Utawarerumono: Itsuwari no Kamen (Premium Edition)",
+      "site_detail_url": "http://www.giantbomb.com/utawarerumono-itsuwari-no-kamen/3030-49369/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143722/",
+      "id": 143722,
+      "name": "Utawarerumono: Itsuwari no Kamen",
+      "site_detail_url": "http://www.giantbomb.com/utawarerumono-itsuwari-no-kamen/3030-49369/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143723/",
+      "id": 143723,
+      "name": "Utawarerumono: Itsuwari no Kamen",
+      "site_detail_url": "http://www.giantbomb.com/utawarerumono-itsuwari-no-kamen/3030-49369/releases/"
+    }
+  ]
+}

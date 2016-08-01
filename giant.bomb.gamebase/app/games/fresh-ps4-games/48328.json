@@ -1,0 +1,102 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48328/",
+  "deck": "The 10th annual edition of The Show, and the second to appear on the PlayStation 4. Featured on the cover is LA Dodgers outfielder Yasiel Puig.",
+  "id": 48328,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2706666-mlb-15-the-show_615.0.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2706666-mlb-15-the-show_615.0.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2706666-mlb-15-the-show_615.0.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2706666-mlb-15-the-show_615.0.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2706666-mlb-15-the-show_615.0.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2706666-mlb-15-the-show_615.0.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2706666-mlb-15-the-show_615.0.jpg"
+  },
+  "name": "MLB 15: The Show",
+  "original_release_date": "2015-03-31 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/mlb-15-the-show/3030-48328/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2706666-mlb-15-the-show_615.0.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2706666-mlb-15-the-show_615.0.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2706666-mlb-15-the-show_615.0.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2706666-mlb-15-the-show_615.0.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2706666-mlb-15-the-show_615.0.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2706666-mlb-15-the-show_615.0.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2706666-mlb-15-the-show_615.0.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10077/",
+      "id": 10077,
+      "name": "Quick Look: MLB 15: The Show",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-mlb-15-the-show/2300-10077/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-34/",
+      "id": 34,
+      "name": "Baseball",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=baseball&wikiTypeId=3060&wikiId=34&genre=34"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140487/",
+      "id": 140487,
+      "name": "MLB 15: The Show",
+      "site_detail_url": "http://www.giantbomb.com/mlb-15-the-show/3030-48328/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140488/",
+      "id": 140488,
+      "name": "MLB 15: The Show",
+      "site_detail_url": "http://www.giantbomb.com/mlb-15-the-show/3030-48328/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140489/",
+      "id": 140489,
+      "name": "MLB 15: The Show",
+      "site_detail_url": "http://www.giantbomb.com/mlb-15-the-show/3030-48328/releases/"
+    }
+  ]
+}

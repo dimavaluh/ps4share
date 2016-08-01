@@ -1,0 +1,430 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-41695/",
+  "deck": "Set seven years after the events of inFamous 2, Second Son stars a new protagonist, Delsin Rowe, who fights back against government oppression and must face off with his own brother in the process. It takes place in the city of Seattle, Washington, the first real location used in the series.",
+  "id": 41695,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2578164-box_ifss.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2578164-box_ifss.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2578164-box_ifss.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2578164-box_ifss.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2578164-box_ifss.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2578164-box_ifss.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2578164-box_ifss.png"
+  },
+  "name": "inFamous: Second Son",
+  "original_release_date": "2014-03-21 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/infamous-second-son/3030-41695/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/88760/2610179-ibekvsnjxkvxru.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/88760/2610179-ibekvsnjxkvxru.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/88760/2610179-ibekvsnjxkvxru.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/88760/2610179-ibekvsnjxkvxru.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/88760/2610179-ibekvsnjxkvxru.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/88760/2610179-ibekvsnjxkvxru.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/88760/2610179-ibekvsnjxkvxru.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2596378-infamouscharaart-1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2596378-infamouscharaart-1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2596378-infamouscharaart-1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2596378-infamouscharaart-1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2596378-infamouscharaart-1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2596378-infamouscharaart-1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2596378-infamouscharaart-1.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2596376-infamouscharaart-31_5.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2596376-infamouscharaart-31_5.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2596376-infamouscharaart-31_5.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2596376-infamouscharaart-31_5.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2596376-infamouscharaart-31_5.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2596376-infamouscharaart-31_5.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2596376-infamouscharaart-31_5.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2596375-infamouscharaart-5.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2596375-infamouscharaart-5.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2596375-infamouscharaart-5.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2596375-infamouscharaart-5.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2596375-infamouscharaart-5.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2596375-infamouscharaart-5.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2596375-infamouscharaart-5.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2596374-infamouscharaart-4.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2596374-infamouscharaart-4.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2596374-infamouscharaart-4.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2596374-infamouscharaart-4.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2596374-infamouscharaart-4.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2596374-infamouscharaart-4.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2596374-infamouscharaart-4.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2596373-infamouscharaart-2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2596373-infamouscharaart-2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2596373-infamouscharaart-2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2596373-infamouscharaart-2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2596373-infamouscharaart-2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2596373-infamouscharaart-2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2596373-infamouscharaart-2.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2578164-box_ifss.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2578164-box_ifss.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2578164-box_ifss.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2578164-box_ifss.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2578164-box_ifss.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2578164-box_ifss.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2578164-box_ifss.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2570983-91itpmyw4gl._sl1500_.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2570983-91itpmyw4gl._sl1500_.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2570983-91itpmyw4gl._sl1500_.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2570983-91itpmyw4gl._sl1500_.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/8169/2570983-91itpmyw4gl._sl1500_.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/8169/2570983-91itpmyw4gl._sl1500_.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/8169/2570983-91itpmyw4gl._sl1500_.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2570982-infamous-second-son-ps4-limited-edition-box-images-481x600.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2570982-infamous-second-son-ps4-limited-edition-box-images-481x600.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2570982-infamous-second-son-ps4-limited-edition-box-images-481x600.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2570982-infamous-second-son-ps4-limited-edition-box-images-481x600.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/8169/2570982-infamous-second-son-ps4-limited-edition-box-images-481x600.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/8169/2570982-infamous-second-son-ps4-limited-edition-box-images-481x600.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/8169/2570982-infamous-second-son-ps4-limited-edition-box-images-481x600.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2542022-dsc05148.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2542022-dsc05148.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2542022-dsc05148.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2542022-dsc05148.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2542022-dsc05148.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2542022-dsc05148.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2542022-dsc05148.jpg",
+      "tags": "All Images, Sony, PAX Prime 2013 Booth, PAX Prime 2013"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93770/2496450-8203254705-20196.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93770/2496450-8203254705-20196.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93770/2496450-8203254705-20196.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93770/2496450-8203254705-20196.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93770/2496450-8203254705-20196.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93770/2496450-8203254705-20196.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93770/2496450-8203254705-20196.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2496240-infamous-second-son_2013_06-10-13_009.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2496240-infamous-second-son_2013_06-10-13_009.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2496240-infamous-second-son_2013_06-10-13_009.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2496240-infamous-second-son_2013_06-10-13_009.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2496240-infamous-second-son_2013_06-10-13_009.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2496240-infamous-second-son_2013_06-10-13_009.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2496240-infamous-second-son_2013_06-10-13_009.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2496239-infamous-second-son_2013_06-10-13_008.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2496239-infamous-second-son_2013_06-10-13_008.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2496239-infamous-second-son_2013_06-10-13_008.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2496239-infamous-second-son_2013_06-10-13_008.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2496239-infamous-second-son_2013_06-10-13_008.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2496239-infamous-second-son_2013_06-10-13_008.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2496239-infamous-second-son_2013_06-10-13_008.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2496238-infamous-second-son_2013_06-10-13_007.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2496238-infamous-second-son_2013_06-10-13_007.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2496238-infamous-second-son_2013_06-10-13_007.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2496238-infamous-second-son_2013_06-10-13_007.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2496238-infamous-second-son_2013_06-10-13_007.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2496238-infamous-second-son_2013_06-10-13_007.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2496238-infamous-second-son_2013_06-10-13_007.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2496237-infamous-second-son_2013_06-10-13_006.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2496237-infamous-second-son_2013_06-10-13_006.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2496237-infamous-second-son_2013_06-10-13_006.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2496237-infamous-second-son_2013_06-10-13_006.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2496237-infamous-second-son_2013_06-10-13_006.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2496237-infamous-second-son_2013_06-10-13_006.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2496237-infamous-second-son_2013_06-10-13_006.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2496236-infamous-second-son_2013_06-10-13_005.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2496236-infamous-second-son_2013_06-10-13_005.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2496236-infamous-second-son_2013_06-10-13_005.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2496236-infamous-second-son_2013_06-10-13_005.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2496236-infamous-second-son_2013_06-10-13_005.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2496236-infamous-second-son_2013_06-10-13_005.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2496236-infamous-second-son_2013_06-10-13_005.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2496235-infamous-second-son_2013_06-10-13_004.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2496235-infamous-second-son_2013_06-10-13_004.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2496235-infamous-second-son_2013_06-10-13_004.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2496235-infamous-second-son_2013_06-10-13_004.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2496235-infamous-second-son_2013_06-10-13_004.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2496235-infamous-second-son_2013_06-10-13_004.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2496235-infamous-second-son_2013_06-10-13_004.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2496234-infamous-second-son_2013_06-10-13_003.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2496234-infamous-second-son_2013_06-10-13_003.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2496234-infamous-second-son_2013_06-10-13_003.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2496234-infamous-second-son_2013_06-10-13_003.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2496234-infamous-second-son_2013_06-10-13_003.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2496234-infamous-second-son_2013_06-10-13_003.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2496234-infamous-second-son_2013_06-10-13_003.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2496233-infamous-second-son_2013_06-10-13_002.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2496233-infamous-second-son_2013_06-10-13_002.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2496233-infamous-second-son_2013_06-10-13_002.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2496233-infamous-second-son_2013_06-10-13_002.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2496233-infamous-second-son_2013_06-10-13_002.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2496233-infamous-second-son_2013_06-10-13_002.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2496233-infamous-second-son_2013_06-10-13_002.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2496232-infamous-second-son_2013_06-10-13_001.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2496232-infamous-second-son_2013_06-10-13_001.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2496232-infamous-second-son_2013_06-10-13_001.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2496232-infamous-second-son_2013_06-10-13_001.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2496232-infamous-second-son_2013_06-10-13_001.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2496232-infamous-second-son_2013_06-10-13_001.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2496232-infamous-second-son_2013_06-10-13_001.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2496231-infamous-second-son_2013_06-10-13_010.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2496231-infamous-second-son_2013_06-10-13_010.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2496231-infamous-second-son_2013_06-10-13_010.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2496231-infamous-second-son_2013_06-10-13_010.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2496231-infamous-second-son_2013_06-10-13_010.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2496231-infamous-second-son_2013_06-10-13_010.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2496231-infamous-second-son_2013_06-10-13_010.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2480405-second-son-6.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2480405-second-son-6.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2480405-second-son-6.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2480405-second-son-6.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2480405-second-son-6.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2480405-second-son-6.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2480405-second-son-6.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2480404-second-son-5.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2480404-second-son-5.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2480404-second-son-5.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2480404-second-son-5.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2480404-second-son-5.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2480404-second-son-5.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2480404-second-son-5.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2480403-second-son-4.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2480403-second-son-4.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2480403-second-son-4.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2480403-second-son-4.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2480403-second-son-4.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2480403-second-son-4.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2480403-second-son-4.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2480402-second-son-3.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2480402-second-son-3.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2480402-second-son-3.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2480402-second-son-3.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2480402-second-son-3.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2480402-second-son-3.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2480402-second-son-3.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2480401-second-son-2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2480401-second-son-2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2480401-second-son-2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2480401-second-son-2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2480401-second-son-2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2480401-second-son-2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2480401-second-son-2.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2480400-second-son.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2480400-second-son.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2480400-second-son.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2480400-second-son.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2480400-second-son.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2480400-second-son.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2480400-second-son.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/79498/2442040-untitled.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/79498/2442040-untitled.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/79498/2442040-untitled.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/79498/2442040-untitled.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/79498/2442040-untitled.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/79498/2442040-untitled.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/79498/2442040-untitled.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/79498/2442039-tumblr_miml2hmddf1qdqlkxo4_1280.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/79498/2442039-tumblr_miml2hmddf1qdqlkxo4_1280.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/79498/2442039-tumblr_miml2hmddf1qdqlkxo4_1280.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/79498/2442039-tumblr_miml2hmddf1qdqlkxo4_1280.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/79498/2442039-tumblr_miml2hmddf1qdqlkxo4_1280.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/79498/2442039-tumblr_miml2hmddf1qdqlkxo4_1280.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/79498/2442039-tumblr_miml2hmddf1qdqlkxo4_1280.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/79498/2442038-tumblr_miml2hmddf1qdqlkxo3_1280.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/79498/2442038-tumblr_miml2hmddf1qdqlkxo3_1280.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/79498/2442038-tumblr_miml2hmddf1qdqlkxo3_1280.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/79498/2442038-tumblr_miml2hmddf1qdqlkxo3_1280.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/79498/2442038-tumblr_miml2hmddf1qdqlkxo3_1280.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/79498/2442038-tumblr_miml2hmddf1qdqlkxo3_1280.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/79498/2442038-tumblr_miml2hmddf1qdqlkxo3_1280.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7070/",
+      "id": 7070,
+      "name": "inFamous: Second Son Portrays a Dark, Nasty Future",
+      "site_detail_url": "http://www.giantbomb.com/videos/infamous-second-son-portrays-a-dark-nasty-future/2300-7070/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7518/",
+      "id": 7518,
+      "name": "E3 2013: Smells Like inFamous Second Son",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-smells-like-infamous-second-son/2300-7518/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7574/",
+      "id": 7574,
+      "name": "E3 2013: Get Toasty With Six Minutes Of inFamous: Second Son Gameplay",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-get-toasty-with-six-minutes-of-infamous-se/2300-7574/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7849/",
+      "id": 7849,
+      "name": "Watch Us Watch the Sony Gamescom Press Conference",
+      "site_detail_url": "http://www.giantbomb.com/videos/watch-us-watch-the-sony-gamescom-press-conference/2300-7849/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7850/",
+      "id": 7850,
+      "name": "Seattle Becomes a Warzone in InFamous: Second Son",
+      "site_detail_url": "http://www.giantbomb.com/videos/seattle-becomes-a-warzone-in-infamous-second-son/2300-7850/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8651/",
+      "id": 8651,
+      "name": "Quick Look: Infamous: Second Son",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-infamous-second-son/2300-8651/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8671/",
+      "id": 8671,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 03/25/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-03-25-2014/2300-8671/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8695/",
+      "id": 8695,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 03/31/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-03-31-2014/2300-8695/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9016/",
+      "id": 9016,
+      "name": "E3 2014: Learn More About Fetch in inFamous First Light",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2014-learn-more-about-fetch-in-infamous-first-l/2300-9016/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-11/",
+      "id": 11,
+      "name": "Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shooter&wikiTypeId=3060&wikiId=11&genre=11"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125460/",
+      "id": 125460,
+      "name": "inFamous: Second Son",
+      "site_detail_url": "http://www.giantbomb.com/infamous-second-son/3030-41695/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130933/",
+      "id": 130933,
+      "name": "inFamous: Second Son",
+      "site_detail_url": "http://www.giantbomb.com/infamous-second-son/3030-41695/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130934/",
+      "id": 130934,
+      "name": "inFamous: Second Son (Special Edition)",
+      "site_detail_url": "http://www.giantbomb.com/infamous-second-son/3030-41695/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133095/",
+      "id": 133095,
+      "name": "inFamous: Second Son (Collector's Edition)",
+      "site_detail_url": "http://www.giantbomb.com/infamous-second-son/3030-41695/releases/"
+    }
+  ]
+}

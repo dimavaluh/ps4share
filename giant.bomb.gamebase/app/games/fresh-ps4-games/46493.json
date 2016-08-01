@@ -1,0 +1,81 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-46493/",
+  "deck": "Inspired by the top-down bombing sequences common in contemporary modern military first person shooters, Gunship X puts the player in control of an AC-130 ground-attack aircraft and tasks the player with fending off hordes of alien attackers.",
+  "id": 46493,
+  "image": null,
+  "name": "Gunship X",
+  "original_release_date": "2014-05-08 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-121/",
+      "id": 121,
+      "name": "iPad",
+      "site_detail_url": "http://www.giantbomb.com/ipad/3045-121/",
+      "abbreviation": "IPAD"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/gunship-x/3030-46493/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/23/239872/2644785-0962379514-kaboo.gif",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/23/239872/2644785-0962379514-kaboo.gif",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/23/239872/2644785-0962379514-kaboo.gif",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/23/239872/2644785-0962379514-kaboo.gif",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/23/239872/2644785-0962379514-kaboo.gif",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/23/239872/2644785-0962379514-kaboo.gif",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/23/239872/2644785-0962379514-kaboo.gif",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/23/239872/2644784-7721811570-tumbl.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/23/239872/2644784-7721811570-tumbl.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/23/239872/2644784-7721811570-tumbl.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/23/239872/2644784-7721811570-tumbl.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/23/239872/2644784-7721811570-tumbl.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/23/239872/2644784-7721811570-tumbl.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/23/239872/2644784-7721811570-tumbl.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/23/239872/2644783-3729065109-tumbl.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/23/239872/2644783-3729065109-tumbl.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/23/239872/2644783-3729065109-tumbl.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/23/239872/2644783-3729065109-tumbl.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/23/239872/2644783-3729065109-tumbl.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/23/239872/2644783-3729065109-tumbl.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/23/239872/2644783-3729065109-tumbl.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-11/",
+      "id": 11,
+      "name": "Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shooter&wikiTypeId=3060&wikiId=11&genre=11"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135211/",
+      "id": 135211,
+      "name": "Gunship X",
+      "site_detail_url": "http://www.giantbomb.com/gunship-x/3030-46493/releases/"
+    }
+  ]
+}

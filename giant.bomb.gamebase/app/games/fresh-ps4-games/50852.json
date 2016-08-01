@@ -1,0 +1,88 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-50852/",
+  "deck": "Evil robots are on a rampage and it's up to a squad of kittens to stop them.",
+  "id": 50852,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2783069-1317385665-20708.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2783069-1317385665-20708.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2783069-1317385665-20708.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2783069-1317385665-20708.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2783069-1317385665-20708.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2783069-1317385665-20708.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2783069-1317385665-20708.jpg"
+  },
+  "name": "Kitten Squad",
+  "original_release_date": "2015-09-15 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-96/",
+      "id": 96,
+      "name": "iPhone",
+      "site_detail_url": "http://www.giantbomb.com/iphone/3045-96/",
+      "abbreviation": "IPHN"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-121/",
+      "id": 121,
+      "name": "iPad",
+      "site_detail_url": "http://www.giantbomb.com/ipad/3045-121/",
+      "abbreviation": "IPAD"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/kitten-squad/3030-50852/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2783069-1317385665-20708.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2783069-1317385665-20708.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2783069-1317385665-20708.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2783069-1317385665-20708.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2783069-1317385665-20708.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2783069-1317385665-20708.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2783069-1317385665-20708.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-11/",
+      "id": 11,
+      "name": "Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shooter&wikiTypeId=3060&wikiId=11&genre=11"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143606/",
+      "id": 143606,
+      "name": "Kitten Squad",
+      "site_detail_url": "http://www.giantbomb.com/kitten-squad/3030-50852/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148588/",
+      "id": 148588,
+      "name": "Kitten Squad",
+      "site_detail_url": "http://www.giantbomb.com/kitten-squad/3030-50852/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148589/",
+      "id": 148589,
+      "name": "Kitten Squad",
+      "site_detail_url": "http://www.giantbomb.com/kitten-squad/3030-50852/releases/"
+    }
+  ]
+}

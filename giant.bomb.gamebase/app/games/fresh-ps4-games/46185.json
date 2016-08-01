@@ -1,0 +1,90 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-46185/",
+  "deck": "Drifter is an open-world sandbox space trading game with a procedurally-generated galaxy 100,000 light years across made up of tens of thousands of star systems to explore and features an original soundtrack by composer Danny Baranowsky.",
+  "id": 46185,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2627037-capture.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2627037-capture.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2627037-capture.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2627037-capture.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2627037-capture.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2627037-capture.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2627037-capture.png"
+  },
+  "name": "Drifter",
+  "original_release_date": "2014-03-05 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-121/",
+      "id": 121,
+      "name": "iPad",
+      "site_detail_url": "http://www.giantbomb.com/ipad/3045-121/",
+      "abbreviation": "IPAD"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/drifter/3030-46185/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7030/2627037-capture.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7030/2627037-capture.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7030/2627037-capture.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7030/2627037-capture.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7030/2627037-capture.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7030/2627037-capture.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7030/2627037-capture.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135193/",
+      "id": 135193,
+      "name": "Drifter",
+      "site_detail_url": "http://www.giantbomb.com/drifter/3030-46185/releases/"
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-42694/",
+  "deck": "UFC comes to next-gen platforms via EA SPORTS.",
+  "id": 42694,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2701434-box_ufc.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2701434-box_ufc.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2701434-box_ufc.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2701434-box_ufc.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2701434-box_ufc.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2701434-box_ufc.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2701434-box_ufc.png"
+  },
+  "name": "EA Sports UFC",
+  "original_release_date": "2014-06-17 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/ea-sports-ufc/3030-42694/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2701434-box_ufc.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2701434-box_ufc.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2701434-box_ufc.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2701434-box_ufc.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2701434-box_ufc.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2701434-box_ufc.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2701434-box_ufc.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2649892-ea+sports%E2%84%A2+ufc%C2%AE_20140624204400.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2649892-ea+sports%E2%84%A2+ufc%C2%AE_20140624204400.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2649892-ea+sports%E2%84%A2+ufc%C2%AE_20140624204400.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2649892-ea+sports%E2%84%A2+ufc%C2%AE_20140624204400.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2649892-ea+sports%E2%84%A2+ufc%C2%AE_20140624204400.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2649892-ea+sports%E2%84%A2+ufc%C2%AE_20140624204400.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2649892-ea+sports%E2%84%A2+ufc%C2%AE_20140624204400.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2649891-ea+sports%E2%84%A2+ufc%C2%AE_20140624204216.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2649891-ea+sports%E2%84%A2+ufc%C2%AE_20140624204216.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2649891-ea+sports%E2%84%A2+ufc%C2%AE_20140624204216.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2649891-ea+sports%E2%84%A2+ufc%C2%AE_20140624204216.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2649891-ea+sports%E2%84%A2+ufc%C2%AE_20140624204216.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2649891-ea+sports%E2%84%A2+ufc%C2%AE_20140624204216.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2649891-ea+sports%E2%84%A2+ufc%C2%AE_20140624204216.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2649890-ea+sports%E2%84%A2+ufc%C2%AE_20140624204013.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2649890-ea+sports%E2%84%A2+ufc%C2%AE_20140624204013.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2649890-ea+sports%E2%84%A2+ufc%C2%AE_20140624204013.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2649890-ea+sports%E2%84%A2+ufc%C2%AE_20140624204013.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2649890-ea+sports%E2%84%A2+ufc%C2%AE_20140624204013.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2649890-ea+sports%E2%84%A2+ufc%C2%AE_20140624204013.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2649890-ea+sports%E2%84%A2+ufc%C2%AE_20140624204013.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2649889-ea+sports%E2%84%A2+ufc%C2%AE_20140624203317.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2649889-ea+sports%E2%84%A2+ufc%C2%AE_20140624203317.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2649889-ea+sports%E2%84%A2+ufc%C2%AE_20140624203317.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2649889-ea+sports%E2%84%A2+ufc%C2%AE_20140624203317.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2649889-ea+sports%E2%84%A2+ufc%C2%AE_20140624203317.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2649889-ea+sports%E2%84%A2+ufc%C2%AE_20140624203317.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2649889-ea+sports%E2%84%A2+ufc%C2%AE_20140624203317.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2649888-ea+sports%E2%84%A2+ufc%C2%AE_20140622120217.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2649888-ea+sports%E2%84%A2+ufc%C2%AE_20140622120217.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2649888-ea+sports%E2%84%A2+ufc%C2%AE_20140622120217.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2649888-ea+sports%E2%84%A2+ufc%C2%AE_20140622120217.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2649888-ea+sports%E2%84%A2+ufc%C2%AE_20140622120217.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2649888-ea+sports%E2%84%A2+ufc%C2%AE_20140622120217.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2649888-ea+sports%E2%84%A2+ufc%C2%AE_20140622120217.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2649887-ea+sports%E2%84%A2+ufc%C2%AE_20140622115842.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2649887-ea+sports%E2%84%A2+ufc%C2%AE_20140622115842.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2649887-ea+sports%E2%84%A2+ufc%C2%AE_20140622115842.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2649887-ea+sports%E2%84%A2+ufc%C2%AE_20140622115842.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2649887-ea+sports%E2%84%A2+ufc%C2%AE_20140622115842.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2649887-ea+sports%E2%84%A2+ufc%C2%AE_20140622115842.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2649887-ea+sports%E2%84%A2+ufc%C2%AE_20140622115842.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2647375-ea+sports%E2%84%A2+ufc%C2%AE_20140618133033.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2647375-ea+sports%E2%84%A2+ufc%C2%AE_20140618133033.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2647375-ea+sports%E2%84%A2+ufc%C2%AE_20140618133033.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2647375-ea+sports%E2%84%A2+ufc%C2%AE_20140618133033.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2647375-ea+sports%E2%84%A2+ufc%C2%AE_20140618133033.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2647375-ea+sports%E2%84%A2+ufc%C2%AE_20140618133033.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2647375-ea+sports%E2%84%A2+ufc%C2%AE_20140618133033.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2647374-ea+sports%E2%84%A2+ufc%C2%AE_20140618131140.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2647374-ea+sports%E2%84%A2+ufc%C2%AE_20140618131140.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2647374-ea+sports%E2%84%A2+ufc%C2%AE_20140618131140.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2647374-ea+sports%E2%84%A2+ufc%C2%AE_20140618131140.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2647374-ea+sports%E2%84%A2+ufc%C2%AE_20140618131140.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2647374-ea+sports%E2%84%A2+ufc%C2%AE_20140618131140.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2647374-ea+sports%E2%84%A2+ufc%C2%AE_20140618131140.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2647373-ea+sports%E2%84%A2+ufc%C2%AE_20140618130846.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2647373-ea+sports%E2%84%A2+ufc%C2%AE_20140618130846.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2647373-ea+sports%E2%84%A2+ufc%C2%AE_20140618130846.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2647373-ea+sports%E2%84%A2+ufc%C2%AE_20140618130846.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2647373-ea+sports%E2%84%A2+ufc%C2%AE_20140618130846.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2647373-ea+sports%E2%84%A2+ufc%C2%AE_20140618130846.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2647373-ea+sports%E2%84%A2+ufc%C2%AE_20140618130846.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/6/63119/2639190-eaufc.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/6/63119/2639190-eaufc.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/6/63119/2639190-eaufc.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/6/63119/2639190-eaufc.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/6/63119/2639190-eaufc.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/6/63119/2639190-eaufc.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/6/63119/2639190-eaufc.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2638379-029335.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2638379-029335.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2638379-029335.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2638379-029335.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2638379-029335.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2638379-029335.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2638379-029335.jpg",
+      "tags": "All Images, Screenshots, EA Sports UFC, Roster"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2638378-029334.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2638378-029334.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2638378-029334.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2638378-029334.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2638378-029334.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2638378-029334.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2638378-029334.jpg",
+      "tags": "All Images, Screenshots, EA Sports UFC, Roster"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2638377-029333.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2638377-029333.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2638377-029333.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2638377-029333.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2638377-029333.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2638377-029333.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2638377-029333.jpg",
+      "tags": "All Images, Screenshots, EA Sports UFC, Roster"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2638376-029332.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2638376-029332.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2638376-029332.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2638376-029332.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2638376-029332.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2638376-029332.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2638376-029332.jpg",
+      "tags": "All Images, Screenshots, EA Sports UFC, Roster"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2638375-029331.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2638375-029331.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2638375-029331.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2638375-029331.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2638375-029331.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2638375-029331.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2638375-029331.jpg",
+      "tags": "All Images, Screenshots, EA Sports UFC, Roster"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2638374-029330.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2638374-029330.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2638374-029330.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2638374-029330.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2638374-029330.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2638374-029330.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2638374-029330.jpg",
+      "tags": "All Images, Screenshots, EA Sports UFC, Roster"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2638373-029329.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2638373-029329.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2638373-029329.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2638373-029329.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2638373-029329.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2638373-029329.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2638373-029329.jpg",
+      "tags": "All Images, Screenshots, EA Sports UFC, Roster"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2638372-029328.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2638372-029328.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2638372-029328.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2638372-029328.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2638372-029328.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2638372-029328.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2638372-029328.jpg",
+      "tags": "All Images, Screenshots, EA Sports UFC, Roster"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2638371-029327.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2638371-029327.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2638371-029327.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2638371-029327.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2638371-029327.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2638371-029327.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2638371-029327.jpg",
+      "tags": "All Images, Screenshots, EA Sports UFC, Roster"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2638370-029326.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2638370-029326.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2638370-029326.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2638370-029326.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2638370-029326.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2638370-029326.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2638370-029326.jpg",
+      "tags": "All Images, Screenshots, EA Sports UFC, Roster"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2629164-029161.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2629164-029161.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2629164-029161.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2629164-029161.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2629164-029161.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2629164-029161.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2629164-029161.jpg",
+      "tags": "All Images, Screenshots, EA Sports UFC, Roster"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2629163-029160.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2629163-029160.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2629163-029160.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2629163-029160.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2629163-029160.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2629163-029160.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2629163-029160.jpg",
+      "tags": "All Images, Screenshots, EA Sports UFC, Roster"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2629162-029159.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2629162-029159.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2629162-029159.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2629162-029159.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2629162-029159.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2629162-029159.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2629162-029159.jpg",
+      "tags": "All Images, Screenshots, EA Sports UFC, Roster"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2629161-029158.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2629161-029158.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2629161-029158.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2629161-029158.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2629161-029158.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2629161-029158.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2629161-029158.jpg",
+      "tags": "All Images, Screenshots, EA Sports UFC, Roster"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2625111-028908.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2625111-028908.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2625111-028908.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2625111-028908.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2625111-028908.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2625111-028908.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2625111-028908.jpg",
+      "tags": "All Images, Screenshots, EA Sports UFC, Roster"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2625110-028907.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2625110-028907.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2625110-028907.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2625110-028907.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2625110-028907.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2625110-028907.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2625110-028907.jpg",
+      "tags": "All Images, Screenshots, EA Sports UFC, Roster"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2622543-028777.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2622543-028777.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2622543-028777.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2622543-028777.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2622543-028777.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2622543-028777.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2622543-028777.jpg",
+      "tags": "All Images, Screenshots, EA Sports UFC, Roster"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2622542-028776.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2622542-028776.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2622542-028776.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2622542-028776.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2622542-028776.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2622542-028776.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2622542-028776.jpg",
+      "tags": "All Images, Screenshots, EA Sports UFC, Roster"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2622541-028775.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2622541-028775.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2622541-028775.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2622541-028775.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2622541-028775.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2622541-028775.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2622541-028775.jpg",
+      "tags": "All Images, Screenshots, EA Sports UFC, Roster"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7502/",
+      "id": 7502,
+      "name": "E3 2013: EA Sports UFC Lets You Experience the Feeling of Getting Punched in the Face",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-ea-sports-ufc-lets-you-experience-the-feel/2300-7502/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8478/",
+      "id": 8478,
+      "name": "EA Sports Shows Off its In-Game UFC Fighters",
+      "site_detail_url": "http://www.giantbomb.com/videos/ea-sports-shows-off-its-in-game-ufc-fighters/2300-8478/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8722/",
+      "id": 8722,
+      "name": "Legendary UFC Superstar Bruce Lee Will be in EA Sports UFC as...Wait, What?",
+      "site_detail_url": "http://www.giantbomb.com/videos/legendary-ufc-superstar-bruce-lee-will-be-in-ea-sp/2300-8722/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8820/",
+      "id": 8820,
+      "name": "Here's a Look at EA Sports UFC's Career Mode",
+      "site_detail_url": "http://www.giantbomb.com/videos/heres-a-look-at-ea-sports-ufcs-career-mode/2300-8820/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9147/",
+      "id": 9147,
+      "name": "Quick Look: EA Sports UFC",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-ea-sports-ufc/2300-9147/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-3/",
+      "id": 3,
+      "name": "Sports",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=sports&wikiTypeId=3060&wikiId=3&genre=3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-9/",
+      "id": 9,
+      "name": "Fighting",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=fighting&wikiTypeId=3060&wikiId=9&genre=9"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134861/",
+      "id": 134861,
+      "name": "EA Sports UFC",
+      "site_detail_url": "http://www.giantbomb.com/ea-sports-ufc/3030-42694/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134862/",
+      "id": 134862,
+      "name": "EA Sports UFC",
+      "site_detail_url": "http://www.giantbomb.com/ea-sports-ufc/3030-42694/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135848/",
+      "id": 135848,
+      "name": "EA Sports UFC",
+      "site_detail_url": "http://www.giantbomb.com/ea-sports-ufc/3030-42694/releases/"
+    }
+  ]
+}

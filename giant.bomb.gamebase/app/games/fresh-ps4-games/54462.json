@@ -1,0 +1,68 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-54462/",
+  "deck": "Carmageddon: Max Damage is the driving sensation where your opponents are a bunch of crazies in a twisted mix of mad cars. Select from more than 30 metal mangling vehicles designed for the job in wrecking opponents, chasing down pedestrians, and causing maximum chaos!",
+  "id": 54462,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2867663-27394888233_65ef4bd61a_o.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2867663-27394888233_65ef4bd61a_o.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2867663-27394888233_65ef4bd61a_o.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2867663-27394888233_65ef4bd61a_o.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2867663-27394888233_65ef4bd61a_o.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2867663-27394888233_65ef4bd61a_o.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2867663-27394888233_65ef4bd61a_o.jpg"
+  },
+  "name": "Carmageddon: Max Damage",
+  "original_release_date": "2016-07-05 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/carmageddon-max-damage/3030-54462/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9536/2867663-27394888233_65ef4bd61a_o.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9536/2867663-27394888233_65ef4bd61a_o.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9536/2867663-27394888233_65ef4bd61a_o.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9536/2867663-27394888233_65ef4bd61a_o.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9536/2867663-27394888233_65ef4bd61a_o.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9536/2867663-27394888233_65ef4bd61a_o.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9536/2867663-27394888233_65ef4bd61a_o.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-6/",
+      "id": 6,
+      "name": "Driving/Racing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=drivingracing&wikiTypeId=3060&wikiId=6&genre=6"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148423/",
+      "id": 148423,
+      "name": "Carmageddon: Max Damage",
+      "site_detail_url": "http://www.giantbomb.com/carmageddon-max-damage/3030-54462/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148424/",
+      "id": 148424,
+      "name": "Carmageddon: Max Damage",
+      "site_detail_url": "http://www.giantbomb.com/carmageddon-max-damage/3030-54462/releases/"
+    }
+  ]
+}

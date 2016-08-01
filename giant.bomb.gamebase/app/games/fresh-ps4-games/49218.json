@@ -1,0 +1,55 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49218/",
+  "deck": "A 3D twin stick shooter where Yorbie the robot must take on the forces of the evil Dr. Zox.",
+  "id": 49218,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2736674-0137862387-yorbi.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2736674-0137862387-yorbi.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2736674-0137862387-yorbi.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2736674-0137862387-yorbi.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2736674-0137862387-yorbi.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2736674-0137862387-yorbi.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2736674-0137862387-yorbi.png"
+  },
+  "name": "Yorbie",
+  "original_release_date": "2015-03-24 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/yorbie/3030-49218/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2736674-0137862387-yorbi.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2736674-0137862387-yorbi.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2736674-0137862387-yorbi.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2736674-0137862387-yorbi.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2736674-0137862387-yorbi.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2736674-0137862387-yorbi.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2736674-0137862387-yorbi.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-31/",
+      "id": 31,
+      "name": "Dual-Joystick Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=dual-joystick-shooter&wikiTypeId=3060&wikiId=31&genre=31"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140809/",
+      "id": 140809,
+      "name": "Yorbie: Episode 1 - Payback's a Bolt",
+      "site_detail_url": "http://www.giantbomb.com/yorbie/3030-49218/releases/"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-53814/",
+  "deck": "Horror game for Ps4 and Pc.",
+  "id": 53814,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2852659-dollhouse-horror-game-news.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2852659-dollhouse-horror-game-news.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2852659-dollhouse-horror-game-news.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2852659-dollhouse-horror-game-news.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2852659-dollhouse-horror-game-news.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2852659-dollhouse-horror-game-news.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2852659-dollhouse-horror-game-news.jpg"
+  },
+  "name": "Dollhouse",
+  "original_release_date": "2016-03-31 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/dollhouse/3030-53814/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/165036/2852659-dollhouse-horror-game-news.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/165036/2852659-dollhouse-horror-game-news.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/165036/2852659-dollhouse-horror-game-news.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/165036/2852659-dollhouse-horror-game-news.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/165036/2852659-dollhouse-horror-game-news.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/165036/2852659-dollhouse-horror-game-news.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/165036/2852659-dollhouse-horror-game-news.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": []
+}

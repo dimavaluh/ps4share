@@ -1,0 +1,410 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49330/",
+  "deck": "Guns, Gore &amp; Cannoli is an homage to the exploitation/grindhouse films from the 70s, the gangster classics, and old school 2D arcade shooters.",
+  "id": 49330,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2764094-8475733530-Xbox_.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2764094-8475733530-Xbox_.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2764094-8475733530-Xbox_.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2764094-8475733530-Xbox_.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2764094-8475733530-Xbox_.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2764094-8475733530-Xbox_.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2764094-8475733530-Xbox_.png"
+  },
+  "name": "Guns, Gore & Cannoli",
+  "original_release_date": "2015-04-30 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/guns-gore-cannoli/3030-49330/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764125-alleystreets02.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764125-alleystreets02.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764125-alleystreets02.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764125-alleystreets02.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764125-alleystreets02.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764125-alleystreets02.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764125-alleystreets02.jpg",
+      "tags": "All Images, Screenshots, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764122-stripclub03.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764122-stripclub03.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764122-stripclub03.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764122-stripclub03.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764122-stripclub03.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764122-stripclub03.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764122-stripclub03.jpg",
+      "tags": "All Images, Screenshots, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764121-stripclub01.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764121-stripclub01.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764121-stripclub01.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764121-stripclub01.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764121-stripclub01.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764121-stripclub01.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764121-stripclub01.jpg",
+      "tags": "All Images, Screenshots, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764120-ship.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764120-ship.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764120-ship.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764120-ship.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764120-ship.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764120-ship.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764120-ship.jpg",
+      "tags": "All Images, Screenshots, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764119-sewersp2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764119-sewersp2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764119-sewersp2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764119-sewersp2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764119-sewersp2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764119-sewersp2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764119-sewersp2.jpg",
+      "tags": "All Images, Screenshots, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764118-secretlab1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764118-secretlab1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764118-secretlab1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764118-secretlab1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764118-secretlab1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764118-secretlab1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764118-secretlab1.jpg",
+      "tags": "All Images, Screenshots, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764117-harbourpart23.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764117-harbourpart23.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764117-harbourpart23.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764117-harbourpart23.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764117-harbourpart23.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764117-harbourpart23.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764117-harbourpart23.jpg",
+      "tags": "All Images, Screenshots, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764116-harbour1%283co-op%29.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764116-harbour1%283co-op%29.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764116-harbour1%283co-op%29.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764116-harbour1%283co-op%29.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764116-harbour1%283co-op%29.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764116-harbour1%283co-op%29.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764116-harbour1%283co-op%29.jpg",
+      "tags": "All Images, Screenshots, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764115-contructionsite.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764115-contructionsite.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764115-contructionsite.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764115-contructionsite.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764115-contructionsite.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764115-contructionsite.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764115-contructionsite.jpg",
+      "tags": "All Images, Screenshots, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764114-constructionsite04.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764114-constructionsite04.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764114-constructionsite04.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764114-constructionsite04.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764114-constructionsite04.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764114-constructionsite04.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764114-constructionsite04.jpg",
+      "tags": "All Images, Screenshots, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764113-armystronghold01.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764113-armystronghold01.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764113-armystronghold01.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764113-armystronghold01.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764113-armystronghold01.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764113-armystronghold01.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764113-armystronghold01.jpg",
+      "tags": "All Images, Screenshots, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764112-alleystreets08.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764112-alleystreets08.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764112-alleystreets08.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764112-alleystreets08.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764112-alleystreets08.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764112-alleystreets08.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764112-alleystreets08.jpg",
+      "tags": "All Images, Screenshots, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764111-zombie3.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764111-zombie3.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764111-zombie3.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764111-zombie3.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764111-zombie3.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764111-zombie3.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764111-zombie3.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764110-zombie2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764110-zombie2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764110-zombie2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764110-zombie2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764110-zombie2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764110-zombie2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764110-zombie2.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764109-zombie1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764109-zombie1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764109-zombie1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764109-zombie1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764109-zombie1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764109-zombie1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764109-zombie1.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764108-xbox_posterart2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764108-xbox_posterart2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764108-xbox_posterart2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764108-xbox_posterart2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764108-xbox_posterart2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764108-xbox_posterart2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764108-xbox_posterart2.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764107-vinniejumping.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764107-vinniejumping.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764107-vinniejumping.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764107-vinniejumping.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764107-vinniejumping.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764107-vinniejumping.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764107-vinniejumping.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764106-vinniecannoli2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764106-vinniecannoli2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764106-vinniecannoli2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764106-vinniecannoli2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764106-vinniecannoli2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764106-vinniecannoli2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764106-vinniecannoli2.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764105-vinniecannoli.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764105-vinniecannoli.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764105-vinniecannoli.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764105-vinniecannoli.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764105-vinniecannoli.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764105-vinniecannoli.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764105-vinniecannoli.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764104-titlelogo.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764104-titlelogo.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764104-titlelogo.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764104-titlelogo.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764104-titlelogo.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764104-titlelogo.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764104-titlelogo.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764103-slomotionshot.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764103-slomotionshot.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764103-slomotionshot.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764103-slomotionshot.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764103-slomotionshot.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764103-slomotionshot.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764103-slomotionshot.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764102-ratzombie.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764102-ratzombie.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764102-ratzombie.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764102-ratzombie.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764102-ratzombie.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764102-ratzombie.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764102-ratzombie.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764101-headerimage1200x189%28new%29.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764101-headerimage1200x189%28new%29.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764101-headerimage1200x189%28new%29.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764101-headerimage1200x189%28new%29.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764101-headerimage1200x189%28new%29.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764101-headerimage1200x189%28new%29.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764101-headerimage1200x189%28new%29.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764100-ggclogoblood.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764100-ggclogoblood.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764100-ggclogoblood.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764100-ggclogoblood.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764100-ggclogoblood.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764100-ggclogoblood.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764100-ggclogoblood.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764099-ggc_1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764099-ggc_1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764099-ggc_1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764099-ggc_1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764099-ggc_1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764099-ggc_1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764099-ggc_1.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764098-flyerfront.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764098-flyerfront.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764098-flyerfront.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764098-flyerfront.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764098-flyerfront.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764098-flyerfront.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764098-flyerfront.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764097-flyer.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764097-flyer.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764097-flyer.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764097-flyer.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764097-flyer.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764097-flyer.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764097-flyer.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764096-copzombie.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764096-copzombie.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764096-copzombie.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764096-copzombie.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764096-copzombie.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764096-copzombie.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764096-copzombie.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764095-capsule_main.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764095-capsule_main.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764095-capsule_main.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764095-capsule_main.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764095-capsule_main.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764095-capsule_main.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764095-capsule_main.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764094-8475733530-Xbox_.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764094-8475733530-Xbox_.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2764094-8475733530-Xbox_.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2764094-8475733530-Xbox_.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2764094-8475733530-Xbox_.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2764094-8475733530-Xbox_.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2764094-8475733530-Xbox_.jpg",
+      "tags": "All Images, Artwork"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10174/",
+      "id": 10174,
+      "name": "Quick Look: Guns, Gore & Cannoli",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-guns-gore-cannoli/2300-10174/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-11/",
+      "id": 11,
+      "name": "Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shooter&wikiTypeId=3060&wikiId=11&genre=11"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142461/",
+      "id": 142461,
+      "name": "Guns, Gore & Cannoli",
+      "site_detail_url": "http://www.giantbomb.com/guns-gore-cannoli/3030-49330/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142462/",
+      "id": 142462,
+      "name": "Guns, Gore & Cannoli",
+      "site_detail_url": "http://www.giantbomb.com/guns-gore-cannoli/3030-49330/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143885/",
+      "id": 143885,
+      "name": "Guns, Gore and Cannoli",
+      "site_detail_url": "http://www.giantbomb.com/guns-gore-cannoli/3030-49330/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145093/",
+      "id": 145093,
+      "name": "Guns, Gore & Cannoli",
+      "site_detail_url": "http://www.giantbomb.com/guns-gore-cannoli/3030-49330/releases/"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-46434/",
+  "deck": "Killing Floor 2 is the sequel to the cooperative survival horror wave-based first-person shooter Killing Floor",
+  "id": 46434,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2637074-3949366575-killi.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2637074-3949366575-killi.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2637074-3949366575-killi.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2637074-3949366575-killi.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2637074-3949366575-killi.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2637074-3949366575-killi.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2637074-3949366575-killi.jpg"
+  },
+  "name": "Killing Floor 2",
+  "original_release_date": "2015-04-21 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/killing-floor-2/3030-46434/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847706-dsc01091.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847706-dsc01091.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847706-dsc01091.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847706-dsc01091.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2847706-dsc01091.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2847706-dsc01091.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2847706-dsc01091.jpg",
+      "tags": "All Images, Tripwire, PAX East 2016, PAX East 2016 Booth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847705-dsc01090.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847705-dsc01090.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847705-dsc01090.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847705-dsc01090.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2847705-dsc01090.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2847705-dsc01090.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2847705-dsc01090.jpg",
+      "tags": "All Images, Tripwire, PAX East 2016, PAX East 2016 Booth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847619-dsc00707.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847619-dsc00707.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847619-dsc00707.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847619-dsc00707.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2847619-dsc00707.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2847619-dsc00707.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2847619-dsc00707.jpg",
+      "tags": "All Images, Sony, PAX East 2016 Booth, PAX East 2016"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10132/",
+      "id": 10132,
+      "name": "Unfinished: Killing Floor 2 04/21/2015",
+      "site_detail_url": "http://www.giantbomb.com/videos/unfinished-killing-floor-2-04-21-2015/2300-10132/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-32/",
+      "id": 32,
+      "name": "First-Person Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=first-person-shooter&wikiTypeId=3060&wikiId=32&genre=32"
+    }
+  ]
+}

@@ -1,0 +1,626 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-42034/",
+  "deck": "An action-platformer paying homage to 8-bit classics like Mega Man and Castlevania. It is developed by a small group of former WayForward employees, with funding through Kickstarter.",
+  "id": 42034,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2641173-shovelclean.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2641173-shovelclean.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2641173-shovelclean.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2641173-shovelclean.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2641173-shovelclean.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2641173-shovelclean.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2641173-shovelclean.jpg"
+  },
+  "name": "Shovel Knight",
+  "original_release_date": "2014-06-26 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-117/",
+      "id": 117,
+      "name": "Nintendo 3DS",
+      "site_detail_url": "http://www.giantbomb.com/nintendo-3ds/3045-117/",
+      "abbreviation": "3DS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-138/",
+      "id": 138,
+      "name": "Nintendo 3DS eShop",
+      "site_detail_url": "http://www.giantbomb.com/nintendo-3ds-eshop/3045-138/",
+      "abbreviation": "3DSE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-155/",
+      "id": 155,
+      "name": "Amazon Fire TV",
+      "site_detail_url": "http://www.giantbomb.com/amazon-fire-tv/3045-155/",
+      "abbreviation": "FIRE"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781228-dsc09579.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781228-dsc09579.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781228-dsc09579.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781228-dsc09579.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2781228-dsc09579.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2781228-dsc09579.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2781228-dsc09579.jpg",
+      "tags": "All Images, Yacht Club Games, PAX Prime 2015, PAX Prime 2015 Booth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781227-dsc09578.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781227-dsc09578.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781227-dsc09578.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781227-dsc09578.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2781227-dsc09578.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2781227-dsc09578.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2781227-dsc09578.jpg",
+      "tags": "All Images, Yacht Club Games, PAX Prime 2015, PAX Prime 2015 Booth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780905-dsc08718.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780905-dsc08718.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780905-dsc08718.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780905-dsc08718.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2780905-dsc08718.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2780905-dsc08718.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2780905-dsc08718.jpg",
+      "tags": "All Images, Nintendo, PAX Prime 2015 Booth, PAX Prime 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780897-dsc08710.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780897-dsc08710.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780897-dsc08710.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780897-dsc08710.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2780897-dsc08710.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2780897-dsc08710.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2780897-dsc08710.jpg",
+      "tags": "All Images, Nintendo, PAX Prime 2015 Booth, PAX Prime 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2679862-dsc07036.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2679862-dsc07036.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2679862-dsc07036.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2679862-dsc07036.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2679862-dsc07036.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2679862-dsc07036.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2679862-dsc07036.jpg",
+      "tags": "All Images, Yacht Club Games, PAX Prime 2014 Booth, PAX Prime 2014"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2679861-dsc07035.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2679861-dsc07035.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2679861-dsc07035.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2679861-dsc07035.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2679861-dsc07035.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2679861-dsc07035.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2679861-dsc07035.jpg",
+      "tags": "All Images, Yacht Club Games, PAX Prime 2014 Booth, PAX Prime 2014"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650629-treasureknight-grapple.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650629-treasureknight-grapple.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650629-treasureknight-grapple.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650629-treasureknight-grapple.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650629-treasureknight-grapple.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650629-treasureknight-grapple.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650629-treasureknight-grapple.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650628-treasureknight.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650628-treasureknight.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650628-treasureknight.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650628-treasureknight.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650628-treasureknight.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650628-treasureknight.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650628-treasureknight.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650627-tinkerknight-cross.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650627-tinkerknight-cross.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650627-tinkerknight-cross.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650627-tinkerknight-cross.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650627-tinkerknight-cross.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650627-tinkerknight-cross.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650627-tinkerknight-cross.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650626-tinkerknight-beckon.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650626-tinkerknight-beckon.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650626-tinkerknight-beckon.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650626-tinkerknight-beckon.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650626-tinkerknight-beckon.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650626-tinkerknight-beckon.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650626-tinkerknight-beckon.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650625-specterknight-minions.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650625-specterknight-minions.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650625-specterknight-minions.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650625-specterknight-minions.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650625-specterknight-minions.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650625-specterknight-minions.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650625-specterknight-minions.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650624-specterknight-float.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650624-specterknight-float.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650624-specterknight-float.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650624-specterknight-float.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650624-specterknight-float.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650624-specterknight-float.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650624-specterknight-float.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650623-propellerknight-hover.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650623-propellerknight-hover.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650623-propellerknight-hover.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650623-propellerknight-hover.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650623-propellerknight-hover.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650623-propellerknight-hover.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650623-propellerknight-hover.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650622-propellerknight.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650622-propellerknight.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650622-propellerknight.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650622-propellerknight.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650622-propellerknight.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650622-propellerknight.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650622-propellerknight.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650621-polarknight-plow.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650621-polarknight-plow.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650621-polarknight-plow.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650621-polarknight-plow.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650621-polarknight-plow.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650621-polarknight-plow.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650621-polarknight-plow.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650620-plagueknight-twist.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650620-plagueknight-twist.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650620-plagueknight-twist.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650620-plagueknight-twist.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650620-plagueknight-twist.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650620-plagueknight-twist.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650620-plagueknight-twist.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650619-plagueknight.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650619-plagueknight.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650619-plagueknight.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650619-plagueknight.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650619-plagueknight.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650619-plagueknight.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650619-plagueknight.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650618-moleknight-flamin.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650618-moleknight-flamin.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650618-moleknight-flamin.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650618-moleknight-flamin.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650618-moleknight-flamin.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650618-moleknight-flamin.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650618-moleknight-flamin.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650617-moleknight-awesome.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650617-moleknight-awesome.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650617-moleknight-awesome.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650617-moleknight-awesome.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650617-moleknight-awesome.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650617-moleknight-awesome.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650617-moleknight-awesome.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650616-kingknight-grand.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650616-kingknight-grand.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650616-kingknight-grand.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650616-kingknight-grand.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650616-kingknight-grand.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650616-kingknight-grand.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650616-kingknight-grand.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650615-kingknight.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650615-kingknight.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650615-kingknight.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650615-kingknight.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650615-kingknight.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650615-kingknight.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650615-kingknight.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650614-enchantressglare.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650614-enchantressglare.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650614-enchantressglare.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650614-enchantressglare.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650614-enchantressglare.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650614-enchantressglare.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650614-enchantressglare.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650613-enchantress.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650613-enchantress.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650613-enchantress.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650613-enchantress.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650613-enchantress.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650613-enchantress.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650613-enchantress.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650612-blackknight-cross.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650612-blackknight-cross.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650612-blackknight-cross.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650612-blackknight-cross.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650612-blackknight-cross.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650612-blackknight-cross.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650612-blackknight-cross.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650611-blackknight.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650611-blackknight.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650611-blackknight.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650611-blackknight.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650611-blackknight.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650611-blackknight.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650611-blackknight.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650610-trouppleacolyte.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650610-trouppleacolyte.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650610-trouppleacolyte.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650610-trouppleacolyte.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650610-trouppleacolyte.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650610-trouppleacolyte.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650610-trouppleacolyte.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650609-shovelsmith.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650609-shovelsmith.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650609-shovelsmith.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650609-shovelsmith.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650609-shovelsmith.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650609-shovelsmith.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650609-shovelsmith.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650608-shieldknight-smile.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650608-shieldknight-smile.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650608-shieldknight-smile.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650608-shieldknight-smile.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650608-shieldknight-smile.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650608-shieldknight-smile.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650608-shieldknight-smile.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650607-shieldknight.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650607-shieldknight.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650607-shieldknight.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650607-shieldknight.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650607-shieldknight.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650607-shieldknight.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650607-shieldknight.jpg",
+      "tags": "All Images, Characters, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650606-scholar.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650606-scholar.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2650606-scholar.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2650606-scholar.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2650606-scholar.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2650606-scholar.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2650606-scholar.jpg",
+      "tags": "All Images, Characters, Artwork"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8038/",
+      "id": 8038,
+      "name": "Shovel Knight Is Modern Nostalgia Done Right",
+      "site_detail_url": "http://www.giantbomb.com/videos/shovel-knight-is-modern-nostalgia-done-right/2300-8038/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8398/",
+      "id": 8398,
+      "name": "Shovel Knight Will Dig Up Your Nostalgic Feelings on March 31",
+      "site_detail_url": "http://www.giantbomb.com/videos/shovel-knight-will-dig-up-your-nostalgic-feelings-/2300-8398/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9075/",
+      "id": 9075,
+      "name": "E3 2014: Shovel Knight Wants to Know: Can You Dig it?",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2014-shovel-knight-wants-to-know-can-you-dig-it/2300-9075/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9148/",
+      "id": 9148,
+      "name": "Shovel Knight Launch Trailer Is Bananas",
+      "site_detail_url": "http://www.giantbomb.com/videos/shovel-knight-launch-trailer-is-bananas/2300-9148/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9157/",
+      "id": 9157,
+      "name": "Quick Look: Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-shovel-knight/2300-9157/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9170/",
+      "id": 9170,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 06/27/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-06-27-2014/2300-9170/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9173/",
+      "id": 9173,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 06/30/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-06-30-2014/2300-9173/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132619/",
+      "id": 132619,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134701/",
+      "id": 134701,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134702/",
+      "id": 134702,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135737/",
+      "id": 135737,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135738/",
+      "id": 135738,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135739/",
+      "id": 135739,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135740/",
+      "id": 135740,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135741/",
+      "id": 135741,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135742/",
+      "id": 135742,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135743/",
+      "id": 135743,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137445/",
+      "id": 137445,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137446/",
+      "id": 137446,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140420/",
+      "id": 140420,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140421/",
+      "id": 140421,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140422/",
+      "id": 140422,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141330/",
+      "id": 141330,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141331/",
+      "id": 141331,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141332/",
+      "id": 141332,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144598/",
+      "id": 144598,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144599/",
+      "id": 144599,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144600/",
+      "id": 144600,
+      "name": "Shovel Knight (Retail)",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144601/",
+      "id": 144601,
+      "name": "Shovel Knight (Retail)",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144602/",
+      "id": 144602,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146328/",
+      "id": 146328,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146329/",
+      "id": 146329,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146331/",
+      "id": 146331,
+      "name": "Shovel Knight (with Shovel Knight amiibo)",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146332/",
+      "id": 146332,
+      "name": "Shovel Knight",
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146333/",
+      "id": 146333,
+      "name": null,
+      "site_detail_url": "http://www.giantbomb.com/shovel-knight/3030-42034/releases/"
+    }
+  ]
+}

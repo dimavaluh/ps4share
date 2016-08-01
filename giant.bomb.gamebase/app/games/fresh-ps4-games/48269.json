@@ -1,0 +1,74 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48269/",
+  "deck": "A card battle RPG from Smilegate.",
+  "id": 48269,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2702952-2548815035-00006.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2702952-2548815035-00006.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2702952-2548815035-00006.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2702952-2548815035-00006.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2702952-2548815035-00006.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2702952-2548815035-00006.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2702952-2548815035-00006.jpg"
+  },
+  "name": "Qurare: Magic Library",
+  "original_release_date": "2014-02-20 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-96/",
+      "id": 96,
+      "name": "iPhone",
+      "site_detail_url": "http://www.giantbomb.com/iphone/3045-96/",
+      "abbreviation": "IPHN"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-123/",
+      "id": 123,
+      "name": "Android",
+      "site_detail_url": "http://www.giantbomb.com/android/3045-123/",
+      "abbreviation": "ANDR"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/qurare-magic-library/3030-48269/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2702952-2548815035-00006.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2702952-2548815035-00006.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2702952-2548815035-00006.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2702952-2548815035-00006.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2702952-2548815035-00006.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2702952-2548815035-00006.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2702952-2548815035-00006.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11349/",
+      "id": 11349,
+      "name": "E3 2016: The First Card Battle RPG for PS4 is Qurare: Magic Library",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2016-the-first-card-battle-rpg-for-ps4-is-qurar/2300-11349/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-13/",
+      "id": 13,
+      "name": "Card Game",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=card-game&wikiTypeId=3060&wikiId=13&genre=13"
+    }
+  ]
+}

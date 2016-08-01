@@ -1,0 +1,78 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-50713/",
+  "deck": "A compilation containing the remastered versions of the Resident Evil remake and Resident Evil Zero.",
+  "id": 50713,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2789446-maxresdefault.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2789446-maxresdefault.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2789446-maxresdefault.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2789446-maxresdefault.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2789446-maxresdefault.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2789446-maxresdefault.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2789446-maxresdefault.jpg"
+  },
+  "name": "Resident Evil Origins Collection",
+  "original_release_date": "2016-01-19 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/resident-evil-origins-collection/3030-50713/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2789446-maxresdefault.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2789446-maxresdefault.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2789446-maxresdefault.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2789446-maxresdefault.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2789446-maxresdefault.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2789446-maxresdefault.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2789446-maxresdefault.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2778455-resident-evil-origins-collection-announced-for-ps4-and-xbox-one-144110284767.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2778455-resident-evil-origins-collection-announced-for-ps4-and-xbox-one-144110284767.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2778455-resident-evil-origins-collection-announced-for-ps4-and-xbox-one-144110284767.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2778455-resident-evil-origins-collection-announced-for-ps4-and-xbox-one-144110284767.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2778455-resident-evil-origins-collection-announced-for-ps4-and-xbox-one-144110284767.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2778455-resident-evil-origins-collection-announced-for-ps4-and-xbox-one-144110284767.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2778455-resident-evil-origins-collection-announced-for-ps4-and-xbox-one-144110284767.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-15/",
+      "id": 15,
+      "name": "Compilation",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=compilation&wikiTypeId=3060&wikiId=15&genre=15"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143487/",
+      "id": 143487,
+      "name": "BioHazard: Origins Collection",
+      "site_detail_url": "http://www.giantbomb.com/resident-evil-origins-collection/3030-50713/releases/"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-46491/",
+  "deck": "The Escapists is a game developed by Mouldy Toof Studios that showcases prison life.",
+  "id": 46491,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2724706-rsz_3image.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2724706-rsz_3image.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2724706-rsz_3image.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2724706-rsz_3image.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2724706-rsz_3image.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2724706-rsz_3image.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2724706-rsz_3image.jpg"
+  },
+  "name": "The Escapists",
+  "original_release_date": "2015-02-13 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/the-escapists/3030-46491/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2724706-rsz_3image.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2724706-rsz_3image.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2724706-rsz_3image.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2724706-rsz_3image.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2724706-rsz_3image.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2724706-rsz_3image.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2724706-rsz_3image.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2671804-3993137735-heade.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2671804-3993137735-heade.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2671804-3993137735-heade.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2671804-3993137735-heade.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/17/171291/2671804-3993137735-heade.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/17/171291/2671804-3993137735-heade.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/17/171291/2671804-3993137735-heade.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9983/",
+      "id": 9983,
+      "name": "Quick Look: The Escapists",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-the-escapists/2300-9983/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10252/",
+      "id": 10252,
+      "name": "Quick Look: The Escapists (PS4)",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-the-escapists-ps4/2300-10252/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-2/",
+      "id": 2,
+      "name": "Strategy",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=strategy&wikiTypeId=3060&wikiId=2&genre=2"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-7/",
+      "id": 7,
+      "name": "Simulation",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=simulation&wikiTypeId=3060&wikiId=7&genre=7"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-139546/",
+      "id": 139546,
+      "name": "The Escapists",
+      "site_detail_url": "http://www.giantbomb.com/the-escapists/3030-46491/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141389/",
+      "id": 141389,
+      "name": "The Escapists",
+      "site_detail_url": "http://www.giantbomb.com/the-escapists/3030-46491/releases/"
+    }
+  ]
+}

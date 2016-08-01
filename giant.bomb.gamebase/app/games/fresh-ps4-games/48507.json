@@ -1,0 +1,96 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48507/",
+  "deck": "A turn-based tactical space combat game developed by Escape Hatch Entertainment.",
+  "id": 48507,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2714817-tactics_cover_reduced.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2714817-tactics_cover_reduced.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2714817-tactics_cover_reduced.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2714817-tactics_cover_reduced.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2714817-tactics_cover_reduced.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2714817-tactics_cover_reduced.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2714817-tactics_cover_reduced.jpg"
+  },
+  "name": "Starlight Tactics",
+  "original_release_date": "2015-12-31 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-121/",
+      "id": 121,
+      "name": "iPad",
+      "site_detail_url": "http://www.giantbomb.com/ipad/3045-121/",
+      "abbreviation": "IPAD"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-123/",
+      "id": 123,
+      "name": "Android",
+      "site_detail_url": "http://www.giantbomb.com/android/3045-123/",
+      "abbreviation": "ANDR"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/starlight-tactics/3030-48507/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2714817-tactics_cover_reduced.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2714817-tactics_cover_reduced.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2714817-tactics_cover_reduced.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2714817-tactics_cover_reduced.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2714817-tactics_cover_reduced.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2714817-tactics_cover_reduced.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2714817-tactics_cover_reduced.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-2/",
+      "id": 2,
+      "name": "Strategy",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=strategy&wikiTypeId=3060&wikiId=2&genre=2"
+    }
+  ]
+}

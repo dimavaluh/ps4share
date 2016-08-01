@@ -1,0 +1,402 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-34412/",
+  "deck": "Hawken is a free to play, multiplayer-only first-person shooter featuring enormous mechs and micro-transactions from independent studio Adhesive Games.",
+  "id": 34412,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2371842-poster.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2371842-poster.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2371842-poster.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2371842-poster.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2371842-poster.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2371842-poster.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2371842-poster.png"
+  },
+  "name": "Hawken",
+  "original_release_date": "2013-12-31 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/hawken/3030-34412/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2541910-dsc04957.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2541910-dsc04957.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2541910-dsc04957.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2541910-dsc04957.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2541910-dsc04957.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2541910-dsc04957.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2541910-dsc04957.jpg",
+      "tags": "All Images, Oculus VR, PAX Prime 2013"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461365-dsc03909.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461365-dsc03909.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461365-dsc03909.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461365-dsc03909.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2461365-dsc03909.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2461365-dsc03909.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2461365-dsc03909.jpg",
+      "tags": "All Images, Meteor, PAX East 2013 Booth, PAX East 2013"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461364-dsc03908.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461364-dsc03908.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461364-dsc03908.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461364-dsc03908.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2461364-dsc03908.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2461364-dsc03908.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2461364-dsc03908.jpg",
+      "tags": "All Images, Meteor, PAX East 2013 Booth, PAX East 2013"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461363-dsc03907.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461363-dsc03907.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461363-dsc03907.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461363-dsc03907.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2461363-dsc03907.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2461363-dsc03907.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2461363-dsc03907.jpg",
+      "tags": "All Images, Meteor, PAX East 2013 Booth, PAX East 2013"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93770/2371842-poster.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93770/2371842-poster.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93770/2371842-poster.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93770/2371842-poster.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93770/2371842-poster.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93770/2371842-poster.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93770/2371842-poster.png",
+      "tags": "All Images, Media"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/11165/2352910-hawkengame_win32_shipping_2012_10_26_22_28_24_51.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/11165/2352910-hawkengame_win32_shipping_2012_10_26_22_28_24_51.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/11165/2352910-hawkengame_win32_shipping_2012_10_26_22_28_24_51.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/11165/2352910-hawkengame_win32_shipping_2012_10_26_22_28_24_51.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/11165/2352910-hawkengame_win32_shipping_2012_10_26_22_28_24_51.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/11165/2352910-hawkengame_win32_shipping_2012_10_26_22_28_24_51.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/11165/2352910-hawkengame_win32_shipping_2012_10_26_22_28_24_51.png",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/11165/2352909-hawkengame_win32_shipping_2012_10_26_22_27_52_24.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/11165/2352909-hawkengame_win32_shipping_2012_10_26_22_27_52_24.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/11165/2352909-hawkengame_win32_shipping_2012_10_26_22_27_52_24.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/11165/2352909-hawkengame_win32_shipping_2012_10_26_22_27_52_24.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/11165/2352909-hawkengame_win32_shipping_2012_10_26_22_27_52_24.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/11165/2352909-hawkengame_win32_shipping_2012_10_26_22_27_52_24.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/11165/2352909-hawkengame_win32_shipping_2012_10_26_22_27_52_24.png",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/11165/2352908-hawkengame_win32_shipping_2012_10_26_22_27_46_22.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/11165/2352908-hawkengame_win32_shipping_2012_10_26_22_27_46_22.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/11165/2352908-hawkengame_win32_shipping_2012_10_26_22_27_46_22.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/11165/2352908-hawkengame_win32_shipping_2012_10_26_22_27_46_22.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/11165/2352908-hawkengame_win32_shipping_2012_10_26_22_27_46_22.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/11165/2352908-hawkengame_win32_shipping_2012_10_26_22_27_46_22.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/11165/2352908-hawkengame_win32_shipping_2012_10_26_22_27_46_22.png",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/11165/2352907-hawkengame_win32_shipping_2012_10_26_22_27_22_66.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/11165/2352907-hawkengame_win32_shipping_2012_10_26_22_27_22_66.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/11165/2352907-hawkengame_win32_shipping_2012_10_26_22_27_22_66.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/11165/2352907-hawkengame_win32_shipping_2012_10_26_22_27_22_66.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/11165/2352907-hawkengame_win32_shipping_2012_10_26_22_27_22_66.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/11165/2352907-hawkengame_win32_shipping_2012_10_26_22_27_22_66.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/11165/2352907-hawkengame_win32_shipping_2012_10_26_22_27_22_66.png",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/11165/2352906-hawkengame_win32_shipping_2012_10_26_22_27_12_53.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/11165/2352906-hawkengame_win32_shipping_2012_10_26_22_27_12_53.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/11165/2352906-hawkengame_win32_shipping_2012_10_26_22_27_12_53.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/11165/2352906-hawkengame_win32_shipping_2012_10_26_22_27_12_53.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/11165/2352906-hawkengame_win32_shipping_2012_10_26_22_27_12_53.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/11165/2352906-hawkengame_win32_shipping_2012_10_26_22_27_12_53.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/11165/2352906-hawkengame_win32_shipping_2012_10_26_22_27_12_53.png",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327095-super_mech.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327095-super_mech.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327095-super_mech.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327095-super_mech.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/12565/2327095-super_mech.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/12565/2327095-super_mech.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/12565/2327095-super_mech.jpg",
+      "tags": "All Images, Hawken"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327094-mech_pilots.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327094-mech_pilots.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327094-mech_pilots.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327094-mech_pilots.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/12565/2327094-mech_pilots.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/12565/2327094-mech_pilots.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/12565/2327094-mech_pilots.jpg",
+      "tags": "All Images, Hawken"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327093-mech_hangar_rough.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327093-mech_hangar_rough.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327093-mech_hangar_rough.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327093-mech_hangar_rough.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/12565/2327093-mech_hangar_rough.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/12565/2327093-mech_hangar_rough.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/12565/2327093-mech_hangar_rough.jpg",
+      "tags": "All Images, Hawken"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327092-mech_hangar_light.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327092-mech_hangar_light.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327092-mech_hangar_light.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327092-mech_hangar_light.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/12565/2327092-mech_hangar_light.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/12565/2327092-mech_hangar_light.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/12565/2327092-mech_hangar_light.jpg",
+      "tags": "All Images, Hawken"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327091-mech_hangar_dark.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327091-mech_hangar_dark.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327091-mech_hangar_dark.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327091-mech_hangar_dark.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/12565/2327091-mech_hangar_dark.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/12565/2327091-mech_hangar_dark.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/12565/2327091-mech_hangar_dark.jpg",
+      "tags": "All Images, Hawken"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327090-mech_garage.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327090-mech_garage.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327090-mech_garage.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327090-mech_garage.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/12565/2327090-mech_garage.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/12565/2327090-mech_garage.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/12565/2327090-mech_garage.jpg",
+      "tags": "All Images, Hawken"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327089-gigastructure.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327089-gigastructure.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327089-gigastructure.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327089-gigastructure.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/12565/2327089-gigastructure.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/12565/2327089-gigastructure.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/12565/2327089-gigastructure.jpg",
+      "tags": "All Images, Hawken"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327088-andromeda.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327088-andromeda.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327088-andromeda.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327088-andromeda.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/12565/2327088-andromeda.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/12565/2327088-andromeda.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/12565/2327088-andromeda.jpg",
+      "tags": "All Images, Hawken"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327085-hawkenscreen_016.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327085-hawkenscreen_016.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327085-hawkenscreen_016.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327085-hawkenscreen_016.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/12565/2327085-hawkenscreen_016.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/12565/2327085-hawkenscreen_016.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/12565/2327085-hawkenscreen_016.jpg",
+      "tags": "All Images, Screenshots, Hawken"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327084-hawkenscreen_015.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327084-hawkenscreen_015.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327084-hawkenscreen_015.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327084-hawkenscreen_015.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/12565/2327084-hawkenscreen_015.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/12565/2327084-hawkenscreen_015.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/12565/2327084-hawkenscreen_015.jpg",
+      "tags": "All Images, Screenshots, Hawken"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327083-hawkenscreen_014.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327083-hawkenscreen_014.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327083-hawkenscreen_014.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327083-hawkenscreen_014.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/12565/2327083-hawkenscreen_014.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/12565/2327083-hawkenscreen_014.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/12565/2327083-hawkenscreen_014.jpg",
+      "tags": "All Images, Screenshots, Hawken"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327082-hawkenscreen_013.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327082-hawkenscreen_013.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327082-hawkenscreen_013.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327082-hawkenscreen_013.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/12565/2327082-hawkenscreen_013.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/12565/2327082-hawkenscreen_013.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/12565/2327082-hawkenscreen_013.jpg",
+      "tags": "All Images, Screenshots, Hawken"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327081-hawkenscreen_012.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327081-hawkenscreen_012.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327081-hawkenscreen_012.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327081-hawkenscreen_012.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/12565/2327081-hawkenscreen_012.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/12565/2327081-hawkenscreen_012.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/12565/2327081-hawkenscreen_012.jpg",
+      "tags": "All Images, Screenshots, Hawken"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327080-hawkenscreen_011.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327080-hawkenscreen_011.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327080-hawkenscreen_011.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327080-hawkenscreen_011.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/12565/2327080-hawkenscreen_011.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/12565/2327080-hawkenscreen_011.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/12565/2327080-hawkenscreen_011.jpg",
+      "tags": "All Images, Screenshots, Hawken"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327079-hawkenscreen_010.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327079-hawkenscreen_010.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327079-hawkenscreen_010.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327079-hawkenscreen_010.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/12565/2327079-hawkenscreen_010.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/12565/2327079-hawkenscreen_010.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/12565/2327079-hawkenscreen_010.jpg",
+      "tags": "All Images, Screenshots, Hawken"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327078-hawkenscreen_09.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327078-hawkenscreen_09.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327078-hawkenscreen_09.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327078-hawkenscreen_09.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/12565/2327078-hawkenscreen_09.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/12565/2327078-hawkenscreen_09.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/12565/2327078-hawkenscreen_09.jpg",
+      "tags": "All Images, Screenshots, Hawken"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327077-hawkenscreen_08.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327077-hawkenscreen_08.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327077-hawkenscreen_08.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327077-hawkenscreen_08.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/12565/2327077-hawkenscreen_08.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/12565/2327077-hawkenscreen_08.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/12565/2327077-hawkenscreen_08.jpg",
+      "tags": "All Images, Screenshots, Hawken"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327076-hawkenscreen_07.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327076-hawkenscreen_07.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327076-hawkenscreen_07.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327076-hawkenscreen_07.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/12565/2327076-hawkenscreen_07.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/12565/2327076-hawkenscreen_07.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/12565/2327076-hawkenscreen_07.jpg",
+      "tags": "All Images, Screenshots, Hawken"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327075-hawkenscreen_05.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327075-hawkenscreen_05.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327075-hawkenscreen_05.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327075-hawkenscreen_05.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/12565/2327075-hawkenscreen_05.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/12565/2327075-hawkenscreen_05.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/12565/2327075-hawkenscreen_05.jpg",
+      "tags": "All Images, Screenshots, Hawken"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327074-hawkenscreen_04.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327074-hawkenscreen_04.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/12565/2327074-hawkenscreen_04.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/12565/2327074-hawkenscreen_04.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/12565/2327074-hawkenscreen_04.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/12565/2327074-hawkenscreen_04.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/12565/2327074-hawkenscreen_04.jpg",
+      "tags": "All Images, Screenshots, Hawken"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-3976/",
+      "id": 3976,
+      "name": "The First Gameplay Footage of Hawken",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-first-gameplay-footage-of-hawken/2300-3976/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6216/",
+      "id": 6216,
+      "name": "E3 2012: Hawken Demo",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2012-hawken-demo/2300-6216/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6751/",
+      "id": 6751,
+      "name": "Quick Look: Hawken Beta",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-hawken-beta/2300-6751/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11320/",
+      "id": 11320,
+      "name": "E3 2016: Clear Out the Garage, Hawken is Coming to Consoles",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2016-clear-out-the-garage-hawken-is-coming-to-c/2300-11320/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-32/",
+      "id": 32,
+      "name": "First-Person Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=first-person-shooter&wikiTypeId=3060&wikiId=32&genre=32"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-38/",
+      "id": 38,
+      "name": "Vehicular Combat",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=vehicular-combat&wikiTypeId=3060&wikiId=38&genre=38"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-115442/",
+      "id": 115442,
+      "name": "Hawken",
+      "site_detail_url": "http://www.giantbomb.com/hawken/3030-34412/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148386/",
+      "id": 148386,
+      "name": "Hawken",
+      "site_detail_url": "http://www.giantbomb.com/hawken/3030-34412/releases/"
+    }
+  ]
+}

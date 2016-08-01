@@ -1,0 +1,85 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48041/",
+  "deck": "Upcoming FPS inspired by Minecraft.",
+  "id": 48041,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2690919-5256729813-maxre.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2690919-5256729813-maxre.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2690919-5256729813-maxre.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2690919-5256729813-maxre.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2690919-5256729813-maxre.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2690919-5256729813-maxre.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2690919-5256729813-maxre.jpg"
+  },
+  "name": "Gunscape",
+  "original_release_date": "2016-03-01 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/gunscape/3030-48041/",
+  "images": [],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-11/",
+      "id": 11,
+      "name": "Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shooter&wikiTypeId=3060&wikiId=11&genre=11"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146223/",
+      "id": 146223,
+      "name": "Gunscape",
+      "site_detail_url": "http://www.giantbomb.com/gunscape/3030-48041/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146348/",
+      "id": 146348,
+      "name": "Gunscape",
+      "site_detail_url": "http://www.giantbomb.com/gunscape/3030-48041/releases/"
+    }
+  ]
+}

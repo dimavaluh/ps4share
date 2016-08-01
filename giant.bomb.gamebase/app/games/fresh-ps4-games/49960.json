@@ -1,0 +1,117 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49960/",
+  "deck": "A moody 2D puzzle platformer in which players can use letters to affect the game world.",
+  "id": 49960,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2758570-150105typoman_wallpaper.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2758570-150105typoman_wallpaper.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2758570-150105typoman_wallpaper.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2758570-150105typoman_wallpaper.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2758570-150105typoman_wallpaper.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2758570-150105typoman_wallpaper.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2758570-150105typoman_wallpaper.jpg"
+  },
+  "name": "Typoman",
+  "original_release_date": "2015-11-19 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/typoman/3030-49960/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780902-dsc08715.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780902-dsc08715.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780902-dsc08715.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780902-dsc08715.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2780902-dsc08715.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2780902-dsc08715.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2780902-dsc08715.jpg",
+      "tags": "All Images, Nintendo, PAX Prime 2015 Booth, PAX Prime 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2758570-150105typoman_wallpaper.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2758570-150105typoman_wallpaper.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2758570-150105typoman_wallpaper.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2758570-150105typoman_wallpaper.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2758570-150105typoman_wallpaper.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2758570-150105typoman_wallpaper.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2758570-150105typoman_wallpaper.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10431/",
+      "id": 10431,
+      "name": "E3 2015: Only the Power of Letters Can Save the Bleak World in Typoman",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2015-only-the-power-of-letters-can-save-the-ble/2300-10431/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10886/",
+      "id": 10886,
+      "name": "Quick Look: Typoman",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-typoman/2300-10886/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-18/",
+      "id": 18,
+      "name": "Puzzle",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=puzzle&wikiTypeId=3060&wikiId=18&genre=18"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142873/",
+      "id": 142873,
+      "name": "Typoman",
+      "site_detail_url": "http://www.giantbomb.com/typoman/3030-49960/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142874/",
+      "id": 142874,
+      "name": "Typoman",
+      "site_detail_url": "http://www.giantbomb.com/typoman/3030-49960/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148776/",
+      "id": 148776,
+      "name": "Typoman: Revised",
+      "site_detail_url": "http://www.giantbomb.com/typoman/3030-49960/releases/"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-42654/",
+  "deck": "A retro-style 2D skateboarding game inspired by the Tony Hawk franchise.",
+  "id": 42654,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2713269-olliolli.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2713269-olliolli.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2713269-olliolli.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2713269-olliolli.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2713269-olliolli.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2713269-olliolli.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2713269-olliolli.jpg"
+  },
+  "name": "OlliOlli",
+  "original_release_date": "2014-01-21 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-138/",
+      "id": 138,
+      "name": "Nintendo 3DS eShop",
+      "site_detail_url": "http://www.giantbomb.com/nintendo-3ds-eshop/3045-138/",
+      "abbreviation": "3DSE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/olliolli/3030-42654/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/89246/2713269-olliolli.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/89246/2713269-olliolli.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/89246/2713269-olliolli.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/89246/2713269-olliolli.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/89246/2713269-olliolli.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/89246/2713269-olliolli.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/89246/2713269-olliolli.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2588567-6579705429-11837.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2588567-6579705429-11837.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2588567-6579705429-11837.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2588567-6579705429-11837.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2588567-6579705429-11837.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2588567-6579705429-11837.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2588567-6579705429-11837.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2588566-6209507299-11837.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2588566-6209507299-11837.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2588566-6209507299-11837.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2588566-6209507299-11837.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2588566-6209507299-11837.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2588566-6209507299-11837.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2588566-6209507299-11837.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2588565-8465303960-11838.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2588565-8465303960-11838.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2588565-8465303960-11838.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2588565-8465303960-11838.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2588565-8465303960-11838.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2588565-8465303960-11838.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2588565-8465303960-11838.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2487959-1441558280-88005.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2487959-1441558280-88005.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2487959-1441558280-88005.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2487959-1441558280-88005.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2487959-1441558280-88005.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2487959-1441558280-88005.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2487959-1441558280-88005.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2487958-9335341088-88005.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2487958-9335341088-88005.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2487958-9335341088-88005.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2487958-9335341088-88005.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2487958-9335341088-88005.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2487958-9335341088-88005.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2487958-9335341088-88005.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2483898-3793228033-Cropp.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2483898-3793228033-Cropp.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2483898-3793228033-Cropp.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2483898-3793228033-Cropp.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2483898-3793228033-Cropp.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2483898-3793228033-Cropp.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2483898-3793228033-Cropp.png",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8353/",
+      "id": 8353,
+      "name": "Maybe OlliOlli's the Skateboarding Game We've Been Waiting For",
+      "site_detail_url": "http://www.giantbomb.com/videos/maybe-olliolli-s-the-skateboarding-game-we-ve-been/2300-8353/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8408/",
+      "id": 8408,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 01/24/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-01-24-2014/2300-8408/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9249/",
+      "id": 9249,
+      "name": "Quick Look: OlliOlli",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-olliolli/2300-9249/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-23/",
+      "id": 23,
+      "name": "Skateboarding",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=skateboarding&wikiTypeId=3060&wikiId=23&genre=23"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132326/",
+      "id": 132326,
+      "name": "OlliOlli",
+      "site_detail_url": "http://www.giantbomb.com/olliolli/3030-42654/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132327/",
+      "id": 132327,
+      "name": "OlliOlli",
+      "site_detail_url": "http://www.giantbomb.com/olliolli/3030-42654/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136361/",
+      "id": 136361,
+      "name": "OlliOlli",
+      "site_detail_url": "http://www.giantbomb.com/olliolli/3030-42654/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136362/",
+      "id": 136362,
+      "name": "OlliOlli",
+      "site_detail_url": "http://www.giantbomb.com/olliolli/3030-42654/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137163/",
+      "id": 137163,
+      "name": "OlliOlli",
+      "site_detail_url": "http://www.giantbomb.com/olliolli/3030-42654/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137164/",
+      "id": 137164,
+      "name": "OlliOlli",
+      "site_detail_url": "http://www.giantbomb.com/olliolli/3030-42654/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138539/",
+      "id": 138539,
+      "name": "OlliOlli",
+      "site_detail_url": "http://www.giantbomb.com/olliolli/3030-42654/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138540/",
+      "id": 138540,
+      "name": "OlliOlli",
+      "site_detail_url": "http://www.giantbomb.com/olliolli/3030-42654/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140555/",
+      "id": 140555,
+      "name": "OlliOlli",
+      "site_detail_url": "http://www.giantbomb.com/olliolli/3030-42654/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140556/",
+      "id": 140556,
+      "name": "OlliOlli",
+      "site_detail_url": "http://www.giantbomb.com/olliolli/3030-42654/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140557/",
+      "id": 140557,
+      "name": "OlliOlli",
+      "site_detail_url": "http://www.giantbomb.com/olliolli/3030-42654/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140558/",
+      "id": 140558,
+      "name": "OlliOlli",
+      "site_detail_url": "http://www.giantbomb.com/olliolli/3030-42654/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140560/",
+      "id": 140560,
+      "name": "OlliOlli",
+      "site_detail_url": "http://www.giantbomb.com/olliolli/3030-42654/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140561/",
+      "id": 140561,
+      "name": "OlliOlli",
+      "site_detail_url": "http://www.giantbomb.com/olliolli/3030-42654/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145289/",
+      "id": 145289,
+      "name": "OlliOlli",
+      "site_detail_url": "http://www.giantbomb.com/olliolli/3030-42654/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145290/",
+      "id": 145290,
+      "name": "OlliOlli",
+      "site_detail_url": "http://www.giantbomb.com/olliolli/3030-42654/releases/"
+    }
+  ]
+}

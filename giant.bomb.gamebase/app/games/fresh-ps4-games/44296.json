@@ -1,0 +1,564 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-44296/",
+  "deck": "A survival horror game set fifteen years after the original Alien film. It stars Amanda Ripley, the daughter of the film's protagonist, Ellen Ripley.",
+  "id": 44296,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2580333-alien-isolation-2.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2580333-alien-isolation-2.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2580333-alien-isolation-2.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2580333-alien-isolation-2.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2580333-alien-isolation-2.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2580333-alien-isolation-2.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2580333-alien-isolation-2.jpg"
+  },
+  "name": "Alien: Isolation",
+  "original_release_date": "2014-10-07 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+      "id": 86,
+      "name": "Xbox 360 Games Store",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+      "abbreviation": "XBGS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/alien-isolation/3030-44296/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755775-alien_+isolation%E2%84%A2_20150109222119.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755775-alien_+isolation%E2%84%A2_20150109222119.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755775-alien_+isolation%E2%84%A2_20150109222119.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755775-alien_+isolation%E2%84%A2_20150109222119.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755775-alien_+isolation%E2%84%A2_20150109222119.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755775-alien_+isolation%E2%84%A2_20150109222119.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755775-alien_+isolation%E2%84%A2_20150109222119.jpg",
+      "tags": "All Images, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694457-2014-10-16_00007.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694457-2014-10-16_00007.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694457-2014-10-16_00007.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694457-2014-10-16_00007.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/6247/2694457-2014-10-16_00007.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/6247/2694457-2014-10-16_00007.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/6247/2694457-2014-10-16_00007.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694456-2014-10-16_00006.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694456-2014-10-16_00006.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694456-2014-10-16_00006.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694456-2014-10-16_00006.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/6247/2694456-2014-10-16_00006.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/6247/2694456-2014-10-16_00006.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/6247/2694456-2014-10-16_00006.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694455-2014-10-16_00005.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694455-2014-10-16_00005.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694455-2014-10-16_00005.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694455-2014-10-16_00005.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/6247/2694455-2014-10-16_00005.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/6247/2694455-2014-10-16_00005.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/6247/2694455-2014-10-16_00005.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694454-2014-10-16_00004.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694454-2014-10-16_00004.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694454-2014-10-16_00004.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694454-2014-10-16_00004.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/6247/2694454-2014-10-16_00004.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/6247/2694454-2014-10-16_00004.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/6247/2694454-2014-10-16_00004.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694453-2014-10-16_00003.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694453-2014-10-16_00003.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694453-2014-10-16_00003.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694453-2014-10-16_00003.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/6247/2694453-2014-10-16_00003.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/6247/2694453-2014-10-16_00003.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/6247/2694453-2014-10-16_00003.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694452-2014-10-16_00002.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694452-2014-10-16_00002.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694452-2014-10-16_00002.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694452-2014-10-16_00002.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/6247/2694452-2014-10-16_00002.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/6247/2694452-2014-10-16_00002.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/6247/2694452-2014-10-16_00002.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694451-2014-10-16_00001.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694451-2014-10-16_00001.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694451-2014-10-16_00001.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694451-2014-10-16_00001.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/6247/2694451-2014-10-16_00001.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/6247/2694451-2014-10-16_00001.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/6247/2694451-2014-10-16_00001.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694450-2014-10-12_00010.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694450-2014-10-12_00010.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694450-2014-10-12_00010.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694450-2014-10-12_00010.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/6247/2694450-2014-10-12_00010.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/6247/2694450-2014-10-12_00010.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/6247/2694450-2014-10-12_00010.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694449-2014-10-12_00009.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694449-2014-10-12_00009.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694449-2014-10-12_00009.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694449-2014-10-12_00009.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/6247/2694449-2014-10-12_00009.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/6247/2694449-2014-10-12_00009.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/6247/2694449-2014-10-12_00009.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694448-2014-10-12_00008.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694448-2014-10-12_00008.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694448-2014-10-12_00008.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694448-2014-10-12_00008.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/6247/2694448-2014-10-12_00008.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/6247/2694448-2014-10-12_00008.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/6247/2694448-2014-10-12_00008.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694447-2014-10-12_00007.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694447-2014-10-12_00007.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694447-2014-10-12_00007.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694447-2014-10-12_00007.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/6247/2694447-2014-10-12_00007.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/6247/2694447-2014-10-12_00007.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/6247/2694447-2014-10-12_00007.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694446-2014-10-12_00006.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694446-2014-10-12_00006.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694446-2014-10-12_00006.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694446-2014-10-12_00006.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/6247/2694446-2014-10-12_00006.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/6247/2694446-2014-10-12_00006.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/6247/2694446-2014-10-12_00006.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694445-2014-10-12_00005.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694445-2014-10-12_00005.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694445-2014-10-12_00005.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694445-2014-10-12_00005.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/6247/2694445-2014-10-12_00005.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/6247/2694445-2014-10-12_00005.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/6247/2694445-2014-10-12_00005.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694444-2014-10-12_00004.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694444-2014-10-12_00004.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694444-2014-10-12_00004.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694444-2014-10-12_00004.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/6247/2694444-2014-10-12_00004.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/6247/2694444-2014-10-12_00004.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/6247/2694444-2014-10-12_00004.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694443-2014-10-12_00003.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694443-2014-10-12_00003.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694443-2014-10-12_00003.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694443-2014-10-12_00003.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/6247/2694443-2014-10-12_00003.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/6247/2694443-2014-10-12_00003.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/6247/2694443-2014-10-12_00003.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694442-2014-10-12_00002.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694442-2014-10-12_00002.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694442-2014-10-12_00002.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694442-2014-10-12_00002.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/6247/2694442-2014-10-12_00002.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/6247/2694442-2014-10-12_00002.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/6247/2694442-2014-10-12_00002.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694441-2014-10-12_00001.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694441-2014-10-12_00001.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694441-2014-10-12_00001.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694441-2014-10-12_00001.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/6247/2694441-2014-10-12_00001.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/6247/2694441-2014-10-12_00001.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/6247/2694441-2014-10-12_00001.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694440-2014-10-11_00003.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694440-2014-10-11_00003.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694440-2014-10-11_00003.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694440-2014-10-11_00003.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/6247/2694440-2014-10-11_00003.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/6247/2694440-2014-10-11_00003.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/6247/2694440-2014-10-11_00003.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694439-2014-10-11_00002.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694439-2014-10-11_00002.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694439-2014-10-11_00002.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694439-2014-10-11_00002.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/6247/2694439-2014-10-11_00002.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/6247/2694439-2014-10-11_00002.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/6247/2694439-2014-10-11_00002.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694438-2014-10-11_00001.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694438-2014-10-11_00001.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/6247/2694438-2014-10-11_00001.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/6247/2694438-2014-10-11_00001.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/6247/2694438-2014-10-11_00001.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/6247/2694438-2014-10-11_00001.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/6247/2694438-2014-10-11_00001.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2689418-alien_+isolation%E2%84%A2_20141007174316.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2689418-alien_+isolation%E2%84%A2_20141007174316.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2689418-alien_+isolation%E2%84%A2_20141007174316.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2689418-alien_+isolation%E2%84%A2_20141007174316.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2689418-alien_+isolation%E2%84%A2_20141007174316.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2689418-alien_+isolation%E2%84%A2_20141007174316.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2689418-alien_+isolation%E2%84%A2_20141007174316.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2689417-alien_+isolation%E2%84%A2_20141007174029.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2689417-alien_+isolation%E2%84%A2_20141007174029.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2689417-alien_+isolation%E2%84%A2_20141007174029.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2689417-alien_+isolation%E2%84%A2_20141007174029.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2689417-alien_+isolation%E2%84%A2_20141007174029.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2689417-alien_+isolation%E2%84%A2_20141007174029.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2689417-alien_+isolation%E2%84%A2_20141007174029.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2689416-alien_+isolation%E2%84%A2_20141007173853.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2689416-alien_+isolation%E2%84%A2_20141007173853.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2689416-alien_+isolation%E2%84%A2_20141007173853.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2689416-alien_+isolation%E2%84%A2_20141007173853.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2689416-alien_+isolation%E2%84%A2_20141007173853.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2689416-alien_+isolation%E2%84%A2_20141007173853.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2689416-alien_+isolation%E2%84%A2_20141007173853.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2689415-alien_+isolation%E2%84%A2_20141007173552.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2689415-alien_+isolation%E2%84%A2_20141007173552.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2689415-alien_+isolation%E2%84%A2_20141007173552.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2689415-alien_+isolation%E2%84%A2_20141007173552.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2689415-alien_+isolation%E2%84%A2_20141007173552.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2689415-alien_+isolation%E2%84%A2_20141007173552.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2689415-alien_+isolation%E2%84%A2_20141007173552.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2689414-alien_+isolation%E2%84%A2_20141007173122.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2689414-alien_+isolation%E2%84%A2_20141007173122.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2689414-alien_+isolation%E2%84%A2_20141007173122.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2689414-alien_+isolation%E2%84%A2_20141007173122.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2689414-alien_+isolation%E2%84%A2_20141007173122.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2689414-alien_+isolation%E2%84%A2_20141007173122.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2689414-alien_+isolation%E2%84%A2_20141007173122.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2689413-alien_+isolation%E2%84%A2_20141007172845.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2689413-alien_+isolation%E2%84%A2_20141007172845.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2689413-alien_+isolation%E2%84%A2_20141007172845.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2689413-alien_+isolation%E2%84%A2_20141007172845.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2689413-alien_+isolation%E2%84%A2_20141007172845.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2689413-alien_+isolation%E2%84%A2_20141007172845.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2689413-alien_+isolation%E2%84%A2_20141007172845.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2689412-alien_+isolation%E2%84%A2_20141007171622.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2689412-alien_+isolation%E2%84%A2_20141007171622.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2689412-alien_+isolation%E2%84%A2_20141007171622.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2689412-alien_+isolation%E2%84%A2_20141007171622.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2689412-alien_+isolation%E2%84%A2_20141007171622.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2689412-alien_+isolation%E2%84%A2_20141007171622.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2689412-alien_+isolation%E2%84%A2_20141007171622.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2689411-alien_+isolation%E2%84%A2_20141007170825.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2689411-alien_+isolation%E2%84%A2_20141007170825.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2689411-alien_+isolation%E2%84%A2_20141007170825.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2689411-alien_+isolation%E2%84%A2_20141007170825.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2689411-alien_+isolation%E2%84%A2_20141007170825.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2689411-alien_+isolation%E2%84%A2_20141007170825.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2689411-alien_+isolation%E2%84%A2_20141007170825.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2689410-alien_+isolation%E2%84%A2_20141007170336.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2689410-alien_+isolation%E2%84%A2_20141007170336.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2689410-alien_+isolation%E2%84%A2_20141007170336.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2689410-alien_+isolation%E2%84%A2_20141007170336.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2689410-alien_+isolation%E2%84%A2_20141007170336.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2689410-alien_+isolation%E2%84%A2_20141007170336.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2689410-alien_+isolation%E2%84%A2_20141007170336.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8345/",
+      "id": 8345,
+      "name": "OK, Alien: Isolation Looks Terrifying",
+      "site_detail_url": "http://www.giantbomb.com/videos/ok-alien-isolation-looks-terrifying/2300-8345/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8629/",
+      "id": 8629,
+      "name": "Creative Assembly Talks About Building the Alien in Alien: Isolation",
+      "site_detail_url": "http://www.giantbomb.com/videos/creative-assembly-talks-about-building-the-alien-i/2300-8629/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8724/",
+      "id": 8724,
+      "name": "No Surprise Alien: Isolation's Focusing on Sound",
+      "site_detail_url": "http://www.giantbomb.com/videos/no-surprise-alien-isolation-s-focusing-on-sound/2300-8724/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9020/",
+      "id": 9020,
+      "name": "E3 2014: Beat Them If You Can, Survive If They Let You in Alien Isolation",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2014-beat-them-if-you-can-survive-if-they-let-y/2300-9020/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9163/",
+      "id": 9163,
+      "name": "Even When it's Bragging About E3 Awards, Alien: Isolation Looks Terrifying",
+      "site_detail_url": "http://www.giantbomb.com/videos/even-when-its-bragging-about-e3-awards-alien-isola/2300-9163/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9205/",
+      "id": 9205,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 07/11/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-07-11-2014/2300-9205/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9355/",
+      "id": 9355,
+      "name": "Bombin' the A.M. With Alexa Ray Corriea: 08/18/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-alexa-ray-corriea-08-18-2014/2300-9355/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9428/",
+      "id": 9428,
+      "name": "Alien: Isolation Will Kill You in Many, Many Ways",
+      "site_detail_url": "http://www.giantbomb.com/videos/alien-isolation-will-kill-you-in-many-many-ways/2300-9428/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9531/",
+      "id": 9531,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 10/03/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-10-03-2014/2300-9531/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9543/",
+      "id": 9543,
+      "name": "Quick Look: Alien: Isolation",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-alien-isolation/2300-9543/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9545/",
+      "id": 9545,
+      "name": "Spookin' With Scoops: 10/07/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/spookin-with-scoops-10-07-2014/2300-9545/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132470/",
+      "id": 132470,
+      "name": "Alien: Isolation",
+      "site_detail_url": "http://www.giantbomb.com/alien-isolation/3030-44296/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137613/",
+      "id": 137613,
+      "name": "Alien: Isolation",
+      "site_detail_url": "http://www.giantbomb.com/alien-isolation/3030-44296/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137664/",
+      "id": 137664,
+      "name": "Alien: Isolation",
+      "site_detail_url": "http://www.giantbomb.com/alien-isolation/3030-44296/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137666/",
+      "id": 137666,
+      "name": "Alien: Isolation",
+      "site_detail_url": "http://www.giantbomb.com/alien-isolation/3030-44296/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137667/",
+      "id": 137667,
+      "name": "Alien: Isolation",
+      "site_detail_url": "http://www.giantbomb.com/alien-isolation/3030-44296/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137668/",
+      "id": 137668,
+      "name": "Alien: Isolation",
+      "site_detail_url": "http://www.giantbomb.com/alien-isolation/3030-44296/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137669/",
+      "id": 137669,
+      "name": "Alien: Isolation",
+      "site_detail_url": "http://www.giantbomb.com/alien-isolation/3030-44296/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137670/",
+      "id": 137670,
+      "name": "Alien: Isolation",
+      "site_detail_url": "http://www.giantbomb.com/alien-isolation/3030-44296/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137671/",
+      "id": 137671,
+      "name": "Alien: Isolation",
+      "site_detail_url": "http://www.giantbomb.com/alien-isolation/3030-44296/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137672/",
+      "id": 137672,
+      "name": "Alien: Isolation",
+      "site_detail_url": "http://www.giantbomb.com/alien-isolation/3030-44296/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137673/",
+      "id": 137673,
+      "name": "Alien: Isolation",
+      "site_detail_url": "http://www.giantbomb.com/alien-isolation/3030-44296/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137674/",
+      "id": 137674,
+      "name": "Alien: Isolation",
+      "site_detail_url": "http://www.giantbomb.com/alien-isolation/3030-44296/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137675/",
+      "id": 137675,
+      "name": "Alien: Isolation",
+      "site_detail_url": "http://www.giantbomb.com/alien-isolation/3030-44296/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138081/",
+      "id": 138081,
+      "name": "Alien: Isolation",
+      "site_detail_url": "http://www.giantbomb.com/alien-isolation/3030-44296/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138213/",
+      "id": 138213,
+      "name": "Alien: Isolation (Nostromo Edition)",
+      "site_detail_url": "http://www.giantbomb.com/alien-isolation/3030-44296/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144450/",
+      "id": 144450,
+      "name": "Alien: Isolation (SteamOS)",
+      "site_detail_url": "http://www.giantbomb.com/alien-isolation/3030-44296/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144451/",
+      "id": 144451,
+      "name": "Alien: Isolation",
+      "site_detail_url": "http://www.giantbomb.com/alien-isolation/3030-44296/releases/"
+    }
+  ]
+}

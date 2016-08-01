@@ -1,0 +1,94 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-50519/",
+  "deck": "An assassination-focused stealth-action game set in the World War II &amp; Cold War eras, about a KGB agent secretly working with the CIA. Similarly to the Hitman games, it features open levels with many different ways of taking out a target.",
+  "id": 50519,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2830195-alekhine%27s%20gun%20cropped.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2830195-alekhine%27s%20gun%20cropped.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2830195-alekhine%27s%20gun%20cropped.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2830195-alekhine%27s%20gun%20cropped.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2830195-alekhine%27s%20gun%20cropped.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2830195-alekhine%27s%20gun%20cropped.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2830195-alekhine%27s%20gun%20cropped.png"
+  },
+  "name": "Alekhine's Gun",
+  "original_release_date": "2016-03-01 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/alekhines-gun/3030-50519/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/10/103881/2830195-alekhine%27s+gun+cropped.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/10/103881/2830195-alekhine%27s+gun+cropped.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/10/103881/2830195-alekhine%27s+gun+cropped.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/10/103881/2830195-alekhine%27s+gun+cropped.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/10/103881/2830195-alekhine%27s+gun+cropped.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/10/103881/2830195-alekhine%27s+gun+cropped.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/10/103881/2830195-alekhine%27s+gun+cropped.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11125/",
+      "id": 11125,
+      "name": "Quick Look: Alekhine's Gun",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-alekhines-gun/2300-11125/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11155/",
+      "id": 11155,
+      "name": "Best of Giant Bomb 97 - Two Hats",
+      "site_detail_url": "http://www.giantbomb.com/videos/best-of-giant-bomb-97-two-hats/2300-11155/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144063/",
+      "id": 144063,
+      "name": "Alekhine's Gun",
+      "site_detail_url": "http://www.giantbomb.com/alekhines-gun/3030-50519/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147490/",
+      "id": 147490,
+      "name": "Alekhine's Gun",
+      "site_detail_url": "http://www.giantbomb.com/alekhines-gun/3030-50519/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147491/",
+      "id": 147491,
+      "name": "Alekhine's Gun",
+      "site_detail_url": "http://www.giantbomb.com/alekhines-gun/3030-50519/releases/"
+    }
+  ]
+}

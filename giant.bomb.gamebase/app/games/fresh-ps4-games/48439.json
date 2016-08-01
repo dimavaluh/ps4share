@@ -1,0 +1,394 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48439/",
+  "deck": "A remastering of Capcom's fourth Devil May Cry game featuring 3 additional playable characters, enhanced graphics and balance tweaks.",
+  "id": 48439,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2737259-9659276313-0a345.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2737259-9659276313-0a345.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2737259-9659276313-0a345.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2737259-9659276313-0a345.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2737259-9659276313-0a345.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2737259-9659276313-0a345.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2737259-9659276313-0a345.jpg"
+  },
+  "name": "Devil May Cry 4: Special Edition",
+  "original_release_date": "2015-06-18 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/devil-may-cry-4-special-edition/3030-48439/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2762427-sys_ex-cos_img01.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2762427-sys_ex-cos_img01.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2762427-sys_ex-cos_img01.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2762427-sys_ex-cos_img01.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/71263/2762427-sys_ex-cos_img01.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/71263/2762427-sys_ex-cos_img01.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/71263/2762427-sys_ex-cos_img01.jpg",
+      "tags": "All Images, Alternate Costumes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2762426-sys_ex-cos_img02.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2762426-sys_ex-cos_img02.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2762426-sys_ex-cos_img02.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2762426-sys_ex-cos_img02.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/71263/2762426-sys_ex-cos_img02.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/71263/2762426-sys_ex-cos_img02.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/71263/2762426-sys_ex-cos_img02.jpg",
+      "tags": "All Images, Alternate Costumes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2762375-cincl5ixaaa-w51.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2762375-cincl5ixaaa-w51.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2762375-cincl5ixaaa-w51.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2762375-cincl5ixaaa-w51.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2762375-cincl5ixaaa-w51.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2762375-cincl5ixaaa-w51.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2762375-cincl5ixaaa-w51.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2762374-f380911941f5daf5b37912edec99c24a.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2762374-f380911941f5daf5b37912edec99c24a.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2762374-f380911941f5daf5b37912edec99c24a.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2762374-f380911941f5daf5b37912edec99c24a.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2762374-f380911941f5daf5b37912edec99c24a.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2762374-f380911941f5daf5b37912edec99c24a.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2762374-f380911941f5daf5b37912edec99c24a.jpg",
+      "tags": "All Images, Alternate Costumes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2762373-dmc4_gloria.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2762373-dmc4_gloria.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2762373-dmc4_gloria.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2762373-dmc4_gloria.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2762373-dmc4_gloria.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2762373-dmc4_gloria.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2762373-dmc4_gloria.jpg",
+      "tags": "All Images, Alternate Costumes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2762372-devil-may-cry-4-special-edition_2015_05-12-15_012.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2762372-devil-may-cry-4-special-edition_2015_05-12-15_012.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2762372-devil-may-cry-4-special-edition_2015_05-12-15_012.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2762372-devil-may-cry-4-special-edition_2015_05-12-15_012.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2762372-devil-may-cry-4-special-edition_2015_05-12-15_012.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2762372-devil-may-cry-4-special-edition_2015_05-12-15_012.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2762372-devil-may-cry-4-special-edition_2015_05-12-15_012.jpg",
+      "tags": "All Images, Alternate Costumes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2762371-64a701371f0fe0e41532c8205065577a.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2762371-64a701371f0fe0e41532c8205065577a.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2762371-64a701371f0fe0e41532c8205065577a.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2762371-64a701371f0fe0e41532c8205065577a.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2762371-64a701371f0fe0e41532c8205065577a.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2762371-64a701371f0fe0e41532c8205065577a.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2762371-64a701371f0fe0e41532c8205065577a.jpg",
+      "tags": "All Images, Alternate Costumes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2762370-3f6d5f9aa10ddb3286d409ca84b1b612.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2762370-3f6d5f9aa10ddb3286d409ca84b1b612.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2762370-3f6d5f9aa10ddb3286d409ca84b1b612.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2762370-3f6d5f9aa10ddb3286d409ca84b1b612.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2762370-3f6d5f9aa10ddb3286d409ca84b1b612.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2762370-3f6d5f9aa10ddb3286d409ca84b1b612.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2762370-3f6d5f9aa10ddb3286d409ca84b1b612.jpg",
+      "tags": "All Images, Alternate Costumes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737591-3337488047-chara.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737591-3337488047-chara.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737591-3337488047-chara.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737591-3337488047-chara.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/71263/2737591-3337488047-chara.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/71263/2737591-3337488047-chara.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/71263/2737591-3337488047-chara.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737590-1040720317-l-a-t.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737590-1040720317-l-a-t.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737590-1040720317-l-a-t.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737590-1040720317-l-a-t.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/71263/2737590-1040720317-l-a-t.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/71263/2737590-1040720317-l-a-t.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/71263/2737590-1040720317-l-a-t.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737589-2826474975-l-a-t.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737589-2826474975-l-a-t.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737589-2826474975-l-a-t.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737589-2826474975-l-a-t.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/71263/2737589-2826474975-l-a-t.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/71263/2737589-2826474975-l-a-t.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/71263/2737589-2826474975-l-a-t.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737588-7917345670-vergi.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737588-7917345670-vergi.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737588-7917345670-vergi.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737588-7917345670-vergi.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/71263/2737588-7917345670-vergi.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/71263/2737588-7917345670-vergi.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/71263/2737588-7917345670-vergi.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737307-0273951685-11070.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737307-0273951685-11070.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737307-0273951685-11070.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737307-0273951685-11070.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/71263/2737307-0273951685-11070.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/71263/2737307-0273951685-11070.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/71263/2737307-0273951685-11070.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737259-9659276313-0a345.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737259-9659276313-0a345.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737259-9659276313-0a345.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737259-9659276313-0a345.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/71263/2737259-9659276313-0a345.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/71263/2737259-9659276313-0a345.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/71263/2737259-9659276313-0a345.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737258-6804966628-13402.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737258-6804966628-13402.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737258-6804966628-13402.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737258-6804966628-13402.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/71263/2737258-6804966628-13402.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/71263/2737258-6804966628-13402.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/71263/2737258-6804966628-13402.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737257-6552451331-fa4a0.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737257-6552451331-fa4a0.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737257-6552451331-fa4a0.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737257-6552451331-fa4a0.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/71263/2737257-6552451331-fa4a0.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/71263/2737257-6552451331-fa4a0.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/71263/2737257-6552451331-fa4a0.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737255-0394363879-3236d.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737255-0394363879-3236d.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737255-0394363879-3236d.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737255-0394363879-3236d.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/71263/2737255-0394363879-3236d.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/71263/2737255-0394363879-3236d.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/71263/2737255-0394363879-3236d.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737254-9459874069-4979a.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737254-9459874069-4979a.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737254-9459874069-4979a.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737254-9459874069-4979a.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/71263/2737254-9459874069-4979a.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/71263/2737254-9459874069-4979a.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/71263/2737254-9459874069-4979a.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737253-3953752495-34b9f.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737253-3953752495-34b9f.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737253-3953752495-34b9f.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737253-3953752495-34b9f.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/71263/2737253-3953752495-34b9f.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/71263/2737253-3953752495-34b9f.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/71263/2737253-3953752495-34b9f.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737252-2627326248-ca033.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737252-2627326248-ca033.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737252-2627326248-ca033.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737252-2627326248-ca033.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/71263/2737252-2627326248-ca033.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/71263/2737252-2627326248-ca033.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/71263/2737252-2627326248-ca033.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737251-3077179967-61e1a.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737251-3077179967-61e1a.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737251-3077179967-61e1a.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737251-3077179967-61e1a.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/71263/2737251-3077179967-61e1a.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/71263/2737251-3077179967-61e1a.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/71263/2737251-3077179967-61e1a.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737250-6795171378-48750.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737250-6795171378-48750.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737250-6795171378-48750.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737250-6795171378-48750.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/71263/2737250-6795171378-48750.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/71263/2737250-6795171378-48750.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/71263/2737250-6795171378-48750.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737249-2385989096-b050f.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737249-2385989096-b050f.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737249-2385989096-b050f.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737249-2385989096-b050f.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/71263/2737249-2385989096-b050f.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/71263/2737249-2385989096-b050f.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/71263/2737249-2385989096-b050f.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737245-1075498325-44182.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737245-1075498325-44182.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/71263/2737245-1075498325-44182.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/71263/2737245-1075498325-44182.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/71263/2737245-1075498325-44182.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/71263/2737245-1075498325-44182.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/71263/2737245-1075498325-44182.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2710701-2709215-5891057888-m4im9.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2710701-2709215-5891057888-m4im9.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2710701-2709215-5891057888-m4im9.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2710701-2709215-5891057888-m4im9.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2710701-2709215-5891057888-m4im9.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2710701-2709215-5891057888-m4im9.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2710701-2709215-5891057888-m4im9.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10439/",
+      "id": 10439,
+      "name": "Quick Look: Devil May Cry 4: Special Edition",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-devil-may-cry-4-special-edition/2300-10439/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141675/",
+      "id": 141675,
+      "name": "Devil May Cry 4: Special Edition",
+      "site_detail_url": "http://www.giantbomb.com/devil-may-cry-4-special-edition/3030-48439/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142259/",
+      "id": 142259,
+      "name": "Devil May Cry 4: Special Edition",
+      "site_detail_url": "http://www.giantbomb.com/devil-may-cry-4-special-edition/3030-48439/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142260/",
+      "id": 142260,
+      "name": "Devil May Cry 4: Special Edition",
+      "site_detail_url": "http://www.giantbomb.com/devil-may-cry-4-special-edition/3030-48439/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142261/",
+      "id": 142261,
+      "name": "Devil May Cry 4: Special Edition",
+      "site_detail_url": "http://www.giantbomb.com/devil-may-cry-4-special-edition/3030-48439/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142262/",
+      "id": 142262,
+      "name": "Devil May Cry 4: Special Edition",
+      "site_detail_url": "http://www.giantbomb.com/devil-may-cry-4-special-edition/3030-48439/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142263/",
+      "id": 142263,
+      "name": "Devil May Cry 4: Special Edition",
+      "site_detail_url": "http://www.giantbomb.com/devil-may-cry-4-special-edition/3030-48439/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142264/",
+      "id": 142264,
+      "name": "Devil May Cry 4: Special Edition",
+      "site_detail_url": "http://www.giantbomb.com/devil-may-cry-4-special-edition/3030-48439/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142266/",
+      "id": 142266,
+      "name": "Devil May Cry 4: Special Edition",
+      "site_detail_url": "http://www.giantbomb.com/devil-may-cry-4-special-edition/3030-48439/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142267/",
+      "id": 142267,
+      "name": "Devil May Cry 4: Special Edition",
+      "site_detail_url": "http://www.giantbomb.com/devil-may-cry-4-special-edition/3030-48439/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142268/",
+      "id": 142268,
+      "name": "Devil May Cry 4: Special Edition",
+      "site_detail_url": "http://www.giantbomb.com/devil-may-cry-4-special-edition/3030-48439/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142269/",
+      "id": 142269,
+      "name": "Devil May Cry 4: Special Edition",
+      "site_detail_url": "http://www.giantbomb.com/devil-may-cry-4-special-edition/3030-48439/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142270/",
+      "id": 142270,
+      "name": "Devil May Cry 4: Special Edition",
+      "site_detail_url": "http://www.giantbomb.com/devil-may-cry-4-special-edition/3030-48439/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142271/",
+      "id": 142271,
+      "name": "デビル メイ クライ 4　スペシャルエディション　PIZZA BOX / イーカプ限定特典＋数量限定特典付",
+      "site_detail_url": "http://www.giantbomb.com/devil-may-cry-4-special-edition/3030-48439/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142272/",
+      "id": 142272,
+      "name": "デビル メイ クライ 4　スペシャルエディション　PIZZA BOX / イーカプ限定特典＋数量限定特典付",
+      "site_detail_url": "http://www.giantbomb.com/devil-may-cry-4-special-edition/3030-48439/releases/"
+    }
+  ]
+}

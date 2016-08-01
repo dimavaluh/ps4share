@@ -1,0 +1,72 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-51271/",
+  "deck": "The creator of the Kick Off series returns with a new top-down soccer game.",
+  "id": 51271,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2865553-81d+vvcnfpl._sl1500_.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2865553-81d+vvcnfpl._sl1500_.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2865553-81d+vvcnfpl._sl1500_.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2865553-81d+vvcnfpl._sl1500_.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2865553-81d+vvcnfpl._sl1500_.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2865553-81d+vvcnfpl._sl1500_.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2865553-81d+vvcnfpl._sl1500_.jpg"
+  },
+  "name": "Dino Dini’s Kick Off Revival",
+  "original_release_date": "2016-06-24 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/dino-dinis-kick-off-revival/3030-51271/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2865553-81d%2Bvvcnfpl._sl1500_.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2865553-81d%2Bvvcnfpl._sl1500_.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2865553-81d%2Bvvcnfpl._sl1500_.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2865553-81d%2Bvvcnfpl._sl1500_.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2865553-81d%2Bvvcnfpl._sl1500_.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2865553-81d%2Bvvcnfpl._sl1500_.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2865553-81d%2Bvvcnfpl._sl1500_.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2790891-9111274700-22055.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2790891-9111274700-22055.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2790891-9111274700-22055.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2790891-9111274700-22055.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2790891-9111274700-22055.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2790891-9111274700-22055.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2790891-9111274700-22055.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-40/",
+      "id": 40,
+      "name": "Soccer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=soccer&wikiTypeId=3060&wikiId=40&genre=40"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148271/",
+      "id": 148271,
+      "name": "Dino Dini's Kick Off Revival",
+      "site_detail_url": "http://www.giantbomb.com/dino-dinis-kick-off-revival/3030-51271/releases/"
+    }
+  ]
+}

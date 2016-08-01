@@ -1,0 +1,63 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-50367/",
+  "deck": "Moero!! Pro Yakyuu is a remake of the first game in the Moero!! series (known as Bases Loaded in the US) and the first Moero!! game released since 2004.",
+  "id": 50367,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2766044-7222480909-59076.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2766044-7222480909-59076.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2766044-7222480909-59076.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2766044-7222480909-59076.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2766044-7222480909-59076.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2766044-7222480909-59076.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2766044-7222480909-59076.jpg"
+  },
+  "name": "Moero!! Pro Yakyuu",
+  "original_release_date": "2016-04-08 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/moero-pro-yakyuu/3030-50367/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2766046-7136325472-59076.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2766046-7136325472-59076.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2766046-7136325472-59076.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2766046-7136325472-59076.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2766046-7136325472-59076.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2766046-7136325472-59076.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2766046-7136325472-59076.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2766044-7222480909-59076.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2766044-7222480909-59076.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2766044-7222480909-59076.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2766044-7222480909-59076.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2766044-7222480909-59076.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2766044-7222480909-59076.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2766044-7222480909-59076.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-3/",
+      "id": 3,
+      "name": "Sports",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=sports&wikiTypeId=3060&wikiId=3&genre=3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-34/",
+      "id": 34,
+      "name": "Baseball",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=baseball&wikiTypeId=3060&wikiId=34&genre=34"
+    }
+  ]
+}

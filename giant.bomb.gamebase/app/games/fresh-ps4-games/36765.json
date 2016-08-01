@@ -1,0 +1,676 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-36765/",
+  "deck": "Grand Theft Auto V is a modern crime epic featuring a crew of three protagonists rolling through the diverse landscape of the fictional state of San Andreas.",
+  "id": 36765,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2463980-grand%20theft%20auto%20v.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2463980-grand%20theft%20auto%20v.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2463980-grand%20theft%20auto%20v.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2463980-grand%20theft%20auto%20v.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2463980-grand%20theft%20auto%20v.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2463980-grand%20theft%20auto%20v.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2463980-grand%20theft%20auto%20v.jpg"
+  },
+  "name": "Grand Theft Auto V",
+  "original_release_date": "2013-09-17 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+      "id": 86,
+      "name": "Xbox 360 Games Store",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+      "abbreviation": "XBGS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/grand-theft-auto-v/3030-36765/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844908-grand+theft+auto+v_20160102221124.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844908-grand+theft+auto+v_20160102221124.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844908-grand+theft+auto+v_20160102221124.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844908-grand+theft+auto+v_20160102221124.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844908-grand+theft+auto+v_20160102221124.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844908-grand+theft+auto+v_20160102221124.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844908-grand+theft+auto+v_20160102221124.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844907-grand+theft+auto+v_20151231233354.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844907-grand+theft+auto+v_20151231233354.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844907-grand+theft+auto+v_20151231233354.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844907-grand+theft+auto+v_20151231233354.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844907-grand+theft+auto+v_20151231233354.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844907-grand+theft+auto+v_20151231233354.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844907-grand+theft+auto+v_20151231233354.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844906-grand+theft+auto+v_20151231230820.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844906-grand+theft+auto+v_20151231230820.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844906-grand+theft+auto+v_20151231230820.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844906-grand+theft+auto+v_20151231230820.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844906-grand+theft+auto+v_20151231230820.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844906-grand+theft+auto+v_20151231230820.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844906-grand+theft+auto+v_20151231230820.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844905-grand+theft+auto+v_20151231225643.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844905-grand+theft+auto+v_20151231225643.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844905-grand+theft+auto+v_20151231225643.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844905-grand+theft+auto+v_20151231225643.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844905-grand+theft+auto+v_20151231225643.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844905-grand+theft+auto+v_20151231225643.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844905-grand+theft+auto+v_20151231225643.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844904-grand+theft+auto+v_20151231225255.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844904-grand+theft+auto+v_20151231225255.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844904-grand+theft+auto+v_20151231225255.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844904-grand+theft+auto+v_20151231225255.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844904-grand+theft+auto+v_20151231225255.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844904-grand+theft+auto+v_20151231225255.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844904-grand+theft+auto+v_20151231225255.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844903-grand+theft+auto+v_20151231223109.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844903-grand+theft+auto+v_20151231223109.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844903-grand+theft+auto+v_20151231223109.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844903-grand+theft+auto+v_20151231223109.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844903-grand+theft+auto+v_20151231223109.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844903-grand+theft+auto+v_20151231223109.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844903-grand+theft+auto+v_20151231223109.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844902-grand+theft+auto+v_20151231221449.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844902-grand+theft+auto+v_20151231221449.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844902-grand+theft+auto+v_20151231221449.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844902-grand+theft+auto+v_20151231221449.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844902-grand+theft+auto+v_20151231221449.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844902-grand+theft+auto+v_20151231221449.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844902-grand+theft+auto+v_20151231221449.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844901-grand+theft+auto+v_20151231211659.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844901-grand+theft+auto+v_20151231211659.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844901-grand+theft+auto+v_20151231211659.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844901-grand+theft+auto+v_20151231211659.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844901-grand+theft+auto+v_20151231211659.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844901-grand+theft+auto+v_20151231211659.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844901-grand+theft+auto+v_20151231211659.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844900-grand+theft+auto+v_20151231211615.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844900-grand+theft+auto+v_20151231211615.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844900-grand+theft+auto+v_20151231211615.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844900-grand+theft+auto+v_20151231211615.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844900-grand+theft+auto+v_20151231211615.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844900-grand+theft+auto+v_20151231211615.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844900-grand+theft+auto+v_20151231211615.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844899-grand+theft+auto+v_20151231205652.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844899-grand+theft+auto+v_20151231205652.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844899-grand+theft+auto+v_20151231205652.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844899-grand+theft+auto+v_20151231205652.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844899-grand+theft+auto+v_20151231205652.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844899-grand+theft+auto+v_20151231205652.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844899-grand+theft+auto+v_20151231205652.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844898-grand+theft+auto+v_20151231204052.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844898-grand+theft+auto+v_20151231204052.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844898-grand+theft+auto+v_20151231204052.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844898-grand+theft+auto+v_20151231204052.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844898-grand+theft+auto+v_20151231204052.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844898-grand+theft+auto+v_20151231204052.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844898-grand+theft+auto+v_20151231204052.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844897-grand+theft+auto+v_20151204203125.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844897-grand+theft+auto+v_20151204203125.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844897-grand+theft+auto+v_20151204203125.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844897-grand+theft+auto+v_20151204203125.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844897-grand+theft+auto+v_20151204203125.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844897-grand+theft+auto+v_20151204203125.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844897-grand+theft+auto+v_20151204203125.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844896-grand+theft+auto+v_20150919140358.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844896-grand+theft+auto+v_20150919140358.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844896-grand+theft+auto+v_20150919140358.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844896-grand+theft+auto+v_20150919140358.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844896-grand+theft+auto+v_20150919140358.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844896-grand+theft+auto+v_20150919140358.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844896-grand+theft+auto+v_20150919140358.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844895-grand+theft+auto+v_20150718150327.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844895-grand+theft+auto+v_20150718150327.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844895-grand+theft+auto+v_20150718150327.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844895-grand+theft+auto+v_20150718150327.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844895-grand+theft+auto+v_20150718150327.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844895-grand+theft+auto+v_20150718150327.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844895-grand+theft+auto+v_20150718150327.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844894-grand+theft+auto+v_20150718150157.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844894-grand+theft+auto+v_20150718150157.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844894-grand+theft+auto+v_20150718150157.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844894-grand+theft+auto+v_20150718150157.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844894-grand+theft+auto+v_20150718150157.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844894-grand+theft+auto+v_20150718150157.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844894-grand+theft+auto+v_20150718150157.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844893-grand+theft+auto+v_20150718145501.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844893-grand+theft+auto+v_20150718145501.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844893-grand+theft+auto+v_20150718145501.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844893-grand+theft+auto+v_20150718145501.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844893-grand+theft+auto+v_20150718145501.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844893-grand+theft+auto+v_20150718145501.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844893-grand+theft+auto+v_20150718145501.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844892-grand+theft+auto+v_20150718135209.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844892-grand+theft+auto+v_20150718135209.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844892-grand+theft+auto+v_20150718135209.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844892-grand+theft+auto+v_20150718135209.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844892-grand+theft+auto+v_20150718135209.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844892-grand+theft+auto+v_20150718135209.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844892-grand+theft+auto+v_20150718135209.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844891-grand+theft+auto+v_20150717221034.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844891-grand+theft+auto+v_20150717221034.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844891-grand+theft+auto+v_20150717221034.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844891-grand+theft+auto+v_20150717221034.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844891-grand+theft+auto+v_20150717221034.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844891-grand+theft+auto+v_20150717221034.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844891-grand+theft+auto+v_20150717221034.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844890-grand+theft+auto+v_20150717220055.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844890-grand+theft+auto+v_20150717220055.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844890-grand+theft+auto+v_20150717220055.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844890-grand+theft+auto+v_20150717220055.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844890-grand+theft+auto+v_20150717220055.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844890-grand+theft+auto+v_20150717220055.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844890-grand+theft+auto+v_20150717220055.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844889-grand+theft+auto+v_20150613210728.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844889-grand+theft+auto+v_20150613210728.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844889-grand+theft+auto+v_20150613210728.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844889-grand+theft+auto+v_20150613210728.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844889-grand+theft+auto+v_20150613210728.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844889-grand+theft+auto+v_20150613210728.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844889-grand+theft+auto+v_20150613210728.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755912-grand+theft+auto+v_20150320214739.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755912-grand+theft+auto+v_20150320214739.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755912-grand+theft+auto+v_20150320214739.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755912-grand+theft+auto+v_20150320214739.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755912-grand+theft+auto+v_20150320214739.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755912-grand+theft+auto+v_20150320214739.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755912-grand+theft+auto+v_20150320214739.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755911-grand+theft+auto+v_20150320214005.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755911-grand+theft+auto+v_20150320214005.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755911-grand+theft+auto+v_20150320214005.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755911-grand+theft+auto+v_20150320214005.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755911-grand+theft+auto+v_20150320214005.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755911-grand+theft+auto+v_20150320214005.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755911-grand+theft+auto+v_20150320214005.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755910-grand+theft+auto+v_20150320213658.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755910-grand+theft+auto+v_20150320213658.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755910-grand+theft+auto+v_20150320213658.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755910-grand+theft+auto+v_20150320213658.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755910-grand+theft+auto+v_20150320213658.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755910-grand+theft+auto+v_20150320213658.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755910-grand+theft+auto+v_20150320213658.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755909-grand+theft+auto+v_20150317180042.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755909-grand+theft+auto+v_20150317180042.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755909-grand+theft+auto+v_20150317180042.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755909-grand+theft+auto+v_20150317180042.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755909-grand+theft+auto+v_20150317180042.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755909-grand+theft+auto+v_20150317180042.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755909-grand+theft+auto+v_20150317180042.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755908-grand+theft+auto+v_20150316181751.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755908-grand+theft+auto+v_20150316181751.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755908-grand+theft+auto+v_20150316181751.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755908-grand+theft+auto+v_20150316181751.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755908-grand+theft+auto+v_20150316181751.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755908-grand+theft+auto+v_20150316181751.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755908-grand+theft+auto+v_20150316181751.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755907-grand+theft+auto+v_20150316181611.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755907-grand+theft+auto+v_20150316181611.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755907-grand+theft+auto+v_20150316181611.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755907-grand+theft+auto+v_20150316181611.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755907-grand+theft+auto+v_20150316181611.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755907-grand+theft+auto+v_20150316181611.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755907-grand+theft+auto+v_20150316181611.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755906-grand+theft+auto+v_20150316163540.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755906-grand+theft+auto+v_20150316163540.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755906-grand+theft+auto+v_20150316163540.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755906-grand+theft+auto+v_20150316163540.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755906-grand+theft+auto+v_20150316163540.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755906-grand+theft+auto+v_20150316163540.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755906-grand+theft+auto+v_20150316163540.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755905-grand+theft+auto+v_20150316163458.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755905-grand+theft+auto+v_20150316163458.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755905-grand+theft+auto+v_20150316163458.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755905-grand+theft+auto+v_20150316163458.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755905-grand+theft+auto+v_20150316163458.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755905-grand+theft+auto+v_20150316163458.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755905-grand+theft+auto+v_20150316163458.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755904-grand+theft+auto+v_20150316142654.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755904-grand+theft+auto+v_20150316142654.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755904-grand+theft+auto+v_20150316142654.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755904-grand+theft+auto+v_20150316142654.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755904-grand+theft+auto+v_20150316142654.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755904-grand+theft+auto+v_20150316142654.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755904-grand+theft+auto+v_20150316142654.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755903-grand+theft+auto+v_20150315202024.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755903-grand+theft+auto+v_20150315202024.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755903-grand+theft+auto+v_20150315202024.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755903-grand+theft+auto+v_20150315202024.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755903-grand+theft+auto+v_20150315202024.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755903-grand+theft+auto+v_20150315202024.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755903-grand+theft+auto+v_20150315202024.jpg",
+      "tags": "All Images, Screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-5193/",
+      "id": 5193,
+      "name": "The Grand Theft Auto V Debut Trailer",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-grand-theft-auto-v-debut-trailer/2300-5193/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6800/",
+      "id": 6800,
+      "name": "Meet the New Protagonists of Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/videos/meet-the-new-protagonists-of-grand-theft-auto-v/2300-6800/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7306/",
+      "id": 7306,
+      "name": "Grand Theft Auto V: Meet Michael",
+      "site_detail_url": "http://www.giantbomb.com/videos/grand-theft-auto-v-meet-michael/2300-7306/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7307/",
+      "id": 7307,
+      "name": "Grand Theft Auto V: Meet Franklin",
+      "site_detail_url": "http://www.giantbomb.com/videos/grand-theft-auto-v-meet-franklin/2300-7307/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7308/",
+      "id": 7308,
+      "name": "Grand Theft Auto V: Meet Trevor",
+      "site_detail_url": "http://www.giantbomb.com/videos/grand-theft-auto-v-meet-trevor/2300-7308/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7326/",
+      "id": 7326,
+      "name": "Yappin' About... Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/videos/yappin-about-grand-theft-auto-v/2300-7326/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7679/",
+      "id": 7679,
+      "name": "Here's Five Minutes of Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-five-minutes-of-grand-theft-auto-v/2300-7679/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7818/",
+      "id": 7818,
+      "name": "Grand Theft Auto Online Looks Absolutely Insane",
+      "site_detail_url": "http://www.giantbomb.com/videos/grand-theft-auto-online-looks-absolutely-insane/2300-7818/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7888/",
+      "id": 7888,
+      "name": "Here's Your Last Grand Theft Auto V Trailer Before Launch",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-your-last-grand-theft-auto-v-trailer-before/2300-7888/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7943/",
+      "id": 7943,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 09/13/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-09-13-2013/2300-7943/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7948/",
+      "id": 7948,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 09/16/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-09-16-2013/2300-7948/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7949/",
+      "id": 7949,
+      "name": "Quick Look: Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-grand-theft-auto-v/2300-7949/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7955/",
+      "id": 7955,
+      "name": "I Played Some GTA V: Live!",
+      "site_detail_url": "http://www.giantbomb.com/videos/i-played-some-gta-v-live/2300-7955/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7973/",
+      "id": 7973,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 09/20/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-09-20-2013/2300-7973/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7976/",
+      "id": 7976,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 09/23/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-09-23-2013/2300-7976/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8005/",
+      "id": 8005,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 09/27/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-09-27-2013/2300-8005/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8013/",
+      "id": 8013,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 09/30/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-09-30-2013/2300-8013/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8022/",
+      "id": 8022,
+      "name": "Grand Theft Auto Online, But Mostly Windjammers",
+      "site_detail_url": "http://www.giantbomb.com/videos/grand-theft-auto-online-but-mostly-windjammers/2300-8022/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8032/",
+      "id": 8032,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 10/04/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-10-04-2013/2300-8032/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8039/",
+      "id": 8039,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 10/07/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-10-07-2013/2300-8039/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9010/",
+      "id": 9010,
+      "name": "E3 2014: Shockingly, Grand Theft Auto V is Coming to PC, PS4, and Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2014-shockingly-grand-theft-auto-v-is-coming-to/2300-9010/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9443/",
+      "id": 9443,
+      "name": "Grand Theft Auto V Coming to Xbox One and PS4 November 18, PC January 27",
+      "site_detail_url": "http://www.giantbomb.com/videos/grand-theft-auto-v-coming-to-xbox-one-and-ps4-nove/2300-9443/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9670/",
+      "id": 9670,
+      "name": "Want to See the Visual Difference Between the PS3 and PS4 Versions of Grand Theft Auto V?",
+      "site_detail_url": "http://www.giantbomb.com/videos/want-to-see-the-visual-difference-between-the-ps3-/2300-9670/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9713/",
+      "id": 9713,
+      "name": "Quick Look: Grand Theft Auto V (PS4)",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-grand-theft-auto-v-ps4/2300-9713/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9800/",
+      "id": 9800,
+      "name": "Grand Theft Auto V's Online Heists Have Reached the 'Trailer' Stage of Development",
+      "site_detail_url": "http://www.giantbomb.com/videos/grand-theft-auto-v-s-online-heists-have-reached-th/2300-9800/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10104/",
+      "id": 10104,
+      "name": "Grand Theft Auto V for PC Getting Video Editing Tools",
+      "site_detail_url": "http://www.giantbomb.com/videos/grand-theft-auto-v-for-pc-getting-video-editing-to/2300-10104/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10114/",
+      "id": 10114,
+      "name": "Quick Look: Grand Theft Auto V (PC)",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-grand-theft-auto-v-pc/2300-10114/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10179/",
+      "id": 10179,
+      "name": "Unprofessional Fridays: 05/08/2015",
+      "site_detail_url": "http://www.giantbomb.com/videos/unprofessional-fridays-05-08-2015/2300-10179/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10675/",
+      "id": 10675,
+      "name": "Grand Theft Auto V's Freemode Events Update Is Out Now",
+      "site_detail_url": "http://www.giantbomb.com/videos/grand-theft-auto-vs-freemode-events-update-is-out-/2300-10675/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-6/",
+      "id": 6,
+      "name": "Driving/Racing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=drivingracing&wikiTypeId=3060&wikiId=6&genre=6"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-121148/",
+      "id": 121148,
+      "name": "Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/grand-theft-auto-v/3030-36765/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-121149/",
+      "id": 121149,
+      "name": "Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/grand-theft-auto-v/3030-36765/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-124822/",
+      "id": 124822,
+      "name": "Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/grand-theft-auto-v/3030-36765/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-124823/",
+      "id": 124823,
+      "name": "Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/grand-theft-auto-v/3030-36765/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-124824/",
+      "id": 124824,
+      "name": "Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/grand-theft-auto-v/3030-36765/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-124825/",
+      "id": 124825,
+      "name": "Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/grand-theft-auto-v/3030-36765/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130005/",
+      "id": 130005,
+      "name": "Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/grand-theft-auto-v/3030-36765/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130868/",
+      "id": 130868,
+      "name": "Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/grand-theft-auto-v/3030-36765/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135272/",
+      "id": 135272,
+      "name": "Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/grand-theft-auto-v/3030-36765/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135273/",
+      "id": 135273,
+      "name": "Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/grand-theft-auto-v/3030-36765/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135274/",
+      "id": 135274,
+      "name": "Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/grand-theft-auto-v/3030-36765/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137027/",
+      "id": 137027,
+      "name": "Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/grand-theft-auto-v/3030-36765/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137586/",
+      "id": 137586,
+      "name": "Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/grand-theft-auto-v/3030-36765/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137593/",
+      "id": 137593,
+      "name": "Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/grand-theft-auto-v/3030-36765/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137594/",
+      "id": 137594,
+      "name": "Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/grand-theft-auto-v/3030-36765/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137595/",
+      "id": 137595,
+      "name": "Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/grand-theft-auto-v/3030-36765/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137596/",
+      "id": 137596,
+      "name": "Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/grand-theft-auto-v/3030-36765/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137597/",
+      "id": 137597,
+      "name": "Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/grand-theft-auto-v/3030-36765/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140989/",
+      "id": 140989,
+      "name": "Grand Theft Auto V",
+      "site_detail_url": "http://www.giantbomb.com/grand-theft-auto-v/3030-36765/releases/"
+    }
+  ]
+}

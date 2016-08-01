@@ -1,0 +1,99 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49560/",
+  "deck": "Siralim is a roguelite monster-collection RPG.",
+  "id": 49560,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2744894-siralim2.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2744894-siralim2.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2744894-siralim2.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2744894-siralim2.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2744894-siralim2.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2744894-siralim2.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2744894-siralim2.jpg"
+  },
+  "name": "Siralim",
+  "original_release_date": "2016-02-09 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-123/",
+      "id": 123,
+      "name": "Android",
+      "site_detail_url": "http://www.giantbomb.com/android/3045-123/",
+      "abbreviation": "ANDR"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/siralim/3030-49560/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/27/277983/2745510-battle2.1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/27/277983/2745510-battle2.1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/27/277983/2745510-battle2.1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/27/277983/2745510-battle2.1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/27/277983/2745510-battle2.1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/27/277983/2745510-battle2.1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/27/277983/2745510-battle2.1.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/27/277983/2745509-biome4.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/27/277983/2745509-biome4.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/27/277983/2745509-biome4.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/27/277983/2745509-biome4.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/27/277983/2745509-biome4.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/27/277983/2745509-biome4.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/27/277983/2745509-biome4.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145975/",
+      "id": 145975,
+      "name": "Siralim",
+      "site_detail_url": "http://www.giantbomb.com/siralim/3030-49560/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145976/",
+      "id": 145976,
+      "name": "Siralim",
+      "site_detail_url": "http://www.giantbomb.com/siralim/3030-49560/releases/"
+    }
+  ]
+}

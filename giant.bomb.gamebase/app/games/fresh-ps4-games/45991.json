@@ -1,0 +1,55 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-45991/",
+  "deck": "Trivia quiz game with support for up to 4 players.",
+  "id": 45991,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2619149-3399464286-13786.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2619149-3399464286-13786.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2619149-3399464286-13786.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2619149-3399464286-13786.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2619149-3399464286-13786.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2619149-3399464286-13786.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2619149-3399464286-13786.jpg"
+  },
+  "name": "That Trivia Game",
+  "original_release_date": "2014-04-15 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/that-trivia-game/3030-45991/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2619149-3399464286-13786.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2619149-3399464286-13786.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2619149-3399464286-13786.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2619149-3399464286-13786.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2619149-3399464286-13786.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2619149-3399464286-13786.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2619149-3399464286-13786.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-14/",
+      "id": 14,
+      "name": "Trivia/Board Game",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=triviaboard-game&wikiTypeId=3060&wikiId=14&genre=14"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133917/",
+      "id": 133917,
+      "name": "That Trivia Game",
+      "site_detail_url": "http://www.giantbomb.com/that-trivia-game/3030-45991/releases/"
+    }
+  ]
+}

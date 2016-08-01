@@ -1,0 +1,68 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-50075/",
+  "deck": "Indie platformer.",
+  "id": 50075,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2760818-5878405484-zeget.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2760818-5878405484-zeget.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2760818-5878405484-zeget.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2760818-5878405484-zeget.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2760818-5878405484-zeget.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2760818-5878405484-zeget.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2760818-5878405484-zeget.png"
+  },
+  "name": "Attacking Zegeta",
+  "original_release_date": "2014-01-13 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-154/",
+      "id": 154,
+      "name": "Ouya",
+      "site_detail_url": "http://www.giantbomb.com/ouya/3045-154/",
+      "abbreviation": "OUYA"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/attacking-zegeta/3030-50075/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2760818-5878405484-zeget.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2760818-5878405484-zeget.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2760818-5878405484-zeget.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2760818-5878405484-zeget.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2760818-5878405484-zeget.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2760818-5878405484-zeget.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2760818-5878405484-zeget.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142165/",
+      "id": 142165,
+      "name": "Attacking Zegeta",
+      "site_detail_url": "http://www.giantbomb.com/attacking-zegeta/3030-50075/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142166/",
+      "id": 142166,
+      "name": "Attacking Zegeta",
+      "site_detail_url": "http://www.giantbomb.com/attacking-zegeta/3030-50075/releases/"
+    }
+  ]
+}

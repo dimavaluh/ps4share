@@ -1,0 +1,85 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48628/",
+  "deck": "A puzzle game where different building blocks must be used to deliver blocks in a specific shape to a location.",
+  "id": 48628,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2719087-header.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2719087-header.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2719087-header.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2719087-header.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2719087-header.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2719087-header.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2719087-header.jpg"
+  },
+  "name": "Infinifactory",
+  "original_release_date": "2015-06-30 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/infinifactory/3030-48628/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780239-dsc08619.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780239-dsc08619.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780239-dsc08619.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780239-dsc08619.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2780239-dsc08619.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2780239-dsc08619.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2780239-dsc08619.jpg",
+      "tags": "All Images, Indie MegaBooth, PAX Prime 2015, PAX Prime 2015 Booth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780238-dsc08618.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780238-dsc08618.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780238-dsc08618.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780238-dsc08618.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2780238-dsc08618.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2780238-dsc08618.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2780238-dsc08618.jpg",
+      "tags": "All Images, Indie MegaBooth, PAX Prime 2015, PAX Prime 2015 Booth"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9921/",
+      "id": 9921,
+      "name": "Unfinished: Infinifactory 02/06/2015",
+      "site_detail_url": "http://www.giantbomb.com/videos/unfinished-infinifactory-02-06-2015/2300-9921/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-18/",
+      "id": 18,
+      "name": "Puzzle",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=puzzle&wikiTypeId=3060&wikiId=18&genre=18"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145322/",
+      "id": 145322,
+      "name": "Infinifactory",
+      "site_detail_url": "http://www.giantbomb.com/infinifactory/3030-48628/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145353/",
+      "id": 145353,
+      "name": "Infinifactory",
+      "site_detail_url": "http://www.giantbomb.com/infinifactory/3030-48628/releases/"
+    }
+  ]
+}

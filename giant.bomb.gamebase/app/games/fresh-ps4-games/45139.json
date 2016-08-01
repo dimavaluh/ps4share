@@ -1,0 +1,103 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-45139/",
+  "deck": "An action focused free to play MMORPG based on Japanese mythology.",
+  "id": 45139,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2704379-rsz_image.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2704379-rsz_image.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2704379-rsz_image.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2704379-rsz_image.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2704379-rsz_image.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2704379-rsz_image.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2704379-rsz_image.png"
+  },
+  "name": "Onigiri",
+  "original_release_date": "2013-12-12 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/onigiri/3030-45139/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2704379-rsz_image.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2704379-rsz_image.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2704379-rsz_image.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2704379-rsz_image.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2704379-rsz_image.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2704379-rsz_image.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2704379-rsz_image.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2591398-0381357478-logo_.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2591398-0381357478-logo_.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2591398-0381357478-logo_.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2591398-0381357478-logo_.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2591398-0381357478-logo_.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2591398-0381357478-logo_.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2591398-0381357478-logo_.png",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-16/",
+      "id": 16,
+      "name": "MMORPG",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=mmorpg&wikiTypeId=3060&wikiId=16&genre=16"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132482/",
+      "id": 132482,
+      "name": "Onigiri",
+      "site_detail_url": "http://www.giantbomb.com/onigiri/3030-45139/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132484/",
+      "id": 132484,
+      "name": "Onigiri",
+      "site_detail_url": "http://www.giantbomb.com/onigiri/3030-45139/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138847/",
+      "id": 138847,
+      "name": "Onigiri",
+      "site_detail_url": "http://www.giantbomb.com/onigiri/3030-45139/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-139068/",
+      "id": 139068,
+      "name": "Onigiri",
+      "site_detail_url": "http://www.giantbomb.com/onigiri/3030-45139/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-139069/",
+      "id": 139069,
+      "name": "Onigiri",
+      "site_detail_url": "http://www.giantbomb.com/onigiri/3030-45139/releases/"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-47722/",
+  "deck": "New Fairy Fencer F game for Playstation 4.",
+  "id": 47722,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2677233-logo.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2677233-logo.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2677233-logo.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2677233-logo.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2677233-logo.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2677233-logo.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2677233-logo.png"
+  },
+  "name": "Fairy Fencer F: Advent Dark Force",
+  "original_release_date": "2015-11-05 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/fairy-fencer-f-advent-dark-force/3030-47722/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2677233-logo.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2677233-logo.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2677233-logo.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2677233-logo.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2677233-logo.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2677233-logo.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2677233-logo.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142471/",
+      "id": 142471,
+      "name": "Fairy Fencer F: Advent Dark Force",
+      "site_detail_url": "http://www.giantbomb.com/fairy-fencer-f-advent-dark-force/3030-47722/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148745/",
+      "id": 148745,
+      "name": "Fairy Fencer F: Advent Dark Force",
+      "site_detail_url": "http://www.giantbomb.com/fairy-fencer-f-advent-dark-force/3030-47722/releases/"
+    }
+  ]
+}

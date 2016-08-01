@@ -1,0 +1,406 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-42828/",
+  "deck": "Billed as \"a genealogical Rogue-lite\", Rogue Legacy is an indie 2D side-scrolling mash-up of Metroidvania platforming and Rougelike perma-death, as players build up a knight's lineage by exploring the procedurally-generated Castle Hamson while collecting gold, attempting to defeat bosses, and dying (many times, with each death bringing forth a new descendent).",
+  "id": 42828,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2752810-rsz_1rsz_1rsz_image.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2752810-rsz_1rsz_1rsz_image.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2752810-rsz_1rsz_1rsz_image.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2752810-rsz_1rsz_1rsz_image.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2752810-rsz_1rsz_1rsz_image.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2752810-rsz_1rsz_1rsz_image.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2752810-rsz_1rsz_1rsz_image.jpg"
+  },
+  "name": "Rogue Legacy",
+  "original_release_date": "2013-06-27 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/rogue-legacy/3030-42828/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2752815-image.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2752815-image.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2752815-image.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2752815-image.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2752815-image.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2752815-image.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2752815-image.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2752814-image+%284%29.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2752814-image+%284%29.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2752814-image+%284%29.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2752814-image+%284%29.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2752814-image+%284%29.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2752814-image+%284%29.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2752814-image+%284%29.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2752813-image+%283%29.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2752813-image+%283%29.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2752813-image+%283%29.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2752813-image+%283%29.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2752813-image+%283%29.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2752813-image+%283%29.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2752813-image+%283%29.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2752812-image+%282%29.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2752812-image+%282%29.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2752812-image+%282%29.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2752812-image+%282%29.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2752812-image+%282%29.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2752812-image+%282%29.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2752812-image+%282%29.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2752811-image+%281%29.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2752811-image+%281%29.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2752811-image+%281%29.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2752811-image+%281%29.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2752811-image+%281%29.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2752811-image+%281%29.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2752811-image+%281%29.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2752810-rsz_1rsz_1rsz_image.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2752810-rsz_1rsz_1rsz_image.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2752810-rsz_1rsz_1rsz_image.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2752810-rsz_1rsz_1rsz_image.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2752810-rsz_1rsz_1rsz_image.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2752810-rsz_1rsz_1rsz_image.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2752810-rsz_1rsz_1rsz_image.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2752809-rsz_1rsz_image.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2752809-rsz_1rsz_image.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2752809-rsz_1rsz_image.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2752809-rsz_1rsz_image.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2752809-rsz_1rsz_image.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2752809-rsz_1rsz_image.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2752809-rsz_1rsz_image.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2630547-header_292x136.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2630547-header_292x136.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2630547-header_292x136.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2630547-header_292x136.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/136036/2630547-header_292x136.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/136036/2630547-header_292x136.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/136036/2630547-header_292x136.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2542093-dsc04829.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2542093-dsc04829.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2542093-dsc04829.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2542093-dsc04829.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2542093-dsc04829.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2542093-dsc04829.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2542093-dsc04829.jpg",
+      "tags": "All Images, The PAX 10, PAX Prime 2013"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/165095/2515801-the+maya.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/165095/2515801-the+maya.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/165095/2515801-the+maya.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/165095/2515801-the+maya.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/165095/2515801-the+maya.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/165095/2515801-the+maya.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/165095/2515801-the+maya.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/165095/2515800-mr+bones.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/165095/2515800-mr+bones.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/165095/2515800-mr+bones.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/165095/2515800-mr+bones.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/165095/2515800-mr+bones.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/165095/2515800-mr+bones.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/165095/2515800-mr+bones.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/165095/2515799-guardbox+xl.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/165095/2515799-guardbox+xl.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/165095/2515799-guardbox+xl.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/165095/2515799-guardbox+xl.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/165095/2515799-guardbox+xl.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/165095/2515799-guardbox+xl.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/165095/2515799-guardbox+xl.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/165095/2515798-blazelock.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/165095/2515798-blazelock.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/165095/2515798-blazelock.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/165095/2515798-blazelock.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/165095/2515798-blazelock.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/165095/2515798-blazelock.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/165095/2515798-blazelock.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/15/155402/2504943-2504942-1409513235-",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/15/155402/2504943-2504942-1409513235-",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/15/155402/2504943-2504942-1409513235-",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/15/155402/2504943-2504942-1409513235-",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/15/155402/2504943-2504942-1409513235-",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/15/155402/2504943-2504942-1409513235-",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/15/155402/2504943-2504942-1409513235-",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/136461/2500814-rogue-title.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/136461/2500814-rogue-title.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/136461/2500814-rogue-title.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/136461/2500814-rogue-title.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/136461/2500814-rogue-title.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/136461/2500814-rogue-title.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/136461/2500814-rogue-title.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/136461/2500813-rogue-start.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/136461/2500813-rogue-start.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/136461/2500813-rogue-start.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/136461/2500813-rogue-start.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/136461/2500813-rogue-start.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/136461/2500813-rogue-start.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/136461/2500813-rogue-start.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/136461/2500812-rogue-smith.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/136461/2500812-rogue-smith.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/136461/2500812-rogue-smith.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/136461/2500812-rogue-smith.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/136461/2500812-rogue-smith.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/136461/2500812-rogue-smith.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/136461/2500812-rogue-smith.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/136461/2500811-rogue-map.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/136461/2500811-rogue-map.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/136461/2500811-rogue-map.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/136461/2500811-rogue-map.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/136461/2500811-rogue-map.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/136461/2500811-rogue-map.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/136461/2500811-rogue-map.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/136461/2500810-rogue-level.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/136461/2500810-rogue-level.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/136461/2500810-rogue-level.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/136461/2500810-rogue-level.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/136461/2500810-rogue-level.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/136461/2500810-rogue-level.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/136461/2500810-rogue-level.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/15/155402/2491530-roguelegacy1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/15/155402/2491530-roguelegacy1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/15/155402/2491530-roguelegacy1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/15/155402/2491530-roguelegacy1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/15/155402/2491530-roguelegacy1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/15/155402/2491530-roguelegacy1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/15/155402/2491530-roguelegacy1.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/15/155402/2490531-gamelogo.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/15/155402/2490531-gamelogo.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/15/155402/2490531-gamelogo.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/15/155402/2490531-gamelogo.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/15/155402/2490531-gamelogo.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/15/155402/2490531-gamelogo.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/15/155402/2490531-gamelogo.png",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7631/",
+      "id": 7631,
+      "name": "Quick Look: Rogue Legacy",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-rogue-legacy/2300-7631/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7691/",
+      "id": 7691,
+      "name": "Patrick Tries And...? the Final Boss in Rogue Legacy",
+      "site_detail_url": "http://www.giantbomb.com/videos/patrick-tries-and-the-final-boss-in-rogue-legacy/2300-7691/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7735/",
+      "id": 7735,
+      "name": "Another Random Rogue Legacy Stream",
+      "site_detail_url": "http://www.giantbomb.com/videos/another-random-rogue-legacy-stream/2300-7735/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8189/",
+      "id": 8189,
+      "name": "Extra Life 2013 - Day 1: Part 11",
+      "site_detail_url": "http://www.giantbomb.com/videos/extra-life-2013-day-1-part-11/2300-8189/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8476/",
+      "id": 8476,
+      "name": "Unprofessional Fridays: 02/07/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/unprofessional-fridays-02-07-2014/2300-8476/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9066/",
+      "id": 9066,
+      "name": "E3 2014: Inherit Rogue Legacy on Your PS4, PS3, and Vita",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2014-inherit-rogue-legacy-on-your-ps4-ps3-and-v/2300-9066/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9633/",
+      "id": 9633,
+      "name": "Extra Life 2014 - Day 1: Part 01",
+      "site_detail_url": "http://www.giantbomb.com/videos/extra-life-2014-day-1-part-01/2300-9633/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128112/",
+      "id": 128112,
+      "name": "Rogue Legacy",
+      "site_detail_url": "http://www.giantbomb.com/rogue-legacy/3030-42828/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130817/",
+      "id": 130817,
+      "name": "Rogue Legacy",
+      "site_detail_url": "http://www.giantbomb.com/rogue-legacy/3030-42828/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130818/",
+      "id": 130818,
+      "name": "Rogue Legacy",
+      "site_detail_url": "http://www.giantbomb.com/rogue-legacy/3030-42828/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134376/",
+      "id": 134376,
+      "name": "Rogue Legacy",
+      "site_detail_url": "http://www.giantbomb.com/rogue-legacy/3030-42828/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134377/",
+      "id": 134377,
+      "name": "Rogue Legacy",
+      "site_detail_url": "http://www.giantbomb.com/rogue-legacy/3030-42828/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134378/",
+      "id": 134378,
+      "name": "Rogue Legacy",
+      "site_detail_url": "http://www.giantbomb.com/rogue-legacy/3030-42828/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136514/",
+      "id": 136514,
+      "name": "Rogue Legacy",
+      "site_detail_url": "http://www.giantbomb.com/rogue-legacy/3030-42828/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136515/",
+      "id": 136515,
+      "name": "Rogue Legacy",
+      "site_detail_url": "http://www.giantbomb.com/rogue-legacy/3030-42828/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136516/",
+      "id": 136516,
+      "name": "Rogue Legacy",
+      "site_detail_url": "http://www.giantbomb.com/rogue-legacy/3030-42828/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141790/",
+      "id": 141790,
+      "name": "Rogue Legacy",
+      "site_detail_url": "http://www.giantbomb.com/rogue-legacy/3030-42828/releases/"
+    }
+  ]
+}

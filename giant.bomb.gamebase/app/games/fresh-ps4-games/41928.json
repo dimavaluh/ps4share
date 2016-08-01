@@ -1,0 +1,466 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-41928/",
+  "deck": "In Sniper Elite III, players once again take on the role of World War II sniper Karl Fairburne, this time as he travels to Northern Africa to uncover a secret Nazi plot.",
+  "id": 41928,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2607255-sniperelite3-clean.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2607255-sniperelite3-clean.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2607255-sniperelite3-clean.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2607255-sniperelite3-clean.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2607255-sniperelite3-clean.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2607255-sniperelite3-clean.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2607255-sniperelite3-clean.jpg"
+  },
+  "name": "Sniper Elite III",
+  "original_release_date": "2014-06-27 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+      "id": 86,
+      "name": "Xbox 360 Games Store",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+      "abbreviation": "XBGS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/sniper-elite-iii/3030-41928/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651623-2014-06-28_00052.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651623-2014-06-28_00052.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651623-2014-06-28_00052.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651623-2014-06-28_00052.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2651623-2014-06-28_00052.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2651623-2014-06-28_00052.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2651623-2014-06-28_00052.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651622-2014-06-28_00049.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651622-2014-06-28_00049.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651622-2014-06-28_00049.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651622-2014-06-28_00049.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2651622-2014-06-28_00049.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2651622-2014-06-28_00049.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2651622-2014-06-28_00049.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651620-2014-06-28_00045.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651620-2014-06-28_00045.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651620-2014-06-28_00045.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651620-2014-06-28_00045.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2651620-2014-06-28_00045.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2651620-2014-06-28_00045.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2651620-2014-06-28_00045.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651619-2014-06-28_00043.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651619-2014-06-28_00043.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651619-2014-06-28_00043.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651619-2014-06-28_00043.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2651619-2014-06-28_00043.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2651619-2014-06-28_00043.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2651619-2014-06-28_00043.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651618-2014-06-28_00040.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651618-2014-06-28_00040.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651618-2014-06-28_00040.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651618-2014-06-28_00040.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2651618-2014-06-28_00040.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2651618-2014-06-28_00040.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2651618-2014-06-28_00040.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651617-2014-06-28_00038.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651617-2014-06-28_00038.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651617-2014-06-28_00038.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651617-2014-06-28_00038.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2651617-2014-06-28_00038.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2651617-2014-06-28_00038.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2651617-2014-06-28_00038.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651616-2014-06-28_00032.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651616-2014-06-28_00032.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651616-2014-06-28_00032.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651616-2014-06-28_00032.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2651616-2014-06-28_00032.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2651616-2014-06-28_00032.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2651616-2014-06-28_00032.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651615-2014-06-28_00028.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651615-2014-06-28_00028.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651615-2014-06-28_00028.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651615-2014-06-28_00028.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2651615-2014-06-28_00028.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2651615-2014-06-28_00028.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2651615-2014-06-28_00028.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651614-2014-06-28_00026.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651614-2014-06-28_00026.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651614-2014-06-28_00026.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651614-2014-06-28_00026.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2651614-2014-06-28_00026.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2651614-2014-06-28_00026.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2651614-2014-06-28_00026.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651613-2014-06-28_00019.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651613-2014-06-28_00019.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651613-2014-06-28_00019.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651613-2014-06-28_00019.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2651613-2014-06-28_00019.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2651613-2014-06-28_00019.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2651613-2014-06-28_00019.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651612-2014-06-28_00018.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651612-2014-06-28_00018.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651612-2014-06-28_00018.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651612-2014-06-28_00018.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2651612-2014-06-28_00018.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2651612-2014-06-28_00018.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2651612-2014-06-28_00018.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651611-2014-06-28_00017.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651611-2014-06-28_00017.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651611-2014-06-28_00017.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651611-2014-06-28_00017.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2651611-2014-06-28_00017.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2651611-2014-06-28_00017.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2651611-2014-06-28_00017.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651610-2014-06-28_00009.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651610-2014-06-28_00009.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651610-2014-06-28_00009.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651610-2014-06-28_00009.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2651610-2014-06-28_00009.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2651610-2014-06-28_00009.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2651610-2014-06-28_00009.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651609-2014-06-28_00001.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651609-2014-06-28_00001.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2651609-2014-06-28_00001.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2651609-2014-06-28_00001.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2651609-2014-06-28_00001.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2651609-2014-06-28_00001.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2651609-2014-06-28_00001.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650962-2014-06-28_00040.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650962-2014-06-28_00040.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650962-2014-06-28_00040.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650962-2014-06-28_00040.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2650962-2014-06-28_00040.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2650962-2014-06-28_00040.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2650962-2014-06-28_00040.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650961-2014-06-28_00038.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650961-2014-06-28_00038.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650961-2014-06-28_00038.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650961-2014-06-28_00038.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2650961-2014-06-28_00038.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2650961-2014-06-28_00038.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2650961-2014-06-28_00038.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650960-2014-06-28_00036.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650960-2014-06-28_00036.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650960-2014-06-28_00036.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650960-2014-06-28_00036.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2650960-2014-06-28_00036.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2650960-2014-06-28_00036.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2650960-2014-06-28_00036.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650959-2014-06-28_00035.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650959-2014-06-28_00035.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650959-2014-06-28_00035.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650959-2014-06-28_00035.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2650959-2014-06-28_00035.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2650959-2014-06-28_00035.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2650959-2014-06-28_00035.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650958-2014-06-28_00031.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650958-2014-06-28_00031.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650958-2014-06-28_00031.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650958-2014-06-28_00031.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2650958-2014-06-28_00031.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2650958-2014-06-28_00031.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2650958-2014-06-28_00031.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650957-2014-06-28_00029.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650957-2014-06-28_00029.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650957-2014-06-28_00029.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650957-2014-06-28_00029.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2650957-2014-06-28_00029.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2650957-2014-06-28_00029.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2650957-2014-06-28_00029.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650956-2014-06-28_00028.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650956-2014-06-28_00028.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650956-2014-06-28_00028.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650956-2014-06-28_00028.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2650956-2014-06-28_00028.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2650956-2014-06-28_00028.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2650956-2014-06-28_00028.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650955-2014-06-28_00026.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650955-2014-06-28_00026.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650955-2014-06-28_00026.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650955-2014-06-28_00026.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2650955-2014-06-28_00026.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2650955-2014-06-28_00026.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2650955-2014-06-28_00026.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650954-2014-06-28_00022.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650954-2014-06-28_00022.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650954-2014-06-28_00022.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650954-2014-06-28_00022.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2650954-2014-06-28_00022.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2650954-2014-06-28_00022.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2650954-2014-06-28_00022.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650953-2014-06-28_00018.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650953-2014-06-28_00018.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650953-2014-06-28_00018.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650953-2014-06-28_00018.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2650953-2014-06-28_00018.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2650953-2014-06-28_00018.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2650953-2014-06-28_00018.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650952-2014-06-28_00017.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650952-2014-06-28_00017.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650952-2014-06-28_00017.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650952-2014-06-28_00017.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2650952-2014-06-28_00017.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2650952-2014-06-28_00017.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2650952-2014-06-28_00017.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650951-2014-06-28_00016.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650951-2014-06-28_00016.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650951-2014-06-28_00016.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650951-2014-06-28_00016.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2650951-2014-06-28_00016.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2650951-2014-06-28_00016.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2650951-2014-06-28_00016.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650950-2014-06-28_00012.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650950-2014-06-28_00012.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650950-2014-06-28_00012.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650950-2014-06-28_00012.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2650950-2014-06-28_00012.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2650950-2014-06-28_00012.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2650950-2014-06-28_00012.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650949-2014-06-28_00010.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650949-2014-06-28_00010.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650949-2014-06-28_00010.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650949-2014-06-28_00010.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2650949-2014-06-28_00010.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2650949-2014-06-28_00010.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2650949-2014-06-28_00010.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650948-2014-06-28_00008.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650948-2014-06-28_00008.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650948-2014-06-28_00008.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650948-2014-06-28_00008.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2650948-2014-06-28_00008.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2650948-2014-06-28_00008.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2650948-2014-06-28_00008.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650947-2014-06-28_00005.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650947-2014-06-28_00005.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27287/2650947-2014-06-28_00005.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27287/2650947-2014-06-28_00005.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27287/2650947-2014-06-28_00005.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27287/2650947-2014-06-28_00005.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27287/2650947-2014-06-28_00005.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8017/",
+      "id": 8017,
+      "name": "Confirmed: Sniper Elite 3 Has Snipers",
+      "site_detail_url": "http://www.giantbomb.com/videos/confirmed-sniper-elite-3-has-snipers/2300-8017/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9172/",
+      "id": 9172,
+      "name": "Unprofessional Fridays: 06/27/14",
+      "site_detail_url": "http://www.giantbomb.com/videos/unprofessional-fridays-06-27-14/2300-9172/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9180/",
+      "id": 9180,
+      "name": "Quick Look: Sniper Elite III",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-sniper-elite-iii/2300-9180/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-7/",
+      "id": 7,
+      "name": "Simulation",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=simulation&wikiTypeId=3060&wikiId=7&genre=7"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-11/",
+      "id": 11,
+      "name": "Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shooter&wikiTypeId=3060&wikiId=11&genre=11"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135039/",
+      "id": 135039,
+      "name": "Sniper Elite III",
+      "site_detail_url": "http://www.giantbomb.com/sniper-elite-iii/3030-41928/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135040/",
+      "id": 135040,
+      "name": "Sniper Elite III",
+      "site_detail_url": "http://www.giantbomb.com/sniper-elite-iii/3030-41928/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135041/",
+      "id": 135041,
+      "name": "Sniper Elite III",
+      "site_detail_url": "http://www.giantbomb.com/sniper-elite-iii/3030-41928/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135042/",
+      "id": 135042,
+      "name": "Sniper Elite III",
+      "site_detail_url": "http://www.giantbomb.com/sniper-elite-iii/3030-41928/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135218/",
+      "id": 135218,
+      "name": "Sniper Elite III",
+      "site_detail_url": "http://www.giantbomb.com/sniper-elite-iii/3030-41928/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135843/",
+      "id": 135843,
+      "name": "Sniper Elite III",
+      "site_detail_url": "http://www.giantbomb.com/sniper-elite-iii/3030-41928/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135844/",
+      "id": 135844,
+      "name": "Sniper Elite III",
+      "site_detail_url": "http://www.giantbomb.com/sniper-elite-iii/3030-41928/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135845/",
+      "id": 135845,
+      "name": "Sniper Elite III",
+      "site_detail_url": "http://www.giantbomb.com/sniper-elite-iii/3030-41928/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135846/",
+      "id": 135846,
+      "name": "Sniper Elite III",
+      "site_detail_url": "http://www.giantbomb.com/sniper-elite-iii/3030-41928/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135847/",
+      "id": 135847,
+      "name": "Sniper Elite III",
+      "site_detail_url": "http://www.giantbomb.com/sniper-elite-iii/3030-41928/releases/"
+    }
+  ]
+}

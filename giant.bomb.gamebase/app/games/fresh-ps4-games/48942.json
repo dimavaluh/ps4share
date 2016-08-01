@@ -1,0 +1,75 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48942/",
+  "deck": "Create your own modes and options in this dual-joystick shooter from Blazing Badger.",
+  "id": 48942,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2831887-7915717444-heade.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2831887-7915717444-heade.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2831887-7915717444-heade.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2831887-7915717444-heade.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2831887-7915717444-heade.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2831887-7915717444-heade.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2831887-7915717444-heade.jpg"
+  },
+  "name": "AIPD: Artificial Intelligence Police Department",
+  "original_release_date": "2016-01-29 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/aipd-artificial-intelligence-police-department/3030-48942/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2831887-7915717444-heade.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2831887-7915717444-heade.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2831887-7915717444-heade.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2831887-7915717444-heade.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2831887-7915717444-heade.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2831887-7915717444-heade.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2831887-7915717444-heade.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-31/",
+      "id": 31,
+      "name": "Dual-Joystick Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=dual-joystick-shooter&wikiTypeId=3060&wikiId=31&genre=31"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145658/",
+      "id": 145658,
+      "name": "AIPD: Artificial Intelligence Police Department",
+      "site_detail_url": "http://www.giantbomb.com/aipd-artificial-intelligence-police-department/3030-48942/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145883/",
+      "id": 145883,
+      "name": "AIPD: Artificial Intelligence Police Department",
+      "site_detail_url": "http://www.giantbomb.com/aipd-artificial-intelligence-police-department/3030-48942/releases/"
+    }
+  ]
+}

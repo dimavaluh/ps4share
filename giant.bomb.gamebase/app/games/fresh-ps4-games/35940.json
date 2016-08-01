@@ -1,0 +1,362 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-35940/",
+  "deck": "The Swindle is a physics-based platformer where you infiltrate facilities and steal their money.",
+  "id": 35940,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2725642-logo.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2725642-logo.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2725642-logo.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2725642-logo.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2725642-logo.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2725642-logo.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2725642-logo.jpg"
+  },
+  "name": "The Swindle",
+  "original_release_date": "2015-07-28 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/the-swindle/3030-35940/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2785475-wiiu_screenshot_tv_01k0qmz.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2785475-wiiu_screenshot_tv_01k0qmz.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2785475-wiiu_screenshot_tv_01k0qmz.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2785475-wiiu_screenshot_tv_01k0qmz.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2785475-wiiu_screenshot_tv_01k0qmz.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2785475-wiiu_screenshot_tv_01k0qmz.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2785475-wiiu_screenshot_tv_01k0qmz.jpg",
+      "tags": "All Images, Screenshots, Wii U Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2785474-wiiu_screenshot_tv_0153pss.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2785474-wiiu_screenshot_tv_0153pss.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2785474-wiiu_screenshot_tv_0153pss.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2785474-wiiu_screenshot_tv_0153pss.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2785474-wiiu_screenshot_tv_0153pss.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2785474-wiiu_screenshot_tv_0153pss.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2785474-wiiu_screenshot_tv_0153pss.jpg",
+      "tags": "All Images, Screenshots, Wii U Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2785473-wiiu_screenshot_tv_01n8qds.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2785473-wiiu_screenshot_tv_01n8qds.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2785473-wiiu_screenshot_tv_01n8qds.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2785473-wiiu_screenshot_tv_01n8qds.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2785473-wiiu_screenshot_tv_01n8qds.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2785473-wiiu_screenshot_tv_01n8qds.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2785473-wiiu_screenshot_tv_01n8qds.jpg",
+      "tags": "All Images, Screenshots, Wii U Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2785472-wiiu_screenshot_tv_01n3qqf.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2785472-wiiu_screenshot_tv_01n3qqf.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2785472-wiiu_screenshot_tv_01n3qqf.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2785472-wiiu_screenshot_tv_01n3qqf.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2785472-wiiu_screenshot_tv_01n3qqf.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2785472-wiiu_screenshot_tv_01n3qqf.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2785472-wiiu_screenshot_tv_01n3qqf.jpg",
+      "tags": "All Images, Screenshots, Wii U Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2725832-01.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2725832-01.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2725832-01.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2725832-01.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2725832-01.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2725832-01.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2725832-01.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2725831-theswindle-2015-02-11-14-07-27-12.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2725831-theswindle-2015-02-11-14-07-27-12.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2725831-theswindle-2015-02-11-14-07-27-12.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2725831-theswindle-2015-02-11-14-07-27-12.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2725831-theswindle-2015-02-11-14-07-27-12.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2725831-theswindle-2015-02-11-14-07-27-12.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2725831-theswindle-2015-02-11-14-07-27-12.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2725830-theswindle-2015-02-11-14-05-54-81.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2725830-theswindle-2015-02-11-14-05-54-81.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2725830-theswindle-2015-02-11-14-05-54-81.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2725830-theswindle-2015-02-11-14-05-54-81.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2725830-theswindle-2015-02-11-14-05-54-81.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2725830-theswindle-2015-02-11-14-05-54-81.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2725830-theswindle-2015-02-11-14-05-54-81.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2725829-theswindle-2015-02-11-14-08-17-34.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2725829-theswindle-2015-02-11-14-08-17-34.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2725829-theswindle-2015-02-11-14-08-17-34.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2725829-theswindle-2015-02-11-14-08-17-34.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2725829-theswindle-2015-02-11-14-08-17-34.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2725829-theswindle-2015-02-11-14-08-17-34.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2725829-theswindle-2015-02-11-14-08-17-34.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2725828-theswindle-2015-02-11-14-11-06-38.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2725828-theswindle-2015-02-11-14-11-06-38.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2725828-theswindle-2015-02-11-14-11-06-38.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2725828-theswindle-2015-02-11-14-11-06-38.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2725828-theswindle-2015-02-11-14-11-06-38.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2725828-theswindle-2015-02-11-14-11-06-38.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2725828-theswindle-2015-02-11-14-11-06-38.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2725642-logo.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2725642-logo.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2725642-logo.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2725642-logo.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2725642-logo.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2725642-logo.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2725642-logo.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/10/104355/2701204-swindlebacktoback.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/10/104355/2701204-swindlebacktoback.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/10/104355/2701204-swindlebacktoback.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/10/104355/2701204-swindlebacktoback.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/10/104355/2701204-swindlebacktoback.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/10/104355/2701204-swindlebacktoback.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/10/104355/2701204-swindlebacktoback.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/10/104355/2701203-swindle_8.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/10/104355/2701203-swindle_8.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/10/104355/2701203-swindle_8.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/10/104355/2701203-swindle_8.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/10/104355/2701203-swindle_8.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/10/104355/2701203-swindle_8.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/10/104355/2701203-swindle_8.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/10/104355/2701202-swindle_7.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/10/104355/2701202-swindle_7.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/10/104355/2701202-swindle_7.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/10/104355/2701202-swindle_7.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/10/104355/2701202-swindle_7.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/10/104355/2701202-swindle_7.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/10/104355/2701202-swindle_7.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/10/104355/2701201-swindle_6.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/10/104355/2701201-swindle_6.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/10/104355/2701201-swindle_6.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/10/104355/2701201-swindle_6.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/10/104355/2701201-swindle_6.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/10/104355/2701201-swindle_6.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/10/104355/2701201-swindle_6.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/10/104355/2701200-swindle_5.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/10/104355/2701200-swindle_5.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/10/104355/2701200-swindle_5.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/10/104355/2701200-swindle_5.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/10/104355/2701200-swindle_5.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/10/104355/2701200-swindle_5.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/10/104355/2701200-swindle_5.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/10/104355/2701199-swindle_4.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/10/104355/2701199-swindle_4.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/10/104355/2701199-swindle_4.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/10/104355/2701199-swindle_4.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/10/104355/2701199-swindle_4.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/10/104355/2701199-swindle_4.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/10/104355/2701199-swindle_4.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/10/104355/2701198-swindle_3.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/10/104355/2701198-swindle_3.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/10/104355/2701198-swindle_3.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/10/104355/2701198-swindle_3.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/10/104355/2701198-swindle_3.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/10/104355/2701198-swindle_3.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/10/104355/2701198-swindle_3.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/10/104355/2701197-swindle_2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/10/104355/2701197-swindle_2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/10/104355/2701197-swindle_2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/10/104355/2701197-swindle_2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/10/104355/2701197-swindle_2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/10/104355/2701197-swindle_2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/10/104355/2701197-swindle_2.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/10/104355/2701196-swindle_1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/10/104355/2701196-swindle_1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/10/104355/2701196-swindle_1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/10/104355/2701196-swindle_1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/10/104355/2701196-swindle_1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/10/104355/2701196-swindle_1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/10/104355/2701196-swindle_1.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/10/104355/2701195-logo.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/10/104355/2701195-logo.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/10/104355/2701195-logo.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/10/104355/2701195-logo.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/10/104355/2701195-logo.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/10/104355/2701195-logo.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/10/104355/2701195-logo.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/81460/1863889-swindlescreenshot2.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/81460/1863889-swindlescreenshot2.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/81460/1863889-swindlescreenshot2.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/81460/1863889-swindlescreenshot2.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/81460/1863889-swindlescreenshot2.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/81460/1863889-swindlescreenshot2.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/81460/1863889-swindlescreenshot2.png",
+      "tags": "All Images, Canceled Prototype"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/81460/1863888-swindlescreenshot1.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/81460/1863888-swindlescreenshot1.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/81460/1863888-swindlescreenshot1.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/81460/1863888-swindlescreenshot1.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/81460/1863888-swindlescreenshot1.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/81460/1863888-swindlescreenshot1.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/81460/1863888-swindlescreenshot1.png",
+      "tags": "All Images, Canceled Prototype"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9605/",
+      "id": 9605,
+      "name": "Deus Ex + Spelunky = The Swindle",
+      "site_detail_url": "http://www.giantbomb.com/videos/deus-ex-spelunky-the-swindle/2300-9605/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10551/",
+      "id": 10551,
+      "name": "Quick Look: The Swindle",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-the-swindle/2300-10551/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10595/",
+      "id": 10595,
+      "name": "Unprofessional Fridays: 08/07/2015",
+      "site_detail_url": "http://www.giantbomb.com/videos/unprofessional-fridays-08072015/2300-10595/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140101/",
+      "id": 140101,
+      "name": "The Swindle",
+      "site_detail_url": "http://www.giantbomb.com/the-swindle/3030-35940/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140102/",
+      "id": 140102,
+      "name": "The Swindle",
+      "site_detail_url": "http://www.giantbomb.com/the-swindle/3030-35940/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140103/",
+      "id": 140103,
+      "name": "The Swindle",
+      "site_detail_url": "http://www.giantbomb.com/the-swindle/3030-35940/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140104/",
+      "id": 140104,
+      "name": "The Swindle",
+      "site_detail_url": "http://www.giantbomb.com/the-swindle/3030-35940/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140105/",
+      "id": 140105,
+      "name": "The Swindle",
+      "site_detail_url": "http://www.giantbomb.com/the-swindle/3030-35940/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140106/",
+      "id": 140106,
+      "name": "The Swindle",
+      "site_detail_url": "http://www.giantbomb.com/the-swindle/3030-35940/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140107/",
+      "id": 140107,
+      "name": "The Swindle",
+      "site_detail_url": "http://www.giantbomb.com/the-swindle/3030-35940/releases/"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-50676/",
+  "deck": "Fight as bread in this multiplayer brawler.",
+  "id": 50676,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2777249-1824012941-lVKWE.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2777249-1824012941-lVKWE.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2777249-1824012941-lVKWE.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2777249-1824012941-lVKWE.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2777249-1824012941-lVKWE.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2777249-1824012941-lVKWE.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2777249-1824012941-lVKWE.png"
+  },
+  "name": "The Bread Pub Brawlers",
+  "original_release_date": "2015-06-12 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/the-bread-pub-brawlers/3030-50676/",
+  "images": [],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-9/",
+      "id": 9,
+      "name": "Fighting",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=fighting&wikiTypeId=3060&wikiId=9&genre=9"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144102/",
+      "id": 144102,
+      "name": "The Bread Pub Brawlers",
+      "site_detail_url": "http://www.giantbomb.com/the-bread-pub-brawlers/3030-50676/releases/"
+    }
+  ]
+}

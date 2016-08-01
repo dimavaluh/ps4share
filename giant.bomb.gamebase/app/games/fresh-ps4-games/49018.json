@@ -1,0 +1,98 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49018/",
+  "deck": "Fight against the Axis in this World War II bullet hell game.",
+  "id": 49018,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2730710-9374310567-Scree.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2730710-9374310567-Scree.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2730710-9374310567-Scree.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2730710-9374310567-Scree.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2730710-9374310567-Scree.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2730710-9374310567-Scree.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2730710-9374310567-Scree.jpg"
+  },
+  "name": "Aces of the Luftwaffe",
+  "original_release_date": "2013-02-14 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-96/",
+      "id": 96,
+      "name": "iPhone",
+      "site_detail_url": "http://www.giantbomb.com/iphone/3045-96/",
+      "abbreviation": "IPHN"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-121/",
+      "id": 121,
+      "name": "iPad",
+      "site_detail_url": "http://www.giantbomb.com/ipad/3045-121/",
+      "abbreviation": "IPAD"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-123/",
+      "id": 123,
+      "name": "Android",
+      "site_detail_url": "http://www.giantbomb.com/android/3045-123/",
+      "abbreviation": "ANDR"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-124/",
+      "id": 124,
+      "name": "Windows Phone",
+      "site_detail_url": "http://www.giantbomb.com/windows-phone/3045-124/",
+      "abbreviation": "WP"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-155/",
+      "id": 155,
+      "name": "Amazon Fire TV",
+      "site_detail_url": "http://www.giantbomb.com/amazon-fire-tv/3045-155/",
+      "abbreviation": "FIRE"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/aces-of-the-luftwaffe/3030-49018/",
+  "images": [],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-48/",
+      "id": 48,
+      "name": "Shoot 'Em Up",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shoot-em-up&wikiTypeId=3060&wikiId=48&genre=48"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141628/",
+      "id": 141628,
+      "name": "Aces of the Luftwaffe",
+      "site_detail_url": "http://www.giantbomb.com/aces-of-the-luftwaffe/3030-49018/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141629/",
+      "id": 141629,
+      "name": "Aces of the Luftwaffe",
+      "site_detail_url": "http://www.giantbomb.com/aces-of-the-luftwaffe/3030-49018/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141630/",
+      "id": 141630,
+      "name": "Aces of the Luftwaffe",
+      "site_detail_url": "http://www.giantbomb.com/aces-of-the-luftwaffe/3030-49018/releases/"
+    }
+  ]
+}

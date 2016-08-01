@@ -1,0 +1,492 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48306/",
+  "deck": "Set in 1868 London during the Industrial Revolution, players take on the role of sibling Assassins named Evie and Jacob Frye as they rally to overthrow the Templars in power. Developed by Ubisoft Québec for the PC, PlayStation 4, and Xbox One.",
+  "id": 48306,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2749429-assassin%27s%20creed%20-%20syndicate.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2749429-assassin%27s%20creed%20-%20syndicate.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2749429-assassin%27s%20creed%20-%20syndicate.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2749429-assassin%27s%20creed%20-%20syndicate.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2749429-assassin%27s%20creed%20-%20syndicate.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2749429-assassin%27s%20creed%20-%20syndicate.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2749429-assassin%27s%20creed%20-%20syndicate.jpg"
+  },
+  "name": "Assassin's Creed Syndicate",
+  "original_release_date": "2015-10-23 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-syndicate/3030-48306/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/4/40485/2860747-jacktheripper.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/4/40485/2860747-jacktheripper.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/4/40485/2860747-jacktheripper.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/4/40485/2860747-jacktheripper.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/4/40485/2860747-jacktheripper.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/4/40485/2860747-jacktheripper.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/4/40485/2860747-jacktheripper.jpg",
+      "tags": "All Images, Jack the Ripper"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844431-assassin%27s+creed%C2%AE+syndicate_20160214190045.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844431-assassin%27s+creed%C2%AE+syndicate_20160214190045.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844431-assassin%27s+creed%C2%AE+syndicate_20160214190045.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844431-assassin%27s+creed%C2%AE+syndicate_20160214190045.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844431-assassin%27s+creed%C2%AE+syndicate_20160214190045.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844431-assassin%27s+creed%C2%AE+syndicate_20160214190045.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844431-assassin%27s+creed%C2%AE+syndicate_20160214190045.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844430-assassin%27s+creed%C2%AE+syndicate_20160208164853.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844430-assassin%27s+creed%C2%AE+syndicate_20160208164853.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844430-assassin%27s+creed%C2%AE+syndicate_20160208164853.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844430-assassin%27s+creed%C2%AE+syndicate_20160208164853.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844430-assassin%27s+creed%C2%AE+syndicate_20160208164853.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844430-assassin%27s+creed%C2%AE+syndicate_20160208164853.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844430-assassin%27s+creed%C2%AE+syndicate_20160208164853.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844429-assassin%27s+creed%C2%AE+syndicate_20160207185632.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844429-assassin%27s+creed%C2%AE+syndicate_20160207185632.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844429-assassin%27s+creed%C2%AE+syndicate_20160207185632.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844429-assassin%27s+creed%C2%AE+syndicate_20160207185632.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844429-assassin%27s+creed%C2%AE+syndicate_20160207185632.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844429-assassin%27s+creed%C2%AE+syndicate_20160207185632.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844429-assassin%27s+creed%C2%AE+syndicate_20160207185632.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844428-assassin%27s+creed%C2%AE+syndicate_20160207185145.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844428-assassin%27s+creed%C2%AE+syndicate_20160207185145.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844428-assassin%27s+creed%C2%AE+syndicate_20160207185145.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844428-assassin%27s+creed%C2%AE+syndicate_20160207185145.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844428-assassin%27s+creed%C2%AE+syndicate_20160207185145.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844428-assassin%27s+creed%C2%AE+syndicate_20160207185145.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844428-assassin%27s+creed%C2%AE+syndicate_20160207185145.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844427-assassin%27s+creed%C2%AE+syndicate_20160131205137.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844427-assassin%27s+creed%C2%AE+syndicate_20160131205137.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844427-assassin%27s+creed%C2%AE+syndicate_20160131205137.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844427-assassin%27s+creed%C2%AE+syndicate_20160131205137.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844427-assassin%27s+creed%C2%AE+syndicate_20160131205137.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844427-assassin%27s+creed%C2%AE+syndicate_20160131205137.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844427-assassin%27s+creed%C2%AE+syndicate_20160131205137.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844426-assassin%27s+creed%C2%AE+syndicate_20160131192526.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844426-assassin%27s+creed%C2%AE+syndicate_20160131192526.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844426-assassin%27s+creed%C2%AE+syndicate_20160131192526.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844426-assassin%27s+creed%C2%AE+syndicate_20160131192526.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844426-assassin%27s+creed%C2%AE+syndicate_20160131192526.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844426-assassin%27s+creed%C2%AE+syndicate_20160131192526.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844426-assassin%27s+creed%C2%AE+syndicate_20160131192526.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844425-assassin%27s+creed%C2%AE+syndicate_20160131191918.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844425-assassin%27s+creed%C2%AE+syndicate_20160131191918.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844425-assassin%27s+creed%C2%AE+syndicate_20160131191918.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844425-assassin%27s+creed%C2%AE+syndicate_20160131191918.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844425-assassin%27s+creed%C2%AE+syndicate_20160131191918.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844425-assassin%27s+creed%C2%AE+syndicate_20160131191918.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844425-assassin%27s+creed%C2%AE+syndicate_20160131191918.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844424-assassin%27s+creed%C2%AE+syndicate_20160131175556.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844424-assassin%27s+creed%C2%AE+syndicate_20160131175556.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844424-assassin%27s+creed%C2%AE+syndicate_20160131175556.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844424-assassin%27s+creed%C2%AE+syndicate_20160131175556.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844424-assassin%27s+creed%C2%AE+syndicate_20160131175556.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844424-assassin%27s+creed%C2%AE+syndicate_20160131175556.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844424-assassin%27s+creed%C2%AE+syndicate_20160131175556.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844423-assassin%27s+creed%C2%AE+syndicate_20160131142335.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844423-assassin%27s+creed%C2%AE+syndicate_20160131142335.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844423-assassin%27s+creed%C2%AE+syndicate_20160131142335.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844423-assassin%27s+creed%C2%AE+syndicate_20160131142335.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844423-assassin%27s+creed%C2%AE+syndicate_20160131142335.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844423-assassin%27s+creed%C2%AE+syndicate_20160131142335.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844423-assassin%27s+creed%C2%AE+syndicate_20160131142335.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844422-assassin%27s+creed%C2%AE+syndicate_20160131141921.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844422-assassin%27s+creed%C2%AE+syndicate_20160131141921.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844422-assassin%27s+creed%C2%AE+syndicate_20160131141921.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844422-assassin%27s+creed%C2%AE+syndicate_20160131141921.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844422-assassin%27s+creed%C2%AE+syndicate_20160131141921.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844422-assassin%27s+creed%C2%AE+syndicate_20160131141921.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844422-assassin%27s+creed%C2%AE+syndicate_20160131141921.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844421-assassin%27s+creed%C2%AE+syndicate_20160131140946.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844421-assassin%27s+creed%C2%AE+syndicate_20160131140946.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844421-assassin%27s+creed%C2%AE+syndicate_20160131140946.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844421-assassin%27s+creed%C2%AE+syndicate_20160131140946.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844421-assassin%27s+creed%C2%AE+syndicate_20160131140946.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844421-assassin%27s+creed%C2%AE+syndicate_20160131140946.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844421-assassin%27s+creed%C2%AE+syndicate_20160131140946.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844420-assassin%27s+creed%C2%AE+syndicate_20160124163825.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844420-assassin%27s+creed%C2%AE+syndicate_20160124163825.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844420-assassin%27s+creed%C2%AE+syndicate_20160124163825.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844420-assassin%27s+creed%C2%AE+syndicate_20160124163825.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844420-assassin%27s+creed%C2%AE+syndicate_20160124163825.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844420-assassin%27s+creed%C2%AE+syndicate_20160124163825.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844420-assassin%27s+creed%C2%AE+syndicate_20160124163825.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844419-assassin%27s+creed%C2%AE+syndicate_20160124160112.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844419-assassin%27s+creed%C2%AE+syndicate_20160124160112.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844419-assassin%27s+creed%C2%AE+syndicate_20160124160112.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844419-assassin%27s+creed%C2%AE+syndicate_20160124160112.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844419-assassin%27s+creed%C2%AE+syndicate_20160124160112.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844419-assassin%27s+creed%C2%AE+syndicate_20160124160112.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844419-assassin%27s+creed%C2%AE+syndicate_20160124160112.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844418-assassin%27s+creed%C2%AE+syndicate_20160124155245.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844418-assassin%27s+creed%C2%AE+syndicate_20160124155245.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844418-assassin%27s+creed%C2%AE+syndicate_20160124155245.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844418-assassin%27s+creed%C2%AE+syndicate_20160124155245.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844418-assassin%27s+creed%C2%AE+syndicate_20160124155245.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844418-assassin%27s+creed%C2%AE+syndicate_20160124155245.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844418-assassin%27s+creed%C2%AE+syndicate_20160124155245.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844417-assassin%27s+creed%C2%AE+syndicate_20151108193404.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844417-assassin%27s+creed%C2%AE+syndicate_20151108193404.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844417-assassin%27s+creed%C2%AE+syndicate_20151108193404.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844417-assassin%27s+creed%C2%AE+syndicate_20151108193404.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844417-assassin%27s+creed%C2%AE+syndicate_20151108193404.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844417-assassin%27s+creed%C2%AE+syndicate_20151108193404.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844417-assassin%27s+creed%C2%AE+syndicate_20151108193404.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844416-assassin%27s+creed%C2%AE+syndicate_20151108191830.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844416-assassin%27s+creed%C2%AE+syndicate_20151108191830.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844416-assassin%27s+creed%C2%AE+syndicate_20151108191830.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844416-assassin%27s+creed%C2%AE+syndicate_20151108191830.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844416-assassin%27s+creed%C2%AE+syndicate_20151108191830.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844416-assassin%27s+creed%C2%AE+syndicate_20151108191830.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844416-assassin%27s+creed%C2%AE+syndicate_20151108191830.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844415-assassin%27s+creed%C2%AE+syndicate_20151108182154.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844415-assassin%27s+creed%C2%AE+syndicate_20151108182154.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844415-assassin%27s+creed%C2%AE+syndicate_20151108182154.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844415-assassin%27s+creed%C2%AE+syndicate_20151108182154.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844415-assassin%27s+creed%C2%AE+syndicate_20151108182154.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844415-assassin%27s+creed%C2%AE+syndicate_20151108182154.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844415-assassin%27s+creed%C2%AE+syndicate_20151108182154.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844414-assassin%27s+creed%C2%AE+syndicate_20151025180039.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844414-assassin%27s+creed%C2%AE+syndicate_20151025180039.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844414-assassin%27s+creed%C2%AE+syndicate_20151025180039.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844414-assassin%27s+creed%C2%AE+syndicate_20151025180039.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844414-assassin%27s+creed%C2%AE+syndicate_20151025180039.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844414-assassin%27s+creed%C2%AE+syndicate_20151025180039.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844414-assassin%27s+creed%C2%AE+syndicate_20151025180039.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844413-assassin%27s+creed%C2%AE+syndicate_20151025175934.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844413-assassin%27s+creed%C2%AE+syndicate_20151025175934.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844413-assassin%27s+creed%C2%AE+syndicate_20151025175934.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844413-assassin%27s+creed%C2%AE+syndicate_20151025175934.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844413-assassin%27s+creed%C2%AE+syndicate_20151025175934.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844413-assassin%27s+creed%C2%AE+syndicate_20151025175934.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844413-assassin%27s+creed%C2%AE+syndicate_20151025175934.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844412-assassin%27s+creed%C2%AE+syndicate_20151025174327.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844412-assassin%27s+creed%C2%AE+syndicate_20151025174327.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844412-assassin%27s+creed%C2%AE+syndicate_20151025174327.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844412-assassin%27s+creed%C2%AE+syndicate_20151025174327.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844412-assassin%27s+creed%C2%AE+syndicate_20151025174327.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844412-assassin%27s+creed%C2%AE+syndicate_20151025174327.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844412-assassin%27s+creed%C2%AE+syndicate_20151025174327.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781162-dsc09685.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781162-dsc09685.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781162-dsc09685.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781162-dsc09685.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2781162-dsc09685.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2781162-dsc09685.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2781162-dsc09685.jpg",
+      "tags": "All Images, Ubisoft, PAX Prime 2015 Booth, PAX Prime 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781161-dsc09684.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781161-dsc09684.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781161-dsc09684.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781161-dsc09684.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2781161-dsc09684.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2781161-dsc09684.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2781161-dsc09684.jpg",
+      "tags": "All Images, Ubisoft, PAX Prime 2015 Booth, PAX Prime 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781156-dsc09167.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781156-dsc09167.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781156-dsc09167.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781156-dsc09167.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2781156-dsc09167.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2781156-dsc09167.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2781156-dsc09167.jpg",
+      "tags": "All Images, Ubisoft, PAX Prime 2015 Booth, PAX Prime 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781150-dsc09161.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781150-dsc09161.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781150-dsc09161.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781150-dsc09161.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2781150-dsc09161.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2781150-dsc09161.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2781150-dsc09161.jpg",
+      "tags": "All Images, Ubisoft, PAX Prime 2015 Booth, PAX Prime 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781145-dsc09156.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781145-dsc09156.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781145-dsc09156.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781145-dsc09156.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2781145-dsc09156.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2781145-dsc09156.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2781145-dsc09156.jpg",
+      "tags": "All Images, Ubisoft, PAX Prime 2015 Booth, PAX Prime 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781144-dsc09155.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781144-dsc09155.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781144-dsc09155.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781144-dsc09155.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2781144-dsc09155.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2781144-dsc09155.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2781144-dsc09155.jpg",
+      "tags": "All Images, Ubisoft, PAX Prime 2015 Booth, PAX Prime 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781143-dsc09154.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781143-dsc09154.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781143-dsc09154.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781143-dsc09154.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2781143-dsc09154.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2781143-dsc09154.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2781143-dsc09154.jpg",
+      "tags": "All Images, Ubisoft, PAX Prime 2015 Booth, PAX Prime 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2753244-acs-media-ss-4-big_202195.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2753244-acs-media-ss-4-big_202195.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2753244-acs-media-ss-4-big_202195.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2753244-acs-media-ss-4-big_202195.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2753244-acs-media-ss-4-big_202195.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2753244-acs-media-ss-4-big_202195.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2753244-acs-media-ss-4-big_202195.jpg",
+      "tags": "All Images, Screenshot"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2753243-acs-media-ss-3-big_202193.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2753243-acs-media-ss-3-big_202193.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2753243-acs-media-ss-3-big_202193.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2753243-acs-media-ss-3-big_202193.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2753243-acs-media-ss-3-big_202193.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2753243-acs-media-ss-3-big_202193.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2753243-acs-media-ss-3-big_202193.jpg",
+      "tags": "All Images, Screenshot"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10182/",
+      "id": 10182,
+      "name": "Ubisoft Announces Assassin's Creed Syndicate",
+      "site_detail_url": "http://www.giantbomb.com/videos/ubisoft-announces-assassin-s-creed-syndicate/2300-10182/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10304/",
+      "id": 10304,
+      "name": "E3 2015: Welcome to 1868 London in Assassin's Creed Syndicate",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2015-welcome-to-1868-london-in-assassin-s-creed/2300-10304/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10305/",
+      "id": 10305,
+      "name": "E3 2015: Grab a Top Hat and Be a True Hooligan in Assassin's Creed Syndicate",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2015-grab-a-top-hat-and-be-a-true-hooligan-in-a/2300-10305/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10324/",
+      "id": 10324,
+      "name": "E3 2015: Evie Frye is a Bad, Bad Woman in Assassin's Creed: Syndicate",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2015-evie-frye-is-a-bad-bad-woman-in-assassin-s/2300-10324/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10576/",
+      "id": 10576,
+      "name": "Assassin's Creed Syndicate's Twin Protagonists Are Mad at Capitalism",
+      "site_detail_url": "http://www.giantbomb.com/videos/assassins-creed-syndicates-twin-protagonists-are-m/2300-10576/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10649/",
+      "id": 10649,
+      "name": "Take a Tour of Assassin's Creed Syndicate's Virtual Victorian London",
+      "site_detail_url": "http://www.giantbomb.com/videos/take-a-tour-of-assassins-creed-syndicates-virtual-/2300-10649/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10677/",
+      "id": 10677,
+      "name": "Here's the First Look at Assassin's Creed Syndicate's Jack the Ripper DLC",
+      "site_detail_url": "http://www.giantbomb.com/videos/heres-the-first-look-at-assassins-creed-syndicates/2300-10677/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10721/",
+      "id": 10721,
+      "name": "Here Are the Many Cartoon Villains You'll Fight in Assassin's Creed Syndicate",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-are-the-many-cartoon-villains-youll-fight-in-/2300-10721/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10762/",
+      "id": 10762,
+      "name": "Meet Assassin's Creed Syndicate's Historical Figure Squad",
+      "site_detail_url": "http://www.giantbomb.com/videos/meet-assassins-creed-syndicates-historical-figure-/2300-10762/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10791/",
+      "id": 10791,
+      "name": "Quick Look: Assassin's Creed Syndicate",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-assassins-creed-syndicate/2300-10791/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10908/",
+      "id": 10908,
+      "name": "Assassin's Creed Syndicate's Jack the Ripper DLC Coming Next Week",
+      "site_detail_url": "http://www.giantbomb.com/videos/assassins-creed-syndicates-jack-the-ripper-dlc-com/2300-10908/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141566/",
+      "id": 141566,
+      "name": "Assassin's Creed Syndicate The Rooks Edition",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-syndicate/3030-48306/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141567/",
+      "id": 141567,
+      "name": "Assassin's Creed Syndicate The Rooks Edition",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-syndicate/3030-48306/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141568/",
+      "id": 141568,
+      "name": "Assassin's Creed Syndicate The Rooks Edition",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-syndicate/3030-48306/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141569/",
+      "id": 141569,
+      "name": "Assassin's Creed Syndicate Charing Cross Edition",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-syndicate/3030-48306/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141570/",
+      "id": 141570,
+      "name": "Assassin's Creed Syndicate Charing Cross Edition",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-syndicate/3030-48306/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141571/",
+      "id": 141571,
+      "name": "Assassin's Creed Syndicate Charing Cross Edition",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-syndicate/3030-48306/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141572/",
+      "id": 141572,
+      "name": "Assassin's Creed Syndicate Big Ben Collector’s Case",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-syndicate/3030-48306/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141573/",
+      "id": 141573,
+      "name": "Assassin's Creed Syndicate Big Ben Collector’s Case",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-syndicate/3030-48306/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141574/",
+      "id": 141574,
+      "name": "Assassin's Creed Syndicate Big Ben Collector’s Case",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-syndicate/3030-48306/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141575/",
+      "id": 141575,
+      "name": "Assassin's Creed Syndicate",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-syndicate/3030-48306/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141576/",
+      "id": 141576,
+      "name": "Assassin's Creed Syndicate",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-syndicate/3030-48306/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141577/",
+      "id": 141577,
+      "name": "Assassin's Creed Syndicate",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-syndicate/3030-48306/releases/"
+    }
+  ]
+}

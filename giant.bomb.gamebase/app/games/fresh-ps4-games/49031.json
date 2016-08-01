@@ -1,0 +1,95 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49031/",
+  "deck": "Play as a cyborg soldier in this side-scrolling action title from Supressive Fire Games.",
+  "id": 49031,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2731212-screen%20shot%202015-03-02%20at%201.41.47%20pm.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2731212-screen%20shot%202015-03-02%20at%201.41.47%20pm.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2731212-screen%20shot%202015-03-02%20at%201.41.47%20pm.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2731212-screen%20shot%202015-03-02%20at%201.41.47%20pm.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2731212-screen%20shot%202015-03-02%20at%201.41.47%20pm.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2731212-screen%20shot%202015-03-02%20at%201.41.47%20pm.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2731212-screen%20shot%202015-03-02%20at%201.41.47%20pm.png"
+  },
+  "name": "Blood Alloy: Reborn",
+  "original_release_date": "2016-03-02 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/blood-alloy-reborn/3030-49031/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/2731212-screen+shot+2015-03-02+at+1.41.47+pm.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/2731212-screen+shot+2015-03-02+at+1.41.47+pm.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/2731212-screen+shot+2015-03-02+at+1.41.47+pm.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/2731212-screen+shot+2015-03-02+at+1.41.47+pm.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/2731212-screen+shot+2015-03-02+at+1.41.47+pm.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/26/2731212-screen+shot+2015-03-02+at+1.41.47+pm.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/2731212-screen+shot+2015-03-02+at+1.41.47+pm.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-11/",
+      "id": 11,
+      "name": "Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shooter&wikiTypeId=3060&wikiId=11&genre=11"
+    }
+  ]
+}

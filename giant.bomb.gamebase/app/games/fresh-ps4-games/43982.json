@@ -1,0 +1,371 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-43982/",
+  "deck": "After a space explorer falls from orbit and is rendered either unconscious or dead, the AI system that runs his armour takes direct control of the suit to try and find her partner some medical help.",
+  "id": 43982,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2549678-1235150_648336561851342_1577586127_n.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2549678-1235150_648336561851342_1577586127_n.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2549678-1235150_648336561851342_1577586127_n.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2549678-1235150_648336561851342_1577586127_n.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2549678-1235150_648336561851342_1577586127_n.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2549678-1235150_648336561851342_1577586127_n.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2549678-1235150_648336561851342_1577586127_n.jpg"
+  },
+  "name": "The Fall",
+  "original_release_date": "2014-05-30 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/the-fall/3030-43982/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2725147-2015-02-09_00012.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2725147-2015-02-09_00012.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2725147-2015-02-09_00012.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2725147-2015-02-09_00012.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/4/41029/2725147-2015-02-09_00012.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/4/41029/2725147-2015-02-09_00012.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/4/41029/2725147-2015-02-09_00012.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2725146-2015-02-09_00005.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2725146-2015-02-09_00005.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2725146-2015-02-09_00005.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2725146-2015-02-09_00005.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/4/41029/2725146-2015-02-09_00005.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/4/41029/2725146-2015-02-09_00005.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/4/41029/2725146-2015-02-09_00005.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2725145-2015-02-09_00001.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2725145-2015-02-09_00001.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2725145-2015-02-09_00001.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2725145-2015-02-09_00001.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/4/41029/2725145-2015-02-09_00001.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/4/41029/2725145-2015-02-09_00001.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/4/41029/2725145-2015-02-09_00001.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649921-takedown.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649921-takedown.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649921-takedown.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649921-takedown.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/24/243170/2649921-takedown.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/24/243170/2649921-takedown.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/24/243170/2649921-takedown.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649920-recycling.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649920-recycling.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649920-recycling.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649920-recycling.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/24/243170/2649920-recycling.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/24/243170/2649920-recycling.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/24/243170/2649920-recycling.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649919-ourrefurbisheddroid.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649919-ourrefurbisheddroid.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649919-ourrefurbisheddroid.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649919-ourrefurbisheddroid.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/24/243170/2649919-ourrefurbisheddroid.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/24/243170/2649919-ourrefurbisheddroid.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/24/243170/2649919-ourrefurbisheddroid.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649918-inbox.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649918-inbox.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649918-inbox.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649918-inbox.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/24/243170/2649918-inbox.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/24/243170/2649918-inbox.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/24/243170/2649918-inbox.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649917-headshotaiming.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649917-headshotaiming.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649917-headshotaiming.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649917-headshotaiming.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/24/243170/2649917-headshotaiming.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/24/243170/2649917-headshotaiming.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/24/243170/2649917-headshotaiming.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649916-hangingdroids.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649916-hangingdroids.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649916-hangingdroids.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649916-hangingdroids.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/24/243170/2649916-hangingdroids.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/24/243170/2649916-hangingdroids.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/24/243170/2649916-hangingdroids.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649915-evaluator.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649915-evaluator.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649915-evaluator.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649915-evaluator.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/24/243170/2649915-evaluator.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/24/243170/2649915-evaluator.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/24/243170/2649915-evaluator.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649914-crossdatapoint.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649914-crossdatapoint.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649914-crossdatapoint.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649914-crossdatapoint.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/24/243170/2649914-crossdatapoint.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/24/243170/2649914-crossdatapoint.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/24/243170/2649914-crossdatapoint.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649679-takedown.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649679-takedown.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649679-takedown.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649679-takedown.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/24/243170/2649679-takedown.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/24/243170/2649679-takedown.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/24/243170/2649679-takedown.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649678-recycling.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649678-recycling.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649678-recycling.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649678-recycling.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/24/243170/2649678-recycling.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/24/243170/2649678-recycling.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/24/243170/2649678-recycling.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649677-ourrefurbisheddroid.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649677-ourrefurbisheddroid.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649677-ourrefurbisheddroid.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649677-ourrefurbisheddroid.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/24/243170/2649677-ourrefurbisheddroid.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/24/243170/2649677-ourrefurbisheddroid.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/24/243170/2649677-ourrefurbisheddroid.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649676-logo.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649676-logo.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649676-logo.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649676-logo.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/24/243170/2649676-logo.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/24/243170/2649676-logo.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/24/243170/2649676-logo.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649675-inbox.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649675-inbox.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649675-inbox.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649675-inbox.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/24/243170/2649675-inbox.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/24/243170/2649675-inbox.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/24/243170/2649675-inbox.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649674-headshotaiming.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649674-headshotaiming.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649674-headshotaiming.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649674-headshotaiming.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/24/243170/2649674-headshotaiming.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/24/243170/2649674-headshotaiming.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/24/243170/2649674-headshotaiming.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649673-hangingdroids.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649673-hangingdroids.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649673-hangingdroids.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649673-hangingdroids.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/24/243170/2649673-hangingdroids.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/24/243170/2649673-hangingdroids.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/24/243170/2649673-hangingdroids.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649672-evaluator.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649672-evaluator.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649672-evaluator.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649672-evaluator.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/24/243170/2649672-evaluator.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/24/243170/2649672-evaluator.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/24/243170/2649672-evaluator.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649671-crossdatapoint.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649671-crossdatapoint.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/24/243170/2649671-crossdatapoint.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/24/243170/2649671-crossdatapoint.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/24/243170/2649671-crossdatapoint.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/24/243170/2649671-crossdatapoint.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/24/243170/2649671-crossdatapoint.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2549679-the+fall+meets+kickstarter+goal.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2549679-the+fall+meets+kickstarter+goal.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2549679-the+fall+meets+kickstarter+goal.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2549679-the+fall+meets+kickstarter+goal.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2549679-the+fall+meets+kickstarter+goal.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2549679-the+fall+meets+kickstarter+goal.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2549679-the+fall+meets+kickstarter+goal.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2549678-1235150_648336561851342_1577586127_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2549678-1235150_648336561851342_1577586127_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2549678-1235150_648336561851342_1577586127_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2549678-1235150_648336561851342_1577586127_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2549678-1235150_648336561851342_1577586127_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2549678-1235150_648336561851342_1577586127_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2549678-1235150_648336561851342_1577586127_n.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2549677-photo-main.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2549677-photo-main.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2549677-photo-main.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2549677-photo-main.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2549677-photo-main.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2549677-photo-main.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2549677-photo-main.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9166/",
+      "id": 9166,
+      "name": "Worth Playing: 06/27/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/worth-playing-06-27-2014/2300-9166/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9225/",
+      "id": 9225,
+      "name": "Quick Look: The Fall",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-the-fall/2300-9225/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9237/",
+      "id": 9237,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 07/18/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-07-18-2014/2300-9237/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9819/",
+      "id": 9819,
+      "name": "Game of the Year 2014: Day Two Recap",
+      "site_detail_url": "http://www.giantbomb.com/videos/game-of-the-year-2014-day-two-recap/2300-9819/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135675/",
+      "id": 135675,
+      "name": "The Fall",
+      "site_detail_url": "http://www.giantbomb.com/the-fall/3030-43982/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137059/",
+      "id": 137059,
+      "name": "The Fall",
+      "site_detail_url": "http://www.giantbomb.com/the-fall/3030-43982/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-139315/",
+      "id": 139315,
+      "name": "The Fall",
+      "site_detail_url": "http://www.giantbomb.com/the-fall/3030-43982/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140701/",
+      "id": 140701,
+      "name": "The Fall",
+      "site_detail_url": "http://www.giantbomb.com/the-fall/3030-43982/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142437/",
+      "id": 142437,
+      "name": "The Fall",
+      "site_detail_url": "http://www.giantbomb.com/the-fall/3030-43982/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142438/",
+      "id": 142438,
+      "name": "The Fall",
+      "site_detail_url": "http://www.giantbomb.com/the-fall/3030-43982/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142486/",
+      "id": 142486,
+      "name": "The Fall",
+      "site_detail_url": "http://www.giantbomb.com/the-fall/3030-43982/releases/"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-46492/",
+  "deck": "A side-scrolling \"Metroidvania\" game featuring a Goddess with three distinct forms. Funded through Kickstarter in June 2014.",
+  "id": 46492,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2640031-redgoddess.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2640031-redgoddess.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2640031-redgoddess.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2640031-redgoddess.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2640031-redgoddess.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2640031-redgoddess.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2640031-redgoddess.png"
+  },
+  "name": "Red Goddess: Inner World",
+  "original_release_date": "2015-06-30 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/red-goddess-inner-world/3030-46492/",
+  "images": [],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142191/",
+      "id": 142191,
+      "name": "Red Goddess: Inner World",
+      "site_detail_url": "http://www.giantbomb.com/red-goddess-inner-world/3030-46492/releases/"
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-46009/",
+  "deck": "Disney Interactive is set to include Marvel characters in the next version of its Disney Infinity series.",
+  "id": 46009,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2627485-029084.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2627485-029084.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2627485-029084.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2627485-029084.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2627485-029084.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2627485-029084.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2627485-029084.jpg"
+  },
+  "name": "Disney Infinity: Marvel Super Heroes",
+  "original_release_date": "2014-09-23 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-96/",
+      "id": 96,
+      "name": "iPhone",
+      "site_detail_url": "http://www.giantbomb.com/iphone/3045-96/",
+      "abbreviation": "IPHN"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-121/",
+      "id": 121,
+      "name": "iPad",
+      "site_detail_url": "http://www.giantbomb.com/ipad/3045-121/",
+      "abbreviation": "IPAD"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-123/",
+      "id": 123,
+      "name": "Android",
+      "site_detail_url": "http://www.giantbomb.com/android/3045-123/",
+      "abbreviation": "ANDR"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/disney-infinity-marvel-super-heroes/3030-46009/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778677-yondu.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778677-yondu.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778677-yondu.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778677-yondu.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778677-yondu.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778677-yondu.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778677-yondu.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778676-starlord.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778676-starlord.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778676-starlord.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778676-starlord.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778676-starlord.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778676-starlord.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778676-starlord.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778675-ronan.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778675-ronan.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778675-ronan.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778675-ronan.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778675-ronan.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778675-ronan.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778675-ronan.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778674-rocketraccoon.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778674-rocketraccoon.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778674-rocketraccoon.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778674-rocketraccoon.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778674-rocketraccoon.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778674-rocketraccoon.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778674-rocketraccoon.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778673-groot.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778673-groot.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778673-groot.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778673-groot.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778673-groot.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778673-groot.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778673-groot.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778672-gamora.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778672-gamora.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778672-gamora.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778672-gamora.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778672-gamora.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778672-gamora.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778672-gamora.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778671-drax.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778671-drax.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778671-drax.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778671-drax.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778671-drax.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778671-drax.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778671-drax.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778670-loki.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778670-loki.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778670-loki.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778670-loki.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778670-loki.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778670-loki.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778670-loki.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778669-venom.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778669-venom.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778669-venom.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778669-venom.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778669-venom.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778669-venom.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778669-venom.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778668-nova.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778668-nova.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778668-nova.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778668-nova.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778668-nova.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778668-nova.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778668-nova.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778667-nickfury.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778667-nickfury.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778667-nickfury.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778667-nickfury.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778667-nickfury.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778667-nickfury.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778667-nickfury.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778666-ironfist.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778666-ironfist.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778666-ironfist.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778666-ironfist.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778666-ironfist.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778666-ironfist.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778666-ironfist.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778665-greengoblin.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778665-greengoblin.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778665-greengoblin.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778665-greengoblin.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778665-greengoblin.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778665-greengoblin.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778665-greengoblin.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778664-falcon.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778664-falcon.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778664-falcon.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778664-falcon.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778664-falcon.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778664-falcon.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778664-falcon.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778663-thor.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778663-thor.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778663-thor.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778663-thor.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778663-thor.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778663-thor.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778663-thor.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778662-ironman.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778662-ironman.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778662-ironman.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778662-ironman.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778662-ironman.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778662-ironman.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778662-ironman.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778661-hulk.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778661-hulk.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778661-hulk.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778661-hulk.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778661-hulk.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778661-hulk.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778661-hulk.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778660-hawkeye.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778660-hawkeye.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778660-hawkeye.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778660-hawkeye.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778660-hawkeye.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778660-hawkeye.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778660-hawkeye.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778659-captainamerica.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778659-captainamerica.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778659-captainamerica.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778659-captainamerica.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778659-captainamerica.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778659-captainamerica.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778659-captainamerica.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778658-blackwidow.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778658-blackwidow.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778658-blackwidow.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778658-blackwidow.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778658-blackwidow.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778658-blackwidow.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778658-blackwidow.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778657-spiderman.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778657-spiderman.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778657-spiderman.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778657-spiderman.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778657-spiderman.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778657-spiderman.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778657-spiderman.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778656-blackspiderman.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778656-blackspiderman.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778656-blackspiderman.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778656-blackspiderman.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778656-blackspiderman.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778656-blackspiderman.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778656-blackspiderman.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778655-tinkerbell.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778655-tinkerbell.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778655-tinkerbell.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778655-tinkerbell.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778655-tinkerbell.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778655-tinkerbell.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778655-tinkerbell.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778654-stitch.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778654-stitch.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778654-stitch.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778654-stitch.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778654-stitch.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778654-stitch.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778654-stitch.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778653-merida.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778653-merida.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778653-merida.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778653-merida.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778653-merida.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778653-merida.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778653-merida.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778652-maleficint.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778652-maleficint.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778652-maleficint.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778652-maleficint.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778652-maleficint.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778652-maleficint.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778652-maleficint.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778651-donald.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778651-donald.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778651-donald.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778651-donald.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778651-donald.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778651-donald.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778651-donald.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778650-crystalsorcerermickey.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778650-crystalsorcerermickey.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778650-crystalsorcerermickey.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778650-crystalsorcerermickey.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778650-crystalsorcerermickey.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778650-crystalsorcerermickey.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778650-crystalsorcerermickey.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778649-hiro.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778649-hiro.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778649-hiro.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778649-hiro.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778649-hiro.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778649-hiro.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778649-hiro.jpg",
+      "tags": "All Images, Toys"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778648-baymax.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778648-baymax.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2778648-baymax.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2778648-baymax.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2778648-baymax.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2778648-baymax.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2778648-baymax.jpg",
+      "tags": "All Images, Toys"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8758/",
+      "id": 8758,
+      "name": "Marvel Characters Are Coming to the Next Disney Infinity",
+      "site_detail_url": "http://www.giantbomb.com/videos/marvel-characters-are-coming-to-the-next-disney-in/2300-8758/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8823/",
+      "id": 8823,
+      "name": "The Marvel Universe Is Coming to Disney Infinity 2.0 This Fall",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-marvel-universe-is-coming-to-disney-infinity-2/2300-8823/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8910/",
+      "id": 8910,
+      "name": "Watch the Avengers Avenge Stuff in Disney Infinity: Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/videos/watch-the-avengers-avenge-stuff-in-disney-infinity/2300-8910/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9129/",
+      "id": 9129,
+      "name": "E3 2014: John, John, John, and Disney Infinity: Marvel Super Heroes (2.0 Edition) RAW",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2014-john-john-john-and-disney-infinity-marvel-/2300-9129/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9342/",
+      "id": 9342,
+      "name": "Here's How the Toy Box Works in Disney Infinity 2.0",
+      "site_detail_url": "http://www.giantbomb.com/videos/heres-how-the-toy-box-works-in-disney-infinity-2-0/2300-9342/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9487/",
+      "id": 9487,
+      "name": "Quick Look: Disney Infinity: Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-disney-infinity-marvel-super-heroes/2300-9487/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136368/",
+      "id": 136368,
+      "name": "Disney Infinity 2.0 Edition: Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/disney-infinity-marvel-super-heroes/3030-46009/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137813/",
+      "id": 137813,
+      "name": "Disney Infinity: Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/disney-infinity-marvel-super-heroes/3030-46009/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138477/",
+      "id": 138477,
+      "name": "Disney Infinity: Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/disney-infinity-marvel-super-heroes/3030-46009/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138660/",
+      "id": 138660,
+      "name": "Disney Infinity: Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/disney-infinity-marvel-super-heroes/3030-46009/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141367/",
+      "id": 141367,
+      "name": "Disney Infinity: Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/disney-infinity-marvel-super-heroes/3030-46009/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141430/",
+      "id": 141430,
+      "name": "Disney Infinity: Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/disney-infinity-marvel-super-heroes/3030-46009/releases/"
+    }
+  ]
+}

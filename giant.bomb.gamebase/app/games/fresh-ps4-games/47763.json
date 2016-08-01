@@ -1,0 +1,89 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-47763/",
+  "deck": "The Legend of Lobodestroyo vs. La Liga de Los Villanos, or just \"Lobodestroyo\" for short, is a 3D platformer starring a luchadore wolf.",
+  "id": 47763,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2678482-4846558373-lobo_.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2678482-4846558373-lobo_.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2678482-4846558373-lobo_.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2678482-4846558373-lobo_.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2678482-4846558373-lobo_.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2678482-4846558373-lobo_.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2678482-4846558373-lobo_.png"
+  },
+  "name": "The Legend of Lobodestroyo vs. La Liga de Los Villanos",
+  "original_release_date": "2015-12-31 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-154/",
+      "id": 154,
+      "name": "Ouya",
+      "site_detail_url": "http://www.giantbomb.com/ouya/3045-154/",
+      "abbreviation": "OUYA"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/the-legend-of-lobodestroyo-vs-la-liga-de-los-villa/3030-47763/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2678482-4846558373-lobo_.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2678482-4846558373-lobo_.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2678482-4846558373-lobo_.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2678482-4846558373-lobo_.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2678482-4846558373-lobo_.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2678482-4846558373-lobo_.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2678482-4846558373-lobo_.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ]
+}

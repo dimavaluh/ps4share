@@ -1,0 +1,567 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-52537/",
+  "deck": "LEGO Star Wars: The Force Awakens covers the seventh film and includes material that occurred between Return of the Jedi and Force Awakens.",
+  "id": 52537,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2822264-lswtfa.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2822264-lswtfa.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2822264-lswtfa.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2822264-lswtfa.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2822264-lswtfa.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2822264-lswtfa.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2822264-lswtfa.jpg"
+  },
+  "name": "LEGO Star Wars: The Force Awakens",
+  "original_release_date": "2016-06-28 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+      "id": 86,
+      "name": "Xbox 360 Games Store",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+      "abbreviation": "XBGS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-117/",
+      "id": 117,
+      "name": "Nintendo 3DS",
+      "site_detail_url": "http://www.giantbomb.com/nintendo-3ds/3045-117/",
+      "abbreviation": "3DS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-138/",
+      "id": 138,
+      "name": "Nintendo 3DS eShop",
+      "site_detail_url": "http://www.giantbomb.com/nintendo-3ds-eshop/3045-138/",
+      "abbreviation": "3DSE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866775-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630142047.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866775-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630142047.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866775-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630142047.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866775-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630142047.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2866775-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630142047.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2866775-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630142047.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2866775-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630142047.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866774-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630141744.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866774-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630141744.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866774-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630141744.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866774-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630141744.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2866774-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630141744.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2866774-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630141744.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2866774-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630141744.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866773-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630141013.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866773-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630141013.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866773-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630141013.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866773-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630141013.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2866773-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630141013.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2866773-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630141013.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2866773-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630141013.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866772-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630140322.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866772-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630140322.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866772-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630140322.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866772-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630140322.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2866772-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630140322.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2866772-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630140322.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2866772-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630140322.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866771-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630135806.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866771-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630135806.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866771-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630135806.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866771-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630135806.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2866771-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630135806.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2866771-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630135806.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2866771-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630135806.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866770-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630135656.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866770-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630135656.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866770-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630135656.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866770-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630135656.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2866770-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630135656.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2866770-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630135656.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2866770-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630135656.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866769-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630135133.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866769-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630135133.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866769-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630135133.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866769-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630135133.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2866769-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630135133.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2866769-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630135133.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2866769-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630135133.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866768-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630134217.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866768-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630134217.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866768-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630134217.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866768-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630134217.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2866768-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630134217.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2866768-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630134217.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2866768-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160630134217.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866278-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628163438.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866278-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628163438.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866278-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628163438.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866278-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628163438.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2866278-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628163438.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2866278-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628163438.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2866278-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628163438.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866277-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628161857.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866277-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628161857.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866277-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628161857.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866277-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628161857.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2866277-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628161857.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2866277-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628161857.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2866277-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628161857.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866276-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628160140.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866276-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628160140.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866276-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628160140.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866276-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628160140.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2866276-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628160140.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2866276-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628160140.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2866276-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628160140.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866275-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628154827.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866275-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628154827.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866275-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628154827.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866275-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628154827.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2866275-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628154827.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2866275-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628154827.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2866275-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628154827.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866274-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628153326.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866274-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628153326.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866274-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628153326.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866274-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628153326.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2866274-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628153326.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2866274-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628153326.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2866274-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628153326.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866273-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628152802.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866273-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628152802.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2866273-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628152802.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2866273-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628152802.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2866273-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628152802.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2866273-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628152802.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2866273-lego%C2%AE+star+wars%E2%84%A2_+the+force+awakens_20160628152802.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822264-lswtfa.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822264-lswtfa.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822264-lswtfa.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822264-lswtfa.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2822264-lswtfa.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2822264-lswtfa.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2822264-lswtfa.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822188-image18.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822188-image18.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822188-image18.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822188-image18.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2822188-image18.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2822188-image18.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2822188-image18.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822187-image.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822187-image.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822187-image.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822187-image.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2822187-image.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2822187-image.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2822187-image.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822186-image2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822186-image2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822186-image2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822186-image2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2822186-image2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2822186-image2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2822186-image2.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822185-image3.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822185-image3.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822185-image3.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822185-image3.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2822185-image3.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2822185-image3.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2822185-image3.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822184-image4.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822184-image4.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822184-image4.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822184-image4.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2822184-image4.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2822184-image4.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2822184-image4.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822183-image5.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822183-image5.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822183-image5.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822183-image5.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2822183-image5.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2822183-image5.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2822183-image5.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822182-image6.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822182-image6.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822182-image6.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822182-image6.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2822182-image6.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2822182-image6.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2822182-image6.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822181-image7.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822181-image7.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822181-image7.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822181-image7.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2822181-image7.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2822181-image7.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2822181-image7.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822180-image8.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822180-image8.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822180-image8.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822180-image8.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2822180-image8.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2822180-image8.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2822180-image8.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822179-image9.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822179-image9.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822179-image9.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822179-image9.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2822179-image9.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2822179-image9.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2822179-image9.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822178-image10.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822178-image10.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822178-image10.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822178-image10.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2822178-image10.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2822178-image10.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2822178-image10.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822177-image11.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822177-image11.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822177-image11.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822177-image11.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2822177-image11.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2822177-image11.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2822177-image11.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822176-image12jpg.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822176-image12jpg.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822176-image12jpg.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822176-image12jpg.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2822176-image12jpg.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2822176-image12jpg.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2822176-image12jpg.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822175-image13.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822175-image13.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822175-image13.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822175-image13.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2822175-image13.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2822175-image13.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2822175-image13.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822174-image14.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822174-image14.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2822174-image14.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2822174-image14.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2822174-image14.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2822174-image14.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2822174-image14.jpg",
+      "tags": "All Images, Screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11309/",
+      "id": 11309,
+      "name": "E3 2016: Kylo Ren Gets Even More Emo in LEGO Star Wars: The Force Awakens",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2016-kylo-ren-gets-even-more-emo-in-lego-star-w/2300-11309/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11406/",
+      "id": 11406,
+      "name": "Quick Look: LEGO Star Wars: The Force Awakens",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-lego-star-wars-the-force-awakens/2300-11406/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-37/",
+      "id": 37,
+      "name": "Brawler",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=brawler&wikiTypeId=3060&wikiId=37&genre=37"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146742/",
+      "id": 146742,
+      "name": "LEGO Star Wars: The Force Awakens",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146770/",
+      "id": 146770,
+      "name": "LEGO Star Wars: The Force Awakens",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146771/",
+      "id": 146771,
+      "name": "LEGO Star Wars: The Force Awakens (Deluxe Edition)",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146772/",
+      "id": 146772,
+      "name": "LEGO Star Wars: The Force Awakens (Deluxe Edition)",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146773/",
+      "id": 146773,
+      "name": "LEGO Star Wars: The Force Awakens",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146824/",
+      "id": 146824,
+      "name": "LEGO Star Wars: The Force Awakens",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146825/",
+      "id": 146825,
+      "name": "LEGO Star Wars: The Force Awakens",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146826/",
+      "id": 146826,
+      "name": "LEGO Star Wars: The Force Awakens",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146827/",
+      "id": 146827,
+      "name": "LEGO Star Wars: The Force Awakens",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146828/",
+      "id": 146828,
+      "name": "LEGO Star Wars: The Force Awakens",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147364/",
+      "id": 147364,
+      "name": "LEGO Star Wars: The Force Awakens",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148116/",
+      "id": 148116,
+      "name": "LEGO Star Wars: The Force Awakens Special Edition",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148117/",
+      "id": 148117,
+      "name": "LEGO Star Wars: The Force Awakens Deluxe Steelbook Edition",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148118/",
+      "id": 148118,
+      "name": "LEGO Star Wars: The Force Awakens",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148119/",
+      "id": 148119,
+      "name": "Lego Star Wars: The Force Awakens",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148120/",
+      "id": 148120,
+      "name": "LEGO Star Wars: The Force Awakens Special Edition",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148121/",
+      "id": 148121,
+      "name": "LEGO Star Wars: The Force Awakens Special Edition",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148122/",
+      "id": 148122,
+      "name": "LEGO Star Wars: The Force Awakens",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148123/",
+      "id": 148123,
+      "name": "LEGO Star Wars: The Force Awakens",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148124/",
+      "id": 148124,
+      "name": "LEGO Star Wars: The Force Awakens",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148125/",
+      "id": 148125,
+      "name": "LEGO Star Wars: The Force Awakens",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148126/",
+      "id": 148126,
+      "name": "LEGO Star Wars: The Force Awakens Special Edition",
+      "site_detail_url": "http://www.giantbomb.com/lego-star-wars-the-force-awakens/3030-52537/releases/"
+    }
+  ]
+}

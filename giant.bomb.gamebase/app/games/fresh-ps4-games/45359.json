@@ -1,0 +1,604 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-45359/",
+  "deck": "The eleventh installment of the Call of Duty franchise (and the first spearheaded by Sledgehammer Games) brings modern military thirty years into the future, as new technology (including powered exoskeleton frames and cloaking devices) makes a certain Private Military Corporation the dominant military force of the world.",
+  "id": 45359,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2698794-call%20of%20duty%20-%20advanced%20warfare%20v1.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2698794-call%20of%20duty%20-%20advanced%20warfare%20v1.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2698794-call%20of%20duty%20-%20advanced%20warfare%20v1.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2698794-call%20of%20duty%20-%20advanced%20warfare%20v1.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2698794-call%20of%20duty%20-%20advanced%20warfare%20v1.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2698794-call%20of%20duty%20-%20advanced%20warfare%20v1.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2698794-call%20of%20duty%20-%20advanced%20warfare%20v1.jpg"
+  },
+  "name": "Call of Duty: Advanced Warfare",
+  "original_release_date": "2014-11-03 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+      "id": 86,
+      "name": "Xbox 360 Games Store",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+      "abbreviation": "XBGS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/3699/2698794-call+of+duty+-+advanced+warfare+v1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/3699/2698794-call+of+duty+-+advanced+warfare+v1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/3699/2698794-call+of+duty+-+advanced+warfare+v1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/3699/2698794-call+of+duty+-+advanced+warfare+v1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/3699/2698794-call+of+duty+-+advanced+warfare+v1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/3699/2698794-call+of+duty+-+advanced+warfare+v1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/3699/2698794-call+of+duty+-+advanced+warfare+v1.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698264-call+of+duty%C2%AE_+advanced+warfare_20141104133511.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698264-call+of+duty%C2%AE_+advanced+warfare_20141104133511.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698264-call+of+duty%C2%AE_+advanced+warfare_20141104133511.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698264-call+of+duty%C2%AE_+advanced+warfare_20141104133511.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698264-call+of+duty%C2%AE_+advanced+warfare_20141104133511.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698264-call+of+duty%C2%AE_+advanced+warfare_20141104133511.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698264-call+of+duty%C2%AE_+advanced+warfare_20141104133511.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698263-call+of+duty%C2%AE_+advanced+warfare_20141104133234.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698263-call+of+duty%C2%AE_+advanced+warfare_20141104133234.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698263-call+of+duty%C2%AE_+advanced+warfare_20141104133234.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698263-call+of+duty%C2%AE_+advanced+warfare_20141104133234.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698263-call+of+duty%C2%AE_+advanced+warfare_20141104133234.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698263-call+of+duty%C2%AE_+advanced+warfare_20141104133234.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698263-call+of+duty%C2%AE_+advanced+warfare_20141104133234.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698262-call+of+duty%C2%AE_+advanced+warfare_20141104132841.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698262-call+of+duty%C2%AE_+advanced+warfare_20141104132841.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698262-call+of+duty%C2%AE_+advanced+warfare_20141104132841.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698262-call+of+duty%C2%AE_+advanced+warfare_20141104132841.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698262-call+of+duty%C2%AE_+advanced+warfare_20141104132841.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698262-call+of+duty%C2%AE_+advanced+warfare_20141104132841.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698262-call+of+duty%C2%AE_+advanced+warfare_20141104132841.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698261-call+of+duty%C2%AE_+advanced+warfare_20141104132810.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698261-call+of+duty%C2%AE_+advanced+warfare_20141104132810.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698261-call+of+duty%C2%AE_+advanced+warfare_20141104132810.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698261-call+of+duty%C2%AE_+advanced+warfare_20141104132810.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698261-call+of+duty%C2%AE_+advanced+warfare_20141104132810.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698261-call+of+duty%C2%AE_+advanced+warfare_20141104132810.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698261-call+of+duty%C2%AE_+advanced+warfare_20141104132810.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698260-call+of+duty%C2%AE_+advanced+warfare_20141104132117.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698260-call+of+duty%C2%AE_+advanced+warfare_20141104132117.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698260-call+of+duty%C2%AE_+advanced+warfare_20141104132117.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698260-call+of+duty%C2%AE_+advanced+warfare_20141104132117.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698260-call+of+duty%C2%AE_+advanced+warfare_20141104132117.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698260-call+of+duty%C2%AE_+advanced+warfare_20141104132117.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698260-call+of+duty%C2%AE_+advanced+warfare_20141104132117.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698259-call+of+duty%C2%AE_+advanced+warfare_20141104130716.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698259-call+of+duty%C2%AE_+advanced+warfare_20141104130716.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698259-call+of+duty%C2%AE_+advanced+warfare_20141104130716.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698259-call+of+duty%C2%AE_+advanced+warfare_20141104130716.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698259-call+of+duty%C2%AE_+advanced+warfare_20141104130716.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698259-call+of+duty%C2%AE_+advanced+warfare_20141104130716.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698259-call+of+duty%C2%AE_+advanced+warfare_20141104130716.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698258-call+of+duty%C2%AE_+advanced+warfare_20141104130224.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698258-call+of+duty%C2%AE_+advanced+warfare_20141104130224.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698258-call+of+duty%C2%AE_+advanced+warfare_20141104130224.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698258-call+of+duty%C2%AE_+advanced+warfare_20141104130224.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698258-call+of+duty%C2%AE_+advanced+warfare_20141104130224.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698258-call+of+duty%C2%AE_+advanced+warfare_20141104130224.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698258-call+of+duty%C2%AE_+advanced+warfare_20141104130224.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698257-call+of+duty%C2%AE_+advanced+warfare_20141104130122.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698257-call+of+duty%C2%AE_+advanced+warfare_20141104130122.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698257-call+of+duty%C2%AE_+advanced+warfare_20141104130122.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698257-call+of+duty%C2%AE_+advanced+warfare_20141104130122.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698257-call+of+duty%C2%AE_+advanced+warfare_20141104130122.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698257-call+of+duty%C2%AE_+advanced+warfare_20141104130122.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698257-call+of+duty%C2%AE_+advanced+warfare_20141104130122.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698256-call+of+duty%C2%AE_+advanced+warfare_20141104125925.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698256-call+of+duty%C2%AE_+advanced+warfare_20141104125925.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698256-call+of+duty%C2%AE_+advanced+warfare_20141104125925.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698256-call+of+duty%C2%AE_+advanced+warfare_20141104125925.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698256-call+of+duty%C2%AE_+advanced+warfare_20141104125925.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698256-call+of+duty%C2%AE_+advanced+warfare_20141104125925.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698256-call+of+duty%C2%AE_+advanced+warfare_20141104125925.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698255-call+of+duty%C2%AE_+advanced+warfare_20141104125817.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698255-call+of+duty%C2%AE_+advanced+warfare_20141104125817.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698255-call+of+duty%C2%AE_+advanced+warfare_20141104125817.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698255-call+of+duty%C2%AE_+advanced+warfare_20141104125817.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698255-call+of+duty%C2%AE_+advanced+warfare_20141104125817.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698255-call+of+duty%C2%AE_+advanced+warfare_20141104125817.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698255-call+of+duty%C2%AE_+advanced+warfare_20141104125817.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698254-call+of+duty%C2%AE_+advanced+warfare_20141104125741.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698254-call+of+duty%C2%AE_+advanced+warfare_20141104125741.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698254-call+of+duty%C2%AE_+advanced+warfare_20141104125741.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698254-call+of+duty%C2%AE_+advanced+warfare_20141104125741.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698254-call+of+duty%C2%AE_+advanced+warfare_20141104125741.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698254-call+of+duty%C2%AE_+advanced+warfare_20141104125741.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698254-call+of+duty%C2%AE_+advanced+warfare_20141104125741.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698253-call+of+duty%C2%AE_+advanced+warfare_20141104125154.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698253-call+of+duty%C2%AE_+advanced+warfare_20141104125154.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698253-call+of+duty%C2%AE_+advanced+warfare_20141104125154.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698253-call+of+duty%C2%AE_+advanced+warfare_20141104125154.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698253-call+of+duty%C2%AE_+advanced+warfare_20141104125154.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698253-call+of+duty%C2%AE_+advanced+warfare_20141104125154.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698253-call+of+duty%C2%AE_+advanced+warfare_20141104125154.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698252-call+of+duty%C2%AE_+advanced+warfare_20141104125128.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698252-call+of+duty%C2%AE_+advanced+warfare_20141104125128.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698252-call+of+duty%C2%AE_+advanced+warfare_20141104125128.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698252-call+of+duty%C2%AE_+advanced+warfare_20141104125128.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698252-call+of+duty%C2%AE_+advanced+warfare_20141104125128.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698252-call+of+duty%C2%AE_+advanced+warfare_20141104125128.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698252-call+of+duty%C2%AE_+advanced+warfare_20141104125128.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698251-call+of+duty%C2%AE_+advanced+warfare_20141104124657.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698251-call+of+duty%C2%AE_+advanced+warfare_20141104124657.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698251-call+of+duty%C2%AE_+advanced+warfare_20141104124657.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698251-call+of+duty%C2%AE_+advanced+warfare_20141104124657.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698251-call+of+duty%C2%AE_+advanced+warfare_20141104124657.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698251-call+of+duty%C2%AE_+advanced+warfare_20141104124657.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698251-call+of+duty%C2%AE_+advanced+warfare_20141104124657.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698250-call+of+duty%C2%AE_+advanced+warfare_20141104124443.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698250-call+of+duty%C2%AE_+advanced+warfare_20141104124443.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698250-call+of+duty%C2%AE_+advanced+warfare_20141104124443.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698250-call+of+duty%C2%AE_+advanced+warfare_20141104124443.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698250-call+of+duty%C2%AE_+advanced+warfare_20141104124443.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698250-call+of+duty%C2%AE_+advanced+warfare_20141104124443.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698250-call+of+duty%C2%AE_+advanced+warfare_20141104124443.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698249-call+of+duty%C2%AE_+advanced+warfare_20141104124257.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698249-call+of+duty%C2%AE_+advanced+warfare_20141104124257.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698249-call+of+duty%C2%AE_+advanced+warfare_20141104124257.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698249-call+of+duty%C2%AE_+advanced+warfare_20141104124257.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698249-call+of+duty%C2%AE_+advanced+warfare_20141104124257.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698249-call+of+duty%C2%AE_+advanced+warfare_20141104124257.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698249-call+of+duty%C2%AE_+advanced+warfare_20141104124257.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698248-call+of+duty%C2%AE_+advanced+warfare_20141104124035.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698248-call+of+duty%C2%AE_+advanced+warfare_20141104124035.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698248-call+of+duty%C2%AE_+advanced+warfare_20141104124035.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698248-call+of+duty%C2%AE_+advanced+warfare_20141104124035.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698248-call+of+duty%C2%AE_+advanced+warfare_20141104124035.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698248-call+of+duty%C2%AE_+advanced+warfare_20141104124035.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698248-call+of+duty%C2%AE_+advanced+warfare_20141104124035.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698247-call+of+duty%C2%AE_+advanced+warfare_20141104123904.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698247-call+of+duty%C2%AE_+advanced+warfare_20141104123904.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698247-call+of+duty%C2%AE_+advanced+warfare_20141104123904.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698247-call+of+duty%C2%AE_+advanced+warfare_20141104123904.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698247-call+of+duty%C2%AE_+advanced+warfare_20141104123904.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698247-call+of+duty%C2%AE_+advanced+warfare_20141104123904.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698247-call+of+duty%C2%AE_+advanced+warfare_20141104123904.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698246-call+of+duty%C2%AE_+advanced+warfare_20141104123831.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698246-call+of+duty%C2%AE_+advanced+warfare_20141104123831.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698246-call+of+duty%C2%AE_+advanced+warfare_20141104123831.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698246-call+of+duty%C2%AE_+advanced+warfare_20141104123831.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698246-call+of+duty%C2%AE_+advanced+warfare_20141104123831.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698246-call+of+duty%C2%AE_+advanced+warfare_20141104123831.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698246-call+of+duty%C2%AE_+advanced+warfare_20141104123831.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698245-call+of+duty%C2%AE_+advanced+warfare_20141104123736.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698245-call+of+duty%C2%AE_+advanced+warfare_20141104123736.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698245-call+of+duty%C2%AE_+advanced+warfare_20141104123736.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698245-call+of+duty%C2%AE_+advanced+warfare_20141104123736.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698245-call+of+duty%C2%AE_+advanced+warfare_20141104123736.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698245-call+of+duty%C2%AE_+advanced+warfare_20141104123736.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698245-call+of+duty%C2%AE_+advanced+warfare_20141104123736.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698244-call+of+duty%C2%AE_+advanced+warfare_20141104123614.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698244-call+of+duty%C2%AE_+advanced+warfare_20141104123614.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698244-call+of+duty%C2%AE_+advanced+warfare_20141104123614.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698244-call+of+duty%C2%AE_+advanced+warfare_20141104123614.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698244-call+of+duty%C2%AE_+advanced+warfare_20141104123614.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698244-call+of+duty%C2%AE_+advanced+warfare_20141104123614.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698244-call+of+duty%C2%AE_+advanced+warfare_20141104123614.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698243-call+of+duty%C2%AE_+advanced+warfare_20141104123130.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698243-call+of+duty%C2%AE_+advanced+warfare_20141104123130.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698243-call+of+duty%C2%AE_+advanced+warfare_20141104123130.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698243-call+of+duty%C2%AE_+advanced+warfare_20141104123130.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698243-call+of+duty%C2%AE_+advanced+warfare_20141104123130.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698243-call+of+duty%C2%AE_+advanced+warfare_20141104123130.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698243-call+of+duty%C2%AE_+advanced+warfare_20141104123130.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698242-call+of+duty%C2%AE_+advanced+warfare_20141104123123.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698242-call+of+duty%C2%AE_+advanced+warfare_20141104123123.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2698242-call+of+duty%C2%AE_+advanced+warfare_20141104123123.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2698242-call+of+duty%C2%AE_+advanced+warfare_20141104123123.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2698242-call+of+duty%C2%AE_+advanced+warfare_20141104123123.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2698242-call+of+duty%C2%AE_+advanced+warfare_20141104123123.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2698242-call+of+duty%C2%AE_+advanced+warfare_20141104123123.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2693398-call-of-duty-advanced-warfare-multiplayer-screenshots-4.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2693398-call-of-duty-advanced-warfare-multiplayer-screenshots-4.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2693398-call-of-duty-advanced-warfare-multiplayer-screenshots-4.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2693398-call-of-duty-advanced-warfare-multiplayer-screenshots-4.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2693398-call-of-duty-advanced-warfare-multiplayer-screenshots-4.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2693398-call-of-duty-advanced-warfare-multiplayer-screenshots-4.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2693398-call-of-duty-advanced-warfare-multiplayer-screenshots-4.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2693397-call-of-duty-advanced-warfare-multiplayer-screenshots-7.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2693397-call-of-duty-advanced-warfare-multiplayer-screenshots-7.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2693397-call-of-duty-advanced-warfare-multiplayer-screenshots-7.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2693397-call-of-duty-advanced-warfare-multiplayer-screenshots-7.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2693397-call-of-duty-advanced-warfare-multiplayer-screenshots-7.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2693397-call-of-duty-advanced-warfare-multiplayer-screenshots-7.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2693397-call-of-duty-advanced-warfare-multiplayer-screenshots-7.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2693396-advanced-warfare-2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2693396-advanced-warfare-2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2693396-advanced-warfare-2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2693396-advanced-warfare-2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2693396-advanced-warfare-2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2693396-advanced-warfare-2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2693396-advanced-warfare-2.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2685819-cover-xboxone-call-of-duty-advanced-warfare-day-zero-edition.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2685819-cover-xboxone-call-of-duty-advanced-warfare-day-zero-edition.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2685819-cover-xboxone-call-of-duty-advanced-warfare-day-zero-edition.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2685819-cover-xboxone-call-of-duty-advanced-warfare-day-zero-edition.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2685819-cover-xboxone-call-of-duty-advanced-warfare-day-zero-edition.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2685819-cover-xboxone-call-of-duty-advanced-warfare-day-zero-edition.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2685819-cover-xboxone-call-of-duty-advanced-warfare-day-zero-edition.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2629444-box_codaw.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2629444-box_codaw.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2629444-box_codaw.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2629444-box_codaw.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2629444-box_codaw.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2629444-box_codaw.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2629444-box_codaw.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2629168-029169.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2629168-029169.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2629168-029169.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2629168-029169.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2629168-029169.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2629168-029169.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2629168-029169.jpg",
+      "tags": "All Images, Screenshots, Call of Duty: Advanced Warfare"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8834/",
+      "id": 8834,
+      "name": "War Has Apparently Changed",
+      "site_detail_url": "http://www.giantbomb.com/videos/war-has-apparently-changed/2300-8834/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8838/",
+      "id": 8838,
+      "name": "Call of Duty: Advanced Warfare Features Digital Kevin Spacey, Explosions",
+      "site_detail_url": "http://www.giantbomb.com/videos/call-of-duty-advanced-warfare-features-digital-kev/2300-8838/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8983/",
+      "id": 8983,
+      "name": "E3 2014: Things Get Pretty Grim in Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2014-things-get-pretty-grim-in-call-of-duty-adv/2300-8983/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9151/",
+      "id": 9151,
+      "name": "Sledgehammer Devs Talk Call of Duty: Advanced Warfare's Future Tech",
+      "site_detail_url": "http://www.giantbomb.com/videos/sledgehammer-devs-talk-call-of-duty-advanced-warfa/2300-9151/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9278/",
+      "id": 9278,
+      "name": "Call of Duty Would Like to Remind You That PMCs Are Still Probably Evil",
+      "site_detail_url": "http://www.giantbomb.com/videos/call-of-duty-would-like-to-remind-you-that-pmcs-ar/2300-9278/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9320/",
+      "id": 9320,
+      "name": "Here's What This Year's Call of Duty Multiplayer Looks Like",
+      "site_detail_url": "http://www.giantbomb.com/videos/heres-what-this-years-call-of-duty-multiplayer-loo/2300-9320/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9649/",
+      "id": 9649,
+      "name": "Quick Look: Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-call-of-duty-advanced-warfare/2300-9649/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9681/",
+      "id": 9681,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 11/07/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-11-07-2014/2300-9681/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9685/",
+      "id": 9685,
+      "name": "GBE: Playdate: Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/videos/gbe-playdate-call-of-duty-advanced-warfare/2300-9685/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9813/",
+      "id": 9813,
+      "name": "Activision Teases Exo Zombies for Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/videos/activision-teases-exo-zombies-for-advanced-warfare/2300-9813/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9896/",
+      "id": 9896,
+      "name": "Quick Look: Call of Duty: Advanced Warfare: Havoc Pack",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-call-of-duty-advanced-warfare-havoc-pac/2300-9896/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-32/",
+      "id": 32,
+      "name": "First-Person Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=first-person-shooter&wikiTypeId=3060&wikiId=32&genre=32"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134221/",
+      "id": 134221,
+      "name": "Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134222/",
+      "id": 134222,
+      "name": "Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134223/",
+      "id": 134223,
+      "name": "Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134224/",
+      "id": 134224,
+      "name": "Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134225/",
+      "id": 134225,
+      "name": "Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134226/",
+      "id": 134226,
+      "name": "Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134227/",
+      "id": 134227,
+      "name": "Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134228/",
+      "id": 134228,
+      "name": "Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134229/",
+      "id": 134229,
+      "name": "Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134230/",
+      "id": 134230,
+      "name": "Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134231/",
+      "id": 134231,
+      "name": "Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134232/",
+      "id": 134232,
+      "name": "Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134233/",
+      "id": 134233,
+      "name": "Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134234/",
+      "id": 134234,
+      "name": "Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134235/",
+      "id": 134235,
+      "name": "Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134236/",
+      "id": 134236,
+      "name": "Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134237/",
+      "id": 134237,
+      "name": "Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134238/",
+      "id": 134238,
+      "name": "Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134239/",
+      "id": 134239,
+      "name": "Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134240/",
+      "id": 134240,
+      "name": "Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137857/",
+      "id": 137857,
+      "name": "Call of Duty: Advanced Warfare Day Zero Edition",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137858/",
+      "id": 137858,
+      "name": "Call of Duty: Advanced Warfare Day Zero Edition",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137859/",
+      "id": 137859,
+      "name": "Call of Duty: Advanced Warfare Day Zero Edition",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137860/",
+      "id": 137860,
+      "name": "Call of Duty: Advanced Warfare Day Zero Edition",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137861/",
+      "id": 137861,
+      "name": "Call of Duty: Advanced Warfare Day Zero Edition",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138476/",
+      "id": 138476,
+      "name": "Call of Duty: Advanced Warfare",
+      "site_detail_url": "http://www.giantbomb.com/call-of-duty-advanced-warfare/3030-45359/releases/"
+    }
+  ]
+}

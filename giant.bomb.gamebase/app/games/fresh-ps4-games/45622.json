@@ -1,0 +1,82 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-45622/",
+  "deck": "Monochromatic puzzle game with a protagonist who's terrified of light.",
+  "id": 45622,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2607985-5425432436-OneUp.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2607985-5425432436-OneUp.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2607985-5425432436-OneUp.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2607985-5425432436-OneUp.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2607985-5425432436-OneUp.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2607985-5425432436-OneUp.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2607985-5425432436-OneUp.png"
+  },
+  "name": "One Upon Light",
+  "original_release_date": "2015-10-13 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/one-upon-light/3030-45622/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2607985-5425432436-OneUp.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2607985-5425432436-OneUp.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2607985-5425432436-OneUp.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2607985-5425432436-OneUp.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2607985-5425432436-OneUp.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2607985-5425432436-OneUp.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2607985-5425432436-OneUp.png",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9551/",
+      "id": 9551,
+      "name": "One Upon Light Suggests You Stay in the Shadows",
+      "site_detail_url": "http://www.giantbomb.com/videos/one-upon-light-suggests-you-stay-in-the-shadows/2300-9551/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-18/",
+      "id": 18,
+      "name": "Puzzle",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=puzzle&wikiTypeId=3060&wikiId=18&genre=18"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144093/",
+      "id": 144093,
+      "name": "One Upon Light",
+      "site_detail_url": "http://www.giantbomb.com/one-upon-light/3030-45622/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146188/",
+      "id": 146188,
+      "name": "One Upon Light",
+      "site_detail_url": "http://www.giantbomb.com/one-upon-light/3030-45622/releases/"
+    }
+  ]
+}

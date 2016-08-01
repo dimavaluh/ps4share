@@ -1,0 +1,63 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48782/",
+  "deck": "Kromaia is a frantic 3D 6DOF action game placed in a strange, psychedelic and hostile universe governed by rules to be discovered by the player. A renewal of the classic coin-op shoot'em-ups featuring an open world in which to face hordes of enemies showing an adaptative AI that creates a delightful and unique experience.",
+  "id": 48782,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2724256-kromaia-90x60%20mgw-2014-01.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2724256-kromaia-90x60%20mgw-2014-01.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2724256-kromaia-90x60%20mgw-2014-01.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2724256-kromaia-90x60%20mgw-2014-01.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2724256-kromaia-90x60%20mgw-2014-01.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2724256-kromaia-90x60%20mgw-2014-01.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2724256-kromaia-90x60%20mgw-2014-01.jpg"
+  },
+  "name": "Kromaia",
+  "original_release_date": "2014-10-23 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/kromaia/3030-48782/",
+  "images": [],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-11/",
+      "id": 11,
+      "name": "Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shooter&wikiTypeId=3060&wikiId=11&genre=11"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143301/",
+      "id": 143301,
+      "name": "Kromaia",
+      "site_detail_url": "http://www.giantbomb.com/kromaia/3030-48782/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144643/",
+      "id": 144643,
+      "name": "Kromaia",
+      "site_detail_url": "http://www.giantbomb.com/kromaia/3030-48782/releases/"
+    }
+  ]
+}

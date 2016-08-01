@@ -1,0 +1,478 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-46569/",
+  "deck": "An action role playing game by FromSoftware, marking the studio's debut on the PlayStation 4. It shares creative roots, as well as gameplay elements, with the Souls series.",
+  "id": 46569,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2734931-bloodborne%20v5.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2734931-bloodborne%20v5.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2734931-bloodborne%20v5.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2734931-bloodborne%20v5.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2734931-bloodborne%20v5.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2734931-bloodborne%20v5.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2734931-bloodborne%20v5.jpg"
+  },
+  "name": "Bloodborne",
+  "original_release_date": "2015-03-24 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/bloodborne/3030-46569/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844411-bloodborne%E2%84%A2_20160407154225.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844411-bloodborne%E2%84%A2_20160407154225.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844411-bloodborne%E2%84%A2_20160407154225.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844411-bloodborne%E2%84%A2_20160407154225.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844411-bloodborne%E2%84%A2_20160407154225.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844411-bloodborne%E2%84%A2_20160407154225.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844411-bloodborne%E2%84%A2_20160407154225.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844410-bloodborne%E2%84%A2_20160406205221.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844410-bloodborne%E2%84%A2_20160406205221.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844410-bloodborne%E2%84%A2_20160406205221.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844410-bloodborne%E2%84%A2_20160406205221.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844410-bloodborne%E2%84%A2_20160406205221.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844410-bloodborne%E2%84%A2_20160406205221.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844410-bloodborne%E2%84%A2_20160406205221.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844409-bloodborne%E2%84%A2_20160406204940.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844409-bloodborne%E2%84%A2_20160406204940.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844409-bloodborne%E2%84%A2_20160406204940.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844409-bloodborne%E2%84%A2_20160406204940.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844409-bloodborne%E2%84%A2_20160406204940.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844409-bloodborne%E2%84%A2_20160406204940.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844409-bloodborne%E2%84%A2_20160406204940.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844408-bloodborne%E2%84%A2_20160406204921.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844408-bloodborne%E2%84%A2_20160406204921.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844408-bloodborne%E2%84%A2_20160406204921.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844408-bloodborne%E2%84%A2_20160406204921.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844408-bloodborne%E2%84%A2_20160406204921.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844408-bloodborne%E2%84%A2_20160406204921.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844408-bloodborne%E2%84%A2_20160406204921.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844407-bloodborne%E2%84%A2_20160406202257.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844407-bloodborne%E2%84%A2_20160406202257.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844407-bloodborne%E2%84%A2_20160406202257.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844407-bloodborne%E2%84%A2_20160406202257.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844407-bloodborne%E2%84%A2_20160406202257.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844407-bloodborne%E2%84%A2_20160406202257.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844407-bloodborne%E2%84%A2_20160406202257.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844406-bloodborne%E2%84%A2_20160406194004.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844406-bloodborne%E2%84%A2_20160406194004.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844406-bloodborne%E2%84%A2_20160406194004.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844406-bloodborne%E2%84%A2_20160406194004.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844406-bloodborne%E2%84%A2_20160406194004.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844406-bloodborne%E2%84%A2_20160406194004.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844406-bloodborne%E2%84%A2_20160406194004.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844405-bloodborne%E2%84%A2_20160406193333.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844405-bloodborne%E2%84%A2_20160406193333.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844405-bloodborne%E2%84%A2_20160406193333.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844405-bloodborne%E2%84%A2_20160406193333.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844405-bloodborne%E2%84%A2_20160406193333.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844405-bloodborne%E2%84%A2_20160406193333.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844405-bloodborne%E2%84%A2_20160406193333.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844404-bloodborne%E2%84%A2_20160406193238.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844404-bloodborne%E2%84%A2_20160406193238.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844404-bloodborne%E2%84%A2_20160406193238.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844404-bloodborne%E2%84%A2_20160406193238.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844404-bloodborne%E2%84%A2_20160406193238.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844404-bloodborne%E2%84%A2_20160406193238.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844404-bloodborne%E2%84%A2_20160406193238.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844403-bloodborne%E2%84%A2_20160406193220.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844403-bloodborne%E2%84%A2_20160406193220.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844403-bloodborne%E2%84%A2_20160406193220.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844403-bloodborne%E2%84%A2_20160406193220.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844403-bloodborne%E2%84%A2_20160406193220.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844403-bloodborne%E2%84%A2_20160406193220.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844403-bloodborne%E2%84%A2_20160406193220.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844402-bloodborne%E2%84%A2_20160406191031.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844402-bloodborne%E2%84%A2_20160406191031.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844402-bloodborne%E2%84%A2_20160406191031.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844402-bloodborne%E2%84%A2_20160406191031.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844402-bloodborne%E2%84%A2_20160406191031.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844402-bloodborne%E2%84%A2_20160406191031.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844402-bloodborne%E2%84%A2_20160406191031.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844401-bloodborne%E2%84%A2_20160406190842.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844401-bloodborne%E2%84%A2_20160406190842.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844401-bloodborne%E2%84%A2_20160406190842.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844401-bloodborne%E2%84%A2_20160406190842.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844401-bloodborne%E2%84%A2_20160406190842.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844401-bloodborne%E2%84%A2_20160406190842.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844401-bloodborne%E2%84%A2_20160406190842.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844400-bloodborne%E2%84%A2_20160406180448.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844400-bloodborne%E2%84%A2_20160406180448.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844400-bloodborne%E2%84%A2_20160406180448.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844400-bloodborne%E2%84%A2_20160406180448.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844400-bloodborne%E2%84%A2_20160406180448.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844400-bloodborne%E2%84%A2_20160406180448.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844400-bloodborne%E2%84%A2_20160406180448.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844399-bloodborne%E2%84%A2_20160403180129.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844399-bloodborne%E2%84%A2_20160403180129.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844399-bloodborne%E2%84%A2_20160403180129.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844399-bloodborne%E2%84%A2_20160403180129.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844399-bloodborne%E2%84%A2_20160403180129.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844399-bloodborne%E2%84%A2_20160403180129.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844399-bloodborne%E2%84%A2_20160403180129.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844398-bloodborne%E2%84%A2_20160403174114.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844398-bloodborne%E2%84%A2_20160403174114.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844398-bloodborne%E2%84%A2_20160403174114.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844398-bloodborne%E2%84%A2_20160403174114.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844398-bloodborne%E2%84%A2_20160403174114.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844398-bloodborne%E2%84%A2_20160403174114.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844398-bloodborne%E2%84%A2_20160403174114.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844397-bloodborne%E2%84%A2_20160402163906.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844397-bloodborne%E2%84%A2_20160402163906.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844397-bloodborne%E2%84%A2_20160402163906.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844397-bloodborne%E2%84%A2_20160402163906.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844397-bloodborne%E2%84%A2_20160402163906.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844397-bloodborne%E2%84%A2_20160402163906.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844397-bloodborne%E2%84%A2_20160402163906.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844396-bloodborne%E2%84%A2_20160402163439.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844396-bloodborne%E2%84%A2_20160402163439.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844396-bloodborne%E2%84%A2_20160402163439.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844396-bloodborne%E2%84%A2_20160402163439.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844396-bloodborne%E2%84%A2_20160402163439.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844396-bloodborne%E2%84%A2_20160402163439.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844396-bloodborne%E2%84%A2_20160402163439.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844395-bloodborne%E2%84%A2_20160402161902.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844395-bloodborne%E2%84%A2_20160402161902.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844395-bloodborne%E2%84%A2_20160402161902.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844395-bloodborne%E2%84%A2_20160402161902.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844395-bloodborne%E2%84%A2_20160402161902.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844395-bloodborne%E2%84%A2_20160402161902.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844395-bloodborne%E2%84%A2_20160402161902.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844394-bloodborne%E2%84%A2_20160402161409.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844394-bloodborne%E2%84%A2_20160402161409.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844394-bloodborne%E2%84%A2_20160402161409.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844394-bloodborne%E2%84%A2_20160402161409.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844394-bloodborne%E2%84%A2_20160402161409.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844394-bloodborne%E2%84%A2_20160402161409.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844394-bloodborne%E2%84%A2_20160402161409.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844393-bloodborne%E2%84%A2_20160326173730.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844393-bloodborne%E2%84%A2_20160326173730.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844393-bloodborne%E2%84%A2_20160326173730.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844393-bloodborne%E2%84%A2_20160326173730.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844393-bloodborne%E2%84%A2_20160326173730.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844393-bloodborne%E2%84%A2_20160326173730.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844393-bloodborne%E2%84%A2_20160326173730.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844392-bloodborne%E2%84%A2_20151122104349.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844392-bloodborne%E2%84%A2_20151122104349.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844392-bloodborne%E2%84%A2_20151122104349.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844392-bloodborne%E2%84%A2_20151122104349.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844392-bloodborne%E2%84%A2_20151122104349.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844392-bloodborne%E2%84%A2_20151122104349.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844392-bloodborne%E2%84%A2_20151122104349.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755823-bloodborne%E2%84%A2_20150330203413.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755823-bloodborne%E2%84%A2_20150330203413.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755823-bloodborne%E2%84%A2_20150330203413.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755823-bloodborne%E2%84%A2_20150330203413.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755823-bloodborne%E2%84%A2_20150330203413.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755823-bloodborne%E2%84%A2_20150330203413.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755823-bloodborne%E2%84%A2_20150330203413.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755822-bloodborne%E2%84%A2_20150330201902.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755822-bloodborne%E2%84%A2_20150330201902.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755822-bloodborne%E2%84%A2_20150330201902.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755822-bloodborne%E2%84%A2_20150330201902.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755822-bloodborne%E2%84%A2_20150330201902.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755822-bloodborne%E2%84%A2_20150330201902.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755822-bloodborne%E2%84%A2_20150330201902.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755821-bloodborne%E2%84%A2_20150330184538.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755821-bloodborne%E2%84%A2_20150330184538.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755821-bloodborne%E2%84%A2_20150330184538.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755821-bloodborne%E2%84%A2_20150330184538.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755821-bloodborne%E2%84%A2_20150330184538.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755821-bloodborne%E2%84%A2_20150330184538.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755821-bloodborne%E2%84%A2_20150330184538.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755820-bloodborne%E2%84%A2_20150329163544.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755820-bloodborne%E2%84%A2_20150329163544.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755820-bloodborne%E2%84%A2_20150329163544.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755820-bloodborne%E2%84%A2_20150329163544.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755820-bloodborne%E2%84%A2_20150329163544.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755820-bloodborne%E2%84%A2_20150329163544.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755820-bloodborne%E2%84%A2_20150329163544.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755819-bloodborne%E2%84%A2_20150328121556.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755819-bloodborne%E2%84%A2_20150328121556.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755819-bloodborne%E2%84%A2_20150328121556.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755819-bloodborne%E2%84%A2_20150328121556.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755819-bloodborne%E2%84%A2_20150328121556.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755819-bloodborne%E2%84%A2_20150328121556.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755819-bloodborne%E2%84%A2_20150328121556.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755818-bloodborne%E2%84%A2_20150328104611.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755818-bloodborne%E2%84%A2_20150328104611.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755818-bloodborne%E2%84%A2_20150328104611.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755818-bloodborne%E2%84%A2_20150328104611.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755818-bloodborne%E2%84%A2_20150328104611.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755818-bloodborne%E2%84%A2_20150328104611.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755818-bloodborne%E2%84%A2_20150328104611.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755817-bloodborne%E2%84%A2_20150328104552.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755817-bloodborne%E2%84%A2_20150328104552.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755817-bloodborne%E2%84%A2_20150328104552.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755817-bloodborne%E2%84%A2_20150328104552.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755817-bloodborne%E2%84%A2_20150328104552.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755817-bloodborne%E2%84%A2_20150328104552.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755817-bloodborne%E2%84%A2_20150328104552.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755816-bloodborne%E2%84%A2_20150328094245.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755816-bloodborne%E2%84%A2_20150328094245.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755816-bloodborne%E2%84%A2_20150328094245.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755816-bloodborne%E2%84%A2_20150328094245.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755816-bloodborne%E2%84%A2_20150328094245.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755816-bloodborne%E2%84%A2_20150328094245.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755816-bloodborne%E2%84%A2_20150328094245.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755815-bloodborne%E2%84%A2_20150327182924.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755815-bloodborne%E2%84%A2_20150327182924.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755815-bloodborne%E2%84%A2_20150327182924.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755815-bloodborne%E2%84%A2_20150327182924.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755815-bloodborne%E2%84%A2_20150327182924.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755815-bloodborne%E2%84%A2_20150327182924.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755815-bloodborne%E2%84%A2_20150327182924.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755814-bloodborne%E2%84%A2_20150326193846.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755814-bloodborne%E2%84%A2_20150326193846.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755814-bloodborne%E2%84%A2_20150326193846.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755814-bloodborne%E2%84%A2_20150326193846.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755814-bloodborne%E2%84%A2_20150326193846.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755814-bloodborne%E2%84%A2_20150326193846.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755814-bloodborne%E2%84%A2_20150326193846.jpg",
+      "tags": "All Images, Screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9006/",
+      "id": 9006,
+      "name": "E3 2014: Project Beast is Now...Bloodborne",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2014-project-beast-is-now-bloodborne/2300-9006/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9326/",
+      "id": 9326,
+      "name": "Give Me Bloodborne Right Now, Thanks!",
+      "site_detail_url": "http://www.giantbomb.com/videos/give-me-bloodborne-right-now-thanks/2300-9326/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9360/",
+      "id": 9360,
+      "name": "Here's Six Minutes of Bloodborne Gameplay",
+      "site_detail_url": "http://www.giantbomb.com/videos/heres-six-minutes-of-bloodborne-gameplay/2300-9360/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9470/",
+      "id": 9470,
+      "name": "Bloodborne Arrives Here on February 6",
+      "site_detail_url": "http://www.giantbomb.com/videos/bloodborne-arrives-here-on-february-6/2300-9470/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10047/",
+      "id": 10047,
+      "name": "Quick Look: Bloodborne",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-bloodborne/2300-10047/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10076/",
+      "id": 10076,
+      "name": "GBEast (Bloodborne) Test Stream",
+      "site_detail_url": "http://www.giantbomb.com/videos/gbeast-bloodborne-test-stream/2300-10076/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10081/",
+      "id": 10081,
+      "name": "Unprofessional Fridays: 04/03/2015",
+      "site_detail_url": "http://www.giantbomb.com/videos/unprofessional-fridays-04-03-2015/2300-10081/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10139/",
+      "id": 10139,
+      "name": "There Will Be Bloodborne",
+      "site_detail_url": "http://www.giantbomb.com/videos/there-will-be-bloodborne/2300-10139/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10160/",
+      "id": 10160,
+      "name": "Big Live Live Show Live 2015 - Part 04",
+      "site_detail_url": "http://www.giantbomb.com/videos/big-live-live-show-live-2015-part-04/2300-10160/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10205/",
+      "id": 10205,
+      "name": "Breaking Bradborne: The Platinum - Part 01",
+      "site_detail_url": "http://www.giantbomb.com/videos/breaking-bradborne-the-platinum-part-01/2300-10205/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10216/",
+      "id": 10216,
+      "name": "Breaking Bradborne: The Platinum - Part 02",
+      "site_detail_url": "http://www.giantbomb.com/videos/breaking-bradborne-the-platinum-part-02/2300-10216/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10230/",
+      "id": 10230,
+      "name": "Breaking Bradborne: The Platinum - Part 03",
+      "site_detail_url": "http://www.giantbomb.com/videos/breaking-bradborne-the-platinum-part-03/2300-10230/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10472/",
+      "id": 10472,
+      "name": "Breaking Bradborne: The Platinum - Part 04",
+      "site_detail_url": "http://www.giantbomb.com/videos/breaking-bradborne-the-platinum-part-04/2300-10472/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10498/",
+      "id": 10498,
+      "name": "Breaking Bradborne: The Platinum - Part 05",
+      "site_detail_url": "http://www.giantbomb.com/videos/breaking-bradborne-the-platinum-part-05/2300-10498/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10525/",
+      "id": 10525,
+      "name": "Breaking Bradborne: The Platinum - Part 06",
+      "site_detail_url": "http://www.giantbomb.com/videos/breaking-bradborne-the-platinum-part-06/2300-10525/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10678/",
+      "id": 10678,
+      "name": "Bloodborne's First Expansion Is Called The Old Hunters",
+      "site_detail_url": "http://www.giantbomb.com/videos/bloodbornes-first-expansion-is-called-the-old-hunt/2300-10678/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10882/",
+      "id": 10882,
+      "name": "Quick Look: Bloodborne: The Old Hunters",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-bloodborne-the-old-hunters/2300-10882/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11090/",
+      "id": 11090,
+      "name": "GBE Playdate: Bloodborne (04/01/2016)",
+      "site_detail_url": "http://www.giantbomb.com/videos/gbe-playdate-bloodborne-04012016/2300-11090/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137340/",
+      "id": 137340,
+      "name": "Bloodborne",
+      "site_detail_url": "http://www.giantbomb.com/bloodborne/3030-46569/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137708/",
+      "id": 137708,
+      "name": "Bloodborne",
+      "site_detail_url": "http://www.giantbomb.com/bloodborne/3030-46569/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137709/",
+      "id": 137709,
+      "name": "Bloodborne Collectors Edition",
+      "site_detail_url": "http://www.giantbomb.com/bloodborne/3030-46569/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137710/",
+      "id": 137710,
+      "name": "Bloodborne",
+      "site_detail_url": "http://www.giantbomb.com/bloodborne/3030-46569/releases/"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-52285/",
+  "deck": "A game about the youth Tarpak and his dog Taro.",
+  "id": 52285,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2814723-7010393739-24213.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2814723-7010393739-24213.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2814723-7010393739-24213.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2814723-7010393739-24213.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2814723-7010393739-24213.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2814723-7010393739-24213.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2814723-7010393739-24213.jpg"
+  },
+  "name": "Dogchild",
+  "original_release_date": "2015-12-24 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/dogchild/3030-52285/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2814723-7010393739-24213.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2814723-7010393739-24213.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2814723-7010393739-24213.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2814723-7010393739-24213.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2814723-7010393739-24213.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2814723-7010393739-24213.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2814723-7010393739-24213.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145609/",
+      "id": 145609,
+      "name": "Dogchild",
+      "site_detail_url": "http://www.giantbomb.com/dogchild/3030-52285/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145611/",
+      "id": 145611,
+      "name": "Dogchild",
+      "site_detail_url": "http://www.giantbomb.com/dogchild/3030-52285/releases/"
+    }
+  ]
+}

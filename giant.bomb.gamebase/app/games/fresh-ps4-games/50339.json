@@ -1,0 +1,81 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-50339/",
+  "deck": "The latest addition to the Arc System Works anime fighting game franchise, BlazBlue. Featuring new characters, new story, and a couple new game mechanics.",
+  "id": 50339,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2771480-5092548305-blazb.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2771480-5092548305-blazb.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2771480-5092548305-blazb.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2771480-5092548305-blazb.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2771480-5092548305-blazb.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2771480-5092548305-blazb.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2771480-5092548305-blazb.jpg"
+  },
+  "name": "BlazBlue: Central Fiction",
+  "original_release_date": "2015-11-19 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-84/",
+      "id": 84,
+      "name": "Arcade",
+      "site_detail_url": "http://www.giantbomb.com/arcade/3045-84/",
+      "abbreviation": "ARC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/blazblue-central-fiction/3030-50339/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/210469/2771480-5092548305-blazb.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/21/210469/2771480-5092548305-blazb.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/210469/2771480-5092548305-blazb.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/21/210469/2771480-5092548305-blazb.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/21/210469/2771480-5092548305-blazb.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/21/210469/2771480-5092548305-blazb.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/210469/2771480-5092548305-blazb.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-9/",
+      "id": 9,
+      "name": "Fighting",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=fighting&wikiTypeId=3060&wikiId=9&genre=9"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144634/",
+      "id": 144634,
+      "name": "BlazBlue: Central Fiction",
+      "site_detail_url": "http://www.giantbomb.com/blazblue-central-fiction/3030-50339/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148137/",
+      "id": 148137,
+      "name": "BlazBlue: Central Fiction",
+      "site_detail_url": "http://www.giantbomb.com/blazblue-central-fiction/3030-50339/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148138/",
+      "id": 148138,
+      "name": "BlazBlue: Central Fiction",
+      "site_detail_url": "http://www.giantbomb.com/blazblue-central-fiction/3030-50339/releases/"
+    }
+  ]
+}

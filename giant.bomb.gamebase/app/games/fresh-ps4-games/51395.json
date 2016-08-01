@@ -1,0 +1,68 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-51395/",
+  "deck": "Turn based strategy game Desert Ashes returns with an infusion of pygmies from Pocket God.",
+  "id": 51395,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2794854-5711566369-image",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2794854-5711566369-image",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2794854-5711566369-image",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2794854-5711566369-image",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2794854-5711566369-image",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2794854-5711566369-image",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2794854-5711566369-image"
+  },
+  "name": "Pocket God vs Desert Ashes",
+  "original_release_date": "2015-10-20 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/pocket-god-vs-desert-ashes/3030-51395/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2794854-5711566369-image",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2794854-5711566369-image",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2794854-5711566369-image",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2794854-5711566369-image",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2794854-5711566369-image",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2794854-5711566369-image",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2794854-5711566369-image",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-2/",
+      "id": 2,
+      "name": "Strategy",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=strategy&wikiTypeId=3060&wikiId=2&genre=2"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144517/",
+      "id": 144517,
+      "name": "Pocket God vs Desert Ashes",
+      "site_detail_url": "http://www.giantbomb.com/pocket-god-vs-desert-ashes/3030-51395/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144518/",
+      "id": 144518,
+      "name": "Pocket God vs Desert Ashes",
+      "site_detail_url": "http://www.giantbomb.com/pocket-god-vs-desert-ashes/3030-51395/releases/"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-43040/",
+  "deck": "Liege is a party-based, tactical role-playing game for PC, Mac, iOS and Android. The game takes the classic JRPG formula and layer in a mature story, tactical gameplay and hand-drawn visuals.",
+  "id": 43040,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2727918-8244973244-boxAr.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2727918-8244973244-boxAr.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2727918-8244973244-boxAr.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2727918-8244973244-boxAr.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2727918-8244973244-boxAr.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2727918-8244973244-boxAr.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2727918-8244973244-boxAr.png"
+  },
+  "name": "Liege",
+  "original_release_date": "2015-12-31 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-121/",
+      "id": 121,
+      "name": "iPad",
+      "site_detail_url": "http://www.giantbomb.com/ipad/3045-121/",
+      "abbreviation": "IPAD"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-123/",
+      "id": 123,
+      "name": "Android",
+      "site_detail_url": "http://www.giantbomb.com/android/3045-123/",
+      "abbreviation": "ANDR"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/liege/3030-43040/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2727918-8244973244-boxAr.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2727918-8244973244-boxAr.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2727918-8244973244-boxAr.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2727918-8244973244-boxAr.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2727918-8244973244-boxAr.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2727918-8244973244-boxAr.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2727918-8244973244-boxAr.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/11/117587/2506170-liege.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/11/117587/2506170-liege.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/11/117587/2506170-liege.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/11/117587/2506170-liege.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/11/117587/2506170-liege.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/11/117587/2506170-liege.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/11/117587/2506170-liege.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-2/",
+      "id": 2,
+      "name": "Strategy",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=strategy&wikiTypeId=3060&wikiId=2&genre=2"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    }
+  ]
+}

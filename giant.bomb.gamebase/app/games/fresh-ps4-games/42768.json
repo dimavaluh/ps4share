@@ -1,0 +1,124 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-42768/",
+  "deck": "Wonder Flick is a treasure-hunting RPG from Level-5 for iOS and Android.",
+  "id": 42768,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2543995-original.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2543995-original.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2543995-original.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2543995-original.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2543995-original.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2543995-original.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2543995-original.jpg"
+  },
+  "name": "Wonder Flick",
+  "original_release_date": "2013-11-30 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-96/",
+      "id": 96,
+      "name": "iPhone",
+      "site_detail_url": "http://www.giantbomb.com/iphone/3045-96/",
+      "abbreviation": "IPHN"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-121/",
+      "id": 121,
+      "name": "iPad",
+      "site_detail_url": "http://www.giantbomb.com/ipad/3045-121/",
+      "abbreviation": "IPAD"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-123/",
+      "id": 123,
+      "name": "Android",
+      "site_detail_url": "http://www.giantbomb.com/android/3045-123/",
+      "abbreviation": "ANDR"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/wonder-flick/3030-42768/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2543995-original.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2543995-original.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2543995-original.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2543995-original.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56735/2543995-original.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56735/2543995-original.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56735/2543995-original.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-131575/",
+      "id": 131575,
+      "name": "Wonder Flick",
+      "site_detail_url": "http://www.giantbomb.com/wonder-flick/3030-42768/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-131576/",
+      "id": 131576,
+      "name": "Wonder Flick",
+      "site_detail_url": "http://www.giantbomb.com/wonder-flick/3030-42768/releases/"
+    }
+  ]
+}

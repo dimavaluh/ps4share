@@ -1,0 +1,89 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-46503/",
+  "deck": "Fantastical runner about two heroes trying to take back the Earth which has been besieged by giant flying dragons.",
+  "id": 46503,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2640794-6105935035-14332.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2640794-6105935035-14332.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2640794-6105935035-14332.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2640794-6105935035-14332.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2640794-6105935035-14332.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2640794-6105935035-14332.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2640794-6105935035-14332.jpg"
+  },
+  "name": "EarthNight",
+  "original_release_date": "2015-12-31 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-96/",
+      "id": 96,
+      "name": "iPhone",
+      "site_detail_url": "http://www.giantbomb.com/iphone/3045-96/",
+      "abbreviation": "IPHN"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-123/",
+      "id": 123,
+      "name": "Android",
+      "site_detail_url": "http://www.giantbomb.com/android/3045-123/",
+      "abbreviation": "ANDR"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/earth-night/3030-46503/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2640794-6105935035-14332.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2640794-6105935035-14332.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2640794-6105935035-14332.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2640794-6105935035-14332.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2640794-6105935035-14332.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2640794-6105935035-14332.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2640794-6105935035-14332.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9079/",
+      "id": 9079,
+      "name": "E3 2014: Endlessly Run Along the Backs of Dragons in EarthNight",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2014-endlessly-run-along-the-backs-of-dragons-i/2300-9079/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ]
+}

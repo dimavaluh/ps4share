@@ -1,0 +1,365 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-45334/",
+  "deck": "Basketball returns in NBA 2K15.",
+  "id": 45334,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2701426-box_nba2k15.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2701426-box_nba2k15.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2701426-box_nba2k15.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2701426-box_nba2k15.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2701426-box_nba2k15.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2701426-box_nba2k15.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2701426-box_nba2k15.png"
+  },
+  "name": "NBA 2K15",
+  "original_release_date": "2014-10-07 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/nba-2k15/3030-45334/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755921-nba+2k15_20150401154811.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755921-nba+2k15_20150401154811.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755921-nba+2k15_20150401154811.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755921-nba+2k15_20150401154811.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755921-nba+2k15_20150401154811.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755921-nba+2k15_20150401154811.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755921-nba+2k15_20150401154811.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2701426-box_nba2k15.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2701426-box_nba2k15.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2701426-box_nba2k15.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2701426-box_nba2k15.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2701426-box_nba2k15.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2701426-box_nba2k15.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2701426-box_nba2k15.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2688433-nba2k15_ps4_fob_final.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2688433-nba2k15_ps4_fob_final.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2688433-nba2k15_ps4_fob_final.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2688433-nba2k15_ps4_fob_final.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2688433-nba2k15_ps4_fob_final.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2688433-nba2k15_ps4_fob_final.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2688433-nba2k15_ps4_fob_final.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677738-7993765619-14076.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677738-7993765619-14076.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677738-7993765619-14076.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677738-7993765619-14076.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/141373/2677738-7993765619-14076.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/141373/2677738-7993765619-14076.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/141373/2677738-7993765619-14076.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677737-5298261625-14091.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677737-5298261625-14091.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677737-5298261625-14091.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677737-5298261625-14091.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/141373/2677737-5298261625-14091.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/141373/2677737-5298261625-14091.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/141373/2677737-5298261625-14091.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677736-2262558948-14091.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677736-2262558948-14091.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677736-2262558948-14091.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677736-2262558948-14091.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/141373/2677736-2262558948-14091.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/141373/2677736-2262558948-14091.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/141373/2677736-2262558948-14091.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677735-2800489174-14091.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677735-2800489174-14091.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677735-2800489174-14091.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677735-2800489174-14091.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/141373/2677735-2800489174-14091.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/141373/2677735-2800489174-14091.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/141373/2677735-2800489174-14091.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677734-0071249253-14091.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677734-0071249253-14091.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677734-0071249253-14091.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677734-0071249253-14091.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/141373/2677734-0071249253-14091.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/141373/2677734-0071249253-14091.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/141373/2677734-0071249253-14091.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677733-8244775764-14091.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677733-8244775764-14091.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677733-8244775764-14091.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677733-8244775764-14091.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/141373/2677733-8244775764-14091.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/141373/2677733-8244775764-14091.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/141373/2677733-8244775764-14091.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677732-8394835601-14091.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677732-8394835601-14091.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677732-8394835601-14091.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677732-8394835601-14091.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/141373/2677732-8394835601-14091.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/141373/2677732-8394835601-14091.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/141373/2677732-8394835601-14091.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677731-2065513105-14091.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677731-2065513105-14091.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677731-2065513105-14091.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677731-2065513105-14091.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/141373/2677731-2065513105-14091.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/141373/2677731-2065513105-14091.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/141373/2677731-2065513105-14091.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677730-3122476023-14091.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677730-3122476023-14091.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677730-3122476023-14091.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677730-3122476023-14091.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/141373/2677730-3122476023-14091.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/141373/2677730-3122476023-14091.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/141373/2677730-3122476023-14091.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677729-3479916797-14091.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677729-3479916797-14091.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677729-3479916797-14091.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677729-3479916797-14091.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/141373/2677729-3479916797-14091.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/141373/2677729-3479916797-14091.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/141373/2677729-3479916797-14091.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677728-9849231524-14091.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677728-9849231524-14091.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677728-9849231524-14091.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677728-9849231524-14091.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/141373/2677728-9849231524-14091.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/141373/2677728-9849231524-14091.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/141373/2677728-9849231524-14091.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677726-1375247759-30464.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677726-1375247759-30464.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/141373/2677726-1375247759-30464.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/141373/2677726-1375247759-30464.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/141373/2677726-1375247759-30464.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/141373/2677726-1375247759-30464.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/141373/2677726-1375247759-30464.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2670012-032889.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2670012-032889.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2670012-032889.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2670012-032889.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2670012-032889.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2670012-032889.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2670012-032889.jpg",
+      "tags": "All Images, Screenshots, NBA 2K15"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2670011-032888.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2670011-032888.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2670011-032888.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2670011-032888.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2670011-032888.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2670011-032888.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2670011-032888.jpg",
+      "tags": "All Images, Screenshots, NBA 2K15"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2670010-032887.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2670010-032887.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2670010-032887.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2670010-032887.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2670010-032887.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2670010-032887.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2670010-032887.jpg",
+      "tags": "All Images, Screenshots, NBA 2K15"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2670009-032886.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2670009-032886.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2670009-032886.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2670009-032886.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2670009-032886.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2670009-032886.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2670009-032886.jpg",
+      "tags": "All Images, Screenshots, NBA 2K15"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2630690-image.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2630690-image.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2630690-image.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2630690-image.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56735/2630690-image.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56735/2630690-image.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56735/2630690-image.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9385/",
+      "id": 9385,
+      "name": "Here's the First Gameplay Trailer for NBA 2K15",
+      "site_detail_url": "http://www.giantbomb.com/videos/heres-the-first-gameplay-trailer-for-nba-2k15/2300-9385/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9472/",
+      "id": 9472,
+      "name": "NBA 2K15 Is Getting Into the Face-Scanning Game",
+      "site_detail_url": "http://www.giantbomb.com/videos/nba-2k15-is-getting-into-the-face-scanning-game/2300-9472/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9494/",
+      "id": 9494,
+      "name": "Here Is More Footage of NBA 2K15 Looking Exceptionally Good",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-is-more-footage-of-nba-2k15-looking-exception/2300-9494/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9521/",
+      "id": 9521,
+      "name": "NBA 2K15 Unveils its MyPARK Mode",
+      "site_detail_url": "http://www.giantbomb.com/videos/nba-2k15-unveils-its-mypark-mode/2300-9521/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9541/",
+      "id": 9541,
+      "name": "Here's Your Friendly Reminder That NBA 2K15 Is Out Now",
+      "site_detail_url": "http://www.giantbomb.com/videos/heres-your-friendly-reminder-that-nba-2k15-is-out-/2300-9541/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9547/",
+      "id": 9547,
+      "name": "Quick Look: NBA 2K15",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-nba-2k15/2300-9547/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9556/",
+      "id": 9556,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 10/10/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-10-10-2014/2300-9556/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-3/",
+      "id": 3,
+      "name": "Sports",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=sports&wikiTypeId=3060&wikiId=3&genre=3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-22/",
+      "id": 22,
+      "name": "Basketball",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=basketball&wikiTypeId=3060&wikiId=22&genre=22"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137034/",
+      "id": 137034,
+      "name": "NBA 2K15",
+      "site_detail_url": "http://www.giantbomb.com/nba-2k15/3030-45334/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137035/",
+      "id": 137035,
+      "name": "NBA 2K15",
+      "site_detail_url": "http://www.giantbomb.com/nba-2k15/3030-45334/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137036/",
+      "id": 137036,
+      "name": "NBA 2K15",
+      "site_detail_url": "http://www.giantbomb.com/nba-2k15/3030-45334/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137037/",
+      "id": 137037,
+      "name": "NBA 2K15",
+      "site_detail_url": "http://www.giantbomb.com/nba-2k15/3030-45334/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137038/",
+      "id": 137038,
+      "name": "NBA 2K15",
+      "site_detail_url": "http://www.giantbomb.com/nba-2k15/3030-45334/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138058/",
+      "id": 138058,
+      "name": "NBA 2K15",
+      "site_detail_url": "http://www.giantbomb.com/nba-2k15/3030-45334/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138059/",
+      "id": 138059,
+      "name": "NBA 2K15",
+      "site_detail_url": "http://www.giantbomb.com/nba-2k15/3030-45334/releases/"
+    }
+  ]
+}

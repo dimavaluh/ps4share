@@ -1,0 +1,36 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-52339/",
+  "deck": "A space-flight game using platforming and physics for the PS4.",
+  "id": 52339,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2815608-0070687268-02_pl.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2815608-0070687268-02_pl.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2815608-0070687268-02_pl.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2815608-0070687268-02_pl.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2815608-0070687268-02_pl.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2815608-0070687268-02_pl.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2815608-0070687268-02_pl.png"
+  },
+  "name": "Amazing Discoveries In Outer Space",
+  "original_release_date": "2016-02-02 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/amazing-discoveries-in-outer-space/3030-52339/",
+  "images": [],
+  "videos": [],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145885/",
+      "id": 145885,
+      "name": "Amazing Discoveries In Outer Space",
+      "site_detail_url": "http://www.giantbomb.com/amazing-discoveries-in-outer-space/3030-52339/releases/"
+    }
+  ]
+}

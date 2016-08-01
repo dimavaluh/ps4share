@@ -1,0 +1,94 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-45722/",
+  "deck": "An indie 2D pixel art-styled pirate-themed, roguelike, randomly generated open world game.",
+  "id": 45722,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2611043-header.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2611043-header.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2611043-header.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2611043-header.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2611043-header.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2611043-header.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2611043-header.jpg"
+  },
+  "name": "Pixel Piracy",
+  "original_release_date": "2014-07-30 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/pixel-piracy/3030-45722/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/15/152870/2611043-header.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/15/152870/2611043-header.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/15/152870/2611043-header.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/15/152870/2611043-header.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/15/152870/2611043-header.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/15/152870/2611043-header.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/15/152870/2611043-header.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-2/",
+      "id": 2,
+      "name": "Strategy",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=strategy&wikiTypeId=3060&wikiId=2&genre=2"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-7/",
+      "id": 7,
+      "name": "Simulation",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=simulation&wikiTypeId=3060&wikiId=7&genre=7"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136598/",
+      "id": 136598,
+      "name": "Pixel Piracy (Steam)",
+      "site_detail_url": "http://www.giantbomb.com/pixel-piracy/3030-45722/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146068/",
+      "id": 146068,
+      "name": "Pixel Piracy",
+      "site_detail_url": "http://www.giantbomb.com/pixel-piracy/3030-45722/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146123/",
+      "id": 146123,
+      "name": "Pixel Piracy",
+      "site_detail_url": "http://www.giantbomb.com/pixel-piracy/3030-45722/releases/"
+    }
+  ]
+}

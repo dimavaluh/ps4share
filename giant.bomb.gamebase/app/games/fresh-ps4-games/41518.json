@@ -1,0 +1,731 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-41518/",
+  "deck": "The sixth main installment of the Assassin's Creed franchise, set in the Caribbean during the age of piracy in the early 18th century. Players explore the memories of Edward Kenway, a charismatic pirate (turned reckless Assassin) and the grandfather of Connor Kenway, the protagonist of Assassin's Creed III.",
+  "id": 41518,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2557106-ac4clean.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2557106-ac4clean.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2557106-ac4clean.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2557106-ac4clean.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2557106-ac4clean.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2557106-ac4clean.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2557106-ac4clean.jpg"
+  },
+  "name": "Assassin's Creed IV: Black Flag",
+  "original_release_date": "2013-10-29 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+      "id": 86,
+      "name": "Xbox 360 Games Store",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+      "abbreviation": "XBGS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2608429-ac4-black-flag.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2608429-ac4-black-flag.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2608429-ac4-black-flag.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2608429-ac4-black-flag.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2608429-ac4-black-flag.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2608429-ac4-black-flag.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2608429-ac4-black-flag.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2606165-8943462648-wiiu_.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2606165-8943462648-wiiu_.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2606165-8943462648-wiiu_.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2606165-8943462648-wiiu_.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2606165-8943462648-wiiu_.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2606165-8943462648-wiiu_.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2606165-8943462648-wiiu_.jpg",
+      "tags": "All Images, Wii U Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2606164-6271073929-wiiu_.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2606164-6271073929-wiiu_.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2606164-6271073929-wiiu_.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2606164-6271073929-wiiu_.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2606164-6271073929-wiiu_.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2606164-6271073929-wiiu_.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2606164-6271073929-wiiu_.jpg",
+      "tags": "All Images, Wii U Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2606162-1106511180-wiiu_.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2606162-1106511180-wiiu_.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2606162-1106511180-wiiu_.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2606162-1106511180-wiiu_.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2606162-1106511180-wiiu_.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2606162-1106511180-wiiu_.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2606162-1106511180-wiiu_.jpg",
+      "tags": "All Images, Wii U Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/20/205244/2590396-4602894319-ac4bf.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/20/205244/2590396-4602894319-ac4bf.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/20/205244/2590396-4602894319-ac4bf.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/20/205244/2590396-4602894319-ac4bf.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/20/205244/2590396-4602894319-ac4bf.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/20/205244/2590396-4602894319-ac4bf.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/20/205244/2590396-4602894319-ac4bf.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/20/205244/2590395-4038878947-ac4bf.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/20/205244/2590395-4038878947-ac4bf.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/20/205244/2590395-4038878947-ac4bf.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/20/205244/2590395-4038878947-ac4bf.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/20/205244/2590395-4038878947-ac4bf.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/20/205244/2590395-4038878947-ac4bf.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/20/205244/2590395-4038878947-ac4bf.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/20/205244/2590393-3146400518-ac4bf.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/20/205244/2590393-3146400518-ac4bf.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/20/205244/2590393-3146400518-ac4bf.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/20/205244/2590393-3146400518-ac4bf.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/20/205244/2590393-3146400518-ac4bf.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/20/205244/2590393-3146400518-ac4bf.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/20/205244/2590393-3146400518-ac4bf.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28122/2578672-bbe4ifmimaalf5w.jpg+orig.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28122/2578672-bbe4ifmimaalf5w.jpg+orig.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28122/2578672-bbe4ifmimaalf5w.jpg+orig.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28122/2578672-bbe4ifmimaalf5w.jpg+orig.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28122/2578672-bbe4ifmimaalf5w.jpg+orig.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28122/2578672-bbe4ifmimaalf5w.jpg+orig.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28122/2578672-bbe4ifmimaalf5w.jpg+orig.jpg",
+      "tags": "All Images, Screenshots, ps4"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28122/2578671-thunder.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28122/2578671-thunder.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28122/2578671-thunder.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28122/2578671-thunder.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28122/2578671-thunder.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28122/2578671-thunder.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28122/2578671-thunder.jpg",
+      "tags": "All Images, Screenshots, ps4"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28122/2578670-thunderbattle.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28122/2578670-thunderbattle.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28122/2578670-thunderbattle.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28122/2578670-thunderbattle.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28122/2578670-thunderbattle.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28122/2578670-thunderbattle.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28122/2578670-thunderbattle.jpg",
+      "tags": "All Images, Screenshots, ps4"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/212135/2574023-assassins-creed-iv-black-flag+%281%29.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/21/212135/2574023-assassins-creed-iv-black-flag+%281%29.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/212135/2574023-assassins-creed-iv-black-flag+%281%29.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/21/212135/2574023-assassins-creed-iv-black-flag+%281%29.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/21/212135/2574023-assassins-creed-iv-black-flag+%281%29.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/21/212135/2574023-assassins-creed-iv-black-flag+%281%29.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/212135/2574023-assassins-creed-iv-black-flag+%281%29.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2571802-assassin%27s+creed+iv+puppies%21.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2571802-assassin%27s+creed+iv+puppies%21.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2571802-assassin%27s+creed+iv+puppies%21.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2571802-assassin%27s+creed+iv+puppies%21.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/75926/2571802-assassin%27s+creed+iv+puppies%21.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/75926/2571802-assassin%27s+creed+iv+puppies%21.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/75926/2571802-assassin%27s+creed+iv+puppies%21.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2571791-assassin%27s+creed+iv+%28pc%29+3.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2571791-assassin%27s+creed+iv+%28pc%29+3.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2571791-assassin%27s+creed+iv+%28pc%29+3.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2571791-assassin%27s+creed+iv+%28pc%29+3.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/75926/2571791-assassin%27s+creed+iv+%28pc%29+3.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/75926/2571791-assassin%27s+creed+iv+%28pc%29+3.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/75926/2571791-assassin%27s+creed+iv+%28pc%29+3.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2571790-assassin%27s+creed+iv+%28pc%29+2.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2571790-assassin%27s+creed+iv+%28pc%29+2.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2571790-assassin%27s+creed+iv+%28pc%29+2.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2571790-assassin%27s+creed+iv+%28pc%29+2.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/75926/2571790-assassin%27s+creed+iv+%28pc%29+2.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/75926/2571790-assassin%27s+creed+iv+%28pc%29+2.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/75926/2571790-assassin%27s+creed+iv+%28pc%29+2.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2571788-assassin%27s+creed+iv+%28pc%29.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2571788-assassin%27s+creed+iv+%28pc%29.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2571788-assassin%27s+creed+iv+%28pc%29.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2571788-assassin%27s+creed+iv+%28pc%29.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/75926/2571788-assassin%27s+creed+iv+%28pc%29.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/75926/2571788-assassin%27s+creed+iv+%28pc%29.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/75926/2571788-assassin%27s+creed+iv+%28pc%29.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2557106-ac4clean.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2557106-ac4clean.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2557106-ac4clean.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2557106-ac4clean.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2557106-ac4clean.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2557106-ac4clean.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2557106-ac4clean.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2549832-box_ac4bf.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2549832-box_ac4bf.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2549832-box_ac4bf.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2549832-box_ac4bf.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2549832-box_ac4bf.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2549832-box_ac4bf.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2549832-box_ac4bf.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2542138-dsc05453.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2542138-dsc05453.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2542138-dsc05453.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2542138-dsc05453.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2542138-dsc05453.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2542138-dsc05453.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2542138-dsc05453.jpg",
+      "tags": "All Images, Ubisoft, PAX Prime 2013, PAX Prime 2013 Booth, PAX Guide Icons"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2542133-dsc05195.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2542133-dsc05195.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2542133-dsc05195.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2542133-dsc05195.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2542133-dsc05195.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2542133-dsc05195.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2542133-dsc05195.jpg",
+      "tags": "All Images, Ubisoft, PAX Prime 2013, PAX Prime 2013 Booth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2542128-dsc05190.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2542128-dsc05190.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2542128-dsc05190.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2542128-dsc05190.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2542128-dsc05190.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2542128-dsc05190.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2542128-dsc05190.jpg",
+      "tags": "All Images, Ubisoft, PAX Prime 2013, PAX Prime 2013 Booth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2542127-dsc05189.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2542127-dsc05189.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2542127-dsc05189.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2542127-dsc05189.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2542127-dsc05189.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2542127-dsc05189.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2542127-dsc05189.jpg",
+      "tags": "All Images, Ubisoft, PAX Prime 2013, PAX Prime 2013 Booth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2541904-dsc05250.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2541904-dsc05250.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2541904-dsc05250.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2541904-dsc05250.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2541904-dsc05250.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2541904-dsc05250.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2541904-dsc05250.jpg",
+      "tags": "All Images, NVIDIA, PAX Prime 2013 Booth, PAX Prime 2013"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/99864/2497069-81qaojqankl._sl1500_.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/99864/2497069-81qaojqankl._sl1500_.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/99864/2497069-81qaojqankl._sl1500_.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/99864/2497069-81qaojqankl._sl1500_.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/99864/2497069-81qaojqankl._sl1500_.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/99864/2497069-81qaojqankl._sl1500_.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/99864/2497069-81qaojqankl._sl1500_.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495913-assassins-creed-iv-black-flag_2013_06-10-13_008.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495913-assassins-creed-iv-black-flag_2013_06-10-13_008.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495913-assassins-creed-iv-black-flag_2013_06-10-13_008.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495913-assassins-creed-iv-black-flag_2013_06-10-13_008.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495913-assassins-creed-iv-black-flag_2013_06-10-13_008.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495913-assassins-creed-iv-black-flag_2013_06-10-13_008.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495913-assassins-creed-iv-black-flag_2013_06-10-13_008.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495912-assassins-creed-iv-black-flag_2013_06-10-13_007.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495912-assassins-creed-iv-black-flag_2013_06-10-13_007.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495912-assassins-creed-iv-black-flag_2013_06-10-13_007.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495912-assassins-creed-iv-black-flag_2013_06-10-13_007.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495912-assassins-creed-iv-black-flag_2013_06-10-13_007.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495912-assassins-creed-iv-black-flag_2013_06-10-13_007.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495912-assassins-creed-iv-black-flag_2013_06-10-13_007.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495911-assassins-creed-iv-black-flag_2013_06-10-13_006.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495911-assassins-creed-iv-black-flag_2013_06-10-13_006.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495911-assassins-creed-iv-black-flag_2013_06-10-13_006.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495911-assassins-creed-iv-black-flag_2013_06-10-13_006.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495911-assassins-creed-iv-black-flag_2013_06-10-13_006.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495911-assassins-creed-iv-black-flag_2013_06-10-13_006.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495911-assassins-creed-iv-black-flag_2013_06-10-13_006.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495910-assassins-creed-iv-black-flag_2013_06-10-13_005.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495910-assassins-creed-iv-black-flag_2013_06-10-13_005.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495910-assassins-creed-iv-black-flag_2013_06-10-13_005.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495910-assassins-creed-iv-black-flag_2013_06-10-13_005.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495910-assassins-creed-iv-black-flag_2013_06-10-13_005.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495910-assassins-creed-iv-black-flag_2013_06-10-13_005.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495910-assassins-creed-iv-black-flag_2013_06-10-13_005.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495909-assassins-creed-iv-black-flag_2013_06-10-13_004.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495909-assassins-creed-iv-black-flag_2013_06-10-13_004.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495909-assassins-creed-iv-black-flag_2013_06-10-13_004.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495909-assassins-creed-iv-black-flag_2013_06-10-13_004.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495909-assassins-creed-iv-black-flag_2013_06-10-13_004.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495909-assassins-creed-iv-black-flag_2013_06-10-13_004.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495909-assassins-creed-iv-black-flag_2013_06-10-13_004.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495908-assassins-creed-iv-black-flag_2013_06-10-13_003.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495908-assassins-creed-iv-black-flag_2013_06-10-13_003.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495908-assassins-creed-iv-black-flag_2013_06-10-13_003.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495908-assassins-creed-iv-black-flag_2013_06-10-13_003.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495908-assassins-creed-iv-black-flag_2013_06-10-13_003.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495908-assassins-creed-iv-black-flag_2013_06-10-13_003.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495908-assassins-creed-iv-black-flag_2013_06-10-13_003.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495907-assassins-creed-iv-black-flag_2013_06-10-13_002.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495907-assassins-creed-iv-black-flag_2013_06-10-13_002.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495907-assassins-creed-iv-black-flag_2013_06-10-13_002.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495907-assassins-creed-iv-black-flag_2013_06-10-13_002.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495907-assassins-creed-iv-black-flag_2013_06-10-13_002.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495907-assassins-creed-iv-black-flag_2013_06-10-13_002.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495907-assassins-creed-iv-black-flag_2013_06-10-13_002.jpg",
+      "tags": "All Images, Screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7100/",
+      "id": 7100,
+      "name": "Avast Ye, Mateys! We've Got Our First Assassin's Creed IV: Black Flag Trailer Comin' Aboard",
+      "site_detail_url": "http://www.giantbomb.com/videos/avast-ye-mateys-we-ve-got-our-first-assassin-s-cre/2300-7100/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7180/",
+      "id": 7180,
+      "name": "This Assassin's Creed IV Trailer Aims to Shiver Your Timbers",
+      "site_detail_url": "http://www.giantbomb.com/videos/this-assassin-s-creed-iv-trailer-aims-to-shiver-yo/2300-7180/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7359/",
+      "id": 7359,
+      "name": "Assassin's Creed IV's Latest Trailer Tells of the Golden Age of Pirates",
+      "site_detail_url": "http://www.giantbomb.com/videos/assassin-s-creed-iv-s-latest-trailer-tells-of-the-/2300-7359/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7515/",
+      "id": 7515,
+      "name": "E3 2013: Hop on Board with Assassin's Creed IV",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-hop-on-board-with-assassin-s-creed-iv/2300-7515/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7516/",
+      "id": 7516,
+      "name": "E3 2013: Arguably the Best Part of AC3 is the Focus of Assassin's Creed IV",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-arguably-the-best-part-of-ac3-is-the-focus/2300-7516/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7624/",
+      "id": 7624,
+      "name": "Here's a Narrated Runthrough of AC IV: Black Flag's E3 Demo",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-a-narrated-runthrough-of-ac-iv-black-flag-s/2300-7624/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7688/",
+      "id": 7688,
+      "name": "That's a Hammerhead Shark in Assassin's Creed IV: Black Flag",
+      "site_detail_url": "http://www.giantbomb.com/videos/that-s-a-hammerhead-shark-in-assassin-s-creed-iv-b/2300-7688/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7715/",
+      "id": 7715,
+      "name": "And Here's 13 Minutes of Assassin's Creed IV: Black Flag",
+      "site_detail_url": "http://www.giantbomb.com/videos/and-here-s-13-minutes-of-assassin-s-creed-iv-black/2300-7715/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7811/",
+      "id": 7811,
+      "name": "Assassin's Creed IV: Black Flag Teaches Us How to be Stealthy Pirates",
+      "site_detail_url": "http://www.giantbomb.com/videos/assassin-s-creed-iv-black-flag-teaches-us-how-to-b/2300-7811/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7849/",
+      "id": 7849,
+      "name": "Watch Us Watch the Sony Gamescom Press Conference",
+      "site_detail_url": "http://www.giantbomb.com/videos/watch-us-watch-the-sony-gamescom-press-conference/2300-7849/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7867/",
+      "id": 7867,
+      "name": "Captain Kenway Gets Down to Assassinatin' in This Black Flag Trailer",
+      "site_detail_url": "http://www.giantbomb.com/videos/captain-kenway-gets-down-to-assassinatin-in-this-b/2300-7867/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7885/",
+      "id": 7885,
+      "name": "The Latest Black Flag Video Walks You Through Boats Blowing Up Forts",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-latest-black-flag-video-walks-you-through-boat/2300-7885/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7903/",
+      "id": 7903,
+      "name": "Ubisoft Walks You Through Assassin's Creed IV's World",
+      "site_detail_url": "http://www.giantbomb.com/videos/ubisoft-walks-you-through-assassin-s-creed-iv-s-wo/2300-7903/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7939/",
+      "id": 7939,
+      "name": "Here's a Look Around Assassin's Creed IV's Next-Gen World",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-a-look-around-assassin-s-creed-iv-s-next-ge/2300-7939/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7997/",
+      "id": 7997,
+      "name": "Here Are All the Pirates You'll Meet in Assassin's Creed IV",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-are-all-the-pirates-you-ll-meet-in-assassin-s/2300-7997/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8014/",
+      "id": 8014,
+      "name": "You Can Do Heists in Assassin's Creed IV Too, Apparently",
+      "site_detail_url": "http://www.giantbomb.com/videos/you-can-do-heists-in-assassin-s-creed-iv-too-appar/2300-8014/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8032/",
+      "id": 8032,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 10/04/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-10-04-2013/2300-8032/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8045/",
+      "id": 8045,
+      "name": "Assassin's Creed IV's First DLC Has a Trailer",
+      "site_detail_url": "http://www.giantbomb.com/videos/assassin-s-creed-iv-s-first-dlc-has-a-trailer/2300-8045/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8131/",
+      "id": 8131,
+      "name": "Quick Look: Assassin's Creed IV: Black Flag",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-assassin-s-creed-iv-black-flag/2300-8131/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8238/",
+      "id": 8238,
+      "name": "PlayStation 4 Launchstravaganza: Part 04",
+      "site_detail_url": "http://www.giantbomb.com/videos/playstation-4-launchstravaganza-part-04/2300-8238/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8259/",
+      "id": 8259,
+      "name": "Bombin' the A.M. With Dan Teasdale",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-dan-teasdale/2300-8259/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8268/",
+      "id": 8268,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 12/02/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-12-02-2013/2300-8268/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8322/",
+      "id": 8322,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 12/20/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-12-20-2013/2300-8322/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8324/",
+      "id": 8324,
+      "name": "Game of the Year 2013: Day One Recap",
+      "site_detail_url": "http://www.giantbomb.com/videos/game-of-the-year-2013-day-one-recap/2300-8324/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125659/",
+      "id": 125659,
+      "name": "Assassin's Creed IV: Black Flag",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125660/",
+      "id": 125660,
+      "name": "Assassin's Creed IV: Black Flag",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125661/",
+      "id": 125661,
+      "name": "Assassin's Creed IV: Black Flag",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125662/",
+      "id": 125662,
+      "name": "Assassin's Creed IV: Black Flag",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125663/",
+      "id": 125663,
+      "name": "Assassin's Creed IV: Black Flag",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125664/",
+      "id": 125664,
+      "name": "Assassin's Creed IV: Black Flag",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125665/",
+      "id": 125665,
+      "name": "Assassin's Creed IV: Black Flag",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125666/",
+      "id": 125666,
+      "name": "Assassin's Creed IV: Black Flag",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125700/",
+      "id": 125700,
+      "name": "Assassin's Creed IV: Black Flag",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125701/",
+      "id": 125701,
+      "name": "Assassin's Creed IV: Black Flag",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125702/",
+      "id": 125702,
+      "name": "Assassin's Creed IV: Black Flag",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128069/",
+      "id": 128069,
+      "name": "Assassin's Creed IV: Black Flag",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128070/",
+      "id": 128070,
+      "name": "Assassin's Creed IV: Black Flag",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128153/",
+      "id": 128153,
+      "name": "Assassin's Creed IV: Black Flag (Buccaneer Edition)",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128154/",
+      "id": 128154,
+      "name": "Assassin's Creed IV: Black Flag (Buccaneer Edition)",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128155/",
+      "id": 128155,
+      "name": "Assassin's Creed IV: Black Flag (Buccaneer Edition)",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128156/",
+      "id": 128156,
+      "name": "Assassin's Creed IV: Black Flag (Buccaneer Edition)",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128157/",
+      "id": 128157,
+      "name": "Assassin's Creed IV: Black Flag (Buccaneer Edition)",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128158/",
+      "id": 128158,
+      "name": "Assassin's Creed IV: Black Flag (Black Chest Edition)",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128159/",
+      "id": 128159,
+      "name": "Assassin's Creed IV: Black Flag (Black Chest Edition)",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128160/",
+      "id": 128160,
+      "name": "Assassin's Creed IV: Black Flag (Black Chest Edition)",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128161/",
+      "id": 128161,
+      "name": "Assassin's Creed IV: Black Flag (Black Chest Edition)",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128162/",
+      "id": 128162,
+      "name": "Assassin's Creed IV: Black Flag (Black Chest Edition)",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128163/",
+      "id": 128163,
+      "name": "Assassin's Creed IV: Black Flag",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128164/",
+      "id": 128164,
+      "name": "Assassin's Creed IV: Black Flag",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128499/",
+      "id": 128499,
+      "name": "Assassin's Creed IV: Black Flag",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-129043/",
+      "id": 129043,
+      "name": "Assassin's Creed IV: Black Flag Limited Edition",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-129742/",
+      "id": 129742,
+      "name": "Assassin's Creed IV: Black Flag",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-131389/",
+      "id": 131389,
+      "name": "Assassin's Creed IV: Black Flag (Skull Edition)",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-131390/",
+      "id": 131390,
+      "name": "Assassin's Creed IV: Black Flag (Special Edition)",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-131391/",
+      "id": 131391,
+      "name": "Assassin's Creed IV: Black Flag (Special Edition)",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-131392/",
+      "id": 131392,
+      "name": "Assassin's Creed IV: Black Flag (Skull Edition)",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-iv-black-flag/3030-41518/releases/"
+    }
+  ]
+}

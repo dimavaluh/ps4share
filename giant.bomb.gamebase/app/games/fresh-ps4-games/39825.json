@@ -1,0 +1,430 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-39825/",
+  "deck": "Slender: The Arrival is a horror adventure game. It is the first official sequel to Slender: The Eight Pages.",
+  "id": 39825,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2593790-box_sta.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2593790-box_sta.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2593790-box_sta.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2593790-box_sta.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2593790-box_sta.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2593790-box_sta.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2593790-box_sta.png"
+  },
+  "name": "Slender: The Arrival",
+  "original_release_date": "2013-03-26 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+      "id": 86,
+      "name": "Xbox 360 Games Store",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+      "abbreviation": "XBGS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/slender-the-arrival/3030-39825/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2679493-dsc07071.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2679493-dsc07071.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2679493-dsc07071.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2679493-dsc07071.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2679493-dsc07071.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2679493-dsc07071.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2679493-dsc07071.jpg",
+      "tags": "All Images, Midnight City, PAX Prime 2014 Booth, PAX Prime 2014"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2593790-box_sta.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2593790-box_sta.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2593790-box_sta.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2593790-box_sta.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2593790-box_sta.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2593790-box_sta.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2593790-box_sta.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591858-025539.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591858-025539.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591858-025539.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591858-025539.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2591858-025539.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2591858-025539.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2591858-025539.jpg",
+      "tags": "All Images, Screenshots, 360 Screenshots, Slender: The Arrival"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591857-025538.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591857-025538.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591857-025538.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591857-025538.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2591857-025538.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2591857-025538.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2591857-025538.jpg",
+      "tags": "All Images, Screenshots, 360 Screenshots, Slender: The Arrival"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591856-025537.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591856-025537.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591856-025537.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591856-025537.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2591856-025537.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2591856-025537.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2591856-025537.jpg",
+      "tags": "All Images, Screenshots, 360 Screenshots, Slender: The Arrival"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591855-025536.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591855-025536.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591855-025536.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591855-025536.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2591855-025536.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2591855-025536.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2591855-025536.jpg",
+      "tags": "All Images, Screenshots, 360 Screenshots, Slender: The Arrival"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591853-025535.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591853-025535.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591853-025535.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591853-025535.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2591853-025535.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2591853-025535.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2591853-025535.jpg",
+      "tags": "All Images, Screenshots, 360 Screenshots, Slender: The Arrival"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591852-025534.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591852-025534.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591852-025534.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591852-025534.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2591852-025534.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2591852-025534.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2591852-025534.jpg",
+      "tags": "All Images, Screenshots, 360 Screenshots, Slender: The Arrival"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591851-025533.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591851-025533.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591851-025533.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591851-025533.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2591851-025533.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2591851-025533.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2591851-025533.jpg",
+      "tags": "All Images, Screenshots, 360 Screenshots, Slender: The Arrival"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591850-025532.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591850-025532.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591850-025532.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591850-025532.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2591850-025532.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2591850-025532.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2591850-025532.jpg",
+      "tags": "All Images, Screenshots, 360 Screenshots, Slender: The Arrival"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591849-025531.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591849-025531.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591849-025531.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591849-025531.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2591849-025531.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2591849-025531.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2591849-025531.jpg",
+      "tags": "All Images, Screenshots, 360 Screenshots, Slender: The Arrival"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591848-025530.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591848-025530.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591848-025530.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591848-025530.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2591848-025530.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2591848-025530.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2591848-025530.jpg",
+      "tags": "All Images, Screenshots, 360 Screenshots, Slender: The Arrival"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591847-025529.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591847-025529.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591847-025529.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591847-025529.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2591847-025529.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2591847-025529.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2591847-025529.jpg",
+      "tags": "All Images, Screenshots, 360 Screenshots, Slender: The Arrival"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591846-025528.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591846-025528.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2591846-025528.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2591846-025528.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2591846-025528.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2591846-025528.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2591846-025528.jpg",
+      "tags": "All Images, Screenshots, 360 Screenshots, Slender: The Arrival"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93770/2451204-slender-the-arrival-www.gamecover.com.br.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93770/2451204-slender-the-arrival-www.gamecover.com.br.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93770/2451204-slender-the-arrival-www.gamecover.com.br.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93770/2451204-slender-the-arrival-www.gamecover.com.br.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93770/2451204-slender-the-arrival-www.gamecover.com.br.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93770/2451204-slender-the-arrival-www.gamecover.com.br.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93770/2451204-slender-the-arrival-www.gamecover.com.br.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/11/118911/2433259-60717_355475481205765_1910311248_n.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/11/118911/2433259-60717_355475481205765_1910311248_n.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/11/118911/2433259-60717_355475481205765_1910311248_n.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/11/118911/2433259-60717_355475481205765_1910311248_n.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/11/118911/2433259-60717_355475481205765_1910311248_n.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/11/118911/2433259-60717_355475481205765_1910311248_n.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/11/118911/2433259-60717_355475481205765_1910311248_n.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/168238/2400034-maskedman.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/168238/2400034-maskedman.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/168238/2400034-maskedman.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/168238/2400034-maskedman.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/168238/2400034-maskedman.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/168238/2400034-maskedman.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/168238/2400034-maskedman.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2380183-slender.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2380183-slender.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2380183-slender.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2380183-slender.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2380183-slender.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2380183-slender.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2380183-slender.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2380182-houseoutside.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2380182-houseoutside.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2380182-houseoutside.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2380182-houseoutside.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2380182-houseoutside.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2380182-houseoutside.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2380182-houseoutside.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2380181-houseinside.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2380181-houseinside.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2380181-houseinside.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2380181-houseinside.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2380181-houseinside.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2380181-houseinside.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2380181-houseinside.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2380180-factory.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2380180-factory.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2380180-factory.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2380180-factory.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2380180-factory.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2380180-factory.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2380180-factory.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2347105-slender_the_arrival_promo_oct18_02.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2347105-slender_the_arrival_promo_oct18_02.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2347105-slender_the_arrival_promo_oct18_02.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2347105-slender_the_arrival_promo_oct18_02.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2347105-slender_the_arrival_promo_oct18_02.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2347105-slender_the_arrival_promo_oct18_02.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2347105-slender_the_arrival_promo_oct18_02.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2347101-slender_the_arrival_promo_oct18_01.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2347101-slender_the_arrival_promo_oct18_01.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2347101-slender_the_arrival_promo_oct18_01.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2347101-slender_the_arrival_promo_oct18_01.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2347101-slender_the_arrival_promo_oct18_01.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2347101-slender_the_arrival_promo_oct18_01.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2347101-slender_the_arrival_promo_oct18_01.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2341677-slendermac.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2341677-slendermac.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2341677-slendermac.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2341677-slendermac.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2341677-slendermac.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2341677-slendermac.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2341677-slendermac.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2329236-slender_2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2329236-slender_2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2329236-slender_2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2329236-slender_2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2329236-slender_2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2329236-slender_2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2329236-slender_2.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2329235-slender_1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2329235-slender_1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2329235-slender_1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2329235-slender_1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2329235-slender_1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2329235-slender_1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2329235-slender_1.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2329234-slender2.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2329234-slender2.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2329234-slender2.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2329234-slender2.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2329234-slender2.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2329234-slender2.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2329234-slender2.png",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7209/",
+      "id": 7209,
+      "name": "Quick Look: Slender: The Arrival",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-slender-the-arrival/2300-7209/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7210/",
+      "id": 7210,
+      "name": "I Love Mondays 04/01/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/i-love-mondays-04-01-2013/2300-7210/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7277/",
+      "id": 7277,
+      "name": "Spookin' With Scoops 04/18/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/spookin-with-scoops-04-18-2013/2300-7277/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7732/",
+      "id": 7732,
+      "name": "Spookin' With Scoops 07/25/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/spookin-with-scoops-07-25-2013/2300-7732/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9425/",
+      "id": 9425,
+      "name": "Slender: The Arrival Is Coming to Consoles This Month",
+      "site_detail_url": "http://www.giantbomb.com/videos/slender-the-arrival-is-coming-to-consoles-this-mon/2300-9425/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-4/",
+      "id": 4,
+      "name": "Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=adventure&wikiTypeId=3060&wikiId=4&genre=4"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125789/",
+      "id": 125789,
+      "name": "Slender: The Arrival",
+      "site_detail_url": "http://www.giantbomb.com/slender-the-arrival/3030-39825/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125790/",
+      "id": 125790,
+      "name": "Slender: The Arrival",
+      "site_detail_url": "http://www.giantbomb.com/slender-the-arrival/3030-39825/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126733/",
+      "id": 126733,
+      "name": "Slender: The Arrival (GOG)",
+      "site_detail_url": "http://www.giantbomb.com/slender-the-arrival/3030-39825/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137475/",
+      "id": 137475,
+      "name": "Slender: The Arrival",
+      "site_detail_url": "http://www.giantbomb.com/slender-the-arrival/3030-39825/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137476/",
+      "id": 137476,
+      "name": "Slender: The Arrival",
+      "site_detail_url": "http://www.giantbomb.com/slender-the-arrival/3030-39825/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140405/",
+      "id": 140405,
+      "name": "Slender: The Arrival",
+      "site_detail_url": "http://www.giantbomb.com/slender-the-arrival/3030-39825/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140406/",
+      "id": 140406,
+      "name": "Slender: The Arrival",
+      "site_detail_url": "http://www.giantbomb.com/slender-the-arrival/3030-39825/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144205/",
+      "id": 144205,
+      "name": "Slender: The Arrival",
+      "site_detail_url": "http://www.giantbomb.com/slender-the-arrival/3030-39825/releases/"
+    }
+  ]
+}

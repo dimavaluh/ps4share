@@ -1,0 +1,101 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-42934/",
+  "deck": "A persistent MMORPG set in the Warhammer 40k Universe and developed by Behaviour Interactive.",
+  "id": 42934,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2497305-0370451108-xeter.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2497305-0370451108-xeter.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2497305-0370451108-xeter.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2497305-0370451108-xeter.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2497305-0370451108-xeter.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2497305-0370451108-xeter.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2497305-0370451108-xeter.jpg"
+  },
+  "name": "Warhammer 40,000: Eternal Crusade",
+  "original_release_date": "2015-12-31 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/warhammer-40-000-eternal-crusade/3030-42934/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/15/152870/2551148-0412584806-etern.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/15/152870/2551148-0412584806-etern.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/15/152870/2551148-0412584806-etern.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/15/152870/2551148-0412584806-etern.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/15/152870/2551148-0412584806-etern.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/15/152870/2551148-0412584806-etern.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/15/152870/2551148-0412584806-etern.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/15/152870/2551147-7468591957-etern.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/15/152870/2551147-7468591957-etern.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/15/152870/2551147-7468591957-etern.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/15/152870/2551147-7468591957-etern.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/15/152870/2551147-7468591957-etern.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/15/152870/2551147-7468591957-etern.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/15/152870/2551147-7468591957-etern.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/15/152870/2551146-2431782362-etern.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/15/152870/2551146-2431782362-etern.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/15/152870/2551146-2431782362-etern.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/15/152870/2551146-2431782362-etern.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/15/152870/2551146-2431782362-etern.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/15/152870/2551146-2431782362-etern.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/15/152870/2551146-2431782362-etern.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/15/152870/2551141-2105377389-etern.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/15/152870/2551141-2105377389-etern.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/15/152870/2551141-2105377389-etern.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/15/152870/2551141-2105377389-etern.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/15/152870/2551141-2105377389-etern.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/15/152870/2551141-2105377389-etern.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/15/152870/2551141-2105377389-etern.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/15/156597/2497305-0370451108-xeter.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/15/156597/2497305-0370451108-xeter.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/15/156597/2497305-0370451108-xeter.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/15/156597/2497305-0370451108-xeter.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/15/156597/2497305-0370451108-xeter.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/15/156597/2497305-0370451108-xeter.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/15/156597/2497305-0370451108-xeter.jpg",
+      "tags": "All Images, Logo"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-16/",
+      "id": 16,
+      "name": "MMORPG",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=mmorpg&wikiTypeId=3060&wikiId=16&genre=16"
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-43535/",
+  "deck": "The fifth game in Kalypso's dictatorship simulation series. The game improves on trading, technology and research and adds competitive and cooperative multiplayer for the first time in the series.",
+  "id": 43535,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2635549-t5.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2635549-t5.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2635549-t5.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2635549-t5.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2635549-t5.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2635549-t5.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2635549-t5.jpg"
+  },
+  "name": "Tropico 5",
+  "original_release_date": "2014-05-23 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/tropico-5/3030-43535/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2635549-t5.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2635549-t5.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2635549-t5.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2635549-t5.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2635549-t5.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2635549-t5.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2635549-t5.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616217-028412.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616217-028412.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616217-028412.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616217-028412.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2616217-028412.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2616217-028412.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2616217-028412.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616216-028411.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616216-028411.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616216-028411.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616216-028411.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2616216-028411.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2616216-028411.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2616216-028411.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616215-028410.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616215-028410.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616215-028410.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616215-028410.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2616215-028410.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2616215-028410.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2616215-028410.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616214-028409.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616214-028409.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616214-028409.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616214-028409.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2616214-028409.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2616214-028409.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2616214-028409.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616213-028408.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616213-028408.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616213-028408.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616213-028408.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2616213-028408.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2616213-028408.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2616213-028408.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616212-028407.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616212-028407.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616212-028407.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616212-028407.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2616212-028407.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2616212-028407.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2616212-028407.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616211-028406.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616211-028406.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616211-028406.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616211-028406.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2616211-028406.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2616211-028406.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2616211-028406.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616210-028405.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616210-028405.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616210-028405.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616210-028405.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2616210-028405.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2616210-028405.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2616210-028405.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616209-028404.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616209-028404.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616209-028404.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616209-028404.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2616209-028404.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2616209-028404.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2616209-028404.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616208-028403.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616208-028403.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616208-028403.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616208-028403.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2616208-028403.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2616208-028403.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2616208-028403.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616207-028402.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616207-028402.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2616207-028402.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2616207-028402.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2616207-028402.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2616207-028402.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2616207-028402.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2613550-t5_usa_pc_2d.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2613550-t5_usa_pc_2d.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2613550-t5_usa_pc_2d.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2613550-t5_usa_pc_2d.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/39/2613550-t5_usa_pc_2d.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/39/2613550-t5_usa_pc_2d.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/39/2613550-t5_usa_pc_2d.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607080-027418.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607080-027418.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607080-027418.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607080-027418.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2607080-027418.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2607080-027418.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2607080-027418.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607079-027417.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607079-027417.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607079-027417.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607079-027417.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2607079-027417.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2607079-027417.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2607079-027417.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607078-027416.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607078-027416.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607078-027416.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607078-027416.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2607078-027416.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2607078-027416.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2607078-027416.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607077-027415.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607077-027415.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607077-027415.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607077-027415.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2607077-027415.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2607077-027415.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2607077-027415.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607076-027414.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607076-027414.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607076-027414.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607076-027414.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2607076-027414.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2607076-027414.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2607076-027414.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607075-027475.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607075-027475.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607075-027475.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607075-027475.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2607075-027475.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2607075-027475.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2607075-027475.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607074-027474.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607074-027474.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607074-027474.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607074-027474.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2607074-027474.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2607074-027474.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2607074-027474.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607073-027473.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607073-027473.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607073-027473.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607073-027473.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2607073-027473.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2607073-027473.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2607073-027473.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607072-027472.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607072-027472.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607072-027472.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607072-027472.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2607072-027472.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2607072-027472.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2607072-027472.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607071-027471.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607071-027471.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607071-027471.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607071-027471.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2607071-027471.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2607071-027471.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2607071-027471.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607070-027470.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607070-027470.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607070-027470.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607070-027470.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2607070-027470.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2607070-027470.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2607070-027470.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607069-027469.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607069-027469.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607069-027469.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607069-027469.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2607069-027469.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2607069-027469.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2607069-027469.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607068-027468.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607068-027468.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607068-027468.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607068-027468.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2607068-027468.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2607068-027468.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2607068-027468.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607067-027467.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607067-027467.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607067-027467.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607067-027467.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2607067-027467.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2607067-027467.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2607067-027467.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607066-027466.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607066-027466.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607066-027466.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607066-027466.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2607066-027466.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2607066-027466.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2607066-027466.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607065-027465.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607065-027465.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607065-027465.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607065-027465.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2607065-027465.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2607065-027465.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2607065-027465.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607064-027464.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607064-027464.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2607064-027464.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2607064-027464.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2607064-027464.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2607064-027464.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2607064-027464.jpg",
+      "tags": "All Images, Screenshots, Tropico 5"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7822/",
+      "id": 7822,
+      "name": "El Presidente Returns in Tropico 5",
+      "site_detail_url": "http://www.giantbomb.com/videos/el-presidente-returns-in-tropico-5/2300-7822/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8597/",
+      "id": 8597,
+      "name": "Here's Your First Glimpse of Tropico 5's Gameplay in Action",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-your-first-glimpse-of-tropico-5-s-gameplay-/2300-8597/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8675/",
+      "id": 8675,
+      "name": "And Now Here's Tropico 5 Doing Pirates of the Caribbean for Some Reason",
+      "site_detail_url": "http://www.giantbomb.com/videos/and-now-here-s-tropico-5-doing-pirates-of-the-cari/2300-8675/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8764/",
+      "id": 8764,
+      "name": "Tropico 5 Takes You Through the Ages",
+      "site_detail_url": "http://www.giantbomb.com/videos/tropico-5-takes-you-through-the-ages/2300-8764/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-7/",
+      "id": 7,
+      "name": "Simulation",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=simulation&wikiTypeId=3060&wikiId=7&genre=7"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134527/",
+      "id": 134527,
+      "name": "Tropico 5",
+      "site_detail_url": "http://www.giantbomb.com/tropico-5/3030-43535/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140145/",
+      "id": 140145,
+      "name": "Tropico 5",
+      "site_detail_url": "http://www.giantbomb.com/tropico-5/3030-43535/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140146/",
+      "id": 140146,
+      "name": "Tropico 5",
+      "site_detail_url": "http://www.giantbomb.com/tropico-5/3030-43535/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141346/",
+      "id": 141346,
+      "name": "Tropico 5",
+      "site_detail_url": "http://www.giantbomb.com/tropico-5/3030-43535/releases/"
+    }
+  ]
+}

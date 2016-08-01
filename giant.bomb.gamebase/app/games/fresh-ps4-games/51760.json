@@ -1,0 +1,76 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-51760/",
+  "deck": "A collection of the six original Bit.Trip games for the PS3, PS4, and Vita.",
+  "id": 51760,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2803108-bit%20trip.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2803108-bit%20trip.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2803108-bit%20trip.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2803108-bit%20trip.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2803108-bit%20trip.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2803108-bit%20trip.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2803108-bit%20trip.jpg"
+  },
+  "name": "The BIT.TRIP",
+  "original_release_date": "2015-12-05 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/the-bittrip/3030-51760/",
+  "images": [],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-15/",
+      "id": 15,
+      "name": "Compilation",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=compilation&wikiTypeId=3060&wikiId=15&genre=15"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145136/",
+      "id": 145136,
+      "name": "The BIT.TRIP",
+      "site_detail_url": "http://www.giantbomb.com/the-bittrip/3030-51760/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145137/",
+      "id": 145137,
+      "name": "The BIT.TRIP",
+      "site_detail_url": "http://www.giantbomb.com/the-bittrip/3030-51760/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145162/",
+      "id": 145162,
+      "name": "The BIT.TRIP",
+      "site_detail_url": "http://www.giantbomb.com/the-bittrip/3030-51760/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145163/",
+      "id": 145163,
+      "name": "The BIT.TRIP",
+      "site_detail_url": "http://www.giantbomb.com/the-bittrip/3030-51760/releases/"
+    }
+  ]
+}

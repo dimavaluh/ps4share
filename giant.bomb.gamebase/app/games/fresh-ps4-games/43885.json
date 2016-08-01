@@ -1,0 +1,285 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-43885/",
+  "deck": "A 2D puzzle adventure from Ubisoft, set against the backdrop of World War I.",
+  "id": 43885,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2664006-7158019745-VH-BA.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2664006-7158019745-VH-BA.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2664006-7158019745-VH-BA.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2664006-7158019745-VH-BA.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2664006-7158019745-VH-BA.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2664006-7158019745-VH-BA.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2664006-7158019745-VH-BA.jpg"
+  },
+  "name": "Valiant Hearts: The Great War",
+  "original_release_date": "2014-06-24 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+      "id": 86,
+      "name": "Xbox 360 Games Store",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+      "abbreviation": "XBGS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-123/",
+      "id": 123,
+      "name": "Android",
+      "site_detail_url": "http://www.giantbomb.com/android/3045-123/",
+      "abbreviation": "ANDR"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/valiant-hearts-the-great-war/3030-43885/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/81005/2756914-14594606401_2bc1057c4a_o.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/81005/2756914-14594606401_2bc1057c4a_o.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/81005/2756914-14594606401_2bc1057c4a_o.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/81005/2756914-14594606401_2bc1057c4a_o.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/81005/2756914-14594606401_2bc1057c4a_o.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/81005/2756914-14594606401_2bc1057c4a_o.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/81005/2756914-14594606401_2bc1057c4a_o.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2664006-7158019745-VH-BA.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2664006-7158019745-VH-BA.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2664006-7158019745-VH-BA.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2664006-7158019745-VH-BA.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/17/171291/2664006-7158019745-VH-BA.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/17/171291/2664006-7158019745-VH-BA.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/17/171291/2664006-7158019745-VH-BA.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2643100-valianthearts.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2643100-valianthearts.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2643100-valianthearts.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2643100-valianthearts.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2643100-valianthearts.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2643100-valianthearts.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2643100-valianthearts.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621351-dsc05603.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621351-dsc05603.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621351-dsc05603.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621351-dsc05603.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2621351-dsc05603.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2621351-dsc05603.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2621351-dsc05603.jpg",
+      "tags": "All Images, Ubisoft, PAX East 2014 Booth, PAX East 2014"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621350-dsc05602.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621350-dsc05602.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621350-dsc05602.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621350-dsc05602.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2621350-dsc05602.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2621350-dsc05602.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2621350-dsc05602.jpg",
+      "tags": "All Images, Ubisoft, PAX East 2014 Booth, PAX East 2014"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621349-dsc05601.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621349-dsc05601.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621349-dsc05601.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621349-dsc05601.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2621349-dsc05601.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2621349-dsc05601.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2621349-dsc05601.jpg",
+      "tags": "All Images, Ubisoft, PAX East 2014 Booth, PAX East 2014"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2544486-3900307539-frame.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2544486-3900307539-frame.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2544486-3900307539-frame.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2544486-3900307539-frame.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/17/171291/2544486-3900307539-frame.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/17/171291/2544486-3900307539-frame.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/17/171291/2544486-3900307539-frame.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2544483-8713744914-36336.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2544483-8713744914-36336.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2544483-8713744914-36336.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2544483-8713744914-36336.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/17/171291/2544483-8713744914-36336.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/17/171291/2544483-8713744914-36336.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/17/171291/2544483-8713744914-36336.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2544468-8040396853-Valia.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2544468-8040396853-Valia.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2544468-8040396853-Valia.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2544468-8040396853-Valia.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/17/171291/2544468-8040396853-Valia.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/17/171291/2544468-8040396853-Valia.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/17/171291/2544468-8040396853-Valia.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7930/",
+      "id": 7930,
+      "name": "Five Paths Cross With a Dog in Valiant Hearts: The Great War",
+      "site_detail_url": "http://www.giantbomb.com/videos/five-paths-cross-with-a-dog-in-valiant-hearts-the-/2300-7930/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8859/",
+      "id": 8859,
+      "name": "Valiant Hearts Makes a Puzzle-Adventure Game Out of World War I",
+      "site_detail_url": "http://www.giantbomb.com/videos/valiant-hearts-makes-a-puzzle-adventure-game-out-o/2300-8859/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8961/",
+      "id": 8961,
+      "name": "The Developers of Valiant Hearts: The Great War Talk About Gameplay",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-developers-of-valiant-hearts-the-great-war-tal/2300-8961/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9000/",
+      "id": 9000,
+      "name": "E3 2014: UbiArt Goes to World War I with Valiant Hearts",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2014-ubiart-goes-to-world-war-i-with-valiant-he/2300-9000/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9158/",
+      "id": 9158,
+      "name": "Quick Look: Valiant Hearts: The Great War",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-valiant-hearts-the-great-war/2300-9158/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9170/",
+      "id": 9170,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 06/27/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-06-27-2014/2300-9170/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9205/",
+      "id": 9205,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 07/11/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-07-11-2014/2300-9205/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9216/",
+      "id": 9216,
+      "name": "Bombin' the A.M. With Danielle Riendeau: 07/14/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-danielle-riendeau-07-14-2014/2300-9216/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-4/",
+      "id": 4,
+      "name": "Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=adventure&wikiTypeId=3060&wikiId=4&genre=4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-8/",
+      "id": 8,
+      "name": "Educational",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=educational&wikiTypeId=3060&wikiId=8&genre=8"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-18/",
+      "id": 18,
+      "name": "Puzzle",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=puzzle&wikiTypeId=3060&wikiId=18&genre=18"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132717/",
+      "id": 132717,
+      "name": "Valiant Hearts: The Great War",
+      "site_detail_url": "http://www.giantbomb.com/valiant-hearts-the-great-war/3030-43885/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132718/",
+      "id": 132718,
+      "name": "Valiant Hearts: The Great War",
+      "site_detail_url": "http://www.giantbomb.com/valiant-hearts-the-great-war/3030-43885/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132719/",
+      "id": 132719,
+      "name": "Valiant Hearts: The Great War",
+      "site_detail_url": "http://www.giantbomb.com/valiant-hearts-the-great-war/3030-43885/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132720/",
+      "id": 132720,
+      "name": "Valiant Hearts: The Great War",
+      "site_detail_url": "http://www.giantbomb.com/valiant-hearts-the-great-war/3030-43885/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132721/",
+      "id": 132721,
+      "name": "Valiant Hearts: The Great War",
+      "site_detail_url": "http://www.giantbomb.com/valiant-hearts-the-great-war/3030-43885/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132722/",
+      "id": 132722,
+      "name": "Valiant Hearts: The Great War",
+      "site_detail_url": "http://www.giantbomb.com/valiant-hearts-the-great-war/3030-43885/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132723/",
+      "id": 132723,
+      "name": "Valiant Hearts: The Great War",
+      "site_detail_url": "http://www.giantbomb.com/valiant-hearts-the-great-war/3030-43885/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132724/",
+      "id": 132724,
+      "name": "Valiant Hearts: The Great War",
+      "site_detail_url": "http://www.giantbomb.com/valiant-hearts-the-great-war/3030-43885/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134318/",
+      "id": 134318,
+      "name": "Valiant Hearts: The Great War",
+      "site_detail_url": "http://www.giantbomb.com/valiant-hearts-the-great-war/3030-43885/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134364/",
+      "id": 134364,
+      "name": "Valiant Hearts: The Great War",
+      "site_detail_url": "http://www.giantbomb.com/valiant-hearts-the-great-war/3030-43885/releases/"
+    }
+  ]
+}

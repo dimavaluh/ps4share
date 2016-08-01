@@ -1,0 +1,98 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-51035/",
+  "deck": "The Let's Sing franchise hops to the PlayStation 4,Xbox one and PC as well as continuing on the Wii.",
+  "id": 51035,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2786781-lets2016crop.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2786781-lets2016crop.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2786781-lets2016crop.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2786781-lets2016crop.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2786781-lets2016crop.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2786781-lets2016crop.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2786781-lets2016crop.png"
+  },
+  "name": "Let's Sing 2016",
+  "original_release_date": "2015-10-20 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-36/",
+      "id": 36,
+      "name": "Wii",
+      "site_detail_url": "http://www.giantbomb.com/wii/3045-36/",
+      "abbreviation": "Wii"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/lets-sing-2016/3030-51035/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2786781-lets2016crop.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2786781-lets2016crop.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2786781-lets2016crop.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2786781-lets2016crop.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2786781-lets2016crop.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2786781-lets2016crop.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2786781-lets2016crop.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2786779-6408313859-17842.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2786779-6408313859-17842.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2786779-6408313859-17842.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2786779-6408313859-17842.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2786779-6408313859-17842.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2786779-6408313859-17842.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2786779-6408313859-17842.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-19/",
+      "id": 19,
+      "name": "Music/Rhythm",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=musicrhythm&wikiTypeId=3060&wikiId=19&genre=19"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143932/",
+      "id": 143932,
+      "name": "Let's Sing 2016",
+      "site_detail_url": "http://www.giantbomb.com/lets-sing-2016/3030-51035/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143933/",
+      "id": 143933,
+      "name": "Let's Sing 2016",
+      "site_detail_url": "http://www.giantbomb.com/lets-sing-2016/3030-51035/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143934/",
+      "id": 143934,
+      "name": "Let's Sing 2016",
+      "site_detail_url": "http://www.giantbomb.com/lets-sing-2016/3030-51035/releases/"
+    }
+  ]
+}

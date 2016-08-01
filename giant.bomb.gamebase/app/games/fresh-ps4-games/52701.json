@@ -1,0 +1,61 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-52701/",
+  "deck": "Sniper: Ghost Warrior 3 is a first person shooter that mainly focuses on sniping like its predecessors. It is more open world this time around with different ways of going about missions.",
+  "id": 52701,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2827256-3081004.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2827256-3081004.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2827256-3081004.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2827256-3081004.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2827256-3081004.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2827256-3081004.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2827256-3081004.jpg"
+  },
+  "name": "Sniper: Ghost Warrior 3",
+  "original_release_date": "2016-06-30 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/sniper-ghost-warrior-3/3030-52701/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/23/230867/2827256-3081004.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/23/230867/2827256-3081004.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/23/230867/2827256-3081004.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/23/230867/2827256-3081004.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/23/230867/2827256-3081004.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/23/230867/2827256-3081004.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/23/230867/2827256-3081004.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-32/",
+      "id": 32,
+      "name": "First-Person Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=first-person-shooter&wikiTypeId=3060&wikiId=32&genre=32"
+    }
+  ]
+}

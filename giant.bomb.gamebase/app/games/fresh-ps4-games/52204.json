@@ -1,0 +1,55 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-52204/",
+  "deck": "An online multiplayer vehicular combat game.",
+  "id": 52204,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2812850-psn_packshot.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2812850-psn_packshot.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2812850-psn_packshot.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2812850-psn_packshot.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2812850-psn_packshot.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2812850-psn_packshot.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2812850-psn_packshot.png"
+  },
+  "name": "Hardware: Rivals",
+  "original_release_date": "2016-01-05 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/hardware-rivals/3030-52204/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/19/194982/2812850-psn_packshot.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/19/194982/2812850-psn_packshot.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/19/194982/2812850-psn_packshot.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/19/194982/2812850-psn_packshot.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/19/194982/2812850-psn_packshot.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/19/194982/2812850-psn_packshot.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/19/194982/2812850-psn_packshot.png",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-38/",
+      "id": 38,
+      "name": "Vehicular Combat",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=vehicular-combat&wikiTypeId=3060&wikiId=38&genre=38"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145540/",
+      "id": 145540,
+      "name": "Hardware: Rivals",
+      "site_detail_url": "http://www.giantbomb.com/hardware-rivals/3030-52204/releases/"
+    }
+  ]
+}

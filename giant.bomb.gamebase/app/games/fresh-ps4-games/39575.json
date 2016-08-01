@@ -1,0 +1,532 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-39575/",
+  "deck": "The stand-alone prelude to Metal Gear Solid V: The Phantom Pain, giving players a taste of the new open-world gameplay mechanics while setting up the main game's story, as Snake (Big Boss) must infiltrate a prison camp to rescue his comrades.",
+  "id": 39575,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2578540-mgsvgz.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2578540-mgsvgz.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2578540-mgsvgz.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2578540-mgsvgz.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2578540-mgsvgz.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2578540-mgsvgz.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2578540-mgsvgz.png"
+  },
+  "name": "Metal Gear Solid V: Ground Zeroes",
+  "original_release_date": "2014-03-18 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+      "id": 86,
+      "name": "Xbox 360 Games Store",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+      "abbreviation": "XBGS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/metal-gear-solid-v-ground-zeroes/3030-39575/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2610815-8_rescue.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2610815-8_rescue.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2610815-8_rescue.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2610815-8_rescue.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/30/2610815-8_rescue.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/30/2610815-8_rescue.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/30/2610815-8_rescue.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2610814-7_supporting+chopper.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2610814-7_supporting+chopper.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2610814-7_supporting+chopper.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2610814-7_supporting+chopper.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/30/2610814-7_supporting+chopper.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/30/2610814-7_supporting+chopper.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/30/2610814-7_supporting+chopper.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2610813-6_shooting.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2610813-6_shooting.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2610813-6_shooting.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2610813-6_shooting.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/30/2610813-6_shooting.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/30/2610813-6_shooting.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/30/2610813-6_shooting.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2610812-5_reflex+mode.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2610812-5_reflex+mode.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2610812-5_reflex+mode.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2610812-5_reflex+mode.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/30/2610812-5_reflex+mode.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/30/2610812-5_reflex+mode.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/30/2610812-5_reflex+mode.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2610811-4_easy.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2610811-4_easy.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2610811-4_easy.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2610811-4_easy.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/30/2610811-4_easy.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/30/2610811-4_easy.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/30/2610811-4_easy.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2610810-1_snake.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2610810-1_snake.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2610810-1_snake.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2610810-1_snake.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/30/2610810-1_snake.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/30/2610810-1_snake.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/30/2610810-1_snake.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2578540-mgsvgz.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2578540-mgsvgz.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2578540-mgsvgz.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2578540-mgsvgz.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2578540-mgsvgz.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2578540-mgsvgz.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2578540-mgsvgz.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2571200-7050285455-ljjkj.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2571200-7050285455-ljjkj.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2571200-7050285455-ljjkj.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2571200-7050285455-ljjkj.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2571200-7050285455-ljjkj.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2571200-7050285455-ljjkj.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2571200-7050285455-ljjkj.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/21836/2542388-metal_gear_solid_5_ground_zeroes_la_05.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/21836/2542388-metal_gear_solid_5_ground_zeroes_la_05.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/21836/2542388-metal_gear_solid_5_ground_zeroes_la_05.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/21836/2542388-metal_gear_solid_5_ground_zeroes_la_05.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/21836/2542388-metal_gear_solid_5_ground_zeroes_la_05.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/21836/2542388-metal_gear_solid_5_ground_zeroes_la_05.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/21836/2542388-metal_gear_solid_5_ground_zeroes_la_05.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/21836/2542387-metal_gear_solid_5_ground_zeroes_la_04.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/21836/2542387-metal_gear_solid_5_ground_zeroes_la_04.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/21836/2542387-metal_gear_solid_5_ground_zeroes_la_04.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/21836/2542387-metal_gear_solid_5_ground_zeroes_la_04.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/21836/2542387-metal_gear_solid_5_ground_zeroes_la_04.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/21836/2542387-metal_gear_solid_5_ground_zeroes_la_04.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/21836/2542387-metal_gear_solid_5_ground_zeroes_la_04.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/21836/2542386-metal_gear_solid_5_ground_zeroes_la_03.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/21836/2542386-metal_gear_solid_5_ground_zeroes_la_03.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/21836/2542386-metal_gear_solid_5_ground_zeroes_la_03.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/21836/2542386-metal_gear_solid_5_ground_zeroes_la_03.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/21836/2542386-metal_gear_solid_5_ground_zeroes_la_03.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/21836/2542386-metal_gear_solid_5_ground_zeroes_la_03.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/21836/2542386-metal_gear_solid_5_ground_zeroes_la_03.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/21836/2542385-metal_gear_solid_5_ground_zeroes_la_02.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/21836/2542385-metal_gear_solid_5_ground_zeroes_la_02.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/21836/2542385-metal_gear_solid_5_ground_zeroes_la_02.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/21836/2542385-metal_gear_solid_5_ground_zeroes_la_02.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/21836/2542385-metal_gear_solid_5_ground_zeroes_la_02.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/21836/2542385-metal_gear_solid_5_ground_zeroes_la_02.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/21836/2542385-metal_gear_solid_5_ground_zeroes_la_02.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/21836/2542384-metal_gear_solid_5_ground_zeroes_la_01.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/21836/2542384-metal_gear_solid_5_ground_zeroes_la_01.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/21836/2542384-metal_gear_solid_5_ground_zeroes_la_01.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/21836/2542384-metal_gear_solid_5_ground_zeroes_la_01.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/21836/2542384-metal_gear_solid_5_ground_zeroes_la_01.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/21836/2542384-metal_gear_solid_5_ground_zeroes_la_01.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/21836/2542384-metal_gear_solid_5_ground_zeroes_la_01.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/161989/2324565-2324561-mgszeroes.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/161989/2324565-2324561-mgszeroes.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/161989/2324565-2324561-mgszeroes.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/161989/2324565-2324561-mgszeroes.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/161989/2324565-2324561-mgszeroes.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/161989/2324565-2324561-mgszeroes.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/161989/2324565-2324561-mgszeroes.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/5006/2318820-mgs4.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/5006/2318820-mgs4.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/5006/2318820-mgs4.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/5006/2318820-mgs4.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/5006/2318820-mgs4.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/5006/2318820-mgs4.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/5006/2318820-mgs4.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/15/159209/2318258-metal_gear_solid_ground_zeroes_screenshots_1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/15/159209/2318258-metal_gear_solid_ground_zeroes_screenshots_1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/15/159209/2318258-metal_gear_solid_ground_zeroes_screenshots_1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/15/159209/2318258-metal_gear_solid_ground_zeroes_screenshots_1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/15/159209/2318258-metal_gear_solid_ground_zeroes_screenshots_1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/15/159209/2318258-metal_gear_solid_ground_zeroes_screenshots_1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/15/159209/2318258-metal_gear_solid_ground_zeroes_screenshots_1.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/15/159209/2318257-340700.gif.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/15/159209/2318257-340700.gif.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/15/159209/2318257-340700.gif.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/15/159209/2318257-340700.gif.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/15/159209/2318257-340700.gif.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/15/159209/2318257-340700.gif.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/15/159209/2318257-340700.gif.png",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/15/159209/2318256-screenshot_290088_thumb_wide620.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/15/159209/2318256-screenshot_290088_thumb_wide620.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/15/159209/2318256-screenshot_290088_thumb_wide620.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/15/159209/2318256-screenshot_290088_thumb_wide620.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/15/159209/2318256-screenshot_290088_thumb_wide620.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/15/159209/2318256-screenshot_290088_thumb_wide620.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/15/159209/2318256-screenshot_290088_thumb_wide620.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/5006/2311204-a2bcvhxcmaagpab.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/5006/2311204-a2bcvhxcmaagpab.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/5006/2311204-a2bcvhxcmaagpab.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/5006/2311204-a2bcvhxcmaagpab.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/5006/2311204-a2bcvhxcmaagpab.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/5006/2311204-a2bcvhxcmaagpab.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/5006/2311204-a2bcvhxcmaagpab.jpg",
+      "tags": "All Images, Promotional Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310394-kojima27.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310394-kojima27.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310394-kojima27.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310394-kojima27.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2310394-kojima27.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2310394-kojima27.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2310394-kojima27.jpg",
+      "tags": "All Images, Kojima Panel, PAX Prime 2012"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310393-kojima26.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310393-kojima26.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310393-kojima26.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310393-kojima26.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2310393-kojima26.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2310393-kojima26.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2310393-kojima26.jpg",
+      "tags": "All Images, Kojima Panel, PAX Prime 2012"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310392-kojima25.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310392-kojima25.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310392-kojima25.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310392-kojima25.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2310392-kojima25.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2310392-kojima25.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2310392-kojima25.jpg",
+      "tags": "All Images, Kojima Panel, PAX Prime 2012"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310391-kojima24.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310391-kojima24.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310391-kojima24.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310391-kojima24.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2310391-kojima24.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2310391-kojima24.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2310391-kojima24.jpg",
+      "tags": "All Images, Kojima Panel, PAX Prime 2012"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310390-kojima23.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310390-kojima23.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310390-kojima23.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310390-kojima23.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2310390-kojima23.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2310390-kojima23.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2310390-kojima23.jpg",
+      "tags": "All Images, Kojima Panel, PAX Prime 2012"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310389-kojima22.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310389-kojima22.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310389-kojima22.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310389-kojima22.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2310389-kojima22.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2310389-kojima22.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2310389-kojima22.jpg",
+      "tags": "All Images, Kojima Panel, PAX Prime 2012"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310387-kojima21.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310387-kojima21.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310387-kojima21.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310387-kojima21.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2310387-kojima21.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2310387-kojima21.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2310387-kojima21.jpg",
+      "tags": "All Images, Kojima Panel, PAX Prime 2012"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310386-kojima20.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310386-kojima20.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310386-kojima20.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310386-kojima20.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2310386-kojima20.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2310386-kojima20.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2310386-kojima20.jpg",
+      "tags": "All Images, Kojima Panel, PAX Prime 2012"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310385-kojima19.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310385-kojima19.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310385-kojima19.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310385-kojima19.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2310385-kojima19.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2310385-kojima19.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2310385-kojima19.jpg",
+      "tags": "All Images, Kojima Panel, PAX Prime 2012"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310384-kojima18.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310384-kojima18.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310384-kojima18.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310384-kojima18.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2310384-kojima18.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2310384-kojima18.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2310384-kojima18.jpg",
+      "tags": "All Images, Kojima Panel, PAX Prime 2012"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310383-kojima17.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310383-kojima17.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310383-kojima17.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310383-kojima17.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2310383-kojima17.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2310383-kojima17.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2310383-kojima17.jpg",
+      "tags": "All Images, Kojima Panel, PAX Prime 2012"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6519/",
+      "id": 6519,
+      "name": "Metal Gear Solid: Ground Zeroes Debut Trailer",
+      "site_detail_url": "http://www.giantbomb.com/videos/metal-gear-solid-ground-zeroes-debut-trailer/2300-6519/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6879/",
+      "id": 6879,
+      "name": "Metal Gear Solid V or The Phantom Pain or Whatever They'll Eventually Call It: Debut Trailer",
+      "site_detail_url": "http://www.giantbomb.com/videos/metal-gear-solid-v-or-the-phantom-pain-or-whatever/2300-6879/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7988/",
+      "id": 7988,
+      "name": "Metal Gear Solid: Ground Zeroes Footage, Now in English!",
+      "site_detail_url": "http://www.giantbomb.com/videos/metal-gear-solid-ground-zeroes-footage-now-in-engl/2300-7988/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8231/",
+      "id": 8231,
+      "name": "Check Out 12 Minutes of Metal Gear Solid V: Ground Zeroes in Action",
+      "site_detail_url": "http://www.giantbomb.com/videos/check-out-12-minutes-of-metal-gear-solid-v-ground-/2300-8231/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8527/",
+      "id": 8527,
+      "name": "Quick Look: Japanese PlayStation 4 Store + Games",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-japanese-playstation-4-store-games/2300-8527/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8644/",
+      "id": 8644,
+      "name": "Quick Look: Metal Gear Solid V: Ground Zeroes",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-metal-gear-solid-v-ground-zeroes/2300-8644/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8645/",
+      "id": 8645,
+      "name": "Metal Gear Solid V: Ground Zeroes Has Landed",
+      "site_detail_url": "http://www.giantbomb.com/videos/metal-gear-solid-v-ground-zeroes-has-landed/2300-8645/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8674/",
+      "id": 8674,
+      "name": "Quick Look: Metal Gear Solid V: Ground Zeroes - Extra Ops",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-metal-gear-solid-v-ground-zeroes-extra-/2300-8674/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8695/",
+      "id": 8695,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 03/31/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-03-31-2014/2300-8695/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10618/",
+      "id": 10618,
+      "name": "Metal Gear Scanlon V: Ground Zeroes",
+      "site_detail_url": "http://www.giantbomb.com/videos/metal-gear-scanlon-v-ground-zeroes/2300-10618/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-11/",
+      "id": 11,
+      "name": "Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shooter&wikiTypeId=3060&wikiId=11&genre=11"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-131433/",
+      "id": 131433,
+      "name": "Metal Gear Solid V: Ground Zeroes",
+      "site_detail_url": "http://www.giantbomb.com/metal-gear-solid-v-ground-zeroes/3030-39575/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132841/",
+      "id": 132841,
+      "name": "Metal Gear Solid V: Ground Zeroes",
+      "site_detail_url": "http://www.giantbomb.com/metal-gear-solid-v-ground-zeroes/3030-39575/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132842/",
+      "id": 132842,
+      "name": "Metal Gear Solid V: Ground Zeroes",
+      "site_detail_url": "http://www.giantbomb.com/metal-gear-solid-v-ground-zeroes/3030-39575/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132843/",
+      "id": 132843,
+      "name": "Metal Gear Solid V: Ground Zeroes",
+      "site_detail_url": "http://www.giantbomb.com/metal-gear-solid-v-ground-zeroes/3030-39575/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133146/",
+      "id": 133146,
+      "name": "Metal Gear Solid V: Ground Zeroes",
+      "site_detail_url": "http://www.giantbomb.com/metal-gear-solid-v-ground-zeroes/3030-39575/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133147/",
+      "id": 133147,
+      "name": "Metal Gear Solid V: Ground Zeroes",
+      "site_detail_url": "http://www.giantbomb.com/metal-gear-solid-v-ground-zeroes/3030-39575/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133148/",
+      "id": 133148,
+      "name": "Metal Gear Solid V: Ground Zeroes",
+      "site_detail_url": "http://www.giantbomb.com/metal-gear-solid-v-ground-zeroes/3030-39575/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133365/",
+      "id": 133365,
+      "name": "Metal Gear Solid V: Ground Zeroes",
+      "site_detail_url": "http://www.giantbomb.com/metal-gear-solid-v-ground-zeroes/3030-39575/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133396/",
+      "id": 133396,
+      "name": "Metal Gear Solid V: Ground Zeroes",
+      "site_detail_url": "http://www.giantbomb.com/metal-gear-solid-v-ground-zeroes/3030-39575/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133397/",
+      "id": 133397,
+      "name": "Metal Gear Solid V: Ground Zeroes",
+      "site_detail_url": "http://www.giantbomb.com/metal-gear-solid-v-ground-zeroes/3030-39575/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133398/",
+      "id": 133398,
+      "name": "Metal Gear Solid V: Ground Zeroes",
+      "site_detail_url": "http://www.giantbomb.com/metal-gear-solid-v-ground-zeroes/3030-39575/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133400/",
+      "id": 133400,
+      "name": "Metal Gear Solid V: Ground Zeroes",
+      "site_detail_url": "http://www.giantbomb.com/metal-gear-solid-v-ground-zeroes/3030-39575/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138054/",
+      "id": 138054,
+      "name": "Metal Gear Solid V: Ground Zeroes",
+      "site_detail_url": "http://www.giantbomb.com/metal-gear-solid-v-ground-zeroes/3030-39575/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141197/",
+      "id": 141197,
+      "name": "Metal Gear Solid V: Ground Zeroes",
+      "site_detail_url": "http://www.giantbomb.com/metal-gear-solid-v-ground-zeroes/3030-39575/releases/"
+    }
+  ]
+}

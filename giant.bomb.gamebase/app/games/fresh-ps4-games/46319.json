@@ -1,0 +1,460 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-46319/",
+  "deck": "A fighting game for PlayStation 3, PlayStation 4, Xbox 360, Xbox One, and PC set in the Dragon Ball Z universe.",
+  "id": 46319,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2743649-box_dbxv.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2743649-box_dbxv.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2743649-box_dbxv.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2743649-box_dbxv.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2743649-box_dbxv.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2743649-box_dbxv.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2743649-box_dbxv.png"
+  },
+  "name": "Dragon Ball XenoVerse",
+  "original_release_date": "2015-02-05 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+      "id": 86,
+      "name": "Xbox 360 Games Store",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+      "abbreviation": "XBGS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/dragon-ball-xenoverse/3030-46319/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2743649-box_dbxv.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2743649-box_dbxv.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2743649-box_dbxv.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2743649-box_dbxv.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2743649-box_dbxv.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2743649-box_dbxv.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2743649-box_dbxv.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2694505-2316826394-Drago.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2694505-2316826394-Drago.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2694505-2316826394-Drago.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2694505-2316826394-Drago.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2694505-2316826394-Drago.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2694505-2316826394-Drago.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2694505-2316826394-Drago.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2672006-3975145527-Futur.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2672006-3975145527-Futur.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2672006-3975145527-Futur.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2672006-3975145527-Futur.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2672006-3975145527-Futur.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2672006-3975145527-Futur.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2672006-3975145527-Futur.jpg",
+      "tags": "All Images, Character Renders"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2672005-4231852200-TPTru.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2672005-4231852200-TPTru.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2672005-4231852200-TPTru.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2672005-4231852200-TPTru.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2672005-4231852200-TPTru.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2672005-4231852200-TPTru.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2672005-4231852200-TPTru.jpg",
+      "tags": "All Images, Character Renders"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2672004-7175348734-10401.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2672004-7175348734-10401.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2672004-7175348734-10401.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2672004-7175348734-10401.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2672004-7175348734-10401.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2672004-7175348734-10401.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2672004-7175348734-10401.jpg",
+      "tags": "All Images, Character Renders"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2672003-6364693432-10550.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2672003-6364693432-10550.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2672003-6364693432-10550.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2672003-6364693432-10550.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2672003-6364693432-10550.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2672003-6364693432-10550.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2672003-6364693432-10550.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2672002-6301526527-10497.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2672002-6301526527-10497.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2672002-6301526527-10497.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2672002-6301526527-10497.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2672002-6301526527-10497.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2672002-6301526527-10497.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2672002-6301526527-10497.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2672001-2015432460-10506.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2672001-2015432460-10506.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2672001-2015432460-10506.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2672001-2015432460-10506.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2672001-2015432460-10506.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2672001-2015432460-10506.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2672001-2015432460-10506.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2672000-7006461760-10548.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2672000-7006461760-10548.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2672000-7006461760-10548.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2672000-7006461760-10548.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2672000-7006461760-10548.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2672000-7006461760-10548.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2672000-7006461760-10548.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2671999-9670085276-10467.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2671999-9670085276-10467.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2671999-9670085276-10467.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2671999-9670085276-10467.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2671999-9670085276-10467.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2671999-9670085276-10467.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2671999-9670085276-10467.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2671998-0925635953-10571.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2671998-0925635953-10571.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2671998-0925635953-10571.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2671998-0925635953-10571.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2671998-0925635953-10571.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2671998-0925635953-10571.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2671998-0925635953-10571.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2671997-6769826743-10549.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2671997-6769826743-10549.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2671997-6769826743-10549.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2671997-6769826743-10549.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2671997-6769826743-10549.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2671997-6769826743-10549.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2671997-6769826743-10549.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2671995-2585301250-10556.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2671995-2585301250-10556.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2671995-2585301250-10556.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2671995-2585301250-10556.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2671995-2585301250-10556.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2671995-2585301250-10556.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2671995-2585301250-10556.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2671994-3456272826-10608.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2671994-3456272826-10608.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2671994-3456272826-10608.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2671994-3456272826-10608.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2671994-3456272826-10608.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2671994-3456272826-10608.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2671994-3456272826-10608.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2671993-7485004608-10580.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2671993-7485004608-10580.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2671993-7485004608-10580.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2671993-7485004608-10580.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2671993-7485004608-10580.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2671993-7485004608-10580.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2671993-7485004608-10580.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2671992-9088658153-10159.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2671992-9088658153-10159.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2671992-9088658153-10159.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2671992-9088658153-10159.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2671992-9088658153-10159.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2671992-9088658153-10159.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2671992-9088658153-10159.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2671990-7770328264-10604.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2671990-7770328264-10604.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2671990-7770328264-10604.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2671990-7770328264-10604.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2671990-7770328264-10604.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2671990-7770328264-10604.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2671990-7770328264-10604.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2671989-0023236904-10477.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2671989-0023236904-10477.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2671989-0023236904-10477.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2671989-0023236904-10477.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2671989-0023236904-10477.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2671989-0023236904-10477.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2671989-0023236904-10477.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644585-dragon-ball-xenoverse_2014_06-10-14_014.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644585-dragon-ball-xenoverse_2014_06-10-14_014.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644585-dragon-ball-xenoverse_2014_06-10-14_014.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644585-dragon-ball-xenoverse_2014_06-10-14_014.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/76185/2644585-dragon-ball-xenoverse_2014_06-10-14_014.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/76185/2644585-dragon-ball-xenoverse_2014_06-10-14_014.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/76185/2644585-dragon-ball-xenoverse_2014_06-10-14_014.jpg",
+      "tags": "All Images, Character Renders"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644584-dragon-ball-xenoverse_2014_06-10-14_013.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644584-dragon-ball-xenoverse_2014_06-10-14_013.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644584-dragon-ball-xenoverse_2014_06-10-14_013.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644584-dragon-ball-xenoverse_2014_06-10-14_013.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/76185/2644584-dragon-ball-xenoverse_2014_06-10-14_013.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/76185/2644584-dragon-ball-xenoverse_2014_06-10-14_013.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/76185/2644584-dragon-ball-xenoverse_2014_06-10-14_013.jpg",
+      "tags": "All Images, Character Renders"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644583-dragon-ball-xenoverse_2014_06-10-14_012.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644583-dragon-ball-xenoverse_2014_06-10-14_012.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644583-dragon-ball-xenoverse_2014_06-10-14_012.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644583-dragon-ball-xenoverse_2014_06-10-14_012.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/76185/2644583-dragon-ball-xenoverse_2014_06-10-14_012.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/76185/2644583-dragon-ball-xenoverse_2014_06-10-14_012.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/76185/2644583-dragon-ball-xenoverse_2014_06-10-14_012.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644582-dragon-ball-xenoverse_2014_06-10-14_011.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644582-dragon-ball-xenoverse_2014_06-10-14_011.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644582-dragon-ball-xenoverse_2014_06-10-14_011.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644582-dragon-ball-xenoverse_2014_06-10-14_011.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/76185/2644582-dragon-ball-xenoverse_2014_06-10-14_011.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/76185/2644582-dragon-ball-xenoverse_2014_06-10-14_011.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/76185/2644582-dragon-ball-xenoverse_2014_06-10-14_011.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644581-dragon-ball-xenoverse_2014_06-10-14_010.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644581-dragon-ball-xenoverse_2014_06-10-14_010.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644581-dragon-ball-xenoverse_2014_06-10-14_010.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644581-dragon-ball-xenoverse_2014_06-10-14_010.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/76185/2644581-dragon-ball-xenoverse_2014_06-10-14_010.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/76185/2644581-dragon-ball-xenoverse_2014_06-10-14_010.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/76185/2644581-dragon-ball-xenoverse_2014_06-10-14_010.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644580-dragon-ball-xenoverse_2014_06-10-14_009.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644580-dragon-ball-xenoverse_2014_06-10-14_009.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644580-dragon-ball-xenoverse_2014_06-10-14_009.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644580-dragon-ball-xenoverse_2014_06-10-14_009.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/76185/2644580-dragon-ball-xenoverse_2014_06-10-14_009.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/76185/2644580-dragon-ball-xenoverse_2014_06-10-14_009.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/76185/2644580-dragon-ball-xenoverse_2014_06-10-14_009.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644579-dragon-ball-xenoverse_2014_06-10-14_008.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644579-dragon-ball-xenoverse_2014_06-10-14_008.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644579-dragon-ball-xenoverse_2014_06-10-14_008.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644579-dragon-ball-xenoverse_2014_06-10-14_008.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/76185/2644579-dragon-ball-xenoverse_2014_06-10-14_008.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/76185/2644579-dragon-ball-xenoverse_2014_06-10-14_008.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/76185/2644579-dragon-ball-xenoverse_2014_06-10-14_008.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644578-dragon-ball-xenoverse_2014_06-10-14_007.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644578-dragon-ball-xenoverse_2014_06-10-14_007.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644578-dragon-ball-xenoverse_2014_06-10-14_007.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644578-dragon-ball-xenoverse_2014_06-10-14_007.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/76185/2644578-dragon-ball-xenoverse_2014_06-10-14_007.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/76185/2644578-dragon-ball-xenoverse_2014_06-10-14_007.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/76185/2644578-dragon-ball-xenoverse_2014_06-10-14_007.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644577-dragon-ball-xenoverse_2014_06-10-14_006.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644577-dragon-ball-xenoverse_2014_06-10-14_006.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644577-dragon-ball-xenoverse_2014_06-10-14_006.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644577-dragon-ball-xenoverse_2014_06-10-14_006.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/76185/2644577-dragon-ball-xenoverse_2014_06-10-14_006.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/76185/2644577-dragon-ball-xenoverse_2014_06-10-14_006.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/76185/2644577-dragon-ball-xenoverse_2014_06-10-14_006.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644576-dragon-ball-xenoverse_2014_06-10-14_005.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644576-dragon-ball-xenoverse_2014_06-10-14_005.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644576-dragon-ball-xenoverse_2014_06-10-14_005.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644576-dragon-ball-xenoverse_2014_06-10-14_005.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/76185/2644576-dragon-ball-xenoverse_2014_06-10-14_005.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/76185/2644576-dragon-ball-xenoverse_2014_06-10-14_005.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/76185/2644576-dragon-ball-xenoverse_2014_06-10-14_005.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644575-dragon-ball-xenoverse_2014_06-10-14_004.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644575-dragon-ball-xenoverse_2014_06-10-14_004.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644575-dragon-ball-xenoverse_2014_06-10-14_004.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644575-dragon-ball-xenoverse_2014_06-10-14_004.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/76185/2644575-dragon-ball-xenoverse_2014_06-10-14_004.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/76185/2644575-dragon-ball-xenoverse_2014_06-10-14_004.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/76185/2644575-dragon-ball-xenoverse_2014_06-10-14_004.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644574-dragon-ball-xenoverse_2014_06-10-14_003.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644574-dragon-ball-xenoverse_2014_06-10-14_003.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/76185/2644574-dragon-ball-xenoverse_2014_06-10-14_003.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/76185/2644574-dragon-ball-xenoverse_2014_06-10-14_003.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/76185/2644574-dragon-ball-xenoverse_2014_06-10-14_003.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/76185/2644574-dragon-ball-xenoverse_2014_06-10-14_003.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/76185/2644574-dragon-ball-xenoverse_2014_06-10-14_003.jpg",
+      "tags": "All Images, Screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9994/",
+      "id": 9994,
+      "name": "Quick Look: DragonBall Xenoverse",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-dragonball-xenoverse/2300-9994/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-9/",
+      "id": 9,
+      "name": "Fighting",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=fighting&wikiTypeId=3060&wikiId=9&genre=9"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137798/",
+      "id": 137798,
+      "name": "DragonBall Xenoverse",
+      "site_detail_url": "http://www.giantbomb.com/dragon-ball-xenoverse/3030-46319/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137799/",
+      "id": 137799,
+      "name": "DragonBall Xenoverse",
+      "site_detail_url": "http://www.giantbomb.com/dragon-ball-xenoverse/3030-46319/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137800/",
+      "id": 137800,
+      "name": "DragonBall Xenoverse",
+      "site_detail_url": "http://www.giantbomb.com/dragon-ball-xenoverse/3030-46319/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137801/",
+      "id": 137801,
+      "name": "DragonBall Xenoverse",
+      "site_detail_url": "http://www.giantbomb.com/dragon-ball-xenoverse/3030-46319/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137802/",
+      "id": 137802,
+      "name": "DragonBall Xenoverse",
+      "site_detail_url": "http://www.giantbomb.com/dragon-ball-xenoverse/3030-46319/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137803/",
+      "id": 137803,
+      "name": "DragonBall Xenoverse",
+      "site_detail_url": "http://www.giantbomb.com/dragon-ball-xenoverse/3030-46319/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137804/",
+      "id": 137804,
+      "name": "DragonBall Xenoverse",
+      "site_detail_url": "http://www.giantbomb.com/dragon-ball-xenoverse/3030-46319/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137805/",
+      "id": 137805,
+      "name": "DragonBall Xenoverse",
+      "site_detail_url": "http://www.giantbomb.com/dragon-ball-xenoverse/3030-46319/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137806/",
+      "id": 137806,
+      "name": "DragonBall Xenoverse",
+      "site_detail_url": "http://www.giantbomb.com/dragon-ball-xenoverse/3030-46319/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137807/",
+      "id": 137807,
+      "name": "DragonBall Xenoverse",
+      "site_detail_url": "http://www.giantbomb.com/dragon-ball-xenoverse/3030-46319/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137808/",
+      "id": 137808,
+      "name": "DragonBall Xenoverse",
+      "site_detail_url": "http://www.giantbomb.com/dragon-ball-xenoverse/3030-46319/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140479/",
+      "id": 140479,
+      "name": "DragonBall Xenoverse",
+      "site_detail_url": "http://www.giantbomb.com/dragon-ball-xenoverse/3030-46319/releases/"
+    }
+  ]
+}

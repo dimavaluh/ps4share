@@ -1,0 +1,68 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48521/",
+  "deck": "A Unreal Engine 4 FPS horror game inspired by true events known as the \"Dyatlov Pass Incident\" where Russian students died unexpectedly in the northern Ural Mountains.",
+  "id": 48521,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2715351-capture.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2715351-capture.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2715351-capture.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2715351-capture.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2715351-capture.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2715351-capture.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2715351-capture.png"
+  },
+  "name": "Kholat",
+  "original_release_date": "2015-06-09 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/kholat/3030-48521/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2715351-capture.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2715351-capture.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2715351-capture.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2715351-capture.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2715351-capture.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2715351-capture.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2715351-capture.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-4/",
+      "id": 4,
+      "name": "Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=adventure&wikiTypeId=3060&wikiId=4&genre=4"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146422/",
+      "id": 146422,
+      "name": "Kholat",
+      "site_detail_url": "http://www.giantbomb.com/kholat/3030-48521/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146423/",
+      "id": 146423,
+      "name": "Kholat",
+      "site_detail_url": "http://www.giantbomb.com/kholat/3030-48521/releases/"
+    }
+  ]
+}

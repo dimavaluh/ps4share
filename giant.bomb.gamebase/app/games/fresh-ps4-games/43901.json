@@ -1,0 +1,135 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-43901/",
+  "deck": "An arcade flight simulation during the Vietnam War.",
+  "id": 43901,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2554073-air-conflicts-vietnam-us-esrb-x360jpg-8834aa.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2554073-air-conflicts-vietnam-us-esrb-x360jpg-8834aa.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2554073-air-conflicts-vietnam-us-esrb-x360jpg-8834aa.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2554073-air-conflicts-vietnam-us-esrb-x360jpg-8834aa.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2554073-air-conflicts-vietnam-us-esrb-x360jpg-8834aa.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2554073-air-conflicts-vietnam-us-esrb-x360jpg-8834aa.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2554073-air-conflicts-vietnam-us-esrb-x360jpg-8834aa.jpg"
+  },
+  "name": "Air Conflicts: Vietnam",
+  "original_release_date": "2013-09-12 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/air-conflicts-vietnam/3030-43901/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2554073-air-conflicts-vietnam-us-esrb-x360jpg-8834aa.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2554073-air-conflicts-vietnam-us-esrb-x360jpg-8834aa.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2554073-air-conflicts-vietnam-us-esrb-x360jpg-8834aa.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2554073-air-conflicts-vietnam-us-esrb-x360jpg-8834aa.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/17/171291/2554073-air-conflicts-vietnam-us-esrb-x360jpg-8834aa.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/17/171291/2554073-air-conflicts-vietnam-us-esrb-x360jpg-8834aa.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/17/171291/2554073-air-conflicts-vietnam-us-esrb-x360jpg-8834aa.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/20/209416/2544532-5592644056-Air-C.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/20/209416/2544532-5592644056-Air-C.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/20/209416/2544532-5592644056-Air-C.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/20/209416/2544532-5592644056-Air-C.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/20/209416/2544532-5592644056-Air-C.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/20/209416/2544532-5592644056-Air-C.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/20/209416/2544532-5592644056-Air-C.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-7/",
+      "id": 7,
+      "name": "Simulation",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=simulation&wikiTypeId=3060&wikiId=7&genre=7"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-38/",
+      "id": 38,
+      "name": "Vehicular Combat",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=vehicular-combat&wikiTypeId=3060&wikiId=38&genre=38"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130153/",
+      "id": 130153,
+      "name": "Air Conflicts: Vietnam",
+      "site_detail_url": "http://www.giantbomb.com/air-conflicts-vietnam/3030-43901/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130434/",
+      "id": 130434,
+      "name": "Air Conflicts: Vietnam",
+      "site_detail_url": "http://www.giantbomb.com/air-conflicts-vietnam/3030-43901/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130435/",
+      "id": 130435,
+      "name": "Air Conflicts: Vietnam",
+      "site_detail_url": "http://www.giantbomb.com/air-conflicts-vietnam/3030-43901/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130436/",
+      "id": 130436,
+      "name": "Air Conflicts: Vietnam",
+      "site_detail_url": "http://www.giantbomb.com/air-conflicts-vietnam/3030-43901/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130437/",
+      "id": 130437,
+      "name": "Air Conflicts: Vietnam",
+      "site_detail_url": "http://www.giantbomb.com/air-conflicts-vietnam/3030-43901/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-131376/",
+      "id": 131376,
+      "name": "Air Conflicts: Vietnam",
+      "site_detail_url": "http://www.giantbomb.com/air-conflicts-vietnam/3030-43901/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137583/",
+      "id": 137583,
+      "name": "Air Conflicts: Vietnam: Ultimate Edition",
+      "site_detail_url": "http://www.giantbomb.com/air-conflicts-vietnam/3030-43901/releases/"
+    }
+  ]
+}

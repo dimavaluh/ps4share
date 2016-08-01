@@ -1,0 +1,78 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-54286/",
+  "deck": "Drawful 2 is the sequel to Drawful, a game in which players are prompted to draw weird or impossible things.",
+  "id": 54286,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2864093-drawful2_gb_coverimage.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2864093-drawful2_gb_coverimage.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2864093-drawful2_gb_coverimage.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2864093-drawful2_gb_coverimage.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2864093-drawful2_gb_coverimage.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2864093-drawful2_gb_coverimage.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2864093-drawful2_gb_coverimage.png"
+  },
+  "name": "Drawful 2",
+  "original_release_date": "2016-06-21 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/drawful-2/3030-54286/",
+  "images": [],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11390/",
+      "id": 11390,
+      "name": "Unprofessional Fridays: 06/24/2016",
+      "site_detail_url": "http://www.giantbomb.com/videos/unprofessional-fridays-06242016/2300-11390/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-2/",
+      "id": 2,
+      "name": "Strategy",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=strategy&wikiTypeId=3060&wikiId=2&genre=2"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148227/",
+      "id": 148227,
+      "name": "Drawful 2",
+      "site_detail_url": "http://www.giantbomb.com/drawful-2/3030-54286/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148287/",
+      "id": 148287,
+      "name": "Drawful 2",
+      "site_detail_url": "http://www.giantbomb.com/drawful-2/3030-54286/releases/"
+    }
+  ]
+}

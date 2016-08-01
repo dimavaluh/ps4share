@@ -1,0 +1,450 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48207/",
+  "deck": "Battle a dictator's forces in a fictional Mediterranean archipelago in this follow-up to the popular series from Avalanche Studios and Square-Enix.",
+  "id": 48207,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2744923-just%20cause%203%20cover%20v1.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2744923-just%20cause%203%20cover%20v1.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2744923-just%20cause%203%20cover%20v1.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2744923-just%20cause%203%20cover%20v1.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2744923-just%20cause%203%20cover%20v1.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2744923-just%20cause%203%20cover%20v1.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2744923-just%20cause%203%20cover%20v1.jpg"
+  },
+  "name": "Just Cause 3",
+  "original_release_date": "2015-12-01 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/just-cause-3/3030-48207/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847640-dsc00793.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847640-dsc00793.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847640-dsc00793.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847640-dsc00793.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2847640-dsc00793.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2847640-dsc00793.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2847640-dsc00793.jpg",
+      "tags": "All Images, Square Enix, PAX East 2016 Booth, PAX East 2016"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844659-just+cause+3_20160123102502.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844659-just+cause+3_20160123102502.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844659-just+cause+3_20160123102502.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844659-just+cause+3_20160123102502.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844659-just+cause+3_20160123102502.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844659-just+cause+3_20160123102502.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844659-just+cause+3_20160123102502.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844658-just+cause+3_20160116121347.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844658-just+cause+3_20160116121347.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844658-just+cause+3_20160116121347.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844658-just+cause+3_20160116121347.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844658-just+cause+3_20160116121347.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844658-just+cause+3_20160116121347.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844658-just+cause+3_20160116121347.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844657-just+cause+3_20160116120432.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844657-just+cause+3_20160116120432.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844657-just+cause+3_20160116120432.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844657-just+cause+3_20160116120432.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844657-just+cause+3_20160116120432.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844657-just+cause+3_20160116120432.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844657-just+cause+3_20160116120432.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844656-just+cause+3_20151227195709.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844656-just+cause+3_20151227195709.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844656-just+cause+3_20151227195709.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844656-just+cause+3_20151227195709.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844656-just+cause+3_20151227195709.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844656-just+cause+3_20151227195709.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844656-just+cause+3_20151227195709.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844655-just+cause+3_20151227103009.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844655-just+cause+3_20151227103009.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844655-just+cause+3_20151227103009.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844655-just+cause+3_20151227103009.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844655-just+cause+3_20151227103009.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844655-just+cause+3_20151227103009.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844655-just+cause+3_20151227103009.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844654-just+cause+3_20151226110534.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844654-just+cause+3_20151226110534.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844654-just+cause+3_20151226110534.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844654-just+cause+3_20151226110534.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844654-just+cause+3_20151226110534.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844654-just+cause+3_20151226110534.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844654-just+cause+3_20151226110534.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844653-just+cause+3_20151225204202.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844653-just+cause+3_20151225204202.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844653-just+cause+3_20151225204202.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844653-just+cause+3_20151225204202.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844653-just+cause+3_20151225204202.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844653-just+cause+3_20151225204202.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844653-just+cause+3_20151225204202.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844652-just+cause+3_20151225203150.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844652-just+cause+3_20151225203150.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844652-just+cause+3_20151225203150.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844652-just+cause+3_20151225203150.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844652-just+cause+3_20151225203150.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844652-just+cause+3_20151225203150.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844652-just+cause+3_20151225203150.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844651-just+cause+3_20151225202432.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844651-just+cause+3_20151225202432.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844651-just+cause+3_20151225202432.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844651-just+cause+3_20151225202432.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844651-just+cause+3_20151225202432.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844651-just+cause+3_20151225202432.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844651-just+cause+3_20151225202432.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844650-just+cause+3_20151205174513.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844650-just+cause+3_20151205174513.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844650-just+cause+3_20151205174513.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844650-just+cause+3_20151205174513.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844650-just+cause+3_20151205174513.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844650-just+cause+3_20151205174513.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844650-just+cause+3_20151205174513.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844649-just+cause+3_20151202192504.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844649-just+cause+3_20151202192504.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844649-just+cause+3_20151202192504.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844649-just+cause+3_20151202192504.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844649-just+cause+3_20151202192504.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844649-just+cause+3_20151202192504.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844649-just+cause+3_20151202192504.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844648-just+cause+3_20151202191136.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844648-just+cause+3_20151202191136.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844648-just+cause+3_20151202191136.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844648-just+cause+3_20151202191136.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844648-just+cause+3_20151202191136.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844648-just+cause+3_20151202191136.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844648-just+cause+3_20151202191136.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781106-dsc09352.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781106-dsc09352.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781106-dsc09352.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781106-dsc09352.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2781106-dsc09352.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2781106-dsc09352.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2781106-dsc09352.jpg",
+      "tags": "All Images, Square Enix, PAX Prime 2015 Booth, PAX Prime 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781100-dsc09346.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781100-dsc09346.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781100-dsc09346.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781100-dsc09346.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2781100-dsc09346.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2781100-dsc09346.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2781100-dsc09346.jpg",
+      "tags": "All Images, Square Enix, PAX Prime 2015 Booth, PAX Prime 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/3699/2744923-just+cause+3+cover+v1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/3699/2744923-just+cause+3+cover+v1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/3699/2744923-just+cause+3+cover+v1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/3699/2744923-just+cause+3+cover+v1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/3699/2744923-just+cause+3+cover+v1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/3699/2744923-just+cause+3+cover+v1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/3699/2744923-just+cause+3+cover+v1.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2744859-919hwsbqo3l._sl1500_.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2744859-919hwsbqo3l._sl1500_.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2744859-919hwsbqo3l._sl1500_.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2744859-919hwsbqo3l._sl1500_.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2744859-919hwsbqo3l._sl1500_.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2744859-919hwsbqo3l._sl1500_.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2744859-919hwsbqo3l._sl1500_.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/3699/2734933-just+cause+3.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/3699/2734933-just+cause+3.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/3699/2734933-just+cause+3.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/3699/2734933-just+cause+3.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/3699/2734933-just+cause+3.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/3699/2734933-just+cause+3.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/3699/2734933-just+cause+3.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708528-8094898076-just-.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708528-8094898076-just-.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708528-8094898076-just-.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708528-8094898076-just-.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2708528-8094898076-just-.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2708528-8094898076-just-.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2708528-8094898076-just-.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708527-1048129519-just-.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708527-1048129519-just-.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708527-1048129519-just-.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708527-1048129519-just-.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2708527-1048129519-just-.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2708527-1048129519-just-.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2708527-1048129519-just-.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708526-7534235227-just-.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708526-7534235227-just-.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708526-7534235227-just-.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708526-7534235227-just-.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2708526-7534235227-just-.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2708526-7534235227-just-.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2708526-7534235227-just-.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708525-1227729127-just-.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708525-1227729127-just-.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708525-1227729127-just-.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708525-1227729127-just-.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2708525-1227729127-just-.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2708525-1227729127-just-.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2708525-1227729127-just-.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708524-7775708398-just-.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708524-7775708398-just-.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708524-7775708398-just-.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708524-7775708398-just-.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2708524-7775708398-just-.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2708524-7775708398-just-.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2708524-7775708398-just-.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708523-2135004944-just-.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708523-2135004944-just-.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708523-2135004944-just-.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708523-2135004944-just-.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2708523-2135004944-just-.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2708523-2135004944-just-.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2708523-2135004944-just-.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708522-1774736674-just-.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708522-1774736674-just-.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708522-1774736674-just-.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708522-1774736674-just-.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2708522-1774736674-just-.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2708522-1774736674-just-.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2708522-1774736674-just-.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708521-2786734662-just-.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708521-2786734662-just-.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708521-2786734662-just-.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708521-2786734662-just-.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2708521-2786734662-just-.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2708521-2786734662-just-.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2708521-2786734662-just-.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708520-6345296971-just-.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708520-6345296971-just-.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708520-6345296971-just-.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708520-6345296971-just-.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2708520-6345296971-just-.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2708520-6345296971-just-.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2708520-6345296971-just-.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708519-8917264943-just-.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708519-8917264943-just-.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708519-8917264943-just-.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708519-8917264943-just-.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2708519-8917264943-just-.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2708519-8917264943-just-.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2708519-8917264943-just-.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708516-6195382508-just-.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708516-6195382508-just-.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708516-6195382508-just-.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708516-6195382508-just-.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2708516-6195382508-just-.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2708516-6195382508-just-.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2708516-6195382508-just-.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708515-4310693291-just-.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708515-4310693291-just-.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2708515-4310693291-just-.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2708515-4310693291-just-.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2708515-4310693291-just-.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2708515-4310693291-just-.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2708515-4310693291-just-.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9691/",
+      "id": 9691,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 11/11/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-11-11-2014/2300-9691/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9943/",
+      "id": 9943,
+      "name": "Everything Is Airborne and/or On Fire in This Latest Just Cause 3 Teaser",
+      "site_detail_url": "http://www.giantbomb.com/videos/everything-is-airborne-and-or-on-fire-in-this-late/2300-9943/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10151/",
+      "id": 10151,
+      "name": "Just Cause 3 Gets a Proper Gameplay Trailer",
+      "site_detail_url": "http://www.giantbomb.com/videos/just-cause-3-gets-a-proper-gameplay-trailer/2300-10151/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10347/",
+      "id": 10347,
+      "name": "E3 2015: We Talk Over the Square Enix Press Conference",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2015-we-talk-over-the-square-enix-press-confere/2300-10347/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10365/",
+      "id": 10365,
+      "name": "E3 2015: Rico Has Unlimited C4 in Just Cause 3",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2015-rico-has-unlimited-c4-in-just-cause-3/2300-10365/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10499/",
+      "id": 10499,
+      "name": "Here's Seven Minutes of Complete Chaos in Just Cause 3",
+      "site_detail_url": "http://www.giantbomb.com/videos/heres-seven-minutes-of-complete-chaos-in-just-caus/2300-10499/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10563/",
+      "id": 10563,
+      "name": "We Talk Over Microsoft's Gamescom 2015 Press Conference",
+      "site_detail_url": "http://www.giantbomb.com/videos/we-talk-over-microsofts-gamescom-2015-press-confer/2300-10563/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10571/",
+      "id": 10571,
+      "name": "Here Is a New Just Cause 3 Trailer Wherein Things Continue to Explode",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-is-a-new-just-cause-3-trailer-wherein-things-/2300-10571/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10860/",
+      "id": 10860,
+      "name": "Quick Look EX: Just Cause 3",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-ex-just-cause-3/2300-10860/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10888/",
+      "id": 10888,
+      "name": "Quick Look: Just Cause 3",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-just-cause-3/2300-10888/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142149/",
+      "id": 142149,
+      "name": "Just Cause 3",
+      "site_detail_url": "http://www.giantbomb.com/just-cause-3/3030-48207/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142150/",
+      "id": 142150,
+      "name": "Just Cause 3",
+      "site_detail_url": "http://www.giantbomb.com/just-cause-3/3030-48207/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142151/",
+      "id": 142151,
+      "name": "Just Cause 3",
+      "site_detail_url": "http://www.giantbomb.com/just-cause-3/3030-48207/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144922/",
+      "id": 144922,
+      "name": "Just Cause 3",
+      "site_detail_url": "http://www.giantbomb.com/just-cause-3/3030-48207/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144923/",
+      "id": 144923,
+      "name": "Just Cause 3",
+      "site_detail_url": "http://www.giantbomb.com/just-cause-3/3030-48207/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144924/",
+      "id": 144924,
+      "name": "Just Cause 3",
+      "site_detail_url": "http://www.giantbomb.com/just-cause-3/3030-48207/releases/"
+    }
+  ]
+}

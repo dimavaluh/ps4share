@@ -1,0 +1,103 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-52579/",
+  "deck": "The third in Tru Blu's series of rugby games.",
+  "id": 52579,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2823158-5598294095-ps3-r.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2823158-5598294095-ps3-r.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2823158-5598294095-ps3-r.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2823158-5598294095-ps3-r.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2823158-5598294095-ps3-r.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2823158-5598294095-ps3-r.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2823158-5598294095-ps3-r.jpg"
+  },
+  "name": "Rugby Challenge 3",
+  "original_release_date": "2016-02-10 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/rugby-challenge-3/3030-52579/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2823158-5598294095-ps3-r.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2823158-5598294095-ps3-r.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2823158-5598294095-ps3-r.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2823158-5598294095-ps3-r.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2823158-5598294095-ps3-r.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2823158-5598294095-ps3-r.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2823158-5598294095-ps3-r.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11420/",
+      "id": 11420,
+      "name": "Quick Look: Rugby Challenge 3",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-rugby-challenge-3/2300-11420/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11461/",
+      "id": 11461,
+      "name": "Best of Giant Bomb 103 - You Bloody Ripper",
+      "site_detail_url": "http://www.giantbomb.com/videos/best-of-giant-bomb-103-you-bloody-ripper/2300-11461/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-3/",
+      "id": 3,
+      "name": "Sports",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=sports&wikiTypeId=3060&wikiId=3&genre=3"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145978/",
+      "id": 145978,
+      "name": "Rugby Challenge 3",
+      "site_detail_url": "http://www.giantbomb.com/rugby-challenge-3/3030-52579/releases/"
+    }
+  ]
+}

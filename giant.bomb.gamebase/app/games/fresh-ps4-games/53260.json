@@ -1,0 +1,75 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-53260/",
+  "deck": "A sequel to the 2014 reboot of the Hayarigami horror visual novel franchise.",
+  "id": 53260,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2839251-6205706902-Shin-.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2839251-6205706902-Shin-.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2839251-6205706902-Shin-.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2839251-6205706902-Shin-.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2839251-6205706902-Shin-.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2839251-6205706902-Shin-.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2839251-6205706902-Shin-.jpg"
+  },
+  "name": "Shin Hayarigami 2",
+  "original_release_date": "2016-07-07 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/shin-hayarigami-2/3030-53260/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2839251-6205706902-Shin-.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2839251-6205706902-Shin-.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2839251-6205706902-Shin-.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2839251-6205706902-Shin-.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2839251-6205706902-Shin-.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2839251-6205706902-Shin-.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2839251-6205706902-Shin-.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-4/",
+      "id": 4,
+      "name": "Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=adventure&wikiTypeId=3060&wikiId=4&genre=4"
+    }
+  ]
+}

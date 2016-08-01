@@ -1,0 +1,355 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-41970/",
+  "deck": "A platformer that takes inspiration from both Super Hexagon and Super Meat Boy. The game tasks players with ending the tyrannical rule of the Groove-Wizard.",
+  "id": 41970,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2456386-screen%20shot%202013-03-17%20at%2012.14.52%20pm.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2456386-screen%20shot%202013-03-17%20at%2012.14.52%20pm.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2456386-screen%20shot%202013-03-17%20at%2012.14.52%20pm.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2456386-screen%20shot%202013-03-17%20at%2012.14.52%20pm.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2456386-screen%20shot%202013-03-17%20at%2012.14.52%20pm.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2456386-screen%20shot%202013-03-17%20at%2012.14.52%20pm.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2456386-screen%20shot%202013-03-17%20at%2012.14.52%20pm.png"
+  },
+  "name": "Electronic Super Joy",
+  "original_release_date": "2013-08-23 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-121/",
+      "id": 121,
+      "name": "iPad",
+      "site_detail_url": "http://www.giantbomb.com/ipad/3045-121/",
+      "abbreviation": "IPAD"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-123/",
+      "id": 123,
+      "name": "Android",
+      "site_detail_url": "http://www.giantbomb.com/android/3045-123/",
+      "abbreviation": "ANDR"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/electronic-super-joy/3030-41970/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579891-electronicsuperjoy+2013-12-14+10-24-46-41.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579891-electronicsuperjoy+2013-12-14+10-24-46-41.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579891-electronicsuperjoy+2013-12-14+10-24-46-41.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579891-electronicsuperjoy+2013-12-14+10-24-46-41.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/165862/2579891-electronicsuperjoy+2013-12-14+10-24-46-41.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/165862/2579891-electronicsuperjoy+2013-12-14+10-24-46-41.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/165862/2579891-electronicsuperjoy+2013-12-14+10-24-46-41.png",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579888-9671846766-scree.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579888-9671846766-scree.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579888-9671846766-scree.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579888-9671846766-scree.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/165862/2579888-9671846766-scree.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/165862/2579888-9671846766-scree.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/165862/2579888-9671846766-scree.png",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579887-9248020670-scree.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579887-9248020670-scree.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579887-9248020670-scree.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579887-9248020670-scree.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/165862/2579887-9248020670-scree.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/165862/2579887-9248020670-scree.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/165862/2579887-9248020670-scree.png",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579886-0800429842-scree.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579886-0800429842-scree.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579886-0800429842-scree.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579886-0800429842-scree.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/165862/2579886-0800429842-scree.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/165862/2579886-0800429842-scree.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/165862/2579886-0800429842-scree.png",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579884-8702675284-scree.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579884-8702675284-scree.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579884-8702675284-scree.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579884-8702675284-scree.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/165862/2579884-8702675284-scree.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/165862/2579884-8702675284-scree.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/165862/2579884-8702675284-scree.png",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579883-8024574876-scree.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579883-8024574876-scree.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579883-8024574876-scree.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579883-8024574876-scree.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/165862/2579883-8024574876-scree.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/165862/2579883-8024574876-scree.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/165862/2579883-8024574876-scree.png",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579882-2147098592-scree.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579882-2147098592-scree.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579882-2147098592-scree.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579882-2147098592-scree.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/165862/2579882-2147098592-scree.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/165862/2579882-2147098592-scree.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/165862/2579882-2147098592-scree.png",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579881-4995971953-scree.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579881-4995971953-scree.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579881-4995971953-scree.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579881-4995971953-scree.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/165862/2579881-4995971953-scree.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/165862/2579881-4995971953-scree.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/165862/2579881-4995971953-scree.png",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579879-6986110297-scree.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579879-6986110297-scree.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579879-6986110297-scree.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579879-6986110297-scree.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/165862/2579879-6986110297-scree.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/165862/2579879-6986110297-scree.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/165862/2579879-6986110297-scree.png",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579878-5278151444-scree.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579878-5278151444-scree.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579878-5278151444-scree.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579878-5278151444-scree.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/165862/2579878-5278151444-scree.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/165862/2579878-5278151444-scree.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/165862/2579878-5278151444-scree.png",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579877-0663658071-scree.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579877-0663658071-scree.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579877-0663658071-scree.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579877-0663658071-scree.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/165862/2579877-0663658071-scree.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/165862/2579877-0663658071-scree.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/165862/2579877-0663658071-scree.png",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579876-1604099235-scree.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579876-1604099235-scree.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579876-1604099235-scree.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579876-1604099235-scree.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/165862/2579876-1604099235-scree.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/165862/2579876-1604099235-scree.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/165862/2579876-1604099235-scree.png",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579875-3753577646-scree.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579875-3753577646-scree.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579875-3753577646-scree.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579875-3753577646-scree.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/165862/2579875-3753577646-scree.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/165862/2579875-3753577646-scree.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/165862/2579875-3753577646-scree.png",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579874-1798680848-scree.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579874-1798680848-scree.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/165862/2579874-1798680848-scree.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/165862/2579874-1798680848-scree.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/165862/2579874-1798680848-scree.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/165862/2579874-1798680848-scree.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/165862/2579874-1798680848-scree.png",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2541732-dsc05312.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2541732-dsc05312.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2541732-dsc05312.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2541732-dsc05312.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2541732-dsc05312.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2541732-dsc05312.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2541732-dsc05312.jpg",
+      "tags": "All Images, Indie Mega Booth, PAX Prime 2013, PAX Prime 2013 Booth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461368-dsc04433.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461368-dsc04433.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461368-dsc04433.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461368-dsc04433.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2461368-dsc04433.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2461368-dsc04433.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2461368-dsc04433.jpg",
+      "tags": "All Images, Indie Mega Booth, Michael Todd Games, PAX East 2013 Booth, PAX East 2013"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461367-dsc04432.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461367-dsc04432.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461367-dsc04432.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461367-dsc04432.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2461367-dsc04432.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2461367-dsc04432.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2461367-dsc04432.jpg",
+      "tags": "All Images, Indie Mega Booth, Michael Todd Games, PAX East 2013 Booth, PAX East 2013"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461366-dsc03816.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461366-dsc03816.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461366-dsc03816.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461366-dsc03816.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2461366-dsc03816.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2461366-dsc03816.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2461366-dsc03816.jpg",
+      "tags": "All Images, Indie Mega Booth, Michael Todd Games, PAX East 2013 Booth, PAX East 2013"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2456386-screen+shot+2013-03-17+at+12.14.52+pm.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2456386-screen+shot+2013-03-17+at+12.14.52+pm.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2456386-screen+shot+2013-03-17+at+12.14.52+pm.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2456386-screen+shot+2013-03-17+at+12.14.52+pm.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2456386-screen+shot+2013-03-17+at+12.14.52+pm.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2456386-screen+shot+2013-03-17+at+12.14.52+pm.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2456386-screen+shot+2013-03-17+at+12.14.52+pm.png",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7823/",
+      "id": 7823,
+      "name": "Quick Look: Electronic Super Joy",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-electronic-super-joy/2300-7823/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-131984/",
+      "id": 131984,
+      "name": "Electronic Super Joy",
+      "site_detail_url": "http://www.giantbomb.com/electronic-super-joy/3030-41970/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-131986/",
+      "id": 131986,
+      "name": "Electronic Super Joy",
+      "site_detail_url": "http://www.giantbomb.com/electronic-super-joy/3030-41970/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-131987/",
+      "id": 131987,
+      "name": "Electronic Super Joy",
+      "site_detail_url": "http://www.giantbomb.com/electronic-super-joy/3030-41970/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144400/",
+      "id": 144400,
+      "name": "Electronic Super Joy",
+      "site_detail_url": "http://www.giantbomb.com/electronic-super-joy/3030-41970/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144603/",
+      "id": 144603,
+      "name": "Electronic Super Joy",
+      "site_detail_url": "http://www.giantbomb.com/electronic-super-joy/3030-41970/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145798/",
+      "id": 145798,
+      "name": "Electronic Super Joy",
+      "site_detail_url": "http://www.giantbomb.com/electronic-super-joy/3030-41970/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148228/",
+      "id": 148228,
+      "name": "Electronic Super Joy",
+      "site_detail_url": "http://www.giantbomb.com/electronic-super-joy/3030-41970/releases/"
+    }
+  ]
+}

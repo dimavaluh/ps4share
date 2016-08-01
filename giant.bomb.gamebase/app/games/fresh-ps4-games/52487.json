@@ -1,0 +1,100 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-52487/",
+  "deck": "Inspired by Irish folklore, Song of the Deep is a 2D, side-scrolling, underwater action-adventure game from Insomniac Games.",
+  "id": 52487,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2820174-screen%20shot%202016-01-28%20at%2011.00.24%20am.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2820174-screen%20shot%202016-01-28%20at%2011.00.24%20am.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2820174-screen%20shot%202016-01-28%20at%2011.00.24%20am.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2820174-screen%20shot%202016-01-28%20at%2011.00.24%20am.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2820174-screen%20shot%202016-01-28%20at%2011.00.24%20am.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2820174-screen%20shot%202016-01-28%20at%2011.00.24%20am.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2820174-screen%20shot%202016-01-28%20at%2011.00.24%20am.png"
+  },
+  "name": "Song of the Deep",
+  "original_release_date": "2016-07-12 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/song-of-the-deep/3030-52487/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2820174-screen+shot+2016-01-28+at+11.00.24+am.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2820174-screen+shot+2016-01-28+at+11.00.24+am.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2820174-screen+shot+2016-01-28+at+11.00.24+am.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2820174-screen+shot+2016-01-28+at+11.00.24+am.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2820174-screen+shot+2016-01-28+at+11.00.24+am.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2820174-screen+shot+2016-01-28+at+11.00.24+am.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2820174-screen+shot+2016-01-28+at+11.00.24+am.png",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11427/",
+      "id": 11427,
+      "name": "Quick Look: Song of the Deep",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-song-of-the-deep/2300-11427/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147845/",
+      "id": 147845,
+      "name": "Song of the Deep",
+      "site_detail_url": "http://www.giantbomb.com/song-of-the-deep/3030-52487/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147846/",
+      "id": 147846,
+      "name": "Song of the Deep",
+      "site_detail_url": "http://www.giantbomb.com/song-of-the-deep/3030-52487/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148671/",
+      "id": 148671,
+      "name": "Song of the Deep Collector's Edition",
+      "site_detail_url": "http://www.giantbomb.com/song-of-the-deep/3030-52487/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148672/",
+      "id": 148672,
+      "name": "Song of the Deep Collector's Edition",
+      "site_detail_url": "http://www.giantbomb.com/song-of-the-deep/3030-52487/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148699/",
+      "id": 148699,
+      "name": "Song of the Deep",
+      "site_detail_url": "http://www.giantbomb.com/song-of-the-deep/3030-52487/releases/"
+    }
+  ]
+}

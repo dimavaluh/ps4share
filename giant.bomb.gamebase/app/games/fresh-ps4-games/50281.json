@@ -1,0 +1,61 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-50281/",
+  "deck": "Fall off the track and keep rolling in this procedurally generated racing game.",
+  "id": 50281,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2764246-19363046471_c38d0128bb_o.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2764246-19363046471_c38d0128bb_o.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2764246-19363046471_c38d0128bb_o.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2764246-19363046471_c38d0128bb_o.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2764246-19363046471_c38d0128bb_o.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2764246-19363046471_c38d0128bb_o.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2764246-19363046471_c38d0128bb_o.jpg"
+  },
+  "name": "Super Impossible Road",
+  "original_release_date": "2016-04-05 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/super-impossible-road/3030-50281/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/2764246-19363046471_c38d0128bb_o.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/2764246-19363046471_c38d0128bb_o.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/2764246-19363046471_c38d0128bb_o.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/2764246-19363046471_c38d0128bb_o.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/2764246-19363046471_c38d0128bb_o.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/26/2764246-19363046471_c38d0128bb_o.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/2764246-19363046471_c38d0128bb_o.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-6/",
+      "id": 6,
+      "name": "Driving/Racing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=drivingracing&wikiTypeId=3060&wikiId=6&genre=6"
+    }
+  ]
+}

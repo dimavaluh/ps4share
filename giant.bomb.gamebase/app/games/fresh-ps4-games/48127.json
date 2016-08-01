@@ -1,0 +1,82 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48127/",
+  "deck": "The Castle Game is a strategy castle building game from Neptune Interactive.",
+  "id": 48127,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2697085-castlegame_logo.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2697085-castlegame_logo.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2697085-castlegame_logo.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2697085-castlegame_logo.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2697085-castlegame_logo.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2697085-castlegame_logo.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2697085-castlegame_logo.png"
+  },
+  "name": "The Castle Game",
+  "original_release_date": "2015-08-04 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/the-castle-game/3030-48127/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780976-dsc09406.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780976-dsc09406.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780976-dsc09406.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780976-dsc09406.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2780976-dsc09406.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2780976-dsc09406.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2780976-dsc09406.jpg",
+      "tags": "All Images, PAX Rising, PAX Prime 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2697085-castlegame_logo.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2697085-castlegame_logo.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2697085-castlegame_logo.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2697085-castlegame_logo.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2697085-castlegame_logo.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2697085-castlegame_logo.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2697085-castlegame_logo.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2679504-dsc07066.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2679504-dsc07066.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2679504-dsc07066.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2679504-dsc07066.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2679504-dsc07066.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2679504-dsc07066.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2679504-dsc07066.jpg",
+      "tags": "All Images, Neptune Interactive, PAX Prime 2014 Booth, PAX Prime 2014"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-2/",
+      "id": 2,
+      "name": "Strategy",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=strategy&wikiTypeId=3060&wikiId=2&genre=2"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142691/",
+      "id": 142691,
+      "name": "The Castle Game",
+      "site_detail_url": "http://www.giantbomb.com/the-castle-game/3030-48127/releases/"
+    }
+  ]
+}

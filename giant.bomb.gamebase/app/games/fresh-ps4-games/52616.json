@@ -1,0 +1,68 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-52616/",
+  "deck": "Platformer starring the cleanup robot MOP.",
+  "id": 52616,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2824324-1889286464-",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2824324-1889286464-",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2824324-1889286464-",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2824324-1889286464-",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2824324-1889286464-",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2824324-1889286464-",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2824324-1889286464-"
+  },
+  "name": "MOP: Operation Cleanup",
+  "original_release_date": "2016-02-09 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/mop-operation-cleanup/3030-52616/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2824324-1889286464-",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2824324-1889286464-",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2824324-1889286464-",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2824324-1889286464-",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2824324-1889286464-",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2824324-1889286464-",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2824324-1889286464-",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146024/",
+      "id": 146024,
+      "name": "MOP: Operation Cleanup",
+      "site_detail_url": "http://www.giantbomb.com/mop-operation-cleanup/3030-52616/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147466/",
+      "id": 147466,
+      "name": "MOP: Operation Cleanup",
+      "site_detail_url": "http://www.giantbomb.com/mop-operation-cleanup/3030-52616/releases/"
+    }
+  ]
+}

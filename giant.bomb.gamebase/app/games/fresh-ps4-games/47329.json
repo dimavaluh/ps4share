@@ -1,0 +1,438 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-47329/",
+  "deck": "Metro Redux is a big overhaul of Metro 2033 and Metro: Last Light that includes significant visual and gameplay upgrades for a more uniform experience across both games.",
+  "id": 47329,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2669561-metro%20redux%20v1.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2669561-metro%20redux%20v1.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2669561-metro%20redux%20v1.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2669561-metro%20redux%20v1.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2669561-metro%20redux%20v1.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2669561-metro%20redux%20v1.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2669561-metro%20redux%20v1.jpg"
+  },
+  "name": "Metro Redux",
+  "original_release_date": "2014-08-26 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/metro-redux/3030-47329/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2679709-dsc06520.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2679709-dsc06520.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2679709-dsc06520.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2679709-dsc06520.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2679709-dsc06520.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2679709-dsc06520.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2679709-dsc06520.jpg",
+      "tags": "All Images, Square Enix / Deep Silver, PAX Prime 2014 Booth, PAX Prime 2014"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2672837-xvsvrxg.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2672837-xvsvrxg.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2672837-xvsvrxg.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2672837-xvsvrxg.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2672837-xvsvrxg.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2672837-xvsvrxg.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2672837-xvsvrxg.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2672836-0fr6pqt.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2672836-0fr6pqt.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2672836-0fr6pqt.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2672836-0fr6pqt.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2672836-0fr6pqt.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2672836-0fr6pqt.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2672836-0fr6pqt.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/3699/2669561-metro+redux+v1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/3699/2669561-metro+redux+v1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/3699/2669561-metro+redux+v1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/3699/2669561-metro+redux+v1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/3699/2669561-metro+redux+v1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/3699/2669561-metro+redux+v1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/3699/2669561-metro+redux+v1.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668495-10962540-1404308332-939197.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668495-10962540-1404308332-939197.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668495-10962540-1404308332-939197.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668495-10962540-1404308332-939197.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2668495-10962540-1404308332-939197.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2668495-10962540-1404308332-939197.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2668495-10962540-1404308332-939197.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668494-10962541-1404308332-939288.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668494-10962541-1404308332-939288.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668494-10962541-1404308332-939288.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668494-10962541-1404308332-939288.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2668494-10962541-1404308332-939288.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2668494-10962541-1404308332-939288.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2668494-10962541-1404308332-939288.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668493-10962542-1404308332-939192.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668493-10962542-1404308332-939192.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668493-10962542-1404308332-939192.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668493-10962542-1404308332-939192.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2668493-10962542-1404308332-939192.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2668493-10962542-1404308332-939192.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2668493-10962542-1404308332-939192.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668472-ss_efee66a1b77b0c51c0e3fe2cc57434a92bad4aa0.1920x1080.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668472-ss_efee66a1b77b0c51c0e3fe2cc57434a92bad4aa0.1920x1080.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668472-ss_efee66a1b77b0c51c0e3fe2cc57434a92bad4aa0.1920x1080.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668472-ss_efee66a1b77b0c51c0e3fe2cc57434a92bad4aa0.1920x1080.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2668472-ss_efee66a1b77b0c51c0e3fe2cc57434a92bad4aa0.1920x1080.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2668472-ss_efee66a1b77b0c51c0e3fe2cc57434a92bad4aa0.1920x1080.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2668472-ss_efee66a1b77b0c51c0e3fe2cc57434a92bad4aa0.1920x1080.jpg",
+      "tags": "All Images, Metro: Last Light Redux Promotional Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668471-ss_a206b10bda9b4a908881e9df70ab7d691640c89b.1920x1080.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668471-ss_a206b10bda9b4a908881e9df70ab7d691640c89b.1920x1080.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668471-ss_a206b10bda9b4a908881e9df70ab7d691640c89b.1920x1080.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668471-ss_a206b10bda9b4a908881e9df70ab7d691640c89b.1920x1080.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2668471-ss_a206b10bda9b4a908881e9df70ab7d691640c89b.1920x1080.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2668471-ss_a206b10bda9b4a908881e9df70ab7d691640c89b.1920x1080.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2668471-ss_a206b10bda9b4a908881e9df70ab7d691640c89b.1920x1080.jpg",
+      "tags": "All Images, Metro: Last Light Redux Promotional Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668470-ss_e82de29cd9b1d3f2f53932d127ddace1f0c4d7ce.1920x1080.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668470-ss_e82de29cd9b1d3f2f53932d127ddace1f0c4d7ce.1920x1080.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668470-ss_e82de29cd9b1d3f2f53932d127ddace1f0c4d7ce.1920x1080.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668470-ss_e82de29cd9b1d3f2f53932d127ddace1f0c4d7ce.1920x1080.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2668470-ss_e82de29cd9b1d3f2f53932d127ddace1f0c4d7ce.1920x1080.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2668470-ss_e82de29cd9b1d3f2f53932d127ddace1f0c4d7ce.1920x1080.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2668470-ss_e82de29cd9b1d3f2f53932d127ddace1f0c4d7ce.1920x1080.jpg",
+      "tags": "All Images, Metro: Last Light Redux Promotional Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668469-ss_1e3b0f0436bed289c0b503766c2484520cf67667.1920x1080.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668469-ss_1e3b0f0436bed289c0b503766c2484520cf67667.1920x1080.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668469-ss_1e3b0f0436bed289c0b503766c2484520cf67667.1920x1080.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668469-ss_1e3b0f0436bed289c0b503766c2484520cf67667.1920x1080.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2668469-ss_1e3b0f0436bed289c0b503766c2484520cf67667.1920x1080.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2668469-ss_1e3b0f0436bed289c0b503766c2484520cf67667.1920x1080.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2668469-ss_1e3b0f0436bed289c0b503766c2484520cf67667.1920x1080.jpg",
+      "tags": "All Images, Metro: Last Light Redux Promotional Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668468-ss_b81d14be6da9935d5c0ecad19074a5b2f2cfecf8.1920x1080.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668468-ss_b81d14be6da9935d5c0ecad19074a5b2f2cfecf8.1920x1080.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668468-ss_b81d14be6da9935d5c0ecad19074a5b2f2cfecf8.1920x1080.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668468-ss_b81d14be6da9935d5c0ecad19074a5b2f2cfecf8.1920x1080.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2668468-ss_b81d14be6da9935d5c0ecad19074a5b2f2cfecf8.1920x1080.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2668468-ss_b81d14be6da9935d5c0ecad19074a5b2f2cfecf8.1920x1080.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2668468-ss_b81d14be6da9935d5c0ecad19074a5b2f2cfecf8.1920x1080.jpg",
+      "tags": "All Images, Metro: Last Light Redux Promotional Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668467-ss_b31b38d3d8208f30f49d94c84c73ae558006fbcd.1920x1080.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668467-ss_b31b38d3d8208f30f49d94c84c73ae558006fbcd.1920x1080.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668467-ss_b31b38d3d8208f30f49d94c84c73ae558006fbcd.1920x1080.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668467-ss_b31b38d3d8208f30f49d94c84c73ae558006fbcd.1920x1080.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2668467-ss_b31b38d3d8208f30f49d94c84c73ae558006fbcd.1920x1080.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2668467-ss_b31b38d3d8208f30f49d94c84c73ae558006fbcd.1920x1080.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2668467-ss_b31b38d3d8208f30f49d94c84c73ae558006fbcd.1920x1080.jpg",
+      "tags": "All Images, Metro 2033 Redux Promotion Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668466-ss_b369b06515dee04938b54808a6bfa2cd634d33c3.1920x1080.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668466-ss_b369b06515dee04938b54808a6bfa2cd634d33c3.1920x1080.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668466-ss_b369b06515dee04938b54808a6bfa2cd634d33c3.1920x1080.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668466-ss_b369b06515dee04938b54808a6bfa2cd634d33c3.1920x1080.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2668466-ss_b369b06515dee04938b54808a6bfa2cd634d33c3.1920x1080.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2668466-ss_b369b06515dee04938b54808a6bfa2cd634d33c3.1920x1080.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2668466-ss_b369b06515dee04938b54808a6bfa2cd634d33c3.1920x1080.jpg",
+      "tags": "All Images, Metro 2033 Redux Promotion Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668465-ss_6f2b3f3a7409bd649208924a5815e908731432bd.1920x1080.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668465-ss_6f2b3f3a7409bd649208924a5815e908731432bd.1920x1080.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668465-ss_6f2b3f3a7409bd649208924a5815e908731432bd.1920x1080.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668465-ss_6f2b3f3a7409bd649208924a5815e908731432bd.1920x1080.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2668465-ss_6f2b3f3a7409bd649208924a5815e908731432bd.1920x1080.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2668465-ss_6f2b3f3a7409bd649208924a5815e908731432bd.1920x1080.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2668465-ss_6f2b3f3a7409bd649208924a5815e908731432bd.1920x1080.jpg",
+      "tags": "All Images, Metro 2033 Redux Promotion Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668464-ss_6eb84a35c0f34841b5b1eef9be7d172c9bced5eb.1920x1080.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668464-ss_6eb84a35c0f34841b5b1eef9be7d172c9bced5eb.1920x1080.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668464-ss_6eb84a35c0f34841b5b1eef9be7d172c9bced5eb.1920x1080.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668464-ss_6eb84a35c0f34841b5b1eef9be7d172c9bced5eb.1920x1080.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2668464-ss_6eb84a35c0f34841b5b1eef9be7d172c9bced5eb.1920x1080.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2668464-ss_6eb84a35c0f34841b5b1eef9be7d172c9bced5eb.1920x1080.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2668464-ss_6eb84a35c0f34841b5b1eef9be7d172c9bced5eb.1920x1080.jpg",
+      "tags": "All Images, Metro 2033 Redux Promotion Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668463-ss_e731192b48c3599945136b8267979be80eea0ce1.1920x1080.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668463-ss_e731192b48c3599945136b8267979be80eea0ce1.1920x1080.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668463-ss_e731192b48c3599945136b8267979be80eea0ce1.1920x1080.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668463-ss_e731192b48c3599945136b8267979be80eea0ce1.1920x1080.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2668463-ss_e731192b48c3599945136b8267979be80eea0ce1.1920x1080.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2668463-ss_e731192b48c3599945136b8267979be80eea0ce1.1920x1080.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2668463-ss_e731192b48c3599945136b8267979be80eea0ce1.1920x1080.jpg",
+      "tags": "All Images, Metro 2033 Redux Promotion Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668462-71%2Bucsb2o3l._sl1018_.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668462-71%2Bucsb2o3l._sl1018_.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668462-71%2Bucsb2o3l._sl1018_.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668462-71%2Bucsb2o3l._sl1018_.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2668462-71%2Bucsb2o3l._sl1018_.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2668462-71%2Bucsb2o3l._sl1018_.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2668462-71%2Bucsb2o3l._sl1018_.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668461-metro2033redux.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668461-metro2033redux.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668461-metro2033redux.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668461-metro2033redux.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2668461-metro2033redux.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2668461-metro2033redux.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2668461-metro2033redux.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668460-metrolastlightredux.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668460-metrolastlightredux.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668460-metrolastlightredux.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668460-metrolastlightredux.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2668460-metrolastlightredux.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2668460-metrolastlightredux.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2668460-metrolastlightredux.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668459-719mrewgwbl._sl1018_.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668459-719mrewgwbl._sl1018_.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668459-719mrewgwbl._sl1018_.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668459-719mrewgwbl._sl1018_.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2668459-719mrewgwbl._sl1018_.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2668459-719mrewgwbl._sl1018_.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2668459-719mrewgwbl._sl1018_.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668444-61mlu5gypxl.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668444-61mlu5gypxl.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668444-61mlu5gypxl.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668444-61mlu5gypxl.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2668444-61mlu5gypxl.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2668444-61mlu5gypxl.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2668444-61mlu5gypxl.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668443-61nwvrw676l.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668443-61nwvrw676l.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668443-61nwvrw676l.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668443-61nwvrw676l.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2668443-61nwvrw676l.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2668443-61nwvrw676l.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2668443-61nwvrw676l.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668442-metroreduxboxclean.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668442-metroreduxboxclean.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668442-metroreduxboxclean.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668442-metroreduxboxclean.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2668442-metroreduxboxclean.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2668442-metroreduxboxclean.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2668442-metroreduxboxclean.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668441-71sjieu5ppl._sl1018_.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668441-71sjieu5ppl._sl1018_.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2668441-71sjieu5ppl._sl1018_.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2668441-71sjieu5ppl._sl1018_.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2668441-71sjieu5ppl._sl1018_.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2668441-71sjieu5ppl._sl1018_.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2668441-71sjieu5ppl._sl1018_.jpg",
+      "tags": "All Images, Box Art"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8914/",
+      "id": 8914,
+      "name": "Both Metro Games Getting Tweaked, Updated in Metro Redux",
+      "site_detail_url": "http://www.giantbomb.com/videos/both-metro-games-getting-tweaked-updated-in-metro-/2300-8914/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9447/",
+      "id": 9447,
+      "name": "Quick Look: Metro Redux",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-metro-redux/2300-9447/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-15/",
+      "id": 15,
+      "name": "Compilation",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=compilation&wikiTypeId=3060&wikiId=15&genre=15"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-32/",
+      "id": 32,
+      "name": "First-Person Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=first-person-shooter&wikiTypeId=3060&wikiId=32&genre=32"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136723/",
+      "id": 136723,
+      "name": "Metro Redux",
+      "site_detail_url": "http://www.giantbomb.com/metro-redux/3030-47329/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136724/",
+      "id": 136724,
+      "name": "Metro Redux",
+      "site_detail_url": "http://www.giantbomb.com/metro-redux/3030-47329/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136725/",
+      "id": 136725,
+      "name": "Metro Redux",
+      "site_detail_url": "http://www.giantbomb.com/metro-redux/3030-47329/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136726/",
+      "id": 136726,
+      "name": "Metro Redux",
+      "site_detail_url": "http://www.giantbomb.com/metro-redux/3030-47329/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136728/",
+      "id": 136728,
+      "name": "Metro Redux",
+      "site_detail_url": "http://www.giantbomb.com/metro-redux/3030-47329/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136729/",
+      "id": 136729,
+      "name": "Metro Redux",
+      "site_detail_url": "http://www.giantbomb.com/metro-redux/3030-47329/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136730/",
+      "id": 136730,
+      "name": "Metro 2033 Redux",
+      "site_detail_url": "http://www.giantbomb.com/metro-redux/3030-47329/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136731/",
+      "id": 136731,
+      "name": "Metro 2033 Redux",
+      "site_detail_url": "http://www.giantbomb.com/metro-redux/3030-47329/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136732/",
+      "id": 136732,
+      "name": "Metro 2033 Redux",
+      "site_detail_url": "http://www.giantbomb.com/metro-redux/3030-47329/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136733/",
+      "id": 136733,
+      "name": "Metro: Last Light Redux",
+      "site_detail_url": "http://www.giantbomb.com/metro-redux/3030-47329/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136734/",
+      "id": 136734,
+      "name": "Metro: Last Light Redux",
+      "site_detail_url": "http://www.giantbomb.com/metro-redux/3030-47329/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136735/",
+      "id": 136735,
+      "name": "Metro: Last Light Redux",
+      "site_detail_url": "http://www.giantbomb.com/metro-redux/3030-47329/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136739/",
+      "id": 136739,
+      "name": "Metro Redux",
+      "site_detail_url": "http://www.giantbomb.com/metro-redux/3030-47329/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137463/",
+      "id": 137463,
+      "name": "Metro Redux",
+      "site_detail_url": "http://www.giantbomb.com/metro-redux/3030-47329/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137464/",
+      "id": 137464,
+      "name": "Metro Redux",
+      "site_detail_url": "http://www.giantbomb.com/metro-redux/3030-47329/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137465/",
+      "id": 137465,
+      "name": "Metro Redux",
+      "site_detail_url": "http://www.giantbomb.com/metro-redux/3030-47329/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137506/",
+      "id": 137506,
+      "name": "Metro 2033 Redux",
+      "site_detail_url": "http://www.giantbomb.com/metro-redux/3030-47329/releases/"
+    }
+  ]
+}

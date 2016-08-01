@@ -1,0 +1,648 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-38141/",
+  "deck": "Rayman Legends is the sequel to 2011's Rayman: Origins.",
+  "id": 38141,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2539437-raymanlegendsclean.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2539437-raymanlegendsclean.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2539437-raymanlegendsclean.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2539437-raymanlegendsclean.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2539437-raymanlegendsclean.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2539437-raymanlegendsclean.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2539437-raymanlegendsclean.jpg"
+  },
+  "name": "Rayman Legends",
+  "original_release_date": "2013-08-29 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+      "id": 86,
+      "name": "Xbox 360 Games Store",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+      "abbreviation": "XBGS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2542135-dsc05197.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2542135-dsc05197.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2542135-dsc05197.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2542135-dsc05197.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2542135-dsc05197.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2542135-dsc05197.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2542135-dsc05197.jpg",
+      "tags": "All Images, Ubisoft, PAX Prime 2013, PAX Prime 2013 Booth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2542134-dsc05196.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2542134-dsc05196.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2542134-dsc05196.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2542134-dsc05196.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2542134-dsc05196.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2542134-dsc05196.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2542134-dsc05196.jpg",
+      "tags": "All Images, Ubisoft, PAX Prime 2013, PAX Prime 2013 Booth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2542001-dsc05127.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2542001-dsc05127.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2542001-dsc05127.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2542001-dsc05127.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2542001-dsc05127.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2542001-dsc05127.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2542001-dsc05127.jpg",
+      "tags": "All Images, Sony, PAX Prime 2013, PAX Prime 2013 Booth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2539437-raymanlegendsclean.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2539437-raymanlegendsclean.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2539437-raymanlegendsclean.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2539437-raymanlegendsclean.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2539437-raymanlegendsclean.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2539437-raymanlegendsclean.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2539437-raymanlegendsclean.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2537678-ihkhlwaqpugwa.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2537678-ihkhlwaqpugwa.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2537678-ihkhlwaqpugwa.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2537678-ihkhlwaqpugwa.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2537678-ihkhlwaqpugwa.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2537678-ihkhlwaqpugwa.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2537678-ihkhlwaqpugwa.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495877-rayman-legends_2013_06-10-13_014.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495877-rayman-legends_2013_06-10-13_014.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495877-rayman-legends_2013_06-10-13_014.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495877-rayman-legends_2013_06-10-13_014.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495877-rayman-legends_2013_06-10-13_014.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495877-rayman-legends_2013_06-10-13_014.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495877-rayman-legends_2013_06-10-13_014.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495876-rayman-legends_2013_06-10-13_013.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495876-rayman-legends_2013_06-10-13_013.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495876-rayman-legends_2013_06-10-13_013.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495876-rayman-legends_2013_06-10-13_013.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495876-rayman-legends_2013_06-10-13_013.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495876-rayman-legends_2013_06-10-13_013.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495876-rayman-legends_2013_06-10-13_013.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495875-rayman-legends_2013_06-10-13_012.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495875-rayman-legends_2013_06-10-13_012.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495875-rayman-legends_2013_06-10-13_012.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495875-rayman-legends_2013_06-10-13_012.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495875-rayman-legends_2013_06-10-13_012.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495875-rayman-legends_2013_06-10-13_012.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495875-rayman-legends_2013_06-10-13_012.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495874-rayman-legends_2013_06-10-13_011.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495874-rayman-legends_2013_06-10-13_011.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495874-rayman-legends_2013_06-10-13_011.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495874-rayman-legends_2013_06-10-13_011.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495874-rayman-legends_2013_06-10-13_011.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495874-rayman-legends_2013_06-10-13_011.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495874-rayman-legends_2013_06-10-13_011.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495873-rayman-legends_2013_06-10-13_010.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495873-rayman-legends_2013_06-10-13_010.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495873-rayman-legends_2013_06-10-13_010.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495873-rayman-legends_2013_06-10-13_010.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495873-rayman-legends_2013_06-10-13_010.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495873-rayman-legends_2013_06-10-13_010.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495873-rayman-legends_2013_06-10-13_010.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495872-rayman-legends_2013_06-10-13_009.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495872-rayman-legends_2013_06-10-13_009.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495872-rayman-legends_2013_06-10-13_009.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495872-rayman-legends_2013_06-10-13_009.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495872-rayman-legends_2013_06-10-13_009.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495872-rayman-legends_2013_06-10-13_009.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495872-rayman-legends_2013_06-10-13_009.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495871-rayman-legends_2013_06-10-13_005.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495871-rayman-legends_2013_06-10-13_005.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495871-rayman-legends_2013_06-10-13_005.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495871-rayman-legends_2013_06-10-13_005.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495871-rayman-legends_2013_06-10-13_005.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495871-rayman-legends_2013_06-10-13_005.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495871-rayman-legends_2013_06-10-13_005.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495870-rayman-legends_2013_06-10-13_004.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495870-rayman-legends_2013_06-10-13_004.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495870-rayman-legends_2013_06-10-13_004.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495870-rayman-legends_2013_06-10-13_004.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495870-rayman-legends_2013_06-10-13_004.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495870-rayman-legends_2013_06-10-13_004.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495870-rayman-legends_2013_06-10-13_004.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495869-rayman-legends_2013_06-10-13_003.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495869-rayman-legends_2013_06-10-13_003.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495869-rayman-legends_2013_06-10-13_003.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495869-rayman-legends_2013_06-10-13_003.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495869-rayman-legends_2013_06-10-13_003.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495869-rayman-legends_2013_06-10-13_003.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495869-rayman-legends_2013_06-10-13_003.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495868-rayman-legends_2013_06-10-13_002.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495868-rayman-legends_2013_06-10-13_002.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495868-rayman-legends_2013_06-10-13_002.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495868-rayman-legends_2013_06-10-13_002.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495868-rayman-legends_2013_06-10-13_002.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495868-rayman-legends_2013_06-10-13_002.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495868-rayman-legends_2013_06-10-13_002.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495867-rayman-legends_2013_06-10-13_001.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495867-rayman-legends_2013_06-10-13_001.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495867-rayman-legends_2013_06-10-13_001.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495867-rayman-legends_2013_06-10-13_001.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495867-rayman-legends_2013_06-10-13_001.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495867-rayman-legends_2013_06-10-13_001.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495867-rayman-legends_2013_06-10-13_001.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2477762-rl_mariachi_madness3.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2477762-rl_mariachi_madness3.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2477762-rl_mariachi_madness3.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2477762-rl_mariachi_madness3.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/39/2477762-rl_mariachi_madness3.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/39/2477762-rl_mariachi_madness3.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/39/2477762-rl_mariachi_madness3.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2477761-rl_mariachi_madness2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2477761-rl_mariachi_madness2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2477761-rl_mariachi_madness2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2477761-rl_mariachi_madness2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/39/2477761-rl_mariachi_madness2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/39/2477761-rl_mariachi_madness2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/39/2477761-rl_mariachi_madness2.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2477760-rl_mariachi_madness.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2477760-rl_mariachi_madness.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2477760-rl_mariachi_madness.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2477760-rl_mariachi_madness.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/39/2477760-rl_mariachi_madness.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/39/2477760-rl_mariachi_madness.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/39/2477760-rl_mariachi_madness.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2417200-box_raymanl.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2417200-box_raymanl.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2417200-box_raymanl.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2417200-box_raymanl.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2417200-box_raymanl.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2417200-box_raymanl.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2417200-box_raymanl.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93770/2349658-rayman_legends.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93770/2349658-rayman_legends.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93770/2349658-rayman_legends.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93770/2349658-rayman_legends.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93770/2349658-rayman_legends.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93770/2349658-rayman_legends.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93770/2349658-rayman_legends.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2311004-ubisoft13.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2311004-ubisoft13.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2311004-ubisoft13.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2311004-ubisoft13.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2311004-ubisoft13.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2311004-ubisoft13.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2311004-ubisoft13.jpg",
+      "tags": "All Images, Ubisoft, PAX Prime 2012 Booth, PAX Prime 2012"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2294733-raymanlegendsscreenshotticklemonstergc.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2294733-raymanlegendsscreenshotticklemonstergc.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2294733-raymanlegendsscreenshotticklemonstergc.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2294733-raymanlegendsscreenshotticklemonstergc.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2294733-raymanlegendsscreenshotticklemonstergc.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2294733-raymanlegendsscreenshotticklemonstergc.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2294733-raymanlegendsscreenshotticklemonstergc.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2294732-raymanlegendsscreenshotmurphyholdemgc.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2294732-raymanlegendsscreenshotmurphyholdemgc.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2294732-raymanlegendsscreenshotmurphyholdemgc.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2294732-raymanlegendsscreenshotmurphyholdemgc.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2294732-raymanlegendsscreenshotmurphyholdemgc.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2294732-raymanlegendsscreenshotmurphyholdemgc.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2294732-raymanlegendsscreenshotmurphyholdemgc.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2294731-raymanlegendsscreenshotmarblerushgc.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2294731-raymanlegendsscreenshotmarblerushgc.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2294731-raymanlegendsscreenshotmarblerushgc.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2294731-raymanlegendsscreenshotmarblerushgc.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2294731-raymanlegendsscreenshotmarblerushgc.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2294731-raymanlegendsscreenshotmarblerushgc.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2294731-raymanlegendsscreenshotmarblerushgc.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2294730-raymanlegendsscreenshotlushjunglegc.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2294730-raymanlegendsscreenshotlushjunglegc.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2294730-raymanlegendsscreenshotlushjunglegc.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2294730-raymanlegendsscreenshotlushjunglegc.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2294730-raymanlegendsscreenshotlushjunglegc.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2294730-raymanlegendsscreenshotlushjunglegc.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2294730-raymanlegendsscreenshotlushjunglegc.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2294729-raymanlegendsscreenshotlavachasegc.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2294729-raymanlegendsscreenshotlavachasegc.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2294729-raymanlegendsscreenshotlavachasegc.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2294729-raymanlegendsscreenshotlavachasegc.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2294729-raymanlegendsscreenshotlavachasegc.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2294729-raymanlegendsscreenshotlavachasegc.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2294729-raymanlegendsscreenshotlavachasegc.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2294728-raymanlegendsposingbarbara03.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2294728-raymanlegendsposingbarbara03.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2294728-raymanlegendsposingbarbara03.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2294728-raymanlegendsposingbarbara03.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2294728-raymanlegendsposingbarbara03.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2294728-raymanlegendsposingbarbara03.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2294728-raymanlegendsposingbarbara03.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2294727-raymanlegendsposingbarbara02.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2294727-raymanlegendsposingbarbara02.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2294727-raymanlegendsposingbarbara02.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2294727-raymanlegendsposingbarbara02.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2294727-raymanlegendsposingbarbara02.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2294727-raymanlegendsposingbarbara02.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2294727-raymanlegendsposingbarbara02.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2294726-raymanlegendsposingbarbara01.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2294726-raymanlegendsposingbarbara01.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2294726-raymanlegendsposingbarbara01.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2294726-raymanlegendsposingbarbara01.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2294726-raymanlegendsposingbarbara01.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2294726-raymanlegendsposingbarbara01.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2294726-raymanlegendsposingbarbara01.jpg",
+      "tags": "All Images, Concept Art"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6101/",
+      "id": 6101,
+      "name": "E3 2012: Rayman Legends Demo",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2012-rayman-legends-demo/2300-6101/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6428/",
+      "id": 6428,
+      "name": "Rayman: Legends Features An All New Character Named...Barbara?",
+      "site_detail_url": "http://www.giantbomb.com/videos/rayman-legends-features-an-all-new-character-named/2300-6428/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6563/",
+      "id": 6563,
+      "name": "Michel Ancel Tells You All About Rayman Legends' Many Wii U-Focused Features",
+      "site_detail_url": "http://www.giantbomb.com/videos/michel-ancel-tells-you-all-about-rayman-legends-ma/2300-6563/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6754/",
+      "id": 6754,
+      "name": "Take a Delightful Trip Through One of Rayman Legends' Levels",
+      "site_detail_url": "http://www.giantbomb.com/videos/take-a-delightful-trip-through-one-of-rayman-legen/2300-6754/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6886/",
+      "id": 6886,
+      "name": "According to This Trailer, Rayman Legends Has a Demo Out Right Now",
+      "site_detail_url": "http://www.giantbomb.com/videos/according-to-this-trailer-rayman-legends-has-a-dem/2300-6886/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7292/",
+      "id": 7292,
+      "name": "Rayman Legends' Free Online Challenges App Is Now Available for Wii U Owners",
+      "site_detail_url": "http://www.giantbomb.com/videos/rayman-legends-free-online-challenges-app-is-now-a/2300-7292/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7318/",
+      "id": 7318,
+      "name": "Rayman Legends Has Caught a Bad Case of Mariachi Madness",
+      "site_detail_url": "http://www.giantbomb.com/videos/rayman-legends-has-caught-a-bad-case-of-mariachi-m/2300-7318/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7364/",
+      "id": 7364,
+      "name": "Rayman and Friends Head Underwater in this Latest Legends Trailer",
+      "site_detail_url": "http://www.giantbomb.com/videos/rayman-and-friends-head-underwater-in-this-latest-/2300-7364/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7418/",
+      "id": 7418,
+      "name": "The Delayed Rayman Legends Is Also Coming to Vita",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-delayed-rayman-legends-is-also-coming-to-vita/2300-7418/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7512/",
+      "id": 7512,
+      "name": "E3 2013: Rayman Legends is So Cute, You Might Just Die",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-rayman-legends-is-so-cute-you-might-just-d/2300-7512/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7513/",
+      "id": 7513,
+      "name": "E3 2013: The Glade of Dreams Needs You and Your Friends' Help in Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-the-glade-of-dreams-needs-you-and-your-fri/2300-7513/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7786/",
+      "id": 7786,
+      "name": "Rayman Legends Is Getting Mario and Luigi Suits",
+      "site_detail_url": "http://www.giantbomb.com/videos/rayman-legends-is-getting-mario-and-luigi-suits/2300-7786/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7884/",
+      "id": 7884,
+      "name": "Your Long Wait for Rayman Legends Ends Next Week",
+      "site_detail_url": "http://www.giantbomb.com/videos/your-long-wait-for-rayman-legends-ends-next-week/2300-7884/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7899/",
+      "id": 7899,
+      "name": "Quick Look: Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-rayman-legends/2300-7899/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7909/",
+      "id": 7909,
+      "name": "Bombin' the A.M. With Scoops and the Wolf! 09/06/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-09-06-2013/2300-7909/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8039/",
+      "id": 8039,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 10/07/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-10-07-2013/2300-8039/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8295/",
+      "id": 8295,
+      "name": "Rayman Legends Is Coming to Xbox One and PS4 and Also Maybe Snoop Dogg Is in it Now I Don't Know",
+      "site_detail_url": "http://www.giantbomb.com/videos/rayman-legends-is-coming-to-xbox-one-and-ps4-and-a/2300-8295/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8520/",
+      "id": 8520,
+      "name": "You Can Now Play Rayman Legends on Your PS4 or Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/videos/you-can-now-play-rayman-legends-on-your-ps4-or-xbo/2300-8520/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-120221/",
+      "id": 120221,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-120222/",
+      "id": 120222,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-120223/",
+      "id": 120223,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-124923/",
+      "id": 124923,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-124968/",
+      "id": 124968,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-124969/",
+      "id": 124969,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127668/",
+      "id": 127668,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127669/",
+      "id": 127669,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127670/",
+      "id": 127670,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127671/",
+      "id": 127671,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127694/",
+      "id": 127694,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127695/",
+      "id": 127695,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128722/",
+      "id": 128722,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128784/",
+      "id": 128784,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128785/",
+      "id": 128785,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-129697/",
+      "id": 129697,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-129698/",
+      "id": 129698,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133005/",
+      "id": 133005,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136137/",
+      "id": 136137,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136140/",
+      "id": 136140,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136142/",
+      "id": 136142,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136472/",
+      "id": 136472,
+      "name": "Rayman Legends (Steam)",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142947/",
+      "id": 142947,
+      "name": "Rayman Legends",
+      "site_detail_url": "http://www.giantbomb.com/rayman-legends/3030-38141/releases/"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-46918/",
+  "deck": "In this standalone multiplayer mode for Killzone: Shadow Fall, up to four players must try to establish a secure uplink to VSA headquarters from behind enemy lines while fending off waves of Helghast soldiers.",
+  "id": 46918,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2653721-intercept.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2653721-intercept.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2653721-intercept.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2653721-intercept.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2653721-intercept.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2653721-intercept.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2653721-intercept.jpg"
+  },
+  "name": "Killzone: Shadow Fall - Intercept",
+  "original_release_date": "2014-06-25 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/killzone-shadow-fall-intercept/3030-46918/",
+  "images": [],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-32/",
+      "id": 32,
+      "name": "First-Person Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=first-person-shooter&wikiTypeId=3060&wikiId=32&genre=32"
+    }
+  ]
+}

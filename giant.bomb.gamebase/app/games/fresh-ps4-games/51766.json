@@ -1,0 +1,79 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-51766/",
+  "deck": "A VR-based title were players learn what it is like \"to job\" in a world where all such tasks are now performed by robots.",
+  "id": 51766,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2803208-2050%20archives.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2803208-2050%20archives.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2803208-2050%20archives.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2803208-2050%20archives.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2803208-2050%20archives.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2803208-2050%20archives.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2803208-2050%20archives.jpg"
+  },
+  "name": "Job Simulator: The 2050 Archives",
+  "original_release_date": "2016-04-05 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/job-simulator-the-2050-archives/3030-51766/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847627-dsc01581.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847627-dsc01581.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847627-dsc01581.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847627-dsc01581.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2847627-dsc01581.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2847627-dsc01581.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2847627-dsc01581.jpg",
+      "tags": "All Images, Sony, PAX East 2016 Booth, PAX East 2016"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847602-dsc00690.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847602-dsc00690.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847602-dsc00690.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847602-dsc00690.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2847602-dsc00690.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2847602-dsc00690.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2847602-dsc00690.jpg",
+      "tags": "All Images, Sony, PAX East 2016 Booth, PAX East 2016"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11095/",
+      "id": 11095,
+      "name": "HTC Vive Launch Lineup - Part 01",
+      "site_detail_url": "http://www.giantbomb.com/videos/htc-vive-launch-lineup-part-01/2300-11095/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-17/",
+      "id": 17,
+      "name": "Minigame Collection",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=minigame-collection&wikiTypeId=3060&wikiId=17&genre=17"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147053/",
+      "id": 147053,
+      "name": "Job Simulator: The 2050 Archives",
+      "site_detail_url": "http://www.giantbomb.com/job-simulator-the-2050-archives/3030-51766/releases/"
+    }
+  ]
+}

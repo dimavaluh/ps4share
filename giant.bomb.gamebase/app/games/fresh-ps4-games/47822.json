@@ -1,0 +1,87 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-47822/",
+  "deck": "An exploration of the impact a single man had on several people's lives.",
+  "id": 47822,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2681594-1725676173-Fragm.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2681594-1725676173-Fragm.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2681594-1725676173-Fragm.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2681594-1725676173-Fragm.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2681594-1725676173-Fragm.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2681594-1725676173-Fragm.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2681594-1725676173-Fragm.png"
+  },
+  "name": "Fragments of Him",
+  "original_release_date": "2016-05-03 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/fragments-of-him/3030-47822/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/217562/2868492-vlcsnap-error836.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/21/217562/2868492-vlcsnap-error836.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/217562/2868492-vlcsnap-error836.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/21/217562/2868492-vlcsnap-error836.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/21/217562/2868492-vlcsnap-error836.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/21/217562/2868492-vlcsnap-error836.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/217562/2868492-vlcsnap-error836.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/217562/2868491-vlcsnap-error423.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/21/217562/2868491-vlcsnap-error423.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/217562/2868491-vlcsnap-error423.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/21/217562/2868491-vlcsnap-error423.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/21/217562/2868491-vlcsnap-error423.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/21/217562/2868491-vlcsnap-error423.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/217562/2868491-vlcsnap-error423.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93998/2681594-1725676173-Fragm.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93998/2681594-1725676173-Fragm.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93998/2681594-1725676173-Fragm.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93998/2681594-1725676173-Fragm.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93998/2681594-1725676173-Fragm.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93998/2681594-1725676173-Fragm.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93998/2681594-1725676173-Fragm.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148502/",
+      "id": 148502,
+      "name": "Fragments of Him",
+      "site_detail_url": "http://www.giantbomb.com/fragments-of-him/3030-47822/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148503/",
+      "id": 148503,
+      "name": "Fragments of Him",
+      "site_detail_url": "http://www.giantbomb.com/fragments-of-him/3030-47822/releases/"
+    }
+  ]
+}

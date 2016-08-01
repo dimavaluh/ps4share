@@ -1,0 +1,75 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-47335/",
+  "deck": "Game based on the M3 The Dark Metal anime.",
+  "id": 47335,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2705402-m3.jpeg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2705402-m3.jpeg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2705402-m3.jpeg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2705402-m3.jpeg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2705402-m3.jpeg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2705402-m3.jpeg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2705402-m3.jpeg"
+  },
+  "name": "M3 Sono Kuroki Hagane: Mission Memento Mori",
+  "original_release_date": "2014-11-20 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/m3-sono-kuroki-hagane-mission-memento-mori/3030-47335/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2705402-m3.jpeg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2705402-m3.jpeg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2705402-m3.jpeg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2705402-m3.jpeg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2705402-m3.jpeg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2705402-m3.jpeg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2705402-m3.jpeg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-4/",
+      "id": 4,
+      "name": "Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=adventure&wikiTypeId=3060&wikiId=4&genre=4"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138815/",
+      "id": 138815,
+      "name": "M3 Sono Kuroki Hagane: Mission Memento Mori",
+      "site_detail_url": "http://www.giantbomb.com/m3-sono-kuroki-hagane-mission-memento-mori/3030-47335/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138916/",
+      "id": 138916,
+      "name": "M3 Sono Kuroki Hagane: Mission Memento Mori",
+      "site_detail_url": "http://www.giantbomb.com/m3-sono-kuroki-hagane-mission-memento-mori/3030-47335/releases/"
+    }
+  ]
+}

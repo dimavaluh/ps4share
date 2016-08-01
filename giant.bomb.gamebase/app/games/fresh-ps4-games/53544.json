@@ -1,0 +1,43 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-53544/",
+  "deck": "Four classic titles in one bundle, providing hours of entertainment!",
+  "id": 53544,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2845433-hasbro.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2845433-hasbro.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2845433-hasbro.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2845433-hasbro.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2845433-hasbro.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2845433-hasbro.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2845433-hasbro.jpg"
+  },
+  "name": "Hasbro Family Fun Pack",
+  "original_release_date": "2015-10-20 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/hasbro-family-fun-pack/3030-53544/",
+  "images": [],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-14/",
+      "id": 14,
+      "name": "Trivia/Board Game",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=triviaboard-game&wikiTypeId=3060&wikiId=14&genre=14"
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-44652/",
+  "deck": "LEGO returns to Middle-earth with this video game adaptation of the first two Hobbit movies.",
+  "id": 44652,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2617757-box_legoth.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2617757-box_legoth.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2617757-box_legoth.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2617757-box_legoth.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2617757-box_legoth.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2617757-box_legoth.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2617757-box_legoth.png"
+  },
+  "name": "LEGO The Hobbit",
+  "original_release_date": "2014-04-08 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-117/",
+      "id": 117,
+      "name": "Nintendo 3DS",
+      "site_detail_url": "http://www.giantbomb.com/nintendo-3ds/3045-117/",
+      "abbreviation": "3DS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/lego-the-hobbit/3030-44652/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2744110-hobbit.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2744110-hobbit.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2744110-hobbit.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2744110-hobbit.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2744110-hobbit.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2744110-hobbit.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2744110-hobbit.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2617757-box_legoth.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2617757-box_legoth.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2617757-box_legoth.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2617757-box_legoth.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2617757-box_legoth.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2617757-box_legoth.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2617757-box_legoth.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2617600-028533.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2617600-028533.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2617600-028533.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2617600-028533.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2617600-028533.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2617600-028533.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2617600-028533.jpg",
+      "tags": "All Images, Screenshots, LEGO The Hobbit"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2617599-028532.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2617599-028532.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2617599-028532.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2617599-028532.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2617599-028532.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2617599-028532.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2617599-028532.jpg",
+      "tags": "All Images, Screenshots, LEGO The Hobbit"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2617598-028531.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2617598-028531.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2617598-028531.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2617598-028531.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2617598-028531.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2617598-028531.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2617598-028531.jpg",
+      "tags": "All Images, Screenshots, LEGO The Hobbit"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2617597-028530.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2617597-028530.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2617597-028530.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2617597-028530.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2617597-028530.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2617597-028530.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2617597-028530.jpg",
+      "tags": "All Images, Screenshots, LEGO The Hobbit"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2617596-028529.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2617596-028529.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2617596-028529.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2617596-028529.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2617596-028529.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2617596-028529.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2617596-028529.jpg",
+      "tags": "All Images, Screenshots, LEGO The Hobbit"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2617595-028528.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2617595-028528.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2617595-028528.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2617595-028528.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2617595-028528.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2617595-028528.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2617595-028528.jpg",
+      "tags": "All Images, Screenshots, LEGO The Hobbit"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605494-027345.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605494-027345.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605494-027345.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605494-027345.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2605494-027345.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2605494-027345.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2605494-027345.jpg",
+      "tags": "All Images, Screenshots, LEGO The Hobbit"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605493-027344.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605493-027344.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605493-027344.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605493-027344.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2605493-027344.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2605493-027344.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2605493-027344.jpg",
+      "tags": "All Images, Screenshots, LEGO The Hobbit"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605492-027343.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605492-027343.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605492-027343.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605492-027343.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2605492-027343.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2605492-027343.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2605492-027343.jpg",
+      "tags": "All Images, Screenshots, LEGO The Hobbit"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605491-027342.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605491-027342.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605491-027342.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605491-027342.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2605491-027342.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2605491-027342.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2605491-027342.jpg",
+      "tags": "All Images, Screenshots, LEGO The Hobbit"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605489-027341.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605489-027341.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605489-027341.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605489-027341.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2605489-027341.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2605489-027341.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2605489-027341.jpg",
+      "tags": "All Images, Screenshots, LEGO The Hobbit"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605488-027340.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605488-027340.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605488-027340.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605488-027340.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2605488-027340.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2605488-027340.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2605488-027340.jpg",
+      "tags": "All Images, Screenshots, LEGO The Hobbit"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605487-027339.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605487-027339.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605487-027339.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605487-027339.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2605487-027339.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2605487-027339.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2605487-027339.jpg",
+      "tags": "All Images, Screenshots, LEGO The Hobbit"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605486-027338.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605486-027338.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605486-027338.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605486-027338.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2605486-027338.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2605486-027338.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2605486-027338.jpg",
+      "tags": "All Images, Screenshots, LEGO The Hobbit"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605485-027337.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605485-027337.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605485-027337.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605485-027337.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2605485-027337.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2605485-027337.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2605485-027337.jpg",
+      "tags": "All Images, Screenshots, LEGO The Hobbit"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605484-027336.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605484-027336.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605484-027336.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605484-027336.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2605484-027336.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2605484-027336.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2605484-027336.jpg",
+      "tags": "All Images, Screenshots, LEGO The Hobbit"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605483-027335.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605483-027335.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605483-027335.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605483-027335.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2605483-027335.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2605483-027335.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2605483-027335.jpg",
+      "tags": "All Images, Screenshots, LEGO The Hobbit"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605482-027334.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605482-027334.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2605482-027334.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2605482-027334.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2605482-027334.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2605482-027334.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2605482-027334.jpg",
+      "tags": "All Images, Screenshots, LEGO The Hobbit"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/59593/2589287-6250908745-11052.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/59593/2589287-6250908745-11052.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/59593/2589287-6250908745-11052.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/59593/2589287-6250908745-11052.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/59593/2589287-6250908745-11052.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/59593/2589287-6250908745-11052.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/59593/2589287-6250908745-11052.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8305/",
+      "id": 8305,
+      "name": "LEGO The Hobbit Looks Like a Fairly Expected Journey",
+      "site_detail_url": "http://www.giantbomb.com/videos/lego-the-hobbit-looks-like-a-fairly-expected-journ/2300-8305/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8811/",
+      "id": 8811,
+      "name": "Quick Look: LEGO The Hobbit",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-lego-the-hobbit/2300-8811/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133806/",
+      "id": 133806,
+      "name": "LEGO The Hobbit",
+      "site_detail_url": "http://www.giantbomb.com/lego-the-hobbit/3030-44652/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133807/",
+      "id": 133807,
+      "name": "LEGO The Hobbit",
+      "site_detail_url": "http://www.giantbomb.com/lego-the-hobbit/3030-44652/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133808/",
+      "id": 133808,
+      "name": "LEGO The Hobbit",
+      "site_detail_url": "http://www.giantbomb.com/lego-the-hobbit/3030-44652/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133822/",
+      "id": 133822,
+      "name": "LEGO The Hobbit",
+      "site_detail_url": "http://www.giantbomb.com/lego-the-hobbit/3030-44652/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135866/",
+      "id": 135866,
+      "name": "LEGO The Hobbit",
+      "site_detail_url": "http://www.giantbomb.com/lego-the-hobbit/3030-44652/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135867/",
+      "id": 135867,
+      "name": "LEGO The Hobbit (Steam)",
+      "site_detail_url": "http://www.giantbomb.com/lego-the-hobbit/3030-44652/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135868/",
+      "id": 135868,
+      "name": "LEGO The Hobbit",
+      "site_detail_url": "http://www.giantbomb.com/lego-the-hobbit/3030-44652/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135869/",
+      "id": 135869,
+      "name": "LEGO The Hobbit",
+      "site_detail_url": "http://www.giantbomb.com/lego-the-hobbit/3030-44652/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135870/",
+      "id": 135870,
+      "name": "LEGO The Hobbit",
+      "site_detail_url": "http://www.giantbomb.com/lego-the-hobbit/3030-44652/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135871/",
+      "id": 135871,
+      "name": "LEGO The Hobbit",
+      "site_detail_url": "http://www.giantbomb.com/lego-the-hobbit/3030-44652/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135872/",
+      "id": 135872,
+      "name": "LEGO The Hobbit",
+      "site_detail_url": "http://www.giantbomb.com/lego-the-hobbit/3030-44652/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135873/",
+      "id": 135873,
+      "name": "LEGO The Hobbit",
+      "site_detail_url": "http://www.giantbomb.com/lego-the-hobbit/3030-44652/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135874/",
+      "id": 135874,
+      "name": "LEGO The Hobbit",
+      "site_detail_url": "http://www.giantbomb.com/lego-the-hobbit/3030-44652/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135875/",
+      "id": 135875,
+      "name": "LEGO The Hobbit",
+      "site_detail_url": "http://www.giantbomb.com/lego-the-hobbit/3030-44652/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135876/",
+      "id": 135876,
+      "name": "LEGO The Hobbit",
+      "site_detail_url": "http://www.giantbomb.com/lego-the-hobbit/3030-44652/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135877/",
+      "id": 135877,
+      "name": "LEGO The Hobbit",
+      "site_detail_url": "http://www.giantbomb.com/lego-the-hobbit/3030-44652/releases/"
+    }
+  ]
+}

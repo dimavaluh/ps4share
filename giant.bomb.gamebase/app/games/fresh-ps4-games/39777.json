@@ -1,0 +1,82 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-39777/",
+  "deck": "A retro style shooter with a frantic and colorful aesthetic. It is comprised of extremely short mini-stages, in the vein of Wario Ware.",
+  "id": 39777,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2322488-125_426_246_1.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2322488-125_426_246_1.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2322488-125_426_246_1.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2322488-125_426_246_1.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2322488-125_426_246_1.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2322488-125_426_246_1.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2322488-125_426_246_1.png"
+  },
+  "name": "Death Ray Manta",
+  "original_release_date": "2013-01-30 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-96/",
+      "id": 96,
+      "name": "iPhone",
+      "site_detail_url": "http://www.giantbomb.com/iphone/3045-96/",
+      "abbreviation": "IPHN"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-121/",
+      "id": 121,
+      "name": "iPad",
+      "site_detail_url": "http://www.giantbomb.com/ipad/3045-121/",
+      "abbreviation": "IPAD"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/death-ray-manta/3030-39777/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/83117/2322488-125_426_246_1.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/83117/2322488-125_426_246_1.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/83117/2322488-125_426_246_1.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/83117/2322488-125_426_246_1.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/83117/2322488-125_426_246_1.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/83117/2322488-125_426_246_1.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/83117/2322488-125_426_246_1.png",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-48/",
+      "id": 48,
+      "name": "Shoot 'Em Up",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shoot-em-up&wikiTypeId=3060&wikiId=48&genre=48"
+    }
+  ]
+}

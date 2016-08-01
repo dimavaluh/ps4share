@@ -1,0 +1,102 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49826/",
+  "deck": "Samurai Warriors' first expansion pack release uses Samurai Warriors 4-II as a base and adds many more features, including an option for characters to wed.",
+  "id": 49826,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2794870-6833827380-71xAy.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2794870-6833827380-71xAy.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2794870-6833827380-71xAy.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2794870-6833827380-71xAy.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2794870-6833827380-71xAy.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2794870-6833827380-71xAy.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2794870-6833827380-71xAy.jpg"
+  },
+  "name": "Sengoku Musou 4 Empires",
+  "original_release_date": "2015-09-17 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/sengoku-musou-4-empires/3030-49826/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2794870-6833827380-71xAy.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2794870-6833827380-71xAy.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2794870-6833827380-71xAy.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2794870-6833827380-71xAy.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2794870-6833827380-71xAy.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2794870-6833827380-71xAy.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2794870-6833827380-71xAy.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11115/",
+      "id": 11115,
+      "name": "Quick Look: Samurai Warriors 4: Empires",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-samurai-warriors-4-empires/2300-11115/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144526/",
+      "id": 144526,
+      "name": "Sengoku Musou 4 Empires",
+      "site_detail_url": "http://www.giantbomb.com/sengoku-musou-4-empires/3030-49826/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144527/",
+      "id": 144527,
+      "name": "Sengoku Musou 4 Empires",
+      "site_detail_url": "http://www.giantbomb.com/sengoku-musou-4-empires/3030-49826/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144528/",
+      "id": 144528,
+      "name": "Samurai Warriors 4: Empires",
+      "site_detail_url": "http://www.giantbomb.com/sengoku-musou-4-empires/3030-49826/releases/"
+    }
+  ]
+}

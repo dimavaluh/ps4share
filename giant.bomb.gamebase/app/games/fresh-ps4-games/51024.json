@@ -1,0 +1,57 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-51024/",
+  "deck": "Battle head-to-head in a fast paced trivia game.",
+  "id": 51024,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2786513-1077276420-Battl.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2786513-1077276420-Battl.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2786513-1077276420-Battl.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2786513-1077276420-Battl.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2786513-1077276420-Battl.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2786513-1077276420-Battl.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2786513-1077276420-Battl.jpg"
+  },
+  "name": "Battle Trivia Knockout",
+  "original_release_date": "2015-09-22 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/battle-trivia-knockout/3030-51024/",
+  "images": [],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-14/",
+      "id": 14,
+      "name": "Trivia/Board Game",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=triviaboard-game&wikiTypeId=3060&wikiId=14&genre=14"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143946/",
+      "id": 143946,
+      "name": "Battle Trivia Knockout",
+      "site_detail_url": "http://www.giantbomb.com/battle-trivia-knockout/3030-51024/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145090/",
+      "id": 145090,
+      "name": "Battle Trivia Knockout",
+      "site_detail_url": "http://www.giantbomb.com/battle-trivia-knockout/3030-51024/releases/"
+    }
+  ]
+}

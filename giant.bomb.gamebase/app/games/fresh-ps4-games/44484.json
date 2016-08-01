@@ -1,0 +1,616 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-44484/",
+  "deck": "An open-world action-adventure game by Monolith, set between the events of The Hobbit and The Lord of the Rings.",
+  "id": 44484,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2855060-4334822893-26422.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2855060-4334822893-26422.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2855060-4334822893-26422.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2855060-4334822893-26422.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2855060-4334822893-26422.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2855060-4334822893-26422.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2855060-4334822893-26422.jpg"
+  },
+  "name": "Middle-earth: Shadow of Mordor",
+  "original_release_date": "2014-09-30 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/middle-earth-shadow-of-mordor/3030-44484/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187788/2855060-4334822893-26422.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187788/2855060-4334822893-26422.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187788/2855060-4334822893-26422.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187788/2855060-4334822893-26422.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187788/2855060-4334822893-26422.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187788/2855060-4334822893-26422.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187788/2855060-4334822893-26422.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831656-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016020141.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831656-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016020141.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831656-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016020141.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831656-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016020141.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/22/221110/2831656-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016020141.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/22/221110/2831656-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016020141.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/22/221110/2831656-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016020141.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831655-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016015943.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831655-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016015943.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831655-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016015943.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831655-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016015943.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/22/221110/2831655-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016015943.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/22/221110/2831655-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016015943.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/22/221110/2831655-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016015943.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831654-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016015534.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831654-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016015534.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831654-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016015534.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831654-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016015534.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/22/221110/2831654-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016015534.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/22/221110/2831654-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016015534.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/22/221110/2831654-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016015534.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831653-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016011216.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831653-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016011216.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831653-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016011216.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831653-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016011216.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/22/221110/2831653-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016011216.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/22/221110/2831653-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016011216.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/22/221110/2831653-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016011216.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831652-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016001624.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831652-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016001624.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831652-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016001624.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831652-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016001624.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/22/221110/2831652-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016001624.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/22/221110/2831652-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016001624.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/22/221110/2831652-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141016001624.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831651-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015235346.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831651-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015235346.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831651-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015235346.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831651-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015235346.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/22/221110/2831651-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015235346.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/22/221110/2831651-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015235346.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/22/221110/2831651-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015235346.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831650-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015234311.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831650-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015234311.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831650-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015234311.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831650-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015234311.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/22/221110/2831650-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015234311.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/22/221110/2831650-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015234311.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/22/221110/2831650-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015234311.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831649-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233757.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831649-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233757.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831649-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233757.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831649-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233757.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/22/221110/2831649-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233757.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/22/221110/2831649-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233757.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/22/221110/2831649-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233757.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831648-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233557.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831648-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233557.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831648-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233557.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831648-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233557.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/22/221110/2831648-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233557.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/22/221110/2831648-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233557.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/22/221110/2831648-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233557.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831647-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233452.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831647-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233452.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831647-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233452.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831647-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233452.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/22/221110/2831647-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233452.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/22/221110/2831647-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233452.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/22/221110/2831647-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233452.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831646-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233141.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831646-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233141.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831646-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233141.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831646-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233141.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/22/221110/2831646-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233141.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/22/221110/2831646-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233141.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/22/221110/2831646-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015233141.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831645-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015232750.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831645-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015232750.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831645-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015232750.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831645-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015232750.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/22/221110/2831645-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015232750.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/22/221110/2831645-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015232750.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/22/221110/2831645-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015232750.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831644-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015232513.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831644-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015232513.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831644-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015232513.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831644-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015232513.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/22/221110/2831644-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015232513.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/22/221110/2831644-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015232513.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/22/221110/2831644-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015232513.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831643-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015232148.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831643-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015232148.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831643-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015232148.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831643-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015232148.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/22/221110/2831643-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015232148.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/22/221110/2831643-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015232148.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/22/221110/2831643-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015232148.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831642-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015231159.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831642-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015231159.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/22/221110/2831642-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015231159.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/22/221110/2831642-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015231159.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/22/221110/2831642-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015231159.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/22/221110/2831642-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015231159.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/22/221110/2831642-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141015231159.jpg",
+      "tags": "All Images, Screenshots, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/5759/2718929-10945465_759675530788845_4207265560554528520_o.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/5759/2718929-10945465_759675530788845_4207265560554528520_o.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/5759/2718929-10945465_759675530788845_4207265560554528520_o.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/5759/2718929-10945465_759675530788845_4207265560554528520_o.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/5759/2718929-10945465_759675530788845_4207265560554528520_o.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/5759/2718929-10945465_759675530788845_4207265560554528520_o.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/5759/2718929-10945465_759675530788845_4207265560554528520_o.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/5759/2718928-10848960_759675437455521_324476310656390962_o.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/5759/2718928-10848960_759675437455521_324476310656390962_o.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/5759/2718928-10848960_759675437455521_324476310656390962_o.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/5759/2718928-10848960_759675437455521_324476310656390962_o.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/5759/2718928-10848960_759675437455521_324476310656390962_o.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/5759/2718928-10848960_759675437455521_324476310656390962_o.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/5759/2718928-10848960_759675437455521_324476310656390962_o.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694920-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021150559.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694920-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021150559.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694920-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021150559.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694920-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021150559.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2694920-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021150559.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2694920-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021150559.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2694920-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021150559.jpg",
+      "tags": "All Images, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694919-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021145715.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694919-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021145715.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694919-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021145715.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694919-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021145715.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2694919-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021145715.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2694919-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021145715.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2694919-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021145715.jpg",
+      "tags": "All Images, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694918-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021112301.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694918-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021112301.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694918-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021112301.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694918-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021112301.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2694918-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021112301.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2694918-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021112301.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2694918-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021112301.jpg",
+      "tags": "All Images, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694917-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021111849.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694917-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021111849.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694917-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021111849.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694917-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021111849.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2694917-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021111849.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2694917-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021111849.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2694917-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021111849.jpg",
+      "tags": "All Images, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694916-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021111132.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694916-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021111132.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694916-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021111132.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694916-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021111132.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2694916-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021111132.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2694916-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021111132.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2694916-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021111132.jpg",
+      "tags": "All Images, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694915-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021110935.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694915-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021110935.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694915-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021110935.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694915-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021110935.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2694915-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021110935.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2694915-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021110935.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2694915-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141021110935.jpg",
+      "tags": "All Images, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694914-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225604.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694914-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225604.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694914-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225604.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694914-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225604.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2694914-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225604.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2694914-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225604.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2694914-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225604.jpg",
+      "tags": "All Images, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694913-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225340.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694913-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225340.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694913-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225340.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694913-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225340.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2694913-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225340.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2694913-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225340.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2694913-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225340.jpg",
+      "tags": "All Images, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694912-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225053.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694912-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225053.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694912-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225053.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694912-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225053.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2694912-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225053.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2694912-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225053.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2694912-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225053.jpg",
+      "tags": "All Images, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694911-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225004.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694911-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225004.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694911-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225004.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694911-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225004.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2694911-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225004.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2694911-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225004.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2694911-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020225004.jpg",
+      "tags": "All Images, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694910-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020224848.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694910-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020224848.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694910-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020224848.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694910-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020224848.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2694910-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020224848.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2694910-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020224848.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2694910-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020224848.jpg",
+      "tags": "All Images, PS4 screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694909-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020224804.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694909-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020224804.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2694909-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020224804.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2694909-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020224804.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2694909-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020224804.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2694909-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020224804.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2694909-middle-earth%E2%84%A2_+shadow+of+mordor%E2%84%A2_20141020224804.jpg",
+      "tags": "All Images, PS4 screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8406/",
+      "id": 8406,
+      "name": "Here's That Middle-Earth: Shadow of Mordor Walkthrough Everyone's Talking About",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-that-middle-earth-shadow-of-mordor-walkthro/2300-8406/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8708/",
+      "id": 8708,
+      "name": "Middle-earth: Shadow of Mordor Is Coming October 7",
+      "site_detail_url": "http://www.giantbomb.com/videos/middle-earth-shadow-of-mordor-is-coming-october-7/2300-8708/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8893/",
+      "id": 8893,
+      "name": "Here's How You'll Upgrade Your Weapons in Middle-earth: Shadow of Mordor",
+      "site_detail_url": "http://www.giantbomb.com/videos/heres-how-youll-upgrade-your-weapons-in-middle-ear/2300-8893/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8911/",
+      "id": 8911,
+      "name": "Lead Your Own Orc Army in Middle-earth: Shadow of Mordor",
+      "site_detail_url": "http://www.giantbomb.com/videos/lead-your-own-orc-army-in-middle-earth-shadow-of-m/2300-8911/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9021/",
+      "id": 9021,
+      "name": "E3 2014: Meat's Back on the Menu in Middle-earth: Shadow of Mordor",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2014-meats-back-on-the-menu-in-middle-earth-sha/2300-9021/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9204/",
+      "id": 9204,
+      "name": "Troy Baker Wants to Tell You About This Middle-earth Thing He's Doing",
+      "site_detail_url": "http://www.giantbomb.com/videos/troy-baker-wants-to-tell-you-about-this-middle-ear/2300-9204/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9275/",
+      "id": 9275,
+      "name": "There's a New Shadow of Mordor Story Trailer and--Hey! Is That Gollum?",
+      "site_detail_url": "http://www.giantbomb.com/videos/theres-a-new-shadow-of-mordor-story-trailer-and-he/2300-9275/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9355/",
+      "id": 9355,
+      "name": "Bombin' the A.M. With Alexa Ray Corriea: 08/18/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-alexa-ray-corriea-08-18-2014/2300-9355/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9434/",
+      "id": 9434,
+      "name": "Shadow of Mordor Gets Troy Baker and Nolan North in the Same Room Together",
+      "site_detail_url": "http://www.giantbomb.com/videos/shadow-of-mordor-gets-troy-baker-and-nolan-north-i/2300-9434/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9495/",
+      "id": 9495,
+      "name": "One Can Simply Walk Into Shadow of Mordor Next Week",
+      "site_detail_url": "http://www.giantbomb.com/videos/one-can-simply-walk-into-shadow-of-mordor-next-wee/2300-9495/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9507/",
+      "id": 9507,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 09/26/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-09-26-2014/2300-9507/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9510/",
+      "id": 9510,
+      "name": "Bombin' the A.M. With Alexa Ray Corriea: 09/29/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-alexa-ray-corriea-09-29-2014/2300-9510/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9514/",
+      "id": 9514,
+      "name": "Quick Look: Middle-earth: Shadow of Mordor",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-middle-earth-shadow-of-mordor/2300-9514/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9531/",
+      "id": 9531,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 10/03/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-10-03-2014/2300-9531/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9532/",
+      "id": 9532,
+      "name": "GBE Playdate: Middle-earth: Shadow of Mordor",
+      "site_detail_url": "http://www.giantbomb.com/videos/gbe-playdate-middle-earth-shadow-of-mordor/2300-9532/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9537/",
+      "id": 9537,
+      "name": "Bombin' the A.M. With Samantha Kalman: 10/06/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-samantha-kalman-10-06-2014/2300-9537/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9556/",
+      "id": 9556,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 10/10/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-10-10-2014/2300-9556/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9558/",
+      "id": 9558,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 10/13/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-10-13-2014/2300-9558/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9635/",
+      "id": 9635,
+      "name": "Extra Life 2014 - Day 1: Part 02",
+      "site_detail_url": "http://www.giantbomb.com/videos/extra-life-2014-day-1-part-02/2300-9635/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9801/",
+      "id": 9801,
+      "name": "Shadow of Mordor's 'Lord of the Hunt' DLC Brings Out the Beastmasters",
+      "site_detail_url": "http://www.giantbomb.com/videos/shadow-of-mordor-s-lord-of-the-hunt-dlc-brings-out/2300-9801/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9815/",
+      "id": 9815,
+      "name": "Quick Look: Middle-earth: Shadow of Mordor: Lord of the Hunt DLC",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-middle-earth-shadow-of-mordor-lord-of-t/2300-9815/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9820/",
+      "id": 9820,
+      "name": "Game of the Year 2014: Day Three Recap",
+      "site_detail_url": "http://www.giantbomb.com/videos/game-of-the-year-2014-day-three-recap/2300-9820/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9822/",
+      "id": 9822,
+      "name": "Game of the Year 2014: Day Five Recap",
+      "site_detail_url": "http://www.giantbomb.com/videos/game-of-the-year-2014-day-five-recap/2300-9822/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9968/",
+      "id": 9968,
+      "name": "Shadow of Mordor's 'The Bright Lord' DLC Is Out Today",
+      "site_detail_url": "http://www.giantbomb.com/videos/shadow-of-mordor-s-the-bright-lord-dlc-is-out-toda/2300-9968/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9971/",
+      "id": 9971,
+      "name": "Quick Look: Middle-earth: Shadow of Mordor: The Bright Lord",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-middle-earth-shadow-of-mordor-the-brigh/2300-9971/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132672/",
+      "id": 132672,
+      "name": "Middle-earth: Shadow of Mordor",
+      "site_detail_url": "http://www.giantbomb.com/middle-earth-shadow-of-mordor/3030-44484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132673/",
+      "id": 132673,
+      "name": "Middle-earth: Shadow of Mordor",
+      "site_detail_url": "http://www.giantbomb.com/middle-earth-shadow-of-mordor/3030-44484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132674/",
+      "id": 132674,
+      "name": "Middle-earth: Shadow of Mordor",
+      "site_detail_url": "http://www.giantbomb.com/middle-earth-shadow-of-mordor/3030-44484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135279/",
+      "id": 135279,
+      "name": "Middle-earth: Shadow of Mordor",
+      "site_detail_url": "http://www.giantbomb.com/middle-earth-shadow-of-mordor/3030-44484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135280/",
+      "id": 135280,
+      "name": "Middle-earth: Shadow of Mordor",
+      "site_detail_url": "http://www.giantbomb.com/middle-earth-shadow-of-mordor/3030-44484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136465/",
+      "id": 136465,
+      "name": "Middle-earth: Shadow of Mordor (Steam)",
+      "site_detail_url": "http://www.giantbomb.com/middle-earth-shadow-of-mordor/3030-44484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137869/",
+      "id": 137869,
+      "name": "Middle-earth: Shadow of Mordor",
+      "site_detail_url": "http://www.giantbomb.com/middle-earth-shadow-of-mordor/3030-44484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137870/",
+      "id": 137870,
+      "name": "Middle-earth: Shadow of Mordor",
+      "site_detail_url": "http://www.giantbomb.com/middle-earth-shadow-of-mordor/3030-44484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137871/",
+      "id": 137871,
+      "name": "Middle-earth: Shadow of Mordor",
+      "site_detail_url": "http://www.giantbomb.com/middle-earth-shadow-of-mordor/3030-44484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137872/",
+      "id": 137872,
+      "name": "Middle-earth: Shadow of Mordor",
+      "site_detail_url": "http://www.giantbomb.com/middle-earth-shadow-of-mordor/3030-44484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137973/",
+      "id": 137973,
+      "name": "Middle-earth: Shadow of Mordor",
+      "site_detail_url": "http://www.giantbomb.com/middle-earth-shadow-of-mordor/3030-44484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137974/",
+      "id": 137974,
+      "name": "Middle-earth: Shadow of Mordor",
+      "site_detail_url": "http://www.giantbomb.com/middle-earth-shadow-of-mordor/3030-44484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142802/",
+      "id": 142802,
+      "name": "Middle-earth: Shadow of Mordor (SteamOS/Linux)",
+      "site_detail_url": "http://www.giantbomb.com/middle-earth-shadow-of-mordor/3030-44484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142803/",
+      "id": 142803,
+      "name": "Middle-earth: Shadow of Mordor",
+      "site_detail_url": "http://www.giantbomb.com/middle-earth-shadow-of-mordor/3030-44484/releases/"
+    }
+  ]
+}

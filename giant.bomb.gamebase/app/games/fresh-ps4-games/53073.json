@@ -1,0 +1,57 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-53073/",
+  "deck": "The Playroom is a collection of augmented reality games for PlayStation 4 that uses the PlayStation Camera.",
+  "id": 53073,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2835284-the_playroom_logo.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2835284-the_playroom_logo.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2835284-the_playroom_logo.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2835284-the_playroom_logo.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2835284-the_playroom_logo.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2835284-the_playroom_logo.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2835284-the_playroom_logo.png"
+  },
+  "name": "The Playroom",
+  "original_release_date": "2013-11-15 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/the-playroom/3030-53073/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2835285-the-playroom-screen-12-us-ps4-05aug14.jpeg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2835285-the-playroom-screen-12-us-ps4-05aug14.jpeg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2835285-the-playroom-screen-12-us-ps4-05aug14.jpeg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2835285-the-playroom-screen-12-us-ps4-05aug14.jpeg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2835285-the-playroom-screen-12-us-ps4-05aug14.jpeg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2835285-the-playroom-screen-12-us-ps4-05aug14.jpeg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2835285-the-playroom-screen-12-us-ps4-05aug14.jpeg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2835284-the_playroom_logo.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2835284-the_playroom_logo.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2835284-the_playroom_logo.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2835284-the_playroom_logo.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2835284-the_playroom_logo.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2835284-the_playroom_logo.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2835284-the_playroom_logo.png",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-17/",
+      "id": 17,
+      "name": "Minigame Collection",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=minigame-collection&wikiTypeId=3060&wikiId=17&genre=17"
+    }
+  ]
+}

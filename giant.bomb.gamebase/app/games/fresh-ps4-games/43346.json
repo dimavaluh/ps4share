@@ -1,0 +1,397 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-43346/",
+  "deck": "A ridiculously violent platform shooter game about being action heroes from the '80s, '90s and 00's.",
+  "id": 43346,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2728814-7740550763-1boxs.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2728814-7740550763-1boxs.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2728814-7740550763-1boxs.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2728814-7740550763-1boxs.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2728814-7740550763-1boxs.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2728814-7740550763-1boxs.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2728814-7740550763-1boxs.jpg"
+  },
+  "name": "Broforce",
+  "original_release_date": "2015-08-15 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/broforce/3030-43346/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780750-dsc09397.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780750-dsc09397.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780750-dsc09397.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780750-dsc09397.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2780750-dsc09397.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2780750-dsc09397.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2780750-dsc09397.jpg",
+      "tags": "All Images, Devolver Digital, PAX Prime 2015 Booth, PAX Prime 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780746-dsc09393.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780746-dsc09393.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780746-dsc09393.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780746-dsc09393.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2780746-dsc09393.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2780746-dsc09393.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2780746-dsc09393.jpg",
+      "tags": "All Images, Devolver Digital, PAX Prime 2015 Booth, PAX Prime 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2728814-7740550763-1boxs.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2728814-7740550763-1boxs.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2728814-7740550763-1boxs.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2728814-7740550763-1boxs.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2728814-7740550763-1boxs.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2728814-7740550763-1boxs.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2728814-7740550763-1boxs.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2679683-dsc06716.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2679683-dsc06716.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2679683-dsc06716.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2679683-dsc06716.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2679683-dsc06716.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2679683-dsc06716.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2679683-dsc06716.jpg",
+      "tags": "All Images, Sony, PAX Prime 2014, PAX Prime 2014 Booth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2679315-dsc07079.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2679315-dsc07079.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2679315-dsc07079.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2679315-dsc07079.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2679315-dsc07079.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2679315-dsc07079.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2679315-dsc07079.jpg",
+      "tags": "All Images, Devolver Digital, PAX Prime 2014 Booth, PAX Prime 2014"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2620231-dsc05878.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2620231-dsc05878.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2620231-dsc05878.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2620231-dsc05878.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2620231-dsc05878.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2620231-dsc05878.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2620231-dsc05878.jpg",
+      "tags": "All Images, Devolver Digital, PAX East 2014 Booth, PAX East 2014"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618560-tank.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618560-tank.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618560-tank.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618560-tank.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618560-tank.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618560-tank.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618560-tank.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618559-parachutemooks.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618559-parachutemooks.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618559-parachutemooks.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618559-parachutemooks.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618559-parachutemooks.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618559-parachutemooks.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618559-parachutemooks.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618558-onthehelicopter.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618558-onthehelicopter.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618558-onthehelicopter.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618558-onthehelicopter.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618558-onthehelicopter.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618558-onthehelicopter.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618558-onthehelicopter.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618557-offlinedeathmatchbeta_20131104_1276229736.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618557-offlinedeathmatchbeta_20131104_1276229736.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618557-offlinedeathmatchbeta_20131104_1276229736.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618557-offlinedeathmatchbeta_20131104_1276229736.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618557-offlinedeathmatchbeta_20131104_1276229736.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618557-offlinedeathmatchbeta_20131104_1276229736.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618557-offlinedeathmatchbeta_20131104_1276229736.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618556-newminibossgeneral.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618556-newminibossgeneral.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618556-newminibossgeneral.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618556-newminibossgeneral.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618556-newminibossgeneral.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618556-newminibossgeneral.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618556-newminibossgeneral.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618555-newminibosscamoflage.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618555-newminibosscamoflage.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618555-newminibosscamoflage.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618555-newminibosscamoflage.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618555-newminibosscamoflage.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618555-newminibosscamoflage.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618555-newminibosscamoflage.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618554-fourplayers.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618554-fourplayers.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618554-fourplayers.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618554-fourplayers.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618554-fourplayers.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618554-fourplayers.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618554-fourplayers.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618553-fightingboxx.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618553-fightingboxx.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618553-fightingboxx.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618553-fightingboxx.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618553-fightingboxx.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618553-fightingboxx.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618553-fightingboxx.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618552-explosionrunsand_20131104_1548398837.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618552-explosionrunsand_20131104_1548398837.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618552-explosionrunsand_20131104_1548398837.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618552-explosionrunsand_20131104_1548398837.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618552-explosionrunsand_20131104_1548398837.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618552-explosionrunsand_20131104_1548398837.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618552-explosionrunsand_20131104_1548398837.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618551-explosionrunpipes_20131104_1768985318.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618551-explosionrunpipes_20131104_1768985318.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618551-explosionrunpipes_20131104_1768985318.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618551-explosionrunpipes_20131104_1768985318.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618551-explosionrunpipes_20131104_1768985318.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618551-explosionrunpipes_20131104_1768985318.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618551-explosionrunpipes_20131104_1768985318.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618550-explosionrunbrodown3_20131104_1970765882.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618550-explosionrunbrodown3_20131104_1970765882.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618550-explosionrunbrodown3_20131104_1970765882.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618550-explosionrunbrodown3_20131104_1970765882.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618550-explosionrunbrodown3_20131104_1970765882.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618550-explosionrunbrodown3_20131104_1970765882.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618550-explosionrunbrodown3_20131104_1970765882.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618549-explosion.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618549-explosion.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618549-explosion.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618549-explosion.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618549-explosion.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618549-explosion.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618549-explosion.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618548-broforceteamwork.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618548-broforceteamwork.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618548-broforceteamwork.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618548-broforceteamwork.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618548-broforceteamwork.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618548-broforceteamwork.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618548-broforceteamwork.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618547-broforce_2013-08-10_19-00-46-70_20131104_1388011307.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618547-broforce_2013-08-10_19-00-46-70_20131104_1388011307.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618547-broforce_2013-08-10_19-00-46-70_20131104_1388011307.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618547-broforce_2013-08-10_19-00-46-70_20131104_1388011307.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618547-broforce_2013-08-10_19-00-46-70_20131104_1388011307.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618547-broforce_2013-08-10_19-00-46-70_20131104_1388011307.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618547-broforce_2013-08-10_19-00-46-70_20131104_1388011307.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618546-broforce_2013-08-10_18-58-16-70_20131104_1775020045.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618546-broforce_2013-08-10_18-58-16-70_20131104_1775020045.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618546-broforce_2013-08-10_18-58-16-70_20131104_1775020045.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618546-broforce_2013-08-10_18-58-16-70_20131104_1775020045.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618546-broforce_2013-08-10_18-58-16-70_20131104_1775020045.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618546-broforce_2013-08-10_18-58-16-70_20131104_1775020045.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618546-broforce_2013-08-10_18-58-16-70_20131104_1775020045.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618545-bossrocket.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618545-bossrocket.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618545-bossrocket.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618545-bossrocket.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618545-bossrocket.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618545-bossrocket.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618545-bossrocket.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618544-bossdestructing.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618544-bossdestructing.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618544-bossdestructing.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618544-bossdestructing.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618544-bossdestructing.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618544-bossdestructing.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618544-bossdestructing.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618543-bladevstruck.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618543-bladevstruck.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618543-bladevstruck.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618543-bladevstruck.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618543-bladevstruck.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618543-bladevstruck.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618543-bladevstruck.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618542-best_mooksinair.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618542-best_mooksinair.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618542-best_mooksinair.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618542-best_mooksinair.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618542-best_mooksinair.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618542-best_mooksinair.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618542-best_mooksinair.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618541-pax-broforce-screenshot.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618541-pax-broforce-screenshot.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618541-pax-broforce-screenshot.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618541-pax-broforce-screenshot.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618541-pax-broforce-screenshot.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618541-pax-broforce-screenshot.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618541-pax-broforce-screenshot.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618540-newbroforcelogo.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618540-newbroforcelogo.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618540-newbroforcelogo.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618540-newbroforcelogo.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618540-newbroforcelogo.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618540-newbroforcelogo.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618540-newbroforcelogo.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618539-broforce_poster_01.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618539-broforce_poster_01.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618539-broforce_poster_01.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618539-broforce_poster_01.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618539-broforce_poster_01.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618539-broforce_poster_01.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618539-broforce_poster_01.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618538-broforce_logo_neotrailer_20131104_1569548262.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618538-broforce_logo_neotrailer_20131104_1569548262.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618538-broforce_logo_neotrailer_20131104_1569548262.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618538-broforce_logo_neotrailer_20131104_1569548262.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618538-broforce_logo_neotrailer_20131104_1569548262.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618538-broforce_logo_neotrailer_20131104_1569548262.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618538-broforce_logo_neotrailer_20131104_1569548262.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618537-broforce_bro-in-black-and-brohard_small.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618537-broforce_bro-in-black-and-brohard_small.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2618537-broforce_bro-in-black-and-brohard_small.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2618537-broforce_bro-in-black-and-brohard_small.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2618537-broforce_bro-in-black-and-brohard_small.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2618537-broforce_bro-in-black-and-brohard_small.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2618537-broforce_bro-in-black-and-brohard_small.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8487/",
+      "id": 8487,
+      "name": "BROFORCE! BROFORCE! BROFORCE!",
+      "site_detail_url": "http://www.giantbomb.com/videos/broforce-broforce-broforce/2300-8487/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8740/",
+      "id": 8740,
+      "name": "Unfinished: Broforce 04/09/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/unfinished-broforce-04-09-2014/2300-8740/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-11/",
+      "id": 11,
+      "name": "Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shooter&wikiTypeId=3060&wikiId=11&genre=11"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-139277/",
+      "id": 139277,
+      "name": "Broforce",
+      "site_detail_url": "http://www.giantbomb.com/broforce/3030-43346/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145463/",
+      "id": 145463,
+      "name": "Broforce",
+      "site_detail_url": "http://www.giantbomb.com/broforce/3030-43346/releases/"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48156/",
+  "deck": "An abstract action game where the player must use a circular cursor to collect light energy while avoiding its dark counterparts by moving the cursor and changing its size.",
+  "id": 48156,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2698286-6224849673-Minut.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2698286-6224849673-Minut.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2698286-6224849673-Minut.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2698286-6224849673-Minut.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2698286-6224849673-Minut.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2698286-6224849673-Minut.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2698286-6224849673-Minut.png"
+  },
+  "name": "Minutes",
+  "original_release_date": "2014-11-05 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/minutes/3030-48156/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2698286-6224849673-Minut.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2698286-6224849673-Minut.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2698286-6224849673-Minut.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2698286-6224849673-Minut.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2698286-6224849673-Minut.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2698286-6224849673-Minut.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2698286-6224849673-Minut.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138520/",
+      "id": 138520,
+      "name": "Minutes",
+      "site_detail_url": "http://www.giantbomb.com/minutes/3030-48156/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138521/",
+      "id": 138521,
+      "name": "Minutes",
+      "site_detail_url": "http://www.giantbomb.com/minutes/3030-48156/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-139998/",
+      "id": 139998,
+      "name": "Minutes",
+      "site_detail_url": "http://www.giantbomb.com/minutes/3030-48156/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-139999/",
+      "id": 139999,
+      "name": "Minutes",
+      "site_detail_url": "http://www.giantbomb.com/minutes/3030-48156/releases/"
+    }
+  ]
+}

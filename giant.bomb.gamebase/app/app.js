@@ -9,20 +9,25 @@ const jsonfile = require('jsonfile');
 const baseUrl = "http://www.giantbomb.com/api/game/";
 const format = "/?format=json";
 const apiKey = "&api_key=aaba549e362b68c090bbc073b0bde1cf799d1468";
-const fieldList = "&field_list=name,description,deck,id,original_release_date,image,images,genres,platforms,publishers,developers,videos,releases,api_detail_url,site_detail_url";
+const fieldList = "&field_list=name,deck,id,original_release_date,image,images,genres,platforms,videos,releases,api_detail_url,site_detail_url";
 
 var i = 0;
 async.map(data.results, (game, done) => {
     i++;
     setTimeout( function(gameId) {
         return function() {
-            console.log(gameId);
             request( baseUrl + gameId + format + apiKey + fieldList, (err, resp, body) => {
                 if (err) done (err);
 
             if (resp.statusCode === 200) {
-                console.log('statusCode === 200');
+                console.log('gameId ' + gameId + ': statusCode 200');
+                var unaryResults = JSON.parse(body).results;
+                jsonfile.writeFile('./games/fresh-ps4-games/' + gameId + '.json', unaryResults, {spaces: 2}, (err) => {
+                    if ( err ) {
+                    console.error( err );
+                }
                 done(null, JSON.parse(body).results);
+            } )
             }
         })
         }

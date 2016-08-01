@@ -1,0 +1,77 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-46663/",
+  "deck": "Console war RPG parody Hyperdimension Neptunia moves to the PlayStation 4, with a follow-up to Neptunia Victory.",
+  "id": 46663,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2764354-1295668496-pljm80062_jacket",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2764354-1295668496-pljm80062_jacket",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2764354-1295668496-pljm80062_jacket",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2764354-1295668496-pljm80062_jacket",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2764354-1295668496-pljm80062_jacket",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2764354-1295668496-pljm80062_jacket",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2764354-1295668496-pljm80062_jacket"
+  },
+  "name": "Megadimension Neptunia VII",
+  "original_release_date": "2015-04-23 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/megadimension-neptunia-vii/3030-46663/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/76733/2818617-megadimension-neptunia-vii.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/76733/2818617-megadimension-neptunia-vii.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/76733/2818617-megadimension-neptunia-vii.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/76733/2818617-megadimension-neptunia-vii.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/76733/2818617-megadimension-neptunia-vii.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/76733/2818617-megadimension-neptunia-vii.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/76733/2818617-megadimension-neptunia-vii.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2764354-1295668496-pljm80062_jacket",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2764354-1295668496-pljm80062_jacket",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2764354-1295668496-pljm80062_jacket",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2764354-1295668496-pljm80062_jacket",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2764354-1295668496-pljm80062_jacket",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2764354-1295668496-pljm80062_jacket",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2764354-1295668496-pljm80062_jacket",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-139174/",
+      "id": 139174,
+      "name": "Shin Jigen Game Neptune VII",
+      "site_detail_url": "http://www.giantbomb.com/megadimension-neptunia-vii/3030-46663/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145775/",
+      "id": 145775,
+      "name": "Megadimension Neptunia VII",
+      "site_detail_url": "http://www.giantbomb.com/megadimension-neptunia-vii/3030-46663/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145776/",
+      "id": 145776,
+      "name": "Megadimension Neptunia VII",
+      "site_detail_url": "http://www.giantbomb.com/megadimension-neptunia-vii/3030-46663/releases/"
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-32417/",
+  "deck": "A free-to-play MMORPG inspired by R.A. Salvatore's Neverwinter Saga book trilogy.",
+  "id": 32417,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2502904-untitled.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2502904-untitled.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2502904-untitled.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2502904-untitled.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2502904-untitled.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2502904-untitled.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2502904-untitled.png"
+  },
+  "name": "Neverwinter",
+  "original_release_date": "2013-06-20 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/neverwinter/3030-32417/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2502904-untitled.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2502904-untitled.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2502904-untitled.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2502904-untitled.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2502904-untitled.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2502904-untitled.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2502904-untitled.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82565/2477754-bg-lnkhome-2.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82565/2477754-bg-lnkhome-2.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82565/2477754-bg-lnkhome-2.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82565/2477754-bg-lnkhome-2.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82565/2477754-bg-lnkhome-2.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82565/2477754-bg-lnkhome-2.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82565/2477754-bg-lnkhome-2.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461644-dsc04249.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461644-dsc04249.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461644-dsc04249.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461644-dsc04249.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2461644-dsc04249.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2461644-dsc04249.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2461644-dsc04249.jpg",
+      "tags": "All Images, Perfect World, PAX East 2013 Booth, PAX East 2013"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461643-dsc04248.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461643-dsc04248.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461643-dsc04248.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461643-dsc04248.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2461643-dsc04248.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2461643-dsc04248.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2461643-dsc04248.jpg",
+      "tags": "All Images, Perfect World, PAX East 2013 Booth, PAX East 2013"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461642-dsc04247.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461642-dsc04247.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461642-dsc04247.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461642-dsc04247.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2461642-dsc04247.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2461642-dsc04247.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2461642-dsc04247.jpg",
+      "tags": "All Images, Perfect World, PAX East 2013 Booth, PAX East 2013"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461641-dsc04246.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461641-dsc04246.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461641-dsc04246.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461641-dsc04246.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2461641-dsc04246.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2461641-dsc04246.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2461641-dsc04246.jpg",
+      "tags": "All Images, Perfect World, PAX East 2013 Booth, PAX East 2013"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461640-dsc04245.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461640-dsc04245.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2461640-dsc04245.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2461640-dsc04245.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2461640-dsc04245.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2461640-dsc04245.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2461640-dsc04245.jpg",
+      "tags": "All Images, Perfect World, PAX East 2013 Booth, PAX East 2013"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330499-neverwinter_anfighterpreview31.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330499-neverwinter_anfighterpreview31.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330499-neverwinter_anfighterpreview31.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330499-neverwinter_anfighterpreview31.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330499-neverwinter_anfighterpreview31.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330499-neverwinter_anfighterpreview31.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330499-neverwinter_anfighterpreview31.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330498-neverwinter_anfighterpreview30.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330498-neverwinter_anfighterpreview30.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330498-neverwinter_anfighterpreview30.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330498-neverwinter_anfighterpreview30.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330498-neverwinter_anfighterpreview30.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330498-neverwinter_anfighterpreview30.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330498-neverwinter_anfighterpreview30.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330497-neverwinter_anfighterpreview29.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330497-neverwinter_anfighterpreview29.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330497-neverwinter_anfighterpreview29.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330497-neverwinter_anfighterpreview29.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330497-neverwinter_anfighterpreview29.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330497-neverwinter_anfighterpreview29.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330497-neverwinter_anfighterpreview29.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330496-neverwinter_anfighterpreview28.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330496-neverwinter_anfighterpreview28.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330496-neverwinter_anfighterpreview28.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330496-neverwinter_anfighterpreview28.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330496-neverwinter_anfighterpreview28.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330496-neverwinter_anfighterpreview28.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330496-neverwinter_anfighterpreview28.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330495-neverwinter_anfighterpreview27.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330495-neverwinter_anfighterpreview27.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330495-neverwinter_anfighterpreview27.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330495-neverwinter_anfighterpreview27.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330495-neverwinter_anfighterpreview27.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330495-neverwinter_anfighterpreview27.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330495-neverwinter_anfighterpreview27.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330494-neverwinter_anfighterpreview26.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330494-neverwinter_anfighterpreview26.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330494-neverwinter_anfighterpreview26.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330494-neverwinter_anfighterpreview26.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330494-neverwinter_anfighterpreview26.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330494-neverwinter_anfighterpreview26.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330494-neverwinter_anfighterpreview26.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330493-neverwinter_anfighterpreview25.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330493-neverwinter_anfighterpreview25.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330493-neverwinter_anfighterpreview25.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330493-neverwinter_anfighterpreview25.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330493-neverwinter_anfighterpreview25.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330493-neverwinter_anfighterpreview25.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330493-neverwinter_anfighterpreview25.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330492-neverwinter_anfighterpreview24.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330492-neverwinter_anfighterpreview24.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330492-neverwinter_anfighterpreview24.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330492-neverwinter_anfighterpreview24.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330492-neverwinter_anfighterpreview24.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330492-neverwinter_anfighterpreview24.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330492-neverwinter_anfighterpreview24.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330491-neverwinter_anfighterpreview23.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330491-neverwinter_anfighterpreview23.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330491-neverwinter_anfighterpreview23.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330491-neverwinter_anfighterpreview23.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330491-neverwinter_anfighterpreview23.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330491-neverwinter_anfighterpreview23.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330491-neverwinter_anfighterpreview23.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330490-neverwinter_anfighterpreview22.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330490-neverwinter_anfighterpreview22.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330490-neverwinter_anfighterpreview22.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330490-neverwinter_anfighterpreview22.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330490-neverwinter_anfighterpreview22.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330490-neverwinter_anfighterpreview22.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330490-neverwinter_anfighterpreview22.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330489-neverwinter_anfighterpreview21.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330489-neverwinter_anfighterpreview21.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330489-neverwinter_anfighterpreview21.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330489-neverwinter_anfighterpreview21.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330489-neverwinter_anfighterpreview21.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330489-neverwinter_anfighterpreview21.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330489-neverwinter_anfighterpreview21.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330488-neverwinter_anfighterpreview20.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330488-neverwinter_anfighterpreview20.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330488-neverwinter_anfighterpreview20.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330488-neverwinter_anfighterpreview20.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330488-neverwinter_anfighterpreview20.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330488-neverwinter_anfighterpreview20.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330488-neverwinter_anfighterpreview20.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330487-neverwinter_anfighterpreview19.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330487-neverwinter_anfighterpreview19.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330487-neverwinter_anfighterpreview19.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330487-neverwinter_anfighterpreview19.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330487-neverwinter_anfighterpreview19.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330487-neverwinter_anfighterpreview19.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330487-neverwinter_anfighterpreview19.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330486-neverwinter_anfighterpreview18.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330486-neverwinter_anfighterpreview18.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330486-neverwinter_anfighterpreview18.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330486-neverwinter_anfighterpreview18.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330486-neverwinter_anfighterpreview18.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330486-neverwinter_anfighterpreview18.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330486-neverwinter_anfighterpreview18.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330485-neverwinter_anfighterpreview17.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330485-neverwinter_anfighterpreview17.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330485-neverwinter_anfighterpreview17.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330485-neverwinter_anfighterpreview17.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330485-neverwinter_anfighterpreview17.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330485-neverwinter_anfighterpreview17.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330485-neverwinter_anfighterpreview17.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330484-neverwinter_anfighterpreview16.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330484-neverwinter_anfighterpreview16.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330484-neverwinter_anfighterpreview16.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330484-neverwinter_anfighterpreview16.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330484-neverwinter_anfighterpreview16.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330484-neverwinter_anfighterpreview16.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330484-neverwinter_anfighterpreview16.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330483-neverwinter_anfighterpreview15.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330483-neverwinter_anfighterpreview15.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330483-neverwinter_anfighterpreview15.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330483-neverwinter_anfighterpreview15.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330483-neverwinter_anfighterpreview15.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330483-neverwinter_anfighterpreview15.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330483-neverwinter_anfighterpreview15.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330482-neverwinter_anfighterpreview14.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330482-neverwinter_anfighterpreview14.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330482-neverwinter_anfighterpreview14.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330482-neverwinter_anfighterpreview14.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330482-neverwinter_anfighterpreview14.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330482-neverwinter_anfighterpreview14.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330482-neverwinter_anfighterpreview14.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330481-neverwinter_anfighterpreview13.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330481-neverwinter_anfighterpreview13.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330481-neverwinter_anfighterpreview13.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330481-neverwinter_anfighterpreview13.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330481-neverwinter_anfighterpreview13.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330481-neverwinter_anfighterpreview13.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330481-neverwinter_anfighterpreview13.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330480-neverwinter_anfighterpreview12.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330480-neverwinter_anfighterpreview12.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330480-neverwinter_anfighterpreview12.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330480-neverwinter_anfighterpreview12.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330480-neverwinter_anfighterpreview12.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330480-neverwinter_anfighterpreview12.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330480-neverwinter_anfighterpreview12.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330479-neverwinter_anfighterpreview11.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330479-neverwinter_anfighterpreview11.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330479-neverwinter_anfighterpreview11.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330479-neverwinter_anfighterpreview11.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330479-neverwinter_anfighterpreview11.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330479-neverwinter_anfighterpreview11.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330479-neverwinter_anfighterpreview11.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330478-neverwinter_anfighterpreview10.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330478-neverwinter_anfighterpreview10.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330478-neverwinter_anfighterpreview10.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330478-neverwinter_anfighterpreview10.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330478-neverwinter_anfighterpreview10.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330478-neverwinter_anfighterpreview10.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330478-neverwinter_anfighterpreview10.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330477-neverwinter_anfighterpreview9.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330477-neverwinter_anfighterpreview9.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2330477-neverwinter_anfighterpreview9.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2330477-neverwinter_anfighterpreview9.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2330477-neverwinter_anfighterpreview9.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2330477-neverwinter_anfighterpreview9.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2330477-neverwinter_anfighterpreview9.jpg",
+      "tags": "All Images, Screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6160/",
+      "id": 6160,
+      "name": "E3 2012: Cryptic Takes Neverwinter Free-to-Play",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2012-cryptic-takes-neverwinter-free-to-play/2300-6160/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-16/",
+      "id": 16,
+      "name": "MMORPG",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=mmorpg&wikiTypeId=3060&wikiId=16&genre=16"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127217/",
+      "id": 127217,
+      "name": "Neverwinter",
+      "site_detail_url": "http://www.giantbomb.com/neverwinter/3030-32417/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127218/",
+      "id": 127218,
+      "name": "Neverwinter",
+      "site_detail_url": "http://www.giantbomb.com/neverwinter/3030-32417/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127219/",
+      "id": 127219,
+      "name": "Neverwinter",
+      "site_detail_url": "http://www.giantbomb.com/neverwinter/3030-32417/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127220/",
+      "id": 127220,
+      "name": "Neverwinter",
+      "site_detail_url": "http://www.giantbomb.com/neverwinter/3030-32417/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140363/",
+      "id": 140363,
+      "name": "Neverwinter",
+      "site_detail_url": "http://www.giantbomb.com/neverwinter/3030-32417/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140950/",
+      "id": 140950,
+      "name": "Neverwinter",
+      "site_detail_url": "http://www.giantbomb.com/neverwinter/3030-32417/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141672/",
+      "id": 141672,
+      "name": "Neverwinter",
+      "site_detail_url": "http://www.giantbomb.com/neverwinter/3030-32417/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148623/",
+      "id": 148623,
+      "name": "Neverwinter (PSN)",
+      "site_detail_url": "http://www.giantbomb.com/neverwinter/3030-32417/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148695/",
+      "id": 148695,
+      "name": "Neverwinter (PSN)",
+      "site_detail_url": "http://www.giantbomb.com/neverwinter/3030-32417/releases/"
+    }
+  ]
+}

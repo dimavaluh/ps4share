@@ -1,0 +1,82 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-47779/",
+  "deck": "Worlds of Magic is a 4X turn-based strategy game from Wastelands Interactive.",
+  "id": 47779,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2678652-2655686565-heade.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2678652-2655686565-heade.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2678652-2655686565-heade.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2678652-2655686565-heade.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2678652-2655686565-heade.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2678652-2655686565-heade.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2678652-2655686565-heade.jpg"
+  },
+  "name": "Worlds of Magic",
+  "original_release_date": "2015-03-19 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/worlds-of-magic/3030-47779/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2678652-2655686565-heade.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2678652-2655686565-heade.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2678652-2655686565-heade.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2678652-2655686565-heade.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/17/171291/2678652-2655686565-heade.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/17/171291/2678652-2655686565-heade.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/17/171291/2678652-2655686565-heade.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-2/",
+      "id": 2,
+      "name": "Strategy",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=strategy&wikiTypeId=3060&wikiId=2&genre=2"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140873/",
+      "id": 140873,
+      "name": "Worlds of Magic",
+      "site_detail_url": "http://www.giantbomb.com/worlds-of-magic/3030-47779/releases/"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-53010/",
+  "deck": "Indie physics puzzle game.",
+  "id": 53010,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2834131-7231089878-25363.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2834131-7231089878-25363.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2834131-7231089878-25363.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2834131-7231089878-25363.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2834131-7231089878-25363.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2834131-7231089878-25363.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2834131-7231089878-25363.jpg"
+  },
+  "name": "Dreii",
+  "original_release_date": "2016-02-02 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-96/",
+      "id": 96,
+      "name": "iPhone",
+      "site_detail_url": "http://www.giantbomb.com/iphone/3045-96/",
+      "abbreviation": "IPHN"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-123/",
+      "id": 123,
+      "name": "Android",
+      "site_detail_url": "http://www.giantbomb.com/android/3045-123/",
+      "abbreviation": "ANDR"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/dreii/3030-53010/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2834131-7231089878-25363.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2834131-7231089878-25363.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2834131-7231089878-25363.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2834131-7231089878-25363.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2834131-7231089878-25363.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2834131-7231089878-25363.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2834131-7231089878-25363.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-18/",
+      "id": 18,
+      "name": "Puzzle",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=puzzle&wikiTypeId=3060&wikiId=18&genre=18"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146552/",
+      "id": 146552,
+      "name": "Dreii",
+      "site_detail_url": "http://www.giantbomb.com/dreii/3030-53010/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146553/",
+      "id": 146553,
+      "name": "Dreii",
+      "site_detail_url": "http://www.giantbomb.com/dreii/3030-53010/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146555/",
+      "id": 146555,
+      "name": "Dreii",
+      "site_detail_url": "http://www.giantbomb.com/dreii/3030-53010/releases/"
+    }
+  ]
+}

@@ -1,0 +1,719 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-38480/",
+  "deck": "The DC Universe's most powerful heroes and villains collide in this 2.5D fighting game from the creators of the Mortal Kombat series.",
+  "id": 38480,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2452962-box_ijgau.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2452962-box_ijgau.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2452962-box_ijgau.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2452962-box_ijgau.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2452962-box_ijgau.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2452962-box_ijgau.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2452962-box_ijgau.png"
+  },
+  "name": "Injustice: Gods Among Us",
+  "original_release_date": "2013-04-16 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2557146-injusticepc.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2557146-injusticepc.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2557146-injusticepc.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2557146-injusticepc.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2557146-injusticepc.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2557146-injusticepc.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2557146-injusticepc.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2556588-psvita.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2556588-psvita.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2556588-psvita.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2556588-psvita.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2556588-psvita.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2556588-psvita.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2556588-psvita.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2516403-isis.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2516403-isis.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2516403-isis.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2516403-isis.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2516403-isis.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2516403-isis.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2516403-isis.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2515343-image.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2515343-image.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2515343-image.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2515343-image.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2515343-image.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2515343-image.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2515343-image.jpg",
+      "tags": "All Images, Injustice: Gods Among Us, DLC Costumes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2515342-image.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2515342-image.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2515342-image.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2515342-image.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2515342-image.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2515342-image.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2515342-image.jpg",
+      "tags": "All Images, Injustice: Gods Among Us, DLC Costumes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2515341-image.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2515341-image.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2515341-image.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2515341-image.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2515341-image.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2515341-image.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2515341-image.jpg",
+      "tags": "All Images, Injustice: Gods Among Us, DLC Costumes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/11/110502/2487542-964097_550219685030651_1796376713_o.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/11/110502/2487542-964097_550219685030651_1796376713_o.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/11/110502/2487542-964097_550219685030651_1796376713_o.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/11/110502/2487542-964097_550219685030651_1796376713_o.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/11/110502/2487542-964097_550219685030651_1796376713_o.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/11/110502/2487542-964097_550219685030651_1796376713_o.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/11/110502/2487542-964097_550219685030651_1796376713_o.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2483802-luchador+bane.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2483802-luchador+bane.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2483802-luchador+bane.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2483802-luchador+bane.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/161219/2483802-luchador+bane.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/161219/2483802-luchador+bane.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/161219/2483802-luchador+bane.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2483801-red+hood+joker.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2483801-red+hood+joker.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2483801-red+hood+joker.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2483801-red+hood+joker.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/161219/2483801-red+hood+joker.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/161219/2483801-red+hood+joker.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/161219/2483801-red+hood+joker.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2483800-final+confrontation+joker.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2483800-final+confrontation+joker.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2483800-final+confrontation+joker.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2483800-final+confrontation+joker.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/161219/2483800-final+confrontation+joker.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/161219/2483800-final+confrontation+joker.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/161219/2483800-final+confrontation+joker.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2483799-vacation+joker.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2483799-vacation+joker.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2483799-vacation+joker.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2483799-vacation+joker.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/161219/2483799-vacation+joker.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/161219/2483799-vacation+joker.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/161219/2483799-vacation+joker.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2478404-batgirl.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2478404-batgirl.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2478404-batgirl.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2478404-batgirl.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/161219/2478404-batgirl.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/161219/2478404-batgirl.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/161219/2478404-batgirl.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2478403-flashpoint+batman.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2478403-flashpoint+batman.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2478403-flashpoint+batman.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2478403-flashpoint+batman.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/161219/2478403-flashpoint+batman.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/161219/2478403-flashpoint+batman.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/161219/2478403-flashpoint+batman.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2478401-classic+deathstroke.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2478401-classic+deathstroke.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2478401-classic+deathstroke.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2478401-classic+deathstroke.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/161219/2478401-classic+deathstroke.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/161219/2478401-classic+deathstroke.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/161219/2478401-classic+deathstroke.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2478400-odyssey+wonder+woman.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2478400-odyssey+wonder+woman.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2478400-odyssey+wonder+woman.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2478400-odyssey+wonder+woman.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/161219/2478400-odyssey+wonder+woman.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/161219/2478400-odyssey+wonder+woman.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/161219/2478400-odyssey+wonder+woman.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2478399-classic+harley+quinn.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2478399-classic+harley+quinn.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2478399-classic+harley+quinn.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2478399-classic+harley+quinn.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/161219/2478399-classic+harley+quinn.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/161219/2478399-classic+harley+quinn.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/161219/2478399-classic+harley+quinn.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2478395-classic+cyborg.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2478395-classic+cyborg.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2478395-classic+cyborg.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2478395-classic+cyborg.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/161219/2478395-classic+cyborg.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/161219/2478395-classic+cyborg.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/161219/2478395-classic+cyborg.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2471039-lobo.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2471039-lobo.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2471039-lobo.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2471039-lobo.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/161219/2471039-lobo.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/161219/2471039-lobo.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/161219/2471039-lobo.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7629/2467926-ios+skins.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7629/2467926-ios+skins.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7629/2467926-ios+skins.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7629/2467926-ios+skins.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7629/2467926-ios+skins.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7629/2467926-ios+skins.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7629/2467926-ios+skins.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2457937-black+adam.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2457937-black+adam.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2457937-black+adam.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2457937-black+adam.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/161219/2457937-black+adam.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/161219/2457937-black+adam.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/161219/2457937-black+adam.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2457936-black+adam+in+space.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2457936-black+adam+in+space.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2457936-black+adam+in+space.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2457936-black+adam+in+space.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/161219/2457936-black+adam+in+space.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/161219/2457936-black+adam+in+space.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/161219/2457936-black+adam+in+space.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2457935-bald+adam.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2457935-bald+adam.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2457935-bald+adam.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2457935-bald+adam.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/161219/2457935-bald+adam.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/161219/2457935-bald+adam.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/161219/2457935-bald+adam.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2457934-black+adam+zaps+bane.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2457934-black+adam+zaps+bane.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2457934-black+adam+zaps+bane.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2457934-black+adam+zaps+bane.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/161219/2457934-black+adam+zaps+bane.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/161219/2457934-black+adam+zaps+bane.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/161219/2457934-black+adam+zaps+bane.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2457933-black+adam+vs+supes.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2457933-black+adam+vs+supes.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2457933-black+adam+vs+supes.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2457933-black+adam+vs+supes.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/161219/2457933-black+adam+vs+supes.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/161219/2457933-black+adam+vs+supes.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/161219/2457933-black+adam+vs+supes.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2457932-aquaman+flashpoint+alt.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2457932-aquaman+flashpoint+alt.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2457932-aquaman+flashpoint+alt.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2457932-aquaman+flashpoint+alt.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/161219/2457932-aquaman+flashpoint+alt.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/161219/2457932-aquaman+flashpoint+alt.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/161219/2457932-aquaman+flashpoint+alt.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2457931-black+lantern+batman.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2457931-black+lantern+batman.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/161219/2457931-black+lantern+batman.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/161219/2457931-black+lantern+batman.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/161219/2457931-black+lantern+batman.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/161219/2457931-black+lantern+batman.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/161219/2457931-black+lantern+batman.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/11/110502/2455949-wonderwoman-injustice.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/11/110502/2455949-wonderwoman-injustice.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/11/110502/2455949-wonderwoman-injustice.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/11/110502/2455949-wonderwoman-injustice.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/11/110502/2455949-wonderwoman-injustice.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/11/110502/2455949-wonderwoman-injustice.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/11/110502/2455949-wonderwoman-injustice.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/11/110502/2455948-aquaman-injustice-artwork.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/11/110502/2455948-aquaman-injustice-artwork.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/11/110502/2455948-aquaman-injustice-artwork.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/11/110502/2455948-aquaman-injustice-artwork.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/11/110502/2455948-aquaman-injustice-artwork.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/11/110502/2455948-aquaman-injustice-artwork.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/11/110502/2455948-aquaman-injustice-artwork.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/11/110502/2455947-green-lantern-injustice-artwork.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/11/110502/2455947-green-lantern-injustice-artwork.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/11/110502/2455947-green-lantern-injustice-artwork.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/11/110502/2455947-green-lantern-injustice-artwork.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/11/110502/2455947-green-lantern-injustice-artwork.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/11/110502/2455947-green-lantern-injustice-artwork.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/11/110502/2455947-green-lantern-injustice-artwork.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/11/110502/2455946-shazam-injustice-artwork.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/11/110502/2455946-shazam-injustice-artwork.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/11/110502/2455946-shazam-injustice-artwork.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/11/110502/2455946-shazam-injustice-artwork.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/11/110502/2455946-shazam-injustice-artwork.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/11/110502/2455946-shazam-injustice-artwork.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/11/110502/2455946-shazam-injustice-artwork.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6026/",
+      "id": 6026,
+      "name": "DC's Greatest Characters Punch the Crap Out of Each Other In Injustice: Gods Among Us",
+      "site_detail_url": "http://www.giantbomb.com/videos/dcs-greatest-characters-punch-the-crap-out-of-each/2300-6026/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6194/",
+      "id": 6194,
+      "name": "E3 2012: Injustice interview with Ed Boon",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2012-injustice-interview-with-ed-boon/2300-6194/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6333/",
+      "id": 6333,
+      "name": "Cyborg and Nightwing Join the Injustice: Gods Among Us Roster",
+      "site_detail_url": "http://www.giantbomb.com/videos/cyborg-and-nightwing-join-the-injustice-gods-among/2300-6333/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6431/",
+      "id": 6431,
+      "name": "Perhaps Unsurprisingly, Catwoman Is In Injustice: Gods Among Us",
+      "site_detail_url": "http://www.giantbomb.com/videos/perhaps-unsurprisingly-catwoman-is-in-injustice-go/2300-6431/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6589/",
+      "id": 6589,
+      "name": "Like Watching DC Characters Beat Each Other Senseless? Then You Should Find This Injustice Trailer Pleasing",
+      "site_detail_url": "http://www.giantbomb.com/videos/like-watching-dc-characters-beat-each-other-sensel/2300-6589/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6665/",
+      "id": 6665,
+      "name": "Here's Your First Look at Green Arrow in Injustice: Gods Among Us",
+      "site_detail_url": "http://www.giantbomb.com/videos/heres-your-first-look-at-green-arrow-in-injustice-/2300-6665/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6771/",
+      "id": 6771,
+      "name": "NetherRealm Tells Us What Makes Injustice: Gods Among Us Unique",
+      "site_detail_url": "http://www.giantbomb.com/videos/netherrealm-tells-us-what-makes-injustice-gods-amo/2300-6771/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6985/",
+      "id": 6985,
+      "name": "Lex Luthor Joins the Cast of Injustice: Gods Among Us",
+      "site_detail_url": "http://www.giantbomb.com/videos/lex-luthor-joins-the-cast-of-injustice-gods-among-/2300-6985/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6996/",
+      "id": 6996,
+      "name": "Why Are Heroes And Villains Fighting In Injustice?",
+      "site_detail_url": "http://www.giantbomb.com/videos/why-are-heroes-and-villains-fighting-in-injustice/2300-6996/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7000/",
+      "id": 7000,
+      "name": "The Nitty Gritty of Injustice: Gods Among Us",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-nitty-gritty-of-injustice-gods-among-us/2300-7000/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7042/",
+      "id": 7042,
+      "name": "Injustice: Gods Among Us Delivers an Aquaman-Flavored Valentine",
+      "site_detail_url": "http://www.giantbomb.com/videos/injustice-gods-among-us-delivers-an-aquaman-flavor/2300-7042/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7117/",
+      "id": 7117,
+      "name": "Lex Luthor Attempts to Explain Some of Injustice: Gods Among Us' Plot",
+      "site_detail_url": "http://www.giantbomb.com/videos/lex-luthor-attempts-to-explain-some-of-injustice-g/2300-7117/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7194/",
+      "id": 7194,
+      "name": "Watch Black Adam Beat the Crap Out of Green Arrow in This Latest Injustice Video",
+      "site_detail_url": "http://www.giantbomb.com/videos/watch-black-adam-beat-the-crap-out-of-green-arrow-/2300-7194/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7234/",
+      "id": 7234,
+      "name": "Green Lantern Is Super Angsty in This Latest Injustice: Gods Among Us Trailer",
+      "site_detail_url": "http://www.giantbomb.com/videos/green-lantern-is-super-angsty-in-this-latest-injus/2300-7234/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7246/",
+      "id": 7246,
+      "name": "Injustice: Gods Among Us Launches Next Week, So Here's One More Trailer",
+      "site_detail_url": "http://www.giantbomb.com/videos/injustice-gods-among-us-launches-next-week-so-here/2300-7246/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7256/",
+      "id": 7256,
+      "name": "Quick Look: Injustice: Gods Among Us",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-injustice-gods-among-us/2300-7256/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7257/",
+      "id": 7257,
+      "name": "I Love Mondays 04/15/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/i-love-mondays-04-15-2013/2300-7257/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7276/",
+      "id": 7276,
+      "name": "Thursday Night Throwdown: 04/18/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/thursday-night-throwdown-04-18-2013/2300-7276/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7311/",
+      "id": 7311,
+      "name": "Lobo Is Headed to Injustice: Gods Among Us",
+      "site_detail_url": "http://www.giantbomb.com/videos/lobo-is-headed-to-injustice-gods-among-us/2300-7311/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7339/",
+      "id": 7339,
+      "name": "Lobo Smashes His Way Into Injustice: Gods Among Us Today",
+      "site_detail_url": "http://www.giantbomb.com/videos/lobo-smashes-his-way-into-injustice-gods-among-us-/2300-7339/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7347/",
+      "id": 7347,
+      "name": "Batgirl Is the Next DC Heroine Headed to Injustice: Gods Among Us",
+      "site_detail_url": "http://www.giantbomb.com/videos/batgirl-is-the-next-dc-heroine-headed-to-injustice/2300-7347/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7435/",
+      "id": 7435,
+      "name": "Unprofessional Fridays: 05/31/13",
+      "site_detail_url": "http://www.giantbomb.com/videos/unprofessional-fridays-05-31-13/2300-7435/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7436/",
+      "id": 7436,
+      "name": "Popular DC Comics Character Scorpion Is Injustice's Next DLC Fighter",
+      "site_detail_url": "http://www.giantbomb.com/videos/popular-dc-comics-character-scorpion-is-injustice-/2300-7436/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7672/",
+      "id": 7672,
+      "name": "Injustice: Gods Among Us Demands That You Kneel Before Zod",
+      "site_detail_url": "http://www.giantbomb.com/videos/injustice-gods-among-us-demands-that-you-kneel-bef/2300-7672/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7744/",
+      "id": 7744,
+      "name": "Martian Manhunter Lands in Injustice: Gods Among Us",
+      "site_detail_url": "http://www.giantbomb.com/videos/martian-manhunter-lands-in-injustice-gods-among-us/2300-7744/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7785/",
+      "id": 7785,
+      "name": "Zatanna Is the Latest Character to Join Injustice",
+      "site_detail_url": "http://www.giantbomb.com/videos/zatanna-is-the-latest-character-to-join-injustice/2300-7785/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8210/",
+      "id": 8210,
+      "name": "Injustice: Gods Among Us Ultimate Edition Arrives for PS4",
+      "site_detail_url": "http://www.giantbomb.com/videos/injustice-gods-among-us-ultimate-edition-arrives-f/2300-8210/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-9/",
+      "id": 9,
+      "name": "Fighting",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=fighting&wikiTypeId=3060&wikiId=9&genre=9"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-117556/",
+      "id": 117556,
+      "name": "Injustice: Gods Among Us",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-117557/",
+      "id": 117557,
+      "name": "Injustice: Gods Among Us",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-117558/",
+      "id": 117558,
+      "name": "Injustice: Gods Among Us",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-123882/",
+      "id": 123882,
+      "name": " Injustice: Gods Among Us (Special Edition)",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-123883/",
+      "id": 123883,
+      "name": "Injustice: Gods Among Us (Battle Edition)",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-123884/",
+      "id": 123884,
+      "name": "Injustice: Gods Among Us (Battle Edition)",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-123885/",
+      "id": 123885,
+      "name": "Injustice: Gods Among Us (Collector's Edition)",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-123886/",
+      "id": 123886,
+      "name": "Injustice: Gods Among Us (Collector's Edition)",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-123887/",
+      "id": 123887,
+      "name": "Injustice: Gods Among Us (Special Edition)",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-123964/",
+      "id": 123964,
+      "name": "Injustice: Gods Among Us",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-123965/",
+      "id": 123965,
+      "name": "Injustice: Gods Among Us",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-123966/",
+      "id": 123966,
+      "name": "Injustice: Gods Among Us",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-123967/",
+      "id": 123967,
+      "name": "Injustice: Gods Among Us (Collector's Edition)",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-123968/",
+      "id": 123968,
+      "name": "Injustice: Gods Among Us (Collector's Edition)",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125073/",
+      "id": 125073,
+      "name": "Injustice: Gods Among Us (Special Edition)",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125074/",
+      "id": 125074,
+      "name": "Injustice: Gods Among Us (Special Edition)",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125075/",
+      "id": 125075,
+      "name": "Injustice: Gods Among Us",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125076/",
+      "id": 125076,
+      "name": "Injustice: Gods Among Us",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125077/",
+      "id": 125077,
+      "name": "Injustice: Gods Among Us",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125673/",
+      "id": 125673,
+      "name": "Injustice: Kamigami no Gekitotsu",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125689/",
+      "id": 125689,
+      "name": "Injustice: Kamigami no Gekitotsu",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126857/",
+      "id": 126857,
+      "name": "Injustice: Gods Among Us",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130566/",
+      "id": 130566,
+      "name": "Injustice: Gods Among Us Ultimate Edition",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130567/",
+      "id": 130567,
+      "name": "Injustice: Gods Among Us Ultimate Edition",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130589/",
+      "id": 130589,
+      "name": "Injustice: Gods Among Us Ultimate Edition",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130590/",
+      "id": 130590,
+      "name": "Injustice: Gods Among Us Ultimate Edition",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-131071/",
+      "id": 131071,
+      "name": "Injustice: Gods Among Us Ultimate Edition",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-131237/",
+      "id": 131237,
+      "name": "Injustice: Gods Among Us Ultimate Edition",
+      "site_detail_url": "http://www.giantbomb.com/injustice-gods-among-us/3030-38480/releases/"
+    }
+  ]
+}

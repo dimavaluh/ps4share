@@ -1,0 +1,149 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-42503/",
+  "deck": "A tennis-themed, physics-based puzzle game by 10tons.",
+  "id": 42503,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2475151-tennis-in-the-face.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2475151-tennis-in-the-face.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2475151-tennis-in-the-face.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2475151-tennis-in-the-face.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2475151-tennis-in-the-face.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2475151-tennis-in-the-face.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2475151-tennis-in-the-face.jpg"
+  },
+  "name": "Tennis in the Face",
+  "original_release_date": "2013-01-03 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-96/",
+      "id": 96,
+      "name": "iPhone",
+      "site_detail_url": "http://www.giantbomb.com/iphone/3045-96/",
+      "abbreviation": "IPHN"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-121/",
+      "id": 121,
+      "name": "iPad",
+      "site_detail_url": "http://www.giantbomb.com/ipad/3045-121/",
+      "abbreviation": "IPAD"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-123/",
+      "id": 123,
+      "name": "Android",
+      "site_detail_url": "http://www.giantbomb.com/android/3045-123/",
+      "abbreviation": "ANDR"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-124/",
+      "id": 124,
+      "name": "Windows Phone",
+      "site_detail_url": "http://www.giantbomb.com/windows-phone/3045-124/",
+      "abbreviation": "WP"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-154/",
+      "id": 154,
+      "name": "Ouya",
+      "site_detail_url": "http://www.giantbomb.com/ouya/3045-154/",
+      "abbreviation": "OUYA"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/tennis-in-the-face/3030-42503/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2475151-tennis-in-the-face.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2475151-tennis-in-the-face.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2475151-tennis-in-the-face.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2475151-tennis-in-the-face.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/17/171291/2475151-tennis-in-the-face.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/17/171291/2475151-tennis-in-the-face.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/17/171291/2475151-tennis-in-the-face.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9790/",
+      "id": 9790,
+      "name": "Quick Look: Tennis in the Face",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-tennis-in-the-face/2300-9790/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-18/",
+      "id": 18,
+      "name": "Puzzle",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=puzzle&wikiTypeId=3060&wikiId=18&genre=18"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138640/",
+      "id": 138640,
+      "name": "Tennis in the Face",
+      "site_detail_url": "http://www.giantbomb.com/tennis-in-the-face/3030-42503/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138641/",
+      "id": 138641,
+      "name": "Tennis in the Face",
+      "site_detail_url": "http://www.giantbomb.com/tennis-in-the-face/3030-42503/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138977/",
+      "id": 138977,
+      "name": "Tennis in the Face",
+      "site_detail_url": "http://www.giantbomb.com/tennis-in-the-face/3030-42503/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140696/",
+      "id": 140696,
+      "name": "Tennis in the Face",
+      "site_detail_url": "http://www.giantbomb.com/tennis-in-the-face/3030-42503/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140697/",
+      "id": 140697,
+      "name": "Tennis in the Face",
+      "site_detail_url": "http://www.giantbomb.com/tennis-in-the-face/3030-42503/releases/"
+    }
+  ]
+}

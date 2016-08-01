@@ -1,0 +1,101 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49159/",
+  "deck": "An upgraded version of Guacamelee!: Gold Edition, complete with all of the DLC, and new levels and abilities exclusive to this version. Known as the definitive version of Guacamelee",
+  "id": 49159,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2735073-guacamelee!_stce_box_art.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2735073-guacamelee!_stce_box_art.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2735073-guacamelee!_stce_box_art.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2735073-guacamelee!_stce_box_art.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2735073-guacamelee!_stce_box_art.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2735073-guacamelee!_stce_box_art.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2735073-guacamelee!_stce_box_art.jpg"
+  },
+  "name": "Guacamelee!: Super Turbo Championship Edition",
+  "original_release_date": "2014-07-02 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+      "id": 86,
+      "name": "Xbox 360 Games Store",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+      "abbreviation": "XBGS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/guacamelee-super-turbo-championship-edition/3030-49159/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2735073-guacamelee%21_stce_box_art.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2735073-guacamelee%21_stce_box_art.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2735073-guacamelee%21_stce_box_art.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2735073-guacamelee%21_stce_box_art.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2735073-guacamelee%21_stce_box_art.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2735073-guacamelee%21_stce_box_art.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2735073-guacamelee%21_stce_box_art.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-37/",
+      "id": 37,
+      "name": "Brawler",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=brawler&wikiTypeId=3060&wikiId=37&genre=37"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141840/",
+      "id": 141840,
+      "name": "Guacamelee!: Super Turbo Championship Edition",
+      "site_detail_url": "http://www.giantbomb.com/guacamelee-super-turbo-championship-edition/3030-49159/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143067/",
+      "id": 143067,
+      "name": "Guacamelee!: Super Turbo Championship Edition",
+      "site_detail_url": "http://www.giantbomb.com/guacamelee-super-turbo-championship-edition/3030-49159/releases/"
+    }
+  ]
+}

@@ -1,0 +1,622 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-41090/",
+  "deck": "The denizens of the Marvel Universe battle it out LEGO style.",
+  "id": 41090,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2513533-lego-marvel-cover.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2513533-lego-marvel-cover.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2513533-lego-marvel-cover.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2513533-lego-marvel-cover.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2513533-lego-marvel-cover.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2513533-lego-marvel-cover.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2513533-lego-marvel-cover.jpg"
+  },
+  "name": "LEGO Marvel Super Heroes",
+  "original_release_date": "2013-10-22 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-52/",
+      "id": 52,
+      "name": "Nintendo DS",
+      "site_detail_url": "http://www.giantbomb.com/nintendo-ds/3045-52/",
+      "abbreviation": "DS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-96/",
+      "id": 96,
+      "name": "iPhone",
+      "site_detail_url": "http://www.giantbomb.com/iphone/3045-96/",
+      "abbreviation": "IPHN"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-117/",
+      "id": 117,
+      "name": "Nintendo 3DS",
+      "site_detail_url": "http://www.giantbomb.com/nintendo-3ds/3045-117/",
+      "abbreviation": "3DS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-121/",
+      "id": 121,
+      "name": "iPad",
+      "site_detail_url": "http://www.giantbomb.com/ipad/3045-121/",
+      "abbreviation": "IPAD"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/24/249429/2671350-a-bomb.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/24/249429/2671350-a-bomb.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/24/249429/2671350-a-bomb.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/24/249429/2671350-a-bomb.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/24/249429/2671350-a-bomb.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/24/249429/2671350-a-bomb.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/24/249429/2671350-a-bomb.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2608605-71z40zglxyl._sl1086_.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2608605-71z40zglxyl._sl1086_.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2608605-71z40zglxyl._sl1086_.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2608605-71z40zglxyl._sl1086_.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2608605-71z40zglxyl._sl1086_.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2608605-71z40zglxyl._sl1086_.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2608605-71z40zglxyl._sl1086_.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2608599-61n8oj5j47l.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2608599-61n8oj5j47l.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2608599-61n8oj5j47l.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2608599-61n8oj5j47l.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2608599-61n8oj5j47l.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2608599-61n8oj5j47l.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2608599-61n8oj5j47l.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519045-019633.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519045-019633.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519045-019633.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519045-019633.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519045-019633.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519045-019633.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519045-019633.jpg",
+      "tags": "All Images, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519042-019651.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519042-019651.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519042-019651.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519042-019651.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519042-019651.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519042-019651.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519042-019651.jpg",
+      "tags": "All Images, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519041-019650.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519041-019650.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519041-019650.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519041-019650.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519041-019650.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519041-019650.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519041-019650.jpg",
+      "tags": "All Images, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519040-019649.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519040-019649.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519040-019649.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519040-019649.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519040-019649.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519040-019649.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519040-019649.jpg",
+      "tags": "All Images, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519039-019648.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519039-019648.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519039-019648.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519039-019648.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519039-019648.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519039-019648.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519039-019648.jpg",
+      "tags": "All Images, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519038-019647.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519038-019647.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519038-019647.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519038-019647.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519038-019647.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519038-019647.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519038-019647.jpg",
+      "tags": "All Images, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519037-019646.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519037-019646.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519037-019646.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519037-019646.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519037-019646.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519037-019646.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519037-019646.jpg",
+      "tags": "All Images, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519036-019640.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519036-019640.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519036-019640.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519036-019640.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519036-019640.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519036-019640.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519036-019640.jpg",
+      "tags": "All Images, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519035-019639.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519035-019639.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519035-019639.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519035-019639.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519035-019639.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519035-019639.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519035-019639.jpg",
+      "tags": "All Images, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519034-019638.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519034-019638.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519034-019638.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519034-019638.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519034-019638.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519034-019638.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519034-019638.jpg",
+      "tags": "All Images, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519033-019636.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519033-019636.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519033-019636.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519033-019636.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519033-019636.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519033-019636.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519033-019636.jpg",
+      "tags": "All Images, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519032-019635.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519032-019635.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519032-019635.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519032-019635.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519032-019635.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519032-019635.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519032-019635.jpg",
+      "tags": "All Images, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519031-019634.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519031-019634.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519031-019634.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519031-019634.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519031-019634.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519031-019634.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519031-019634.jpg",
+      "tags": "All Images, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519030-019633.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519030-019633.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519030-019633.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519030-019633.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519030-019633.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519030-019633.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519030-019633.jpg",
+      "tags": "All Images, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519029-019632.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519029-019632.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519029-019632.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519029-019632.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519029-019632.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519029-019632.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519029-019632.jpg",
+      "tags": "All Images, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519028-019631.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519028-019631.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519028-019631.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519028-019631.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519028-019631.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519028-019631.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519028-019631.jpg",
+      "tags": "All Images, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519027-019645.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519027-019645.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519027-019645.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519027-019645.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519027-019645.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519027-019645.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519027-019645.jpg",
+      "tags": "All Images, Screenshots, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519026-019644.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519026-019644.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519026-019644.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519026-019644.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519026-019644.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519026-019644.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519026-019644.jpg",
+      "tags": "All Images, Screenshots, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519025-019643.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519025-019643.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519025-019643.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519025-019643.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519025-019643.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519025-019643.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519025-019643.jpg",
+      "tags": "All Images, Screenshots, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519024-019642.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519024-019642.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519024-019642.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519024-019642.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519024-019642.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519024-019642.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519024-019642.jpg",
+      "tags": "All Images, Screenshots, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519023-019637.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519023-019637.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519023-019637.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519023-019637.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519023-019637.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519023-019637.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519023-019637.jpg",
+      "tags": "All Images, Screenshots, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519022-019630.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519022-019630.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2519022-019630.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2519022-019630.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2519022-019630.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2519022-019630.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2519022-019630.jpg",
+      "tags": "All Images, Screenshots, LEGO Marvel Super Heroes"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2513533-lego-marvel-cover.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2513533-lego-marvel-cover.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2513533-lego-marvel-cover.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2513533-lego-marvel-cover.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56735/2513533-lego-marvel-cover.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56735/2513533-lego-marvel-cover.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56735/2513533-lego-marvel-cover.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2513529-lsusclt.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2513529-lsusclt.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2513529-lsusclt.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2513529-lsusclt.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56735/2513529-lsusclt.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56735/2513529-lsusclt.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56735/2513529-lsusclt.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2441734-014984.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2441734-014984.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2441734-014984.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2441734-014984.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2441734-014984.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2441734-014984.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2441734-014984.jpg",
+      "tags": "All Images, Character Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2441733-014983.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2441733-014983.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2441733-014983.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2441733-014983.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2441733-014983.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2441733-014983.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2441733-014983.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2441732-014982.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2441732-014982.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2441732-014982.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2441732-014982.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2441732-014982.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2441732-014982.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2441732-014982.jpg",
+      "tags": "All Images, Concept Art"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7535/",
+      "id": 7535,
+      "name": "E3 2013: LEGO Marvel Super Heroes is Exactly What It Sounds Like",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-lego-marvel-super-heroes-is-exactly-what-i/2300-7535/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8237/",
+      "id": 8237,
+      "name": "PlayStation 4 Launchstravaganza: Part 03",
+      "site_detail_url": "http://www.giantbomb.com/videos/playstation-4-launchstravaganza-part-03/2300-8237/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-37/",
+      "id": 37,
+      "name": "Brawler",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=brawler&wikiTypeId=3060&wikiId=37&genre=37"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-123558/",
+      "id": 123558,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-123559/",
+      "id": 123559,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-123560/",
+      "id": 123560,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-123561/",
+      "id": 123561,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-123562/",
+      "id": 123562,
+      "name": "LEGO Marvel Super Heroes: Universe in Peril",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-123563/",
+      "id": 123563,
+      "name": "LEGO Marvel Super Heroes: Universe in Peril",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-123564/",
+      "id": 123564,
+      "name": "LEGO Marvel Super Heroes: Universe in Peril",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130220/",
+      "id": 130220,
+      "name": "LEGO Marvel Super Heroes: Universe in Peril",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130860/",
+      "id": 130860,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-131044/",
+      "id": 131044,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134987/",
+      "id": 134987,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135447/",
+      "id": 135447,
+      "name": "LEGO Marvel Super Heroes: Universe in Peril",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145757/",
+      "id": 145757,
+      "name": "LEGO Marvel Super Heroes: Universe in Peril",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145759/",
+      "id": 145759,
+      "name": "LEGO Marvel Super Heroes: Universe in Peril",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145760/",
+      "id": 145760,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145761/",
+      "id": 145761,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145762/",
+      "id": 145762,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145763/",
+      "id": 145763,
+      "name": "LEGO Marvel Super Heroes: Universe in Peril",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145764/",
+      "id": 145764,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145765/",
+      "id": 145765,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145769/",
+      "id": 145769,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146001/",
+      "id": 146001,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146002/",
+      "id": 146002,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146003/",
+      "id": 146003,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146004/",
+      "id": 146004,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146005/",
+      "id": 146005,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146006/",
+      "id": 146006,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146007/",
+      "id": 146007,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146008/",
+      "id": 146008,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146009/",
+      "id": 146009,
+      "name": "LEGO Marvel Super Heroes",
+      "site_detail_url": "http://www.giantbomb.com/lego-marvel-super-heroes/3030-41090/releases/"
+    }
+  ]
+}

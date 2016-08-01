@@ -1,0 +1,98 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-51219/",
+  "deck": "A second prequel to the NBC television series \"Heroes Reborn\"",
+  "id": 51219,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2819108-0216998092-heade.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2819108-0216998092-heade.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2819108-0216998092-heade.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2819108-0216998092-heade.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2819108-0216998092-heade.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2819108-0216998092-heade.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2819108-0216998092-heade.jpg"
+  },
+  "name": "Gemini: Heroes Reborn",
+  "original_release_date": "2016-01-18 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/gemini-heroes-reborn/3030-51219/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2819108-0216998092-heade.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2819108-0216998092-heade.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2819108-0216998092-heade.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2819108-0216998092-heade.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2819108-0216998092-heade.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2819108-0216998092-heade.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2819108-0216998092-heade.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2790000-8733311816-Gemin.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2790000-8733311816-Gemin.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2790000-8733311816-Gemin.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2790000-8733311816-Gemin.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2790000-8733311816-Gemin.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2790000-8733311816-Gemin.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2790000-8733311816-Gemin.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10969/",
+      "id": 10969,
+      "name": "Quick Look: Gemini: Heroes Reborn",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-gemini-heroes-reborn/2300-10969/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10992/",
+      "id": 10992,
+      "name": "Best of Giant Bomb 92 - The Right Angle",
+      "site_detail_url": "http://www.giantbomb.com/videos/best-of-giant-bomb-92-the-right-angle/2300-10992/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145815/",
+      "id": 145815,
+      "name": "Gemini: Heroes Reborn",
+      "site_detail_url": "http://www.giantbomb.com/gemini-heroes-reborn/3030-51219/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145853/",
+      "id": 145853,
+      "name": "Gemini: Heroes Reborn",
+      "site_detail_url": "http://www.giantbomb.com/gemini-heroes-reborn/3030-51219/releases/"
+    }
+  ]
+}

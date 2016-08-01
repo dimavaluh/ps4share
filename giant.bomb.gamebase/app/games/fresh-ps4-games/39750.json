@@ -1,0 +1,579 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-39750/",
+  "deck": "While investigating a mass murder, Detective Sebastian Castellanos descends into a gruesome, nightmarish world. This third-person survival horror game marks the debut of Tango Gameworks, a studio headed by Resident Evil progenitor Shinji Mikami.",
+  "id": 39750,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2603369-the_evil_within_boxart.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2603369-the_evil_within_boxart.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2603369-the_evil_within_boxart.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2603369-the_evil_within_boxart.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2603369-the_evil_within_boxart.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2603369-the_evil_within_boxart.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2603369-the_evil_within_boxart.jpg"
+  },
+  "name": "The Evil Within",
+  "original_release_date": "2014-10-14 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/the-evil-within/3030-39750/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2732656-11050821_794325973984546_5921724402216431935_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2732656-11050821_794325973984546_5921724402216431935_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2732656-11050821_794325973984546_5921724402216431935_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2732656-11050821_794325973984546_5921724402216431935_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2732656-11050821_794325973984546_5921724402216431935_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2732656-11050821_794325973984546_5921724402216431935_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2732656-11050821_794325973984546_5921724402216431935_n.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2732655-11033610_794325970651213_6899677765163442332_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2732655-11033610_794325970651213_6899677765163442332_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2732655-11033610_794325970651213_6899677765163442332_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2732655-11033610_794325970651213_6899677765163442332_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2732655-11033610_794325970651213_6899677765163442332_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2732655-11033610_794325970651213_6899677765163442332_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2732655-11033610_794325970651213_6899677765163442332_n.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2732654-10247370_794325977317879_6967141718209811482_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2732654-10247370_794325977317879_6967141718209811482_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2732654-10247370_794325977317879_6967141718209811482_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2732654-10247370_794325977317879_6967141718209811482_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2732654-10247370_794325977317879_6967141718209811482_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2732654-10247370_794325977317879_6967141718209811482_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2732654-10247370_794325977317879_6967141718209811482_n.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2732539-11052015_792421607508316_9136631726199964644_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2732539-11052015_792421607508316_9136631726199964644_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2732539-11052015_792421607508316_9136631726199964644_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2732539-11052015_792421607508316_9136631726199964644_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2732539-11052015_792421607508316_9136631726199964644_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2732539-11052015_792421607508316_9136631726199964644_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2732539-11052015_792421607508316_9136631726199964644_n.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2732538-11050272_792421604174983_8783606396846306848_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2732538-11050272_792421604174983_8783606396846306848_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2732538-11050272_792421604174983_8783606396846306848_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2732538-11050272_792421604174983_8783606396846306848_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2732538-11050272_792421604174983_8783606396846306848_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2732538-11050272_792421604174983_8783606396846306848_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2732538-11050272_792421604174983_8783606396846306848_n.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2732537-10856734_792421624174981_5257498954418899582_o.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2732537-10856734_792421624174981_5257498954418899582_o.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2732537-10856734_792421624174981_5257498954418899582_o.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2732537-10856734_792421624174981_5257498954418899582_o.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2732537-10856734_792421624174981_5257498954418899582_o.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2732537-10856734_792421624174981_5257498954418899582_o.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2732537-10856734_792421624174981_5257498954418899582_o.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2732536-1891514_792421610841649_4164668711219079474_o.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2732536-1891514_792421610841649_4164668711219079474_o.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2732536-1891514_792421610841649_4164668711219079474_o.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2732536-1891514_792421610841649_4164668711219079474_o.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2732536-1891514_792421610841649_4164668711219079474_o.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2732536-1891514_792421610841649_4164668711219079474_o.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2732536-1891514_792421610841649_4164668711219079474_o.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2727699-kidman2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2727699-kidman2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2727699-kidman2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2727699-kidman2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2727699-kidman2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2727699-kidman2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2727699-kidman2.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2727698-kidman1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2727698-kidman1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2727698-kidman1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2727698-kidman1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2727698-kidman1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2727698-kidman1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2727698-kidman1.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700453-10636331_962433820451367_5242649344138633878_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700453-10636331_962433820451367_5242649344138633878_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700453-10636331_962433820451367_5242649344138633878_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700453-10636331_962433820451367_5242649344138633878_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2700453-10636331_962433820451367_5242649344138633878_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2700453-10636331_962433820451367_5242649344138633878_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2700453-10636331_962433820451367_5242649344138633878_n.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700452-10629647_962434000451349_1860999733975611746_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700452-10629647_962434000451349_1860999733975611746_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700452-10629647_962434000451349_1860999733975611746_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700452-10629647_962434000451349_1860999733975611746_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2700452-10629647_962434000451349_1860999733975611746_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2700452-10629647_962434000451349_1860999733975611746_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2700452-10629647_962434000451349_1860999733975611746_n.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700451-10628474_962433923784690_2458884546686703644_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700451-10628474_962433923784690_2458884546686703644_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700451-10628474_962433923784690_2458884546686703644_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700451-10628474_962433923784690_2458884546686703644_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2700451-10628474_962433923784690_2458884546686703644_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2700451-10628474_962433923784690_2458884546686703644_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2700451-10628474_962433923784690_2458884546686703644_n.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700450-10169435_962433713784711_4003829828776571779_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700450-10169435_962433713784711_4003829828776571779_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700450-10169435_962433713784711_4003829828776571779_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700450-10169435_962433713784711_4003829828776571779_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2700450-10169435_962433713784711_4003829828776571779_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2700450-10169435_962433713784711_4003829828776571779_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2700450-10169435_962433713784711_4003829828776571779_n.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700449-934866_962433583784724_2290303921668627090_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700449-934866_962433583784724_2290303921668627090_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700449-934866_962433583784724_2290303921668627090_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700449-934866_962433583784724_2290303921668627090_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2700449-934866_962433583784724_2290303921668627090_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2700449-934866_962433583784724_2290303921668627090_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2700449-934866_962433583784724_2290303921668627090_n.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700448-10806449_962429020451847_1536130482297131056_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700448-10806449_962429020451847_1536130482297131056_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700448-10806449_962429020451847_1536130482297131056_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700448-10806449_962429020451847_1536130482297131056_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2700448-10806449_962429020451847_1536130482297131056_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2700448-10806449_962429020451847_1536130482297131056_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2700448-10806449_962429020451847_1536130482297131056_n.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700447-10676126_962428470451902_5941079751446800879_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700447-10676126_962428470451902_5941079751446800879_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700447-10676126_962428470451902_5941079751446800879_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700447-10676126_962428470451902_5941079751446800879_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2700447-10676126_962428470451902_5941079751446800879_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2700447-10676126_962428470451902_5941079751446800879_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2700447-10676126_962428470451902_5941079751446800879_n.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700446-10437394_962428350451914_2085607994399513973_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700446-10437394_962428350451914_2085607994399513973_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700446-10437394_962428350451914_2085607994399513973_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700446-10437394_962428350451914_2085607994399513973_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2700446-10437394_962428350451914_2085607994399513973_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2700446-10437394_962428350451914_2085607994399513973_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2700446-10437394_962428350451914_2085607994399513973_n.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700445-10308591_962428737118542_7274249060307649283_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700445-10308591_962428737118542_7274249060307649283_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700445-10308591_962428737118542_7274249060307649283_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700445-10308591_962428737118542_7274249060307649283_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2700445-10308591_962428737118542_7274249060307649283_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2700445-10308591_962428737118542_7274249060307649283_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2700445-10308591_962428737118542_7274249060307649283_n.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700444-10306559_962428100451939_2701745750495573581_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700444-10306559_962428100451939_2701745750495573581_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700444-10306559_962428100451939_2701745750495573581_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700444-10306559_962428100451939_2701745750495573581_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2700444-10306559_962428100451939_2701745750495573581_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2700444-10306559_962428100451939_2701745750495573581_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2700444-10306559_962428100451939_2701745750495573581_n.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700443-1535379_962428870451862_5622708669786589486_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700443-1535379_962428870451862_5622708669786589486_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700443-1535379_962428870451862_5622708669786589486_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700443-1535379_962428870451862_5622708669786589486_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2700443-1535379_962428870451862_5622708669786589486_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2700443-1535379_962428870451862_5622708669786589486_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2700443-1535379_962428870451862_5622708669786589486_n.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700442-1375718_962428230451926_5865576251991784991_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700442-1375718_962428230451926_5865576251991784991_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700442-1375718_962428230451926_5865576251991784991_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700442-1375718_962428230451926_5865576251991784991_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2700442-1375718_962428230451926_5865576251991784991_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2700442-1375718_962428230451926_5865576251991784991_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2700442-1375718_962428230451926_5865576251991784991_n.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700441-535915_962428613785221_1131853158593474136_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700441-535915_962428613785221_1131853158593474136_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700441-535915_962428613785221_1131853158593474136_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700441-535915_962428613785221_1131853158593474136_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2700441-535915_962428613785221_1131853158593474136_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2700441-535915_962428613785221_1131853158593474136_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2700441-535915_962428613785221_1131853158593474136_n.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700440-9771_962429147118501_7913798318633227925_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700440-9771_962429147118501_7913798318633227925_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2700440-9771_962429147118501_7913798318633227925_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2700440-9771_962429147118501_7913798318633227925_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2700440-9771_962429147118501_7913798318633227925_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2700440-9771_962429147118501_7913798318633227925_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2700440-9771_962429147118501_7913798318633227925_n.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2693707-the-evil-within-en_3071615k.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2693707-the-evil-within-en_3071615k.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2693707-the-evil-within-en_3071615k.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2693707-the-evil-within-en_3071615k.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2693707-the-evil-within-en_3071615k.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2693707-the-evil-within-en_3071615k.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2693707-the-evil-within-en_3071615k.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2692500-10703534_945438778817538_814152539127751666_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2692500-10703534_945438778817538_814152539127751666_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2692500-10703534_945438778817538_814152539127751666_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2692500-10703534_945438778817538_814152539127751666_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2692500-10703534_945438778817538_814152539127751666_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2692500-10703534_945438778817538_814152539127751666_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2692500-10703534_945438778817538_814152539127751666_n.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2692499-10702152_945899198771496_2430056282292292952_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2692499-10702152_945899198771496_2430056282292292952_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2692499-10702152_945899198771496_2430056282292292952_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2692499-10702152_945899198771496_2430056282292292952_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2692499-10702152_945899198771496_2430056282292292952_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2692499-10702152_945899198771496_2430056282292292952_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2692499-10702152_945899198771496_2430056282292292952_n.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2692498-10690019_945791445448938_1476909566697727633_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2692498-10690019_945791445448938_1476909566697727633_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2692498-10690019_945791445448938_1476909566697727633_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2692498-10690019_945791445448938_1476909566697727633_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2692498-10690019_945791445448938_1476909566697727633_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2692498-10690019_945791445448938_1476909566697727633_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2692498-10690019_945791445448938_1476909566697727633_n.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2692497-10659323_945770668784349_2146559947607949083_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2692497-10659323_945770668784349_2146559947607949083_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2692497-10659323_945770668784349_2146559947607949083_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2692497-10659323_945770668784349_2146559947607949083_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2692497-10659323_945770668784349_2146559947607949083_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2692497-10659323_945770668784349_2146559947607949083_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2692497-10659323_945770668784349_2146559947607949083_n.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2692496-10653711_945714675456615_2450731821060451707_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2692496-10653711_945714675456615_2450731821060451707_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2692496-10653711_945714675456615_2450731821060451707_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2692496-10653711_945714675456615_2450731821060451707_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2692496-10653711_945714675456615_2450731821060451707_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2692496-10653711_945714675456615_2450731821060451707_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2692496-10653711_945714675456615_2450731821060451707_n.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2692495-10641104_945745505453532_3322120249620475468_n.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2692495-10641104_945745505453532_3322120249620475468_n.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2692495-10641104_945745505453532_3322120249620475468_n.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2692495-10641104_945745505453532_3322120249620475468_n.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2692495-10641104_945745505453532_3322120249620475468_n.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2692495-10641104_945745505453532_3322120249620475468_n.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2692495-10641104_945745505453532_3322120249620475468_n.jpg",
+      "tags": "All Images, Screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7281/",
+      "id": 7281,
+      "name": "Here's the Live Action Teaser for Shinji Mikami's The Evil Within",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-the-live-action-teaser-for-shinji-mikami-s-/2300-7281/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7952/",
+      "id": 7952,
+      "name": "Mikami's The Evil Within Shows Off Some Grotesque Gameplay",
+      "site_detail_url": "http://www.giantbomb.com/videos/mikami-s-the-evil-within-shows-off-some-grotesque-/2300-7952/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8004/",
+      "id": 8004,
+      "name": "Here's 12 Solid Minutes of The Evil Within in Action",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-12-solid-minutes-of-the-evil-within-in-acti/2300-8004/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8736/",
+      "id": 8736,
+      "name": "Here Are Some of the Horrors That Await You in The Evil Within",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-are-some-of-the-horrors-that-await-you-in-the/2300-8736/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9108/",
+      "id": 9108,
+      "name": "E3 2014: Shinji Mikami Successfully Freaks People Out with The Evil Within",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2014-shinji-mikami-successfully-freaks-people-o/2300-9108/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9355/",
+      "id": 9355,
+      "name": "Bombin' the A.M. With Alexa Ray Corriea: 08/18/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-alexa-ray-corriea-08-18-2014/2300-9355/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9387/",
+      "id": 9387,
+      "name": "The Evil Within Grabs Some Hollywood Voice Talent",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-evil-within-grabs-some-hollywood-voice-talent/2300-9387/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9461/",
+      "id": 9461,
+      "name": "The Evil Within Isn't Far Off Now",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-evil-within-isnt-far-off-now/2300-9461/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9512/",
+      "id": 9512,
+      "name": "The Evil Within Promises You Can Kill Things in Lots of Different Ways",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-evil-within-promises-you-can-kill-things-in-lo/2300-9512/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9554/",
+      "id": 9554,
+      "name": "Apparently The Evil Within Has Puzzles 'n Stealth, Too",
+      "site_detail_url": "http://www.giantbomb.com/videos/apparently-the-evil-within-has-puzzles-n-stealth-t/2300-9554/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9556/",
+      "id": 9556,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 10/10/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-10-10-2014/2300-9556/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9560/",
+      "id": 9560,
+      "name": "Quick Look: The Evil Within",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-the-evil-within/2300-9560/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9568/",
+      "id": 9568,
+      "name": "Spookin' With Scoops: 10/14/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/spookin-with-scoops-10-14-2014/2300-9568/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9580/",
+      "id": 9580,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 10/20/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-10-20-2014/2300-9580/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9598/",
+      "id": 9598,
+      "name": "Bombin' the A.M. With Cara Ellison: 10/27/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-cara-ellison-10-27-2014/2300-9598/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9629/",
+      "id": 9629,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 10/31/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-10-31-2014/2300-9629/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9645/",
+      "id": 9645,
+      "name": "Extra Life 2014 - Day 1: Part 10",
+      "site_detail_url": "http://www.giantbomb.com/videos/extra-life-2014-day-1-part-10/2300-9645/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9973/",
+      "id": 9973,
+      "name": "The Evil Within's 'The Assignment' DLC Coming March 10th",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-evil-within-s-the-assignment-dlc-coming-march-/2300-9973/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10127/",
+      "id": 10127,
+      "name": "The Evil Within's DLC Story Continues Today with 'The Consequence'",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-evil-within-s-dlc-story-continues-today-with-t/2300-10127/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10202/",
+      "id": 10202,
+      "name": "The Evil Within's Final DLC, 'The Executioner', Arrives Next Week",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-evil-within-s-final-dlc-the-executioner-arrive/2300-10202/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-11/",
+      "id": 11,
+      "name": "Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shooter&wikiTypeId=3060&wikiId=11&genre=11"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126978/",
+      "id": 126978,
+      "name": "PSYCHOBREAK",
+      "site_detail_url": "http://www.giantbomb.com/the-evil-within/3030-39750/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127364/",
+      "id": 127364,
+      "name": "The Evil Within",
+      "site_detail_url": "http://www.giantbomb.com/the-evil-within/3030-39750/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127365/",
+      "id": 127365,
+      "name": "The Evil Within",
+      "site_detail_url": "http://www.giantbomb.com/the-evil-within/3030-39750/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127366/",
+      "id": 127366,
+      "name": "The Evil Within",
+      "site_detail_url": "http://www.giantbomb.com/the-evil-within/3030-39750/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130195/",
+      "id": 130195,
+      "name": "The Evil Within",
+      "site_detail_url": "http://www.giantbomb.com/the-evil-within/3030-39750/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132966/",
+      "id": 132966,
+      "name": "The Evil Within",
+      "site_detail_url": "http://www.giantbomb.com/the-evil-within/3030-39750/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132967/",
+      "id": 132967,
+      "name": "The Evil Within",
+      "site_detail_url": "http://www.giantbomb.com/the-evil-within/3030-39750/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134793/",
+      "id": 134793,
+      "name": "The Evil Within",
+      "site_detail_url": "http://www.giantbomb.com/the-evil-within/3030-39750/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137405/",
+      "id": 137405,
+      "name": "The Evil Within",
+      "site_detail_url": "http://www.giantbomb.com/the-evil-within/3030-39750/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137406/",
+      "id": 137406,
+      "name": "The Evil Within",
+      "site_detail_url": "http://www.giantbomb.com/the-evil-within/3030-39750/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137407/",
+      "id": 137407,
+      "name": "The Evil Within",
+      "site_detail_url": "http://www.giantbomb.com/the-evil-within/3030-39750/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137408/",
+      "id": 137408,
+      "name": "The Evil Within",
+      "site_detail_url": "http://www.giantbomb.com/the-evil-within/3030-39750/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137409/",
+      "id": 137409,
+      "name": "The Evil Within",
+      "site_detail_url": "http://www.giantbomb.com/the-evil-within/3030-39750/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138161/",
+      "id": 138161,
+      "name": "The Evil Within",
+      "site_detail_url": "http://www.giantbomb.com/the-evil-within/3030-39750/releases/"
+    }
+  ]
+}

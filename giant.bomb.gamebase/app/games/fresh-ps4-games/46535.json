@@ -1,0 +1,155 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-46535/",
+  "deck": "The third game in the Unwritten Tales adventure game series.",
+  "id": 46535,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2730472-5847272216-94624.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2730472-5847272216-94624.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2730472-5847272216-94624.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2730472-5847272216-94624.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2730472-5847272216-94624.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2730472-5847272216-94624.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2730472-5847272216-94624.jpg"
+  },
+  "name": "The Book of Unwritten Tales 2",
+  "original_release_date": "2015-02-19 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/the-book-of-unwritten-tales-2/3030-46535/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2730472-5847272216-94624.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2730472-5847272216-94624.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2730472-5847272216-94624.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2730472-5847272216-94624.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2730472-5847272216-94624.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2730472-5847272216-94624.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2730472-5847272216-94624.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/10/103881/2642021-the+book+of+unwritten+tales+2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/10/103881/2642021-the+book+of+unwritten+tales+2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/10/103881/2642021-the+book+of+unwritten+tales+2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/10/103881/2642021-the+book+of+unwritten+tales+2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/10/103881/2642021-the+book+of+unwritten+tales+2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/10/103881/2642021-the+book+of+unwritten+tales+2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/10/103881/2642021-the+book+of+unwritten+tales+2.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10023/",
+      "id": 10023,
+      "name": "Quick Look: The Book of Unwritten Tales 2",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-the-book-of-unwritten-tales-2/2300-10023/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-4/",
+      "id": 4,
+      "name": "Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=adventure&wikiTypeId=3060&wikiId=4&genre=4"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143693/",
+      "id": 143693,
+      "name": "The Book of Unwritten Tales 2",
+      "site_detail_url": "http://www.giantbomb.com/the-book-of-unwritten-tales-2/3030-46535/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143694/",
+      "id": 143694,
+      "name": "The Book of Unwritten Tales 2",
+      "site_detail_url": "http://www.giantbomb.com/the-book-of-unwritten-tales-2/3030-46535/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143695/",
+      "id": 143695,
+      "name": "The Book of Unwritten Tales 2",
+      "site_detail_url": "http://www.giantbomb.com/the-book-of-unwritten-tales-2/3030-46535/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143696/",
+      "id": 143696,
+      "name": "The Book of Unwritten Tales 2",
+      "site_detail_url": "http://www.giantbomb.com/the-book-of-unwritten-tales-2/3030-46535/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143697/",
+      "id": 143697,
+      "name": "The Book of Unwritten Tales 2",
+      "site_detail_url": "http://www.giantbomb.com/the-book-of-unwritten-tales-2/3030-46535/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143698/",
+      "id": 143698,
+      "name": "The Book of Unwritten Tales 2",
+      "site_detail_url": "http://www.giantbomb.com/the-book-of-unwritten-tales-2/3030-46535/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143699/",
+      "id": 143699,
+      "name": "The Book of Unwritten Tales 2",
+      "site_detail_url": "http://www.giantbomb.com/the-book-of-unwritten-tales-2/3030-46535/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145828/",
+      "id": 145828,
+      "name": "The Book of Unwritten Tales 2",
+      "site_detail_url": "http://www.giantbomb.com/the-book-of-unwritten-tales-2/3030-46535/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145829/",
+      "id": 145829,
+      "name": "The Book of Unwritten Tales 2",
+      "site_detail_url": "http://www.giantbomb.com/the-book-of-unwritten-tales-2/3030-46535/releases/"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49317/",
+  "deck": "A 2.5D downloadable title for the Xbox One, PlayStation 4 and PC.",
+  "id": 49317,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2864874-7460806965-heade.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2864874-7460806965-heade.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2864874-7460806965-heade.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2864874-7460806965-heade.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2864874-7460806965-heade.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2864874-7460806965-heade.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2864874-7460806965-heade.jpg"
+  },
+  "name": "Assassin’s Creed Chronicles: Russia",
+  "original_release_date": "2016-02-09 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-chronicles-russia/3030-49317/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187788/2864874-7460806965-heade.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187788/2864874-7460806965-heade.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187788/2864874-7460806965-heade.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187788/2864874-7460806965-heade.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187788/2864874-7460806965-heade.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187788/2864874-7460806965-heade.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187788/2864874-7460806965-heade.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/24/245612/2749547-7961172728-pic.php",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/24/245612/2749547-7961172728-pic.php",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/24/245612/2749547-7961172728-pic.php",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/24/245612/2749547-7961172728-pic.php",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/24/245612/2749547-7961172728-pic.php",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/24/245612/2749547-7961172728-pic.php",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/24/245612/2749547-7961172728-pic.php",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145974/",
+      "id": 145974,
+      "name": "Assassin’s Creed Chronicles: Russia",
+      "site_detail_url": "http://www.giantbomb.com/assassin-s-creed-chronicles-russia/3030-49317/releases/"
+    }
+  ]
+}

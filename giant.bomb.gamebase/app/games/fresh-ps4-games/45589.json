@@ -1,0 +1,113 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-45589/",
+  "deck": "Tabletop arcade style racing game similar to Micro Machines.",
+  "id": 45589,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2607314-8253645330-heade.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2607314-8253645330-heade.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2607314-8253645330-heade.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2607314-8253645330-heade.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2607314-8253645330-heade.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2607314-8253645330-heade.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2607314-8253645330-heade.jpg"
+  },
+  "name": "Super Toy Cars",
+  "original_release_date": "2014-02-27 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/super-toy-cars/3030-45589/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/22/226469/2607314-8253645330-heade.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/22/226469/2607314-8253645330-heade.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/22/226469/2607314-8253645330-heade.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/22/226469/2607314-8253645330-heade.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/22/226469/2607314-8253645330-heade.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/22/226469/2607314-8253645330-heade.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/22/226469/2607314-8253645330-heade.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-6/",
+      "id": 6,
+      "name": "Driving/Racing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=drivingracing&wikiTypeId=3060&wikiId=6&genre=6"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136265/",
+      "id": 136265,
+      "name": "Super Toy Cars",
+      "site_detail_url": "http://www.giantbomb.com/super-toy-cars/3030-45589/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136266/",
+      "id": 136266,
+      "name": "Super Toy Cars (Early Access)",
+      "site_detail_url": "http://www.giantbomb.com/super-toy-cars/3030-45589/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136267/",
+      "id": 136267,
+      "name": "Super Toy Cars",
+      "site_detail_url": "http://www.giantbomb.com/super-toy-cars/3030-45589/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136268/",
+      "id": 136268,
+      "name": "Super Toy Cars",
+      "site_detail_url": "http://www.giantbomb.com/super-toy-cars/3030-45589/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136309/",
+      "id": 136309,
+      "name": "Super Toy Cars",
+      "site_detail_url": "http://www.giantbomb.com/super-toy-cars/3030-45589/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145568/",
+      "id": 145568,
+      "name": "Super Toy Cars",
+      "site_detail_url": "http://www.giantbomb.com/super-toy-cars/3030-45589/releases/"
+    }
+  ]
+}

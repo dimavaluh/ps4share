@@ -1,0 +1,86 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-51112/",
+  "deck": "A multiplayer twin-stick shooter from Armature Studio",
+  "id": 51112,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2788223-screen%20shot%202015-10-06%20at%2010.22.58%20am.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2788223-screen%20shot%202015-10-06%20at%2010.22.58%20am.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2788223-screen%20shot%202015-10-06%20at%2010.22.58%20am.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2788223-screen%20shot%202015-10-06%20at%2010.22.58%20am.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2788223-screen%20shot%202015-10-06%20at%2010.22.58%20am.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2788223-screen%20shot%202015-10-06%20at%2010.22.58%20am.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2788223-screen%20shot%202015-10-06%20at%2010.22.58%20am.png"
+  },
+  "name": "Dead Star",
+  "original_release_date": "2016-04-05 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/dead-star/3030-51112/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/2788223-screen+shot+2015-10-06+at+10.22.58+am.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/2788223-screen+shot+2015-10-06+at+10.22.58+am.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/2788223-screen+shot+2015-10-06+at+10.22.58+am.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/2788223-screen+shot+2015-10-06+at+10.22.58+am.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/2788223-screen+shot+2015-10-06+at+10.22.58+am.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/26/2788223-screen+shot+2015-10-06+at+10.22.58+am.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/2788223-screen+shot+2015-10-06+at+10.22.58+am.png",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-31/",
+      "id": 31,
+      "name": "Dual-Joystick Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=dual-joystick-shooter&wikiTypeId=3060&wikiId=31&genre=31"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-50/",
+      "id": 50,
+      "name": "MOBA",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=moba&wikiTypeId=3060&wikiId=50&genre=50"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147106/",
+      "id": 147106,
+      "name": "Dead Star",
+      "site_detail_url": "http://www.giantbomb.com/dead-star/3030-51112/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147107/",
+      "id": 147107,
+      "name": "Dead Star",
+      "site_detail_url": "http://www.giantbomb.com/dead-star/3030-51112/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147108/",
+      "id": 147108,
+      "name": "Dead Star",
+      "site_detail_url": "http://www.giantbomb.com/dead-star/3030-51112/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147109/",
+      "id": 147109,
+      "name": "Dead Star",
+      "site_detail_url": "http://www.giantbomb.com/dead-star/3030-51112/releases/"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49976/",
+  "deck": "From Rebellion with Morpheus support on PS4.",
+  "id": 49976,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2758925-battlezone_full_logo%26background.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2758925-battlezone_full_logo%26background.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2758925-battlezone_full_logo%26background.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2758925-battlezone_full_logo%26background.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2758925-battlezone_full_logo%26background.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2758925-battlezone_full_logo%26background.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2758925-battlezone_full_logo%26background.png"
+  },
+  "name": "Battlezone",
+  "original_release_date": "2016-04-18 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/battlezone/3030-49976/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781074-dsc09241.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781074-dsc09241.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2781074-dsc09241.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2781074-dsc09241.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2781074-dsc09241.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2781074-dsc09241.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2781074-dsc09241.jpg",
+      "tags": "All Images, Sony, PAX Prime 2015 Booth, PAX Prime 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2758925-battlezone_full_logo%26background.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2758925-battlezone_full_logo%26background.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2758925-battlezone_full_logo%26background.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2758925-battlezone_full_logo%26background.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2758925-battlezone_full_logo%26background.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2758925-battlezone_full_logo%26background.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2758925-battlezone_full_logo%26background.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10317/",
+      "id": 10317,
+      "name": "E3 2015: Rebellion is Bringing Back Battlezone for VR",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2015-rebellion-is-bringing-back-battlezone-for-/2300-10317/"
+    }
+  ]
+}

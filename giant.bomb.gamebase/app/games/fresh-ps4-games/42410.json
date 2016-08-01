@@ -1,0 +1,746 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-42410/",
+  "deck": "The 2014 installment in EA Canada's soccer simulation franchise. This was the first in the franchise to bridge the 360/PS3 to Xbox One/PS4 gap.",
+  "id": 42410,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2560199-box_fifa14.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2560199-box_fifa14.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2560199-box_fifa14.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2560199-box_fifa14.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2560199-box_fifa14.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2560199-box_fifa14.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2560199-box_fifa14.png"
+  },
+  "name": "FIFA 14",
+  "original_release_date": "2013-09-24 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-18/",
+      "id": 18,
+      "name": "PlayStation Portable",
+      "site_detail_url": "http://www.giantbomb.com/playstation-portable/3045-18/",
+      "abbreviation": "PSP"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-19/",
+      "id": 19,
+      "name": "PlayStation 2",
+      "site_detail_url": "http://www.giantbomb.com/playstation-2/3045-19/",
+      "abbreviation": "PS2"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-36/",
+      "id": 36,
+      "name": "Wii",
+      "site_detail_url": "http://www.giantbomb.com/wii/3045-36/",
+      "abbreviation": "Wii"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+      "id": 86,
+      "name": "Xbox 360 Games Store",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+      "abbreviation": "XBGS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-96/",
+      "id": 96,
+      "name": "iPhone",
+      "site_detail_url": "http://www.giantbomb.com/iphone/3045-96/",
+      "abbreviation": "IPHN"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-116/",
+      "id": 116,
+      "name": "PlayStation Network (PSP)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-psp/3045-116/",
+      "abbreviation": "PSPN"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-117/",
+      "id": 117,
+      "name": "Nintendo 3DS",
+      "site_detail_url": "http://www.giantbomb.com/nintendo-3ds/3045-117/",
+      "abbreviation": "3DS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-123/",
+      "id": 123,
+      "name": "Android",
+      "site_detail_url": "http://www.giantbomb.com/android/3045-123/",
+      "abbreviation": "ANDR"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-124/",
+      "id": 124,
+      "name": "Windows Phone",
+      "site_detail_url": "http://www.giantbomb.com/windows-phone/3045-124/",
+      "abbreviation": "WP"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2686051-ps4+eu+disc.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2686051-ps4+eu+disc.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2686051-ps4+eu+disc.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2686051-ps4+eu+disc.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2686051-ps4+eu+disc.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2686051-ps4+eu+disc.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2686051-ps4+eu+disc.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2686050-fifa+14+cover+nordic.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2686050-fifa+14+cover+nordic.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2686050-fifa+14+cover+nordic.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2686050-fifa+14+cover+nordic.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2686050-fifa+14+cover+nordic.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2686050-fifa+14+cover+nordic.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2686050-fifa+14+cover+nordic.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2686049-fifa+14+back+nordic.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2686049-fifa+14+back+nordic.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2686049-fifa+14+back+nordic.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2686049-fifa+14+back+nordic.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2686049-fifa+14+back+nordic.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2686049-fifa+14+back+nordic.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2686049-fifa+14+back+nordic.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627446-fifa+14+xxx.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627446-fifa+14+xxx.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627446-fifa+14+xxx.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627446-fifa+14+xxx.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2627446-fifa+14+xxx.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2627446-fifa+14+xxx.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2627446-fifa+14+xxx.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627445-fifa+14+match+day+live+1-0+vff+v+fcn%2C+1st+half_1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627445-fifa+14+match+day+live+1-0+vff+v+fcn%2C+1st+half_1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627445-fifa+14+match+day+live+1-0+vff+v+fcn%2C+1st+half_1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627445-fifa+14+match+day+live+1-0+vff+v+fcn%2C+1st+half_1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2627445-fifa+14+match+day+live+1-0+vff+v+fcn%2C+1st+half_1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2627445-fifa+14+match+day+live+1-0+vff+v+fcn%2C+1st+half_1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2627445-fifa+14+match+day+live+1-0+vff+v+fcn%2C+1st+half_1.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627444-fifa+14+match+day+live+1-0+psg+v+soc%2C+1st+half.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627444-fifa+14+match+day+live+1-0+psg+v+soc%2C+1st+half.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627444-fifa+14+match+day+live+1-0+psg+v+soc%2C+1st+half.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627444-fifa+14+match+day+live+1-0+psg+v+soc%2C+1st+half.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2627444-fifa+14+match+day+live+1-0+psg+v+soc%2C+1st+half.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2627444-fifa+14+match+day+live+1-0+psg+v+soc%2C+1st+half.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2627444-fifa+14+match+day+live+1-0+psg+v+soc%2C+1st+half.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627443-fifa+14+match+day+live+1-0+den+v+nir%2C+2nd+half.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627443-fifa+14+match+day+live+1-0+den+v+nir%2C+2nd+half.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627443-fifa+14+match+day+live+1-0+den+v+nir%2C+2nd+half.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627443-fifa+14+match+day+live+1-0+den+v+nir%2C+2nd+half.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2627443-fifa+14+match+day+live+1-0+den+v+nir%2C+2nd+half.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2627443-fifa+14+match+day+live+1-0+den+v+nir%2C+2nd+half.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2627443-fifa+14+match+day+live+1-0+den+v+nir%2C+2nd+half.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627442-fifa+14+match+day+live+0-0+rie+v+wrn%2C+1st+half.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627442-fifa+14+match+day+live+0-0+rie+v+wrn%2C+1st+half.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627442-fifa+14+match+day+live+0-0+rie+v+wrn%2C+1st+half.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627442-fifa+14+match+day+live+0-0+rie+v+wrn%2C+1st+half.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2627442-fifa+14+match+day+live+0-0+rie+v+wrn%2C+1st+half.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2627442-fifa+14+match+day+live+0-0+rie+v+wrn%2C+1st+half.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2627442-fifa+14+match+day+live+0-0+rie+v+wrn%2C+1st+half.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627441-fifa+14+match+day+live+0-0+mci+v+mun%2C+2nd+half_1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627441-fifa+14+match+day+live+0-0+mci+v+mun%2C+2nd+half_1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627441-fifa+14+match+day+live+0-0+mci+v+mun%2C+2nd+half_1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627441-fifa+14+match+day+live+0-0+mci+v+mun%2C+2nd+half_1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2627441-fifa+14+match+day+live+0-0+mci+v+mun%2C+2nd+half_1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2627441-fifa+14+match+day+live+0-0+mci+v+mun%2C+2nd+half_1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2627441-fifa+14+match+day+live+0-0+mci+v+mun%2C+2nd+half_1.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627440-fifa+14+match+day+live+0-0+hsv+v+bmg%2C+1st+half.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627440-fifa+14+match+day+live+0-0+hsv+v+bmg%2C+1st+half.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627440-fifa+14+match+day+live+0-0+hsv+v+bmg%2C+1st+half.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627440-fifa+14+match+day+live+0-0+hsv+v+bmg%2C+1st+half.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2627440-fifa+14+match+day+live+0-0+hsv+v+bmg%2C+1st+half.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2627440-fifa+14+match+day+live+0-0+hsv+v+bmg%2C+1st+half.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2627440-fifa+14+match+day+live+0-0+hsv+v+bmg%2C+1st+half.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627439-fifa+14+match+day+live+0-0+hbk+v+ulf%2C+1st+half.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627439-fifa+14+match+day+live+0-0+hbk+v+ulf%2C+1st+half.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627439-fifa+14+match+day+live+0-0+hbk+v+ulf%2C+1st+half.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627439-fifa+14+match+day+live+0-0+hbk+v+ulf%2C+1st+half.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2627439-fifa+14+match+day+live+0-0+hbk+v+ulf%2C+1st+half.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2627439-fifa+14+match+day+live+0-0+hbk+v+ulf%2C+1st+half.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2627439-fifa+14+match+day+live+0-0+hbk+v+ulf%2C+1st+half.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627438-fifa+14+match+day+live+0-0+fck+v+se%2C+1st+half.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627438-fifa+14+match+day+live+0-0+fck+v+se%2C+1st+half.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627438-fifa+14+match+day+live+0-0+fck+v+se%2C+1st+half.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627438-fifa+14+match+day+live+0-0+fck+v+se%2C+1st+half.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2627438-fifa+14+match+day+live+0-0+fck+v+se%2C+1st+half.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2627438-fifa+14+match+day+live+0-0+fck+v+se%2C+1st+half.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2627438-fifa+14+match+day+live+0-0+fck+v+se%2C+1st+half.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627437-fifa+14+match+day+live+0-0+dc+v+ny%2C+1st+half.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627437-fifa+14+match+day+live+0-0+dc+v+ny%2C+1st+half.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627437-fifa+14+match+day+live+0-0+dc+v+ny%2C+1st+half.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627437-fifa+14+match+day+live+0-0+dc+v+ny%2C+1st+half.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2627437-fifa+14+match+day+live+0-0+dc+v+ny%2C+1st+half.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2627437-fifa+14+match+day+live+0-0+dc+v+ny%2C+1st+half.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2627437-fifa+14+match+day+live+0-0+dc+v+ny%2C+1st+half.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627436-fifa+14+match+day+live+0-0+con+v+pal%2C+1st+half.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627436-fifa+14+match+day+live+0-0+con+v+pal%2C+1st+half.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627436-fifa+14+match+day+live+0-0+con+v+pal%2C+1st+half.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627436-fifa+14+match+day+live+0-0+con+v+pal%2C+1st+half.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2627436-fifa+14+match+day+live+0-0+con+v+pal%2C+1st+half.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2627436-fifa+14+match+day+live+0-0+con+v+pal%2C+1st+half.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2627436-fifa+14+match+day+live+0-0+con+v+pal%2C+1st+half.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627435-fifa+14+match+day+live+0-0+bkh+v+aff%2C+1st+half_1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627435-fifa+14+match+day+live+0-0+bkh+v+aff%2C+1st+half_1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627435-fifa+14+match+day+live+0-0+bkh+v+aff%2C+1st+half_1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627435-fifa+14+match+day+live+0-0+bkh+v+aff%2C+1st+half_1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2627435-fifa+14+match+day+live+0-0+bkh+v+aff%2C+1st+half_1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2627435-fifa+14+match+day+live+0-0+bkh+v+aff%2C+1st+half_1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2627435-fifa+14+match+day+live+0-0+bkh+v+aff%2C+1st+half_1.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627434-fifa+14+match+day+live+0-0+bar+v+csk%2C+1st+half.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627434-fifa+14+match+day+live+0-0+bar+v+csk%2C+1st+half.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627434-fifa+14+match+day+live+0-0+bar+v+csk%2C+1st+half.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627434-fifa+14+match+day+live+0-0+bar+v+csk%2C+1st+half.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2627434-fifa+14+match+day+live+0-0+bar+v+csk%2C+1st+half.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2627434-fifa+14+match+day+live+0-0+bar+v+csk%2C+1st+half.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2627434-fifa+14+match+day+live+0-0+bar+v+csk%2C+1st+half.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627433-fifa+14+match+day+live+0-0+aja+v+rjc%2C+1st+half.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627433-fifa+14+match+day+live+0-0+aja+v+rjc%2C+1st+half.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627433-fifa+14+match+day+live+0-0+aja+v+rjc%2C+1st+half.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627433-fifa+14+match+day+live+0-0+aja+v+rjc%2C+1st+half.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2627433-fifa+14+match+day+live+0-0+aja+v+rjc%2C+1st+half.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2627433-fifa+14+match+day+live+0-0+aja+v+rjc%2C+1st+half.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2627433-fifa+14+match+day+live+0-0+aja+v+rjc%2C+1st+half.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627432-fifa+14+kick+off+%28in+menus%29.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627432-fifa+14+kick+off+%28in+menus%29.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627432-fifa+14+kick+off+%28in+menus%29.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627432-fifa+14+kick+off+%28in+menus%29.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2627432-fifa+14+kick+off+%28in+menus%29.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2627432-fifa+14+kick+off+%28in+menus%29.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2627432-fifa+14+kick+off+%28in+menus%29.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627431-fifa+14+intros.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627431-fifa+14+intros.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2627431-fifa+14+intros.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2627431-fifa+14+intros.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2627431-fifa+14+intros.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2627431-fifa+14+intros.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2627431-fifa+14+intros.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2621804-1992059260-4dcb3fd0-8940-40e4-9e8f-bd255a372042",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2621804-1992059260-4dcb3fd0-8940-40e4-9e8f-bd255a372042",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2621804-1992059260-4dcb3fd0-8940-40e4-9e8f-bd255a372042",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2621804-1992059260-4dcb3fd0-8940-40e4-9e8f-bd255a372042",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2621804-1992059260-4dcb3fd0-8940-40e4-9e8f-bd255a372042",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2621804-1992059260-4dcb3fd0-8940-40e4-9e8f-bd255a372042",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2621804-1992059260-4dcb3fd0-8940-40e4-9e8f-bd255a372042",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/4331/2598366-fifa14ps4.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/4331/2598366-fifa14ps4.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/4331/2598366-fifa14ps4.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/4331/2598366-fifa14ps4.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/4331/2598366-fifa14ps4.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/4331/2598366-fifa14ps4.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/4331/2598366-fifa14ps4.jpg",
+      "tags": "All Images, Screenshots, XONE/PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2561318-img01_0003.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2561318-img01_0003.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2561318-img01_0003.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2561318-img01_0003.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2561318-img01_0003.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2561318-img01_0003.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2561318-img01_0003.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2561317-fifa14+vita+cover.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2561317-fifa14+vita+cover.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2561317-fifa14+vita+cover.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2561317-fifa14+vita+cover.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2561317-fifa14+vita+cover.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2561317-fifa14+vita+cover.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2561317-fifa14+vita+cover.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2561316-fifa14+vita+back.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2561316-fifa14+vita+back.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2561316-fifa14+vita+back.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2561316-fifa14+vita+back.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2561316-fifa14+vita+back.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2561316-fifa14+vita+back.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2561316-fifa14+vita+back.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2560199-box_fifa14.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2560199-box_fifa14.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2560199-box_fifa14.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2560199-box_fifa14.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2560199-box_fifa14.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2560199-box_fifa14.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2560199-box_fifa14.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2558914-fifa+14+ps2+pal+disc.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2558914-fifa+14+ps2+pal+disc.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2558914-fifa+14+ps2+pal+disc.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2558914-fifa+14+ps2+pal+disc.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2558914-fifa+14+ps2+pal+disc.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2558914-fifa+14+ps2+pal+disc.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2558914-fifa+14+ps2+pal+disc.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2558913-fifa+14+ps2+pal+cover.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2558913-fifa+14+ps2+pal+cover.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2558913-fifa+14+ps2+pal+cover.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2558913-fifa+14+ps2+pal+cover.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2558913-fifa+14+ps2+pal+cover.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2558913-fifa+14+ps2+pal+cover.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2558913-fifa+14+ps2+pal+cover.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2558912-fifa+14+ps2+pal+back.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2558912-fifa+14+ps2+pal+back.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2558912-fifa+14+ps2+pal+back.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2558912-fifa+14+ps2+pal+back.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2558912-fifa+14+ps2+pal+back.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2558912-fifa+14+ps2+pal+back.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2558912-fifa+14+ps2+pal+back.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2552331-2013-09-28+12.42.49.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2552331-2013-09-28+12.42.49.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2552331-2013-09-28+12.42.49.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2552331-2013-09-28+12.42.49.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2552331-2013-09-28+12.42.49.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2552331-2013-09-28+12.42.49.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2552331-2013-09-28+12.42.49.png",
+      "tags": "All Images, Screenshots, Android Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2552330-2013-09-28+12.40.40.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2552330-2013-09-28+12.40.40.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2552330-2013-09-28+12.40.40.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2552330-2013-09-28+12.40.40.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2552330-2013-09-28+12.40.40.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2552330-2013-09-28+12.40.40.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2552330-2013-09-28+12.40.40.png",
+      "tags": "All Images, Screenshots, Android Screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7577/",
+      "id": 7577,
+      "name": "E3 2013: Donde Esta El Futbol? Oh...There It Is...It's FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-donde-esta-el-futbol-oh-there-it-is-it-s-f/2300-7577/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8000/",
+      "id": 8000,
+      "name": "Quick Look: FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-fifa-14/2300-8000/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8238/",
+      "id": 8238,
+      "name": "PlayStation 4 Launchstravaganza: Part 04",
+      "site_detail_url": "http://www.giantbomb.com/videos/playstation-4-launchstravaganza-part-04/2300-8238/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9210/",
+      "id": 9210,
+      "name": "Teach Me FIFA, Danny",
+      "site_detail_url": "http://www.giantbomb.com/videos/teach-me-fifa-danny/2300-9210/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-3/",
+      "id": 3,
+      "name": "Sports",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=sports&wikiTypeId=3060&wikiId=3&genre=3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-40/",
+      "id": 40,
+      "name": "Soccer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=soccer&wikiTypeId=3060&wikiId=40&genre=40"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128113/",
+      "id": 128113,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128114/",
+      "id": 128114,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128115/",
+      "id": 128115,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128116/",
+      "id": 128116,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128117/",
+      "id": 128117,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128118/",
+      "id": 128118,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128119/",
+      "id": 128119,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128120/",
+      "id": 128120,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128121/",
+      "id": 128121,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128122/",
+      "id": 128122,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128123/",
+      "id": 128123,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128124/",
+      "id": 128124,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128125/",
+      "id": 128125,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128126/",
+      "id": 128126,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128127/",
+      "id": 128127,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128128/",
+      "id": 128128,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128129/",
+      "id": 128129,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128130/",
+      "id": 128130,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128131/",
+      "id": 128131,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128132/",
+      "id": 128132,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128133/",
+      "id": 128133,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128134/",
+      "id": 128134,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128135/",
+      "id": 128135,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128136/",
+      "id": 128136,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128137/",
+      "id": 128137,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128138/",
+      "id": 128138,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128139/",
+      "id": 128139,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128140/",
+      "id": 128140,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128141/",
+      "id": 128141,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128142/",
+      "id": 128142,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128143/",
+      "id": 128143,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128144/",
+      "id": 128144,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128145/",
+      "id": 128145,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128146/",
+      "id": 128146,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128147/",
+      "id": 128147,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128148/",
+      "id": 128148,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128149/",
+      "id": 128149,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128150/",
+      "id": 128150,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128151/",
+      "id": 128151,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128152/",
+      "id": 128152,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130217/",
+      "id": 130217,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130218/",
+      "id": 130218,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130278/",
+      "id": 130278,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130284/",
+      "id": 130284,
+      "name": "FIFA 14",
+      "site_detail_url": "http://www.giantbomb.com/fifa-14/3030-42410/releases/"
+    }
+  ]
+}

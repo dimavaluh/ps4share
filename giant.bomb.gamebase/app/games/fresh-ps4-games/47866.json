@@ -1,0 +1,122 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-47866/",
+  "deck": "Mystery dungeon style roguelike set in the Touhou universe.",
+  "id": 47866,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2859422-tgw_teaser_b_0603.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2859422-tgw_teaser_b_0603.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2859422-tgw_teaser_b_0603.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2859422-tgw_teaser_b_0603.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2859422-tgw_teaser_b_0603.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2859422-tgw_teaser_b_0603.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2859422-tgw_teaser_b_0603.jpg"
+  },
+  "name": "Touhou Genso Wanderer",
+  "original_release_date": "2014-01-31 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/touhou-genso-wanderer/3030-47866/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/217562/2859422-tgw_teaser_b_0603.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/21/217562/2859422-tgw_teaser_b_0603.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/217562/2859422-tgw_teaser_b_0603.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/21/217562/2859422-tgw_teaser_b_0603.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/21/217562/2859422-tgw_teaser_b_0603.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/21/217562/2859422-tgw_teaser_b_0603.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/217562/2859422-tgw_teaser_b_0603.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2684263-5011815446-mainV.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2684263-5011815446-mainV.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2684263-5011815446-mainV.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2684263-5011815446-mainV.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2684263-5011815446-mainV.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2684263-5011815446-mainV.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2684263-5011815446-mainV.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137731/",
+      "id": 137731,
+      "name": "Fushigi no Gensokyo 3",
+      "site_detail_url": "http://www.giantbomb.com/touhou-genso-wanderer/3030-47866/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141155/",
+      "id": 141155,
+      "name": "Fushigi no Gensokyo: The Tower of Desire",
+      "site_detail_url": "http://www.giantbomb.com/touhou-genso-wanderer/3030-47866/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148028/",
+      "id": 148028,
+      "name": "Touhou Genso Wanderer",
+      "site_detail_url": "http://www.giantbomb.com/touhou-genso-wanderer/3030-47866/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148029/",
+      "id": 148029,
+      "name": "Touhou Genso Wanderer",
+      "site_detail_url": "http://www.giantbomb.com/touhou-genso-wanderer/3030-47866/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148030/",
+      "id": 148030,
+      "name": "Touhou Genso Wanderer",
+      "site_detail_url": "http://www.giantbomb.com/touhou-genso-wanderer/3030-47866/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148031/",
+      "id": 148031,
+      "name": "Touhou Genso Wanderer",
+      "site_detail_url": "http://www.giantbomb.com/touhou-genso-wanderer/3030-47866/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148032/",
+      "id": 148032,
+      "name": "Touhou Genso Wanderer",
+      "site_detail_url": "http://www.giantbomb.com/touhou-genso-wanderer/3030-47866/releases/"
+    }
+  ]
+}

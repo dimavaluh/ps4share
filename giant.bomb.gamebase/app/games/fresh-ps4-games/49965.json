@@ -1,0 +1,130 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49965/",
+  "deck": "A puzzle-platformer featuring a yarn cat, developed by Coldwood Interactive and published by Electronic Arts.",
+  "id": 49965,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2758758-2360083275-14334.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2758758-2360083275-14334.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2758758-2360083275-14334.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2758758-2360083275-14334.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2758758-2360083275-14334.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2758758-2360083275-14334.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2758758-2360083275-14334.jpg"
+  },
+  "name": "Unravel",
+  "original_release_date": "2016-02-09 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/unravel/3030-49965/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/81005/2758758-2360083275-14334.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/81005/2758758-2360083275-14334.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/81005/2758758-2360083275-14334.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/81005/2758758-2360083275-14334.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/81005/2758758-2360083275-14334.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/81005/2758758-2360083275-14334.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/81005/2758758-2360083275-14334.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10316/",
+      "id": 10316,
+      "name": "E3 2015: We Talk Over the EA Press Conference",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2015-we-talk-over-the-ea-press-conference/2300-10316/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10334/",
+      "id": 10334,
+      "name": "E3 2015: Unravel is the Most Adorable Thing You'll See at E3",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2015-unravel-is-the-most-adorable-thing-you-ll-/2300-10334/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10578/",
+      "id": 10578,
+      "name": "Brighten Your Day by Watching a Little Bit of Unravel Gameplay",
+      "site_detail_url": "http://www.giantbomb.com/videos/brighten-your-day-by-watching-a-little-bit-of-unra/2300-10578/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10984/",
+      "id": 10984,
+      "name": "Quick Look: Unravel",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-unravel/2300-10984/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-18/",
+      "id": 18,
+      "name": "Puzzle",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=puzzle&wikiTypeId=3060&wikiId=18&genre=18"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145742/",
+      "id": 145742,
+      "name": "Unravel",
+      "site_detail_url": "http://www.giantbomb.com/unravel/3030-49965/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145743/",
+      "id": 145743,
+      "name": "Unravel",
+      "site_detail_url": "http://www.giantbomb.com/unravel/3030-49965/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145744/",
+      "id": 145744,
+      "name": "Unravel",
+      "site_detail_url": "http://www.giantbomb.com/unravel/3030-49965/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145745/",
+      "id": 145745,
+      "name": "Unravel",
+      "site_detail_url": "http://www.giantbomb.com/unravel/3030-49965/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145746/",
+      "id": 145746,
+      "name": "Unravel",
+      "site_detail_url": "http://www.giantbomb.com/unravel/3030-49965/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145747/",
+      "id": 145747,
+      "name": "Unravel",
+      "site_detail_url": "http://www.giantbomb.com/unravel/3030-49965/releases/"
+    }
+  ]
+}

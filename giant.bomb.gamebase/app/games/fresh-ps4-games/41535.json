@@ -1,0 +1,225 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-41535/",
+  "deck": "Daylight is a survival horror game powered by Epic Games' Unreal Engine 4.",
+  "id": 41535,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2627894-header.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2627894-header.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2627894-header.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2627894-header.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2627894-header.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2627894-header.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2627894-header.jpg"
+  },
+  "name": "Daylight",
+  "original_release_date": "2014-04-29 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/daylight/3030-41535/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2627894-header.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2627894-header.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2627894-header.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2627894-header.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2627894-header.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2627894-header.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2627894-header.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2603270-2258331248-Scree.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2603270-2258331248-Scree.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2603270-2258331248-Scree.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2603270-2258331248-Scree.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2603270-2258331248-Scree.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2603270-2258331248-Scree.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2603270-2258331248-Scree.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2603269-5469939491-Scree.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2603269-5469939491-Scree.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2603269-5469939491-Scree.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2603269-5469939491-Scree.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2603269-5469939491-Scree.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2603269-5469939491-Scree.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2603269-5469939491-Scree.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2603268-0741556479-Scree.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2603268-0741556479-Scree.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2603268-0741556479-Scree.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2603268-0741556479-Scree.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2603268-0741556479-Scree.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2603268-0741556479-Scree.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2603268-0741556479-Scree.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2603267-8190486303-Scree.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2603267-8190486303-Scree.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2603267-8190486303-Scree.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2603267-8190486303-Scree.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2603267-8190486303-Scree.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2603267-8190486303-Scree.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2603267-8190486303-Scree.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2603266-6740870413-Scree.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2603266-6740870413-Scree.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2603266-6740870413-Scree.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2603266-6740870413-Scree.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2603266-6740870413-Scree.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2603266-6740870413-Scree.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2603266-6740870413-Scree.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2603265-5315176585-Scree.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2603265-5315176585-Scree.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2603265-5315176585-Scree.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2603265-5315176585-Scree.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2603265-5315176585-Scree.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2603265-5315176585-Scree.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2603265-5315176585-Scree.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2432620-daylight_014.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2432620-daylight_014.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2432620-daylight_014.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2432620-daylight_014.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2432620-daylight_014.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2432620-daylight_014.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2432620-daylight_014.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2432619-daylight_009.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2432619-daylight_009.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2432619-daylight_009.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2432619-daylight_009.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2432619-daylight_009.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2432619-daylight_009.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2432619-daylight_009.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2432618-daylight_012.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2432618-daylight_012.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2432618-daylight_012.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2432618-daylight_012.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2432618-daylight_012.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2432618-daylight_012.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2432618-daylight_012.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2432617-daylight_015.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2432617-daylight_015.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2432617-daylight_015.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2432617-daylight_015.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2432617-daylight_015.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2432617-daylight_015.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2432617-daylight_015.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2429975-daylight011jpg_756db5.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2429975-daylight011jpg_756db5.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2429975-daylight011jpg_756db5.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2429975-daylight011jpg_756db5.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2429975-daylight011jpg_756db5.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2429975-daylight011jpg_756db5.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2429975-daylight011jpg_756db5.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2429949-daylightwhitetrns1jpg_9f1140.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2429949-daylightwhitetrns1jpg_9f1140.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56742/2429949-daylightwhitetrns1jpg_9f1140.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56742/2429949-daylightwhitetrns1jpg_9f1140.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56742/2429949-daylightwhitetrns1jpg_9f1140.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56742/2429949-daylightwhitetrns1jpg_9f1140.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56742/2429949-daylightwhitetrns1jpg_9f1140.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8342/",
+      "id": 8342,
+      "name": "Daylight's Horror Comes From Its Randomness",
+      "site_detail_url": "http://www.giantbomb.com/videos/daylight-s-horror-comes-from-its-randomness/2300-8342/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8797/",
+      "id": 8797,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 04/25/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-04-25-2014/2300-8797/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8804/",
+      "id": 8804,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 04/28/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-04-28-2014/2300-8804/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8812/",
+      "id": 8812,
+      "name": "Quick Look Solo: Daylight",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-solo-daylight/2300-8812/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-4/",
+      "id": 4,
+      "name": "Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=adventure&wikiTypeId=3060&wikiId=4&genre=4"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133103/",
+      "id": 133103,
+      "name": "Daylight",
+      "site_detail_url": "http://www.giantbomb.com/daylight/3030-41535/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133104/",
+      "id": 133104,
+      "name": "Daylight",
+      "site_detail_url": "http://www.giantbomb.com/daylight/3030-41535/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133105/",
+      "id": 133105,
+      "name": "Daylight",
+      "site_detail_url": "http://www.giantbomb.com/daylight/3030-41535/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133106/",
+      "id": 133106,
+      "name": "Daylight",
+      "site_detail_url": "http://www.giantbomb.com/daylight/3030-41535/releases/"
+    }
+  ]
+}

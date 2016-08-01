@@ -1,0 +1,77 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-50456/",
+  "deck": "Broken Bots is a team based top-down shooter in which players battle with malfunctioning robots. Players compete against each other in futuristic environments and various game modes such as 'King of the Hill' or 'Capture the Flag'.",
+  "id": 50456,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2769269-brokenbots-capsuleimage-xl.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2769269-brokenbots-capsuleimage-xl.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2769269-brokenbots-capsuleimage-xl.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2769269-brokenbots-capsuleimage-xl.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2769269-brokenbots-capsuleimage-xl.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2769269-brokenbots-capsuleimage-xl.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2769269-brokenbots-capsuleimage-xl.jpg"
+  },
+  "name": "Broken Bots",
+  "original_release_date": "2016-06-07 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/broken-bots/3030-50456/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847737-dsc00661.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847737-dsc00661.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847737-dsc00661.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847737-dsc00661.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2847737-dsc00661.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2847737-dsc00661.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2847737-dsc00661.jpg",
+      "tags": "All Images, Whippering, PAX East 2016, PAX East 2016 Booth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2846891-dsc00662.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2846891-dsc00662.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2846891-dsc00662.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2846891-dsc00662.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2846891-dsc00662.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2846891-dsc00662.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2846891-dsc00662.jpg",
+      "tags": "All Images, Bunnycopter, PAX East 2016 Booth, PAX East 2016"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-11/",
+      "id": 11,
+      "name": "Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shooter&wikiTypeId=3060&wikiId=11&genre=11"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-31/",
+      "id": 31,
+      "name": "Dual-Joystick Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=dual-joystick-shooter&wikiTypeId=3060&wikiId=31&genre=31"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147969/",
+      "id": 147969,
+      "name": "Broken Bots",
+      "site_detail_url": "http://www.giantbomb.com/broken-bots/3030-50456/releases/"
+    }
+  ]
+}

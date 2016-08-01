@@ -1,0 +1,598 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-34213/",
+  "deck": "A prequel to the Fables comic book series, The Wolf Among Us tells a tale of the reformed Big Bad Wolf of childhood folklore (who is the sheriff of a secluded community of fables in 20th century New York City) as he investigates a series of grisly murders.",
+  "id": 34213,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2586376-box_twau.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2586376-box_twau.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2586376-box_twau.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2586376-box_twau.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2586376-box_twau.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2586376-box_twau.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2586376-box_twau.png"
+  },
+  "name": "The Wolf Among Us",
+  "original_release_date": "2013-10-11 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+      "id": 86,
+      "name": "Xbox 360 Games Store",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+      "abbreviation": "XBGS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-96/",
+      "id": 96,
+      "name": "iPhone",
+      "site_detail_url": "http://www.giantbomb.com/iphone/3045-96/",
+      "abbreviation": "IPHN"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-121/",
+      "id": 121,
+      "name": "iPad",
+      "site_detail_url": "http://www.giantbomb.com/ipad/3045-121/",
+      "abbreviation": "IPAD"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-123/",
+      "id": 123,
+      "name": "Android",
+      "site_detail_url": "http://www.giantbomb.com/android/3045-123/",
+      "abbreviation": "ANDR"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/the-wolf-among-us/3030-34213/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/57856/2704449-thewolfamongus+2014-08-09+19-30-25-35.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/57856/2704449-thewolfamongus+2014-08-09+19-30-25-35.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/57856/2704449-thewolfamongus+2014-08-09+19-30-25-35.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/57856/2704449-thewolfamongus+2014-08-09+19-30-25-35.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/57856/2704449-thewolfamongus+2014-08-09+19-30-25-35.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/57856/2704449-thewolfamongus+2014-08-09+19-30-25-35.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/57856/2704449-thewolfamongus+2014-08-09+19-30-25-35.jpg",
+      "tags": "All Images, Screenshots, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/57856/2704448-thewolfamongus+2014-08-09+19-28-57-39.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/57856/2704448-thewolfamongus+2014-08-09+19-28-57-39.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/57856/2704448-thewolfamongus+2014-08-09+19-28-57-39.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/57856/2704448-thewolfamongus+2014-08-09+19-28-57-39.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/57856/2704448-thewolfamongus+2014-08-09+19-28-57-39.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/57856/2704448-thewolfamongus+2014-08-09+19-28-57-39.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/57856/2704448-thewolfamongus+2014-08-09+19-28-57-39.jpg",
+      "tags": "All Images, Screenshots, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/57856/2704447-thewolfamongus+2014-08-09+19-28-43-32.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/57856/2704447-thewolfamongus+2014-08-09+19-28-43-32.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/57856/2704447-thewolfamongus+2014-08-09+19-28-43-32.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/57856/2704447-thewolfamongus+2014-08-09+19-28-43-32.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/57856/2704447-thewolfamongus+2014-08-09+19-28-43-32.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/57856/2704447-thewolfamongus+2014-08-09+19-28-43-32.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/57856/2704447-thewolfamongus+2014-08-09+19-28-43-32.jpg",
+      "tags": "All Images, Screenshots, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/57856/2704446-thewolfamongus+2014-08-09+19-28-38-70.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/57856/2704446-thewolfamongus+2014-08-09+19-28-38-70.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/57856/2704446-thewolfamongus+2014-08-09+19-28-38-70.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/57856/2704446-thewolfamongus+2014-08-09+19-28-38-70.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/57856/2704446-thewolfamongus+2014-08-09+19-28-38-70.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/57856/2704446-thewolfamongus+2014-08-09+19-28-38-70.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/57856/2704446-thewolfamongus+2014-08-09+19-28-38-70.jpg",
+      "tags": "All Images, Screenshots, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2657113-2014-07-13_00053.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2657113-2014-07-13_00053.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2657113-2014-07-13_00053.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2657113-2014-07-13_00053.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/4/41029/2657113-2014-07-13_00053.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/4/41029/2657113-2014-07-13_00053.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/4/41029/2657113-2014-07-13_00053.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2657112-2014-07-13_00042.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2657112-2014-07-13_00042.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2657112-2014-07-13_00042.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2657112-2014-07-13_00042.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/4/41029/2657112-2014-07-13_00042.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/4/41029/2657112-2014-07-13_00042.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/4/41029/2657112-2014-07-13_00042.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2657111-2014-07-13_00026.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2657111-2014-07-13_00026.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2657111-2014-07-13_00026.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2657111-2014-07-13_00026.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/4/41029/2657111-2014-07-13_00026.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/4/41029/2657111-2014-07-13_00026.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/4/41029/2657111-2014-07-13_00026.jpg",
+      "tags": "All Images, the wolf among us, PC, Telltale"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2657110-2014-07-13_00023.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2657110-2014-07-13_00023.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2657110-2014-07-13_00023.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2657110-2014-07-13_00023.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/4/41029/2657110-2014-07-13_00023.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/4/41029/2657110-2014-07-13_00023.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/4/41029/2657110-2014-07-13_00023.jpg",
+      "tags": "All Images, the wolf among us, PC, Telltale"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2657109-2014-07-13_00022.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2657109-2014-07-13_00022.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2657109-2014-07-13_00022.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2657109-2014-07-13_00022.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/4/41029/2657109-2014-07-13_00022.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/4/41029/2657109-2014-07-13_00022.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/4/41029/2657109-2014-07-13_00022.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2657108-2014-07-13_00016.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2657108-2014-07-13_00016.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2657108-2014-07-13_00016.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2657108-2014-07-13_00016.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/4/41029/2657108-2014-07-13_00016.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/4/41029/2657108-2014-07-13_00016.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/4/41029/2657108-2014-07-13_00016.jpg",
+      "tags": "All Images, the wolf among us, PC, Telltale"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2657107-2014-07-13_00015.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2657107-2014-07-13_00015.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2657107-2014-07-13_00015.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2657107-2014-07-13_00015.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/4/41029/2657107-2014-07-13_00015.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/4/41029/2657107-2014-07-13_00015.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/4/41029/2657107-2014-07-13_00015.jpg",
+      "tags": "All Images, the wolf among us, PC, Telltale"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2657106-2014-07-13_00010.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2657106-2014-07-13_00010.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2657106-2014-07-13_00010.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2657106-2014-07-13_00010.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/4/41029/2657106-2014-07-13_00010.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/4/41029/2657106-2014-07-13_00010.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/4/41029/2657106-2014-07-13_00010.jpg",
+      "tags": "All Images, the wolf among us, PC, Telltale"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2657105-2014-07-13_00008.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2657105-2014-07-13_00008.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2657105-2014-07-13_00008.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2657105-2014-07-13_00008.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/4/41029/2657105-2014-07-13_00008.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/4/41029/2657105-2014-07-13_00008.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/4/41029/2657105-2014-07-13_00008.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2657104-2014-07-13_00003.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2657104-2014-07-13_00003.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/4/41029/2657104-2014-07-13_00003.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/4/41029/2657104-2014-07-13_00003.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/4/41029/2657104-2014-07-13_00003.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/4/41029/2657104-2014-07-13_00003.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/4/41029/2657104-2014-07-13_00003.jpg",
+      "tags": "All Images, the wolf among us, PC, Telltale"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655642-screenhunter_869+jul.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655642-screenhunter_869+jul.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655642-screenhunter_869+jul.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655642-screenhunter_869+jul.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/39/2655642-screenhunter_869+jul.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/39/2655642-screenhunter_869+jul.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/39/2655642-screenhunter_869+jul.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655641-screenhunter_866+jul.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655641-screenhunter_866+jul.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655641-screenhunter_866+jul.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655641-screenhunter_866+jul.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/39/2655641-screenhunter_866+jul.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/39/2655641-screenhunter_866+jul.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/39/2655641-screenhunter_866+jul.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655640-screenhunter_865+jul.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655640-screenhunter_865+jul.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655640-screenhunter_865+jul.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655640-screenhunter_865+jul.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/39/2655640-screenhunter_865+jul.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/39/2655640-screenhunter_865+jul.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/39/2655640-screenhunter_865+jul.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655639-screenhunter_864+jul.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655639-screenhunter_864+jul.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655639-screenhunter_864+jul.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655639-screenhunter_864+jul.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/39/2655639-screenhunter_864+jul.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/39/2655639-screenhunter_864+jul.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/39/2655639-screenhunter_864+jul.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655638-screenhunter_863+jul.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655638-screenhunter_863+jul.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655638-screenhunter_863+jul.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655638-screenhunter_863+jul.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/39/2655638-screenhunter_863+jul.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/39/2655638-screenhunter_863+jul.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/39/2655638-screenhunter_863+jul.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655637-screenhunter_861+jul.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655637-screenhunter_861+jul.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655637-screenhunter_861+jul.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655637-screenhunter_861+jul.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/39/2655637-screenhunter_861+jul.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/39/2655637-screenhunter_861+jul.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/39/2655637-screenhunter_861+jul.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655636-screenhunter_858+jul.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655636-screenhunter_858+jul.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655636-screenhunter_858+jul.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655636-screenhunter_858+jul.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/39/2655636-screenhunter_858+jul.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/39/2655636-screenhunter_858+jul.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/39/2655636-screenhunter_858+jul.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655635-screenhunter_857+jul.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655635-screenhunter_857+jul.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655635-screenhunter_857+jul.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655635-screenhunter_857+jul.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/39/2655635-screenhunter_857+jul.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/39/2655635-screenhunter_857+jul.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/39/2655635-screenhunter_857+jul.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655634-screenhunter_856+jul.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655634-screenhunter_856+jul.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655634-screenhunter_856+jul.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655634-screenhunter_856+jul.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/39/2655634-screenhunter_856+jul.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/39/2655634-screenhunter_856+jul.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/39/2655634-screenhunter_856+jul.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655633-screenhunter_854+jul.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655633-screenhunter_854+jul.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655633-screenhunter_854+jul.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655633-screenhunter_854+jul.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/39/2655633-screenhunter_854+jul.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/39/2655633-screenhunter_854+jul.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/39/2655633-screenhunter_854+jul.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655632-screenhunter_851+jul.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655632-screenhunter_851+jul.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655632-screenhunter_851+jul.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655632-screenhunter_851+jul.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/39/2655632-screenhunter_851+jul.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/39/2655632-screenhunter_851+jul.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/39/2655632-screenhunter_851+jul.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655631-screenhunter_849+jul.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655631-screenhunter_849+jul.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655631-screenhunter_849+jul.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655631-screenhunter_849+jul.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/39/2655631-screenhunter_849+jul.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/39/2655631-screenhunter_849+jul.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/39/2655631-screenhunter_849+jul.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655630-fight-bigby_2000px.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655630-fight-bigby_2000px.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655630-fight-bigby_2000px.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655630-fight-bigby_2000px.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/39/2655630-fight-bigby_2000px.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/39/2655630-fight-bigby_2000px.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/39/2655630-fight-bigby_2000px.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655629-crooked-man_2000px.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655629-crooked-man_2000px.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655629-crooked-man_2000px.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655629-crooked-man_2000px.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/39/2655629-crooked-man_2000px.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/39/2655629-crooked-man_2000px.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/39/2655629-crooked-man_2000px.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655627-car.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655627-car.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/39/2655627-car.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/39/2655627-car.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/39/2655627-car.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/39/2655627-car.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/39/2655627-car.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/81005/2654965-thewolfamongus+2014-06-01+23-08-36-62.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/81005/2654965-thewolfamongus+2014-06-01+23-08-36-62.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/81005/2654965-thewolfamongus+2014-06-01+23-08-36-62.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/81005/2654965-thewolfamongus+2014-06-01+23-08-36-62.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/81005/2654965-thewolfamongus+2014-06-01+23-08-36-62.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/81005/2654965-thewolfamongus+2014-06-01+23-08-36-62.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/81005/2654965-thewolfamongus+2014-06-01+23-08-36-62.jpg",
+      "tags": "All Images, Screenshots, PC Screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7815/",
+      "id": 7815,
+      "name": "Telltale's Next Adventure Is The Wolf Among Us",
+      "site_detail_url": "http://www.giantbomb.com/videos/telltale-s-next-adventure-is-the-wolf-among-us/2300-7815/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7870/",
+      "id": 7870,
+      "name": "Bombin' the A.M. With Scoops and the Wolf! 08/23/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-08-23-2013/2300-7870/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8054/",
+      "id": 8054,
+      "name": "The Wolf Among Us Launches Later This Week",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-wolf-among-us-launches-later-this-week/2300-8054/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8070/",
+      "id": 8070,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 10/14/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-10-14-2013/2300-8070/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8224/",
+      "id": 8224,
+      "name": "Quick Look: The Wolf Among Us",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-the-wolf-among-us/2300-8224/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8473/",
+      "id": 8473,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 02/07/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-02-07-2014/2300-8473/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8702/",
+      "id": 8702,
+      "name": "The Wolf Among Us' Third Episode Has a Launch Trailer",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-wolf-among-us-third-episode-has-a-launch-trail/2300-8702/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8919/",
+      "id": 8919,
+      "name": "Get Ready for More Wolf Among Us Next Week",
+      "site_detail_url": "http://www.giantbomb.com/videos/get-ready-for-more-wolf-among-us-next-week/2300-8919/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9187/",
+      "id": 9187,
+      "name": "The Wolf Among Us Closes Out its First Season This Week",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-wolf-among-us-closes-out-its-first-season-this/2300-9187/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9205/",
+      "id": 9205,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 07/11/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-07-11-2014/2300-9205/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-4/",
+      "id": 4,
+      "name": "Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=adventure&wikiTypeId=3060&wikiId=4&genre=4"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130645/",
+      "id": 130645,
+      "name": "The Wolf Among Us: Episode 1 - Faith",
+      "site_detail_url": "http://www.giantbomb.com/the-wolf-among-us/3030-34213/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130646/",
+      "id": 130646,
+      "name": "The Wolf Among Us: Episode 1 - Faith",
+      "site_detail_url": "http://www.giantbomb.com/the-wolf-among-us/3030-34213/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130647/",
+      "id": 130647,
+      "name": "The Wolf Among Us: Episode 1 - Faith",
+      "site_detail_url": "http://www.giantbomb.com/the-wolf-among-us/3030-34213/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130648/",
+      "id": 130648,
+      "name": "The Wolf Among Us: Episode 1 - Faith",
+      "site_detail_url": "http://www.giantbomb.com/the-wolf-among-us/3030-34213/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132521/",
+      "id": 132521,
+      "name": "The Wolf Among Us: Episode 2 - Smoke and Mirrors",
+      "site_detail_url": "http://www.giantbomb.com/the-wolf-among-us/3030-34213/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132522/",
+      "id": 132522,
+      "name": "The Wolf Among Us: Episode 2 - Smoke and Mirrors",
+      "site_detail_url": "http://www.giantbomb.com/the-wolf-among-us/3030-34213/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132523/",
+      "id": 132523,
+      "name": "The Wolf Among Us: Episode 2 - Smoke and Mirrors",
+      "site_detail_url": "http://www.giantbomb.com/the-wolf-among-us/3030-34213/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132524/",
+      "id": 132524,
+      "name": "The Wolf Among Us: Episode 2 - Smoke and Mirrors",
+      "site_detail_url": "http://www.giantbomb.com/the-wolf-among-us/3030-34213/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133402/",
+      "id": 133402,
+      "name": "The Wolf Among Us: Episode 3  - A Crooked Mile",
+      "site_detail_url": "http://www.giantbomb.com/the-wolf-among-us/3030-34213/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133403/",
+      "id": 133403,
+      "name": "The Wolf Among Us: Episode 3  - A Crooked Mile",
+      "site_detail_url": "http://www.giantbomb.com/the-wolf-among-us/3030-34213/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133405/",
+      "id": 133405,
+      "name": "The Wolf Among Us: Episode 3  - A Crooked Mile",
+      "site_detail_url": "http://www.giantbomb.com/the-wolf-among-us/3030-34213/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133406/",
+      "id": 133406,
+      "name": "The Wolf Among Us: Episode 3  - A Crooked Mile",
+      "site_detail_url": "http://www.giantbomb.com/the-wolf-among-us/3030-34213/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138483/",
+      "id": 138483,
+      "name": "The Wolf Among Us",
+      "site_detail_url": "http://www.giantbomb.com/the-wolf-among-us/3030-34213/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138484/",
+      "id": 138484,
+      "name": "The Wolf Among Us",
+      "site_detail_url": "http://www.giantbomb.com/the-wolf-among-us/3030-34213/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138485/",
+      "id": 138485,
+      "name": "The Wolf Among Us",
+      "site_detail_url": "http://www.giantbomb.com/the-wolf-among-us/3030-34213/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138486/",
+      "id": 138486,
+      "name": "The Wolf Among Us",
+      "site_detail_url": "http://www.giantbomb.com/the-wolf-among-us/3030-34213/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-139969/",
+      "id": 139969,
+      "name": "The Wolf Among Us: Episode 4 - In Sheep's Clothing",
+      "site_detail_url": "http://www.giantbomb.com/the-wolf-among-us/3030-34213/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-139970/",
+      "id": 139970,
+      "name": "The Wolf Among Us: Episode 5 - Cry Wolf",
+      "site_detail_url": "http://www.giantbomb.com/the-wolf-among-us/3030-34213/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148069/",
+      "id": 148069,
+      "name": "The Wolf Among Us",
+      "site_detail_url": "http://www.giantbomb.com/the-wolf-among-us/3030-34213/releases/"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-53376/",
+  "deck": "This Is the Police is a strategy and adventure game by Weappy Studio where players control Police Chief Jack Boyd, and are tasked with improving that state of the police in the city of Freeburg.",
+  "id": 53376,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2841039-logo.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2841039-logo.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2841039-logo.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2841039-logo.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2841039-logo.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2841039-logo.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2841039-logo.png"
+  },
+  "name": "This Is the Police",
+  "original_release_date": "2016-07-27 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/this-is-the-police/3030-53376/",
+  "images": [],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-2/",
+      "id": 2,
+      "name": "Strategy",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=strategy&wikiTypeId=3060&wikiId=2&genre=2"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-4/",
+      "id": 4,
+      "name": "Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=adventure&wikiTypeId=3060&wikiId=4&genre=4"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148796/",
+      "id": 148796,
+      "name": "This is the Police",
+      "site_detail_url": "http://www.giantbomb.com/this-is-the-police/3030-53376/releases/"
+    }
+  ]
+}

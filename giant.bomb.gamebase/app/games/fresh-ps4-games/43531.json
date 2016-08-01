@@ -1,0 +1,148 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-43531/",
+  "deck": "Aaru's Awakening is a hand-drawn, 2D, action platformer by Lumenox Games.",
+  "id": 43531,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2768034-box_aarusa.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2768034-box_aarusa.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2768034-box_aarusa.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2768034-box_aarusa.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2768034-box_aarusa.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2768034-box_aarusa.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2768034-box_aarusa.png"
+  },
+  "name": "Aaru's Awakening",
+  "original_release_date": "2015-02-24 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/aarus-awakening/3030-43531/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2768034-box_aarusa.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2768034-box_aarusa.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2768034-box_aarusa.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2768034-box_aarusa.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2768034-box_aarusa.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2768034-box_aarusa.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2768034-box_aarusa.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/148414/2741532-17000686492_b6a4df6145_o.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/148414/2741532-17000686492_b6a4df6145_o.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/148414/2741532-17000686492_b6a4df6145_o.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/148414/2741532-17000686492_b6a4df6145_o.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/148414/2741532-17000686492_b6a4df6145_o.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/148414/2741532-17000686492_b6a4df6145_o.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/148414/2741532-17000686492_b6a4df6145_o.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/148414/2741531-16794727087_a2d43362ff_o.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/148414/2741531-16794727087_a2d43362ff_o.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/148414/2741531-16794727087_a2d43362ff_o.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/148414/2741531-16794727087_a2d43362ff_o.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/148414/2741531-16794727087_a2d43362ff_o.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/148414/2741531-16794727087_a2d43362ff_o.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/148414/2741531-16794727087_a2d43362ff_o.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/148414/2741530-16794720487_74d9f11fd4_o.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/148414/2741530-16794720487_74d9f11fd4_o.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/148414/2741530-16794720487_74d9f11fd4_o.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/148414/2741530-16794720487_74d9f11fd4_o.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/148414/2741530-16794720487_74d9f11fd4_o.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/148414/2741530-16794720487_74d9f11fd4_o.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/148414/2741530-16794720487_74d9f11fd4_o.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2620543-dsc05816.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2620543-dsc05816.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2620543-dsc05816.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2620543-dsc05816.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2620543-dsc05816.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2620543-dsc05816.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2620543-dsc05816.jpg",
+      "tags": "All Images, Indie Megabooth, PAX East 2014, PAX East 2014 Booth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2541690-dsc05270.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2541690-dsc05270.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2541690-dsc05270.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2541690-dsc05270.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2541690-dsc05270.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2541690-dsc05270.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2541690-dsc05270.jpg",
+      "tags": "All Images, Indie Mega Booth, PAX Prime 2013, PAX Prime 2013 Booth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2529902-screen+shot+2013-08-15+at+1.13.34+pm.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2529902-screen+shot+2013-08-15+at+1.13.34+pm.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2529902-screen+shot+2013-08-15+at+1.13.34+pm.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2529902-screen+shot+2013-08-15+at+1.13.34+pm.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2529902-screen+shot+2013-08-15+at+1.13.34+pm.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2529902-screen+shot+2013-08-15+at+1.13.34+pm.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2529902-screen+shot+2013-08-15+at+1.13.34+pm.png",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140957/",
+      "id": 140957,
+      "name": "Aaru's Awakening",
+      "site_detail_url": "http://www.giantbomb.com/aarus-awakening/3030-43531/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141035/",
+      "id": 141035,
+      "name": "Aaru's Awakening",
+      "site_detail_url": "http://www.giantbomb.com/aarus-awakening/3030-43531/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146871/",
+      "id": 146871,
+      "name": "Aaru's Awakening",
+      "site_detail_url": "http://www.giantbomb.com/aarus-awakening/3030-43531/releases/"
+    }
+  ]
+}

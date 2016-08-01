@@ -1,0 +1,91 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-45160/",
+  "deck": "A compilation of the Adam's Venture adventure games ported to the PlayStation 3.",
+  "id": 45160,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2859687-6613103893-heade.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2859687-6613103893-heade.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2859687-6613103893-heade.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2859687-6613103893-heade.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2859687-6613103893-heade.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2859687-6613103893-heade.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2859687-6613103893-heade.jpg"
+  },
+  "name": "Adam's Venture Chronicles",
+  "original_release_date": "2014-02-04 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/adams-venture-chronicles/3030-45160/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187788/2859687-6613103893-heade.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187788/2859687-6613103893-heade.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187788/2859687-6613103893-heade.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187788/2859687-6613103893-heade.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187788/2859687-6613103893-heade.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187788/2859687-6613103893-heade.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187788/2859687-6613103893-heade.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2592342-6843940913-file.php",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2592342-6843940913-file.php",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2592342-6843940913-file.php",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2592342-6843940913-file.php",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2592342-6843940913-file.php",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2592342-6843940913-file.php",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2592342-6843940913-file.php",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-4/",
+      "id": 4,
+      "name": "Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=adventure&wikiTypeId=3060&wikiId=4&genre=4"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132539/",
+      "id": 132539,
+      "name": "Adam's Venture Chronicles",
+      "site_detail_url": "http://www.giantbomb.com/adams-venture-chronicles/3030-45160/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132540/",
+      "id": 132540,
+      "name": "Adam's Venture Chronicles",
+      "site_detail_url": "http://www.giantbomb.com/adams-venture-chronicles/3030-45160/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143044/",
+      "id": 143044,
+      "name": "Adam's Venture Chronicles",
+      "site_detail_url": "http://www.giantbomb.com/adams-venture-chronicles/3030-45160/releases/"
+    }
+  ]
+}

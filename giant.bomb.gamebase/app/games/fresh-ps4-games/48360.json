@@ -1,0 +1,78 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48360/",
+  "deck": "A four player co-op brawler staring undead vikings.",
+  "id": 48360,
+  "image": null,
+  "name": "Zombie Vikings",
+  "original_release_date": "2015-09-01 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/zombie-vikings/3030-48360/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847753-dsc01084.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847753-dsc01084.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847753-dsc01084.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847753-dsc01084.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2847753-dsc01084.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2847753-dsc01084.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2847753-dsc01084.jpg",
+      "tags": "All Images, Zoink, PAX East 2016 Booth, PAX East 2016"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/17/171939/2744714-3035974378-15952.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/17/171939/2744714-3035974378-15952.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/17/171939/2744714-3035974378-15952.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/17/171939/2744714-3035974378-15952.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/17/171939/2744714-3035974378-15952.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/17/171939/2744714-3035974378-15952.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/17/171939/2744714-3035974378-15952.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-37/",
+      "id": 37,
+      "name": "Brawler",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=brawler&wikiTypeId=3060&wikiId=37&genre=37"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143324/",
+      "id": 143324,
+      "name": "Zombie Vikings",
+      "site_detail_url": "http://www.giantbomb.com/zombie-vikings/3030-48360/releases/"
+    }
+  ]
+}

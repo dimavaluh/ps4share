@@ -1,0 +1,57 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49506/",
+  "deck": "The Dungeon Lord has been cursed and bound to a subterranean throne by the good-loving humans. Take on the role of the Dungeon Lord and command a horde of evil minions.",
+  "id": 49506,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2743067-dungeons2_usa_pc_2d_packshot.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2743067-dungeons2_usa_pc_2d_packshot.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2743067-dungeons2_usa_pc_2d_packshot.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2743067-dungeons2_usa_pc_2d_packshot.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2743067-dungeons2_usa_pc_2d_packshot.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2743067-dungeons2_usa_pc_2d_packshot.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2743067-dungeons2_usa_pc_2d_packshot.jpg"
+  },
+  "name": "Dungeons 2",
+  "original_release_date": "2015-04-24 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/dungeons-2/3030-49506/",
+  "images": [],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-2/",
+      "id": 2,
+      "name": "Strategy",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=strategy&wikiTypeId=3060&wikiId=2&genre=2"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141310/",
+      "id": 141310,
+      "name": "Dungeons 2",
+      "site_detail_url": "http://www.giantbomb.com/dungeons-2/3030-49506/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147774/",
+      "id": 147774,
+      "name": "Dungeons 2",
+      "site_detail_url": "http://www.giantbomb.com/dungeons-2/3030-49506/releases/"
+    }
+  ]
+}

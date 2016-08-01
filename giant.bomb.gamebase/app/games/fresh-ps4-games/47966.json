@@ -1,0 +1,112 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-47966/",
+  "deck": "A platforming game that has players using their quarks and reflexes to overcome puzzles.",
+  "id": 47966,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2687550-9109856885-heade.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2687550-9109856885-heade.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2687550-9109856885-heade.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2687550-9109856885-heade.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2687550-9109856885-heade.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2687550-9109856885-heade.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2687550-9109856885-heade.jpg"
+  },
+  "name": "Schrödinger's Cat and the Raiders of the Lost Quark",
+  "original_release_date": "2014-09-23 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/schrodingers-cat-and-the-raiders-of-the-lost-quark/3030-47966/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/81005/2687550-9109856885-heade.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/81005/2687550-9109856885-heade.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/81005/2687550-9109856885-heade.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/81005/2687550-9109856885-heade.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/81005/2687550-9109856885-heade.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/81005/2687550-9109856885-heade.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/81005/2687550-9109856885-heade.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/31/2687387-cp_schrodingercat_ql.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/31/2687387-cp_schrodingercat_ql.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/31/2687387-cp_schrodingercat_ql.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/31/2687387-cp_schrodingercat_ql.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/31/2687387-cp_schrodingercat_ql.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/31/2687387-cp_schrodingercat_ql.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/31/2687387-cp_schrodingercat_ql.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9518/",
+      "id": 9518,
+      "name": "Quick Look: Schrödinger's Cat and the Raiders of the Lost Quark",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-schrodingers-cat-and-the-raiders-of-the/2300-9518/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141547/",
+      "id": 141547,
+      "name": "Schrödinger's Cat and the Raiders of the Lost Quark",
+      "site_detail_url": "http://www.giantbomb.com/schrodingers-cat-and-the-raiders-of-the-lost-quark/3030-47966/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141548/",
+      "id": 141548,
+      "name": "Schrödinger's Cat and the Raiders of the Lost Quark",
+      "site_detail_url": "http://www.giantbomb.com/schrodingers-cat-and-the-raiders-of-the-lost-quark/3030-47966/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141834/",
+      "id": 141834,
+      "name": "Schrödinger's Cat and the Raiders of the Lost Quark",
+      "site_detail_url": "http://www.giantbomb.com/schrodingers-cat-and-the-raiders-of-the-lost-quark/3030-47966/releases/"
+    }
+  ]
+}

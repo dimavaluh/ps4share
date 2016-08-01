@@ -1,0 +1,69 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-47865/",
+  "deck": "A puzzle platformer about a man who wakes up in a basement with no idea who he is other than the word \"Klaus\" written on his arm",
+  "id": 47865,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2815009-5373833422-promo.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2815009-5373833422-promo.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2815009-5373833422-promo.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2815009-5373833422-promo.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2815009-5373833422-promo.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2815009-5373833422-promo.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2815009-5373833422-promo.png"
+  },
+  "name": "Klaus",
+  "original_release_date": "2016-01-19 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/klaus/3030-47865/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/81005/2815009-5373833422-promo.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/81005/2815009-5373833422-promo.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/81005/2815009-5373833422-promo.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/81005/2815009-5373833422-promo.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/81005/2815009-5373833422-promo.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/81005/2815009-5373833422-promo.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/81005/2815009-5373833422-promo.png",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145581/",
+      "id": 145581,
+      "name": "Klaus",
+      "site_detail_url": "http://www.giantbomb.com/klaus/3030-47865/releases/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-53011/",
+  "deck": "BigBen's not-Tetris puzzle game now continues being not Tetris on another generation of consoles.",
+  "id": 53011,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2834136-5222048747-25114.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2834136-5222048747-25114.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2834136-5222048747-25114.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2834136-5222048747-25114.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2834136-5222048747-25114.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2834136-5222048747-25114.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2834136-5222048747-25114.jpg"
+  },
+  "name": "Tetraminos",
+  "original_release_date": "2016-03-08 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/tetraminos/3030-53011/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2834136-5222048747-25114.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2834136-5222048747-25114.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2834136-5222048747-25114.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2834136-5222048747-25114.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2834136-5222048747-25114.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2834136-5222048747-25114.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2834136-5222048747-25114.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-18/",
+      "id": 18,
+      "name": "Puzzle",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=puzzle&wikiTypeId=3060&wikiId=18&genre=18"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146557/",
+      "id": 146557,
+      "name": "Tetraminos",
+      "site_detail_url": "http://www.giantbomb.com/tetraminos/3030-53011/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147547/",
+      "id": 147547,
+      "name": "Tetraminos",
+      "site_detail_url": "http://www.giantbomb.com/tetraminos/3030-53011/releases/"
+    }
+  ]
+}

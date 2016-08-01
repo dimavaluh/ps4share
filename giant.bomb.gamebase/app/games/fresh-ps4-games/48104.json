@@ -1,0 +1,75 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48104/",
+  "deck": "Top-down action strategy game where survivors of a plane crash must scour the tropical island they're stranded on for resources to build a seaworthy ship and find a way back to civilization.",
+  "id": 48104,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2695475-6520637066-logo..png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2695475-6520637066-logo..png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2695475-6520637066-logo..png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2695475-6520637066-logo..png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2695475-6520637066-logo..png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2695475-6520637066-logo..png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2695475-6520637066-logo..png"
+  },
+  "name": "Lost Sea",
+  "original_release_date": "2016-07-05 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/lost-sea/3030-48104/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2695475-6520637066-logo..jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2695475-6520637066-logo..jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2695475-6520637066-logo..jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2695475-6520637066-logo..jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2695475-6520637066-logo..jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2695475-6520637066-logo..jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2695475-6520637066-logo..jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-2/",
+      "id": 2,
+      "name": "Strategy",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=strategy&wikiTypeId=3060&wikiId=2&genre=2"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148387/",
+      "id": 148387,
+      "name": "Lost Sea",
+      "site_detail_url": "http://www.giantbomb.com/lost-sea/3030-48104/releases/"
+    }
+  ]
+}

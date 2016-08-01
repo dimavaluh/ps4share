@@ -1,0 +1,410 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49133/",
+  "deck": "A 2D action platformer from GameFreak.",
+  "id": 49133,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2753357-rsz_1image.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2753357-rsz_1image.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2753357-rsz_1image.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2753357-rsz_1image.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2753357-rsz_1image.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2753357-rsz_1image.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2753357-rsz_1image.jpg"
+  },
+  "name": "Tembo the Badass Elephant",
+  "original_release_date": "2015-07-21 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/tembo-the-badass-elephant/3030-49133/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768910-tembo+the+badass+elephant+2015-07-23+01-24-54-24.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768910-tembo+the+badass+elephant+2015-07-23+01-24-54-24.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768910-tembo+the+badass+elephant+2015-07-23+01-24-54-24.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768910-tembo+the+badass+elephant+2015-07-23+01-24-54-24.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768910-tembo+the+badass+elephant+2015-07-23+01-24-54-24.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768910-tembo+the+badass+elephant+2015-07-23+01-24-54-24.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768910-tembo+the+badass+elephant+2015-07-23+01-24-54-24.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768909-tembo+the+badass+elephant+2015-07-23+01-24-18-16.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768909-tembo+the+badass+elephant+2015-07-23+01-24-18-16.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768909-tembo+the+badass+elephant+2015-07-23+01-24-18-16.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768909-tembo+the+badass+elephant+2015-07-23+01-24-18-16.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768909-tembo+the+badass+elephant+2015-07-23+01-24-18-16.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768909-tembo+the+badass+elephant+2015-07-23+01-24-18-16.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768909-tembo+the+badass+elephant+2015-07-23+01-24-18-16.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768908-tembo+the+badass+elephant+2015-07-23+01-22-23-10.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768908-tembo+the+badass+elephant+2015-07-23+01-22-23-10.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768908-tembo+the+badass+elephant+2015-07-23+01-22-23-10.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768908-tembo+the+badass+elephant+2015-07-23+01-22-23-10.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768908-tembo+the+badass+elephant+2015-07-23+01-22-23-10.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768908-tembo+the+badass+elephant+2015-07-23+01-22-23-10.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768908-tembo+the+badass+elephant+2015-07-23+01-22-23-10.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768907-tembo+the+badass+elephant+2015-07-22+22-04-01-37.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768907-tembo+the+badass+elephant+2015-07-22+22-04-01-37.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768907-tembo+the+badass+elephant+2015-07-22+22-04-01-37.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768907-tembo+the+badass+elephant+2015-07-22+22-04-01-37.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768907-tembo+the+badass+elephant+2015-07-22+22-04-01-37.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768907-tembo+the+badass+elephant+2015-07-22+22-04-01-37.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768907-tembo+the+badass+elephant+2015-07-22+22-04-01-37.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768906-tembo+the+badass+elephant+2015-07-22+12-50-29-67.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768906-tembo+the+badass+elephant+2015-07-22+12-50-29-67.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768906-tembo+the+badass+elephant+2015-07-22+12-50-29-67.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768906-tembo+the+badass+elephant+2015-07-22+12-50-29-67.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768906-tembo+the+badass+elephant+2015-07-22+12-50-29-67.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768906-tembo+the+badass+elephant+2015-07-22+12-50-29-67.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768906-tembo+the+badass+elephant+2015-07-22+12-50-29-67.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768905-tembo+the+badass+elephant+2015-07-22+12-39-20-37.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768905-tembo+the+badass+elephant+2015-07-22+12-39-20-37.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768905-tembo+the+badass+elephant+2015-07-22+12-39-20-37.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768905-tembo+the+badass+elephant+2015-07-22+12-39-20-37.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768905-tembo+the+badass+elephant+2015-07-22+12-39-20-37.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768905-tembo+the+badass+elephant+2015-07-22+12-39-20-37.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768905-tembo+the+badass+elephant+2015-07-22+12-39-20-37.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768904-tembo+the+badass+elephant+2015-07-22+12-38-30-59.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768904-tembo+the+badass+elephant+2015-07-22+12-38-30-59.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768904-tembo+the+badass+elephant+2015-07-22+12-38-30-59.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768904-tembo+the+badass+elephant+2015-07-22+12-38-30-59.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768904-tembo+the+badass+elephant+2015-07-22+12-38-30-59.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768904-tembo+the+badass+elephant+2015-07-22+12-38-30-59.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768904-tembo+the+badass+elephant+2015-07-22+12-38-30-59.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768903-tembo+the+badass+elephant+2015-07-22+10-46-21-68.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768903-tembo+the+badass+elephant+2015-07-22+10-46-21-68.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768903-tembo+the+badass+elephant+2015-07-22+10-46-21-68.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768903-tembo+the+badass+elephant+2015-07-22+10-46-21-68.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768903-tembo+the+badass+elephant+2015-07-22+10-46-21-68.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768903-tembo+the+badass+elephant+2015-07-22+10-46-21-68.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768903-tembo+the+badass+elephant+2015-07-22+10-46-21-68.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768902-tembo+the+badass+elephant+2015-07-22+10-36-44-78.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768902-tembo+the+badass+elephant+2015-07-22+10-36-44-78.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768902-tembo+the+badass+elephant+2015-07-22+10-36-44-78.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768902-tembo+the+badass+elephant+2015-07-22+10-36-44-78.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768902-tembo+the+badass+elephant+2015-07-22+10-36-44-78.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768902-tembo+the+badass+elephant+2015-07-22+10-36-44-78.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768902-tembo+the+badass+elephant+2015-07-22+10-36-44-78.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768901-tembo+the+badass+elephant+2015-07-22+10-35-41-27.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768901-tembo+the+badass+elephant+2015-07-22+10-35-41-27.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768901-tembo+the+badass+elephant+2015-07-22+10-35-41-27.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768901-tembo+the+badass+elephant+2015-07-22+10-35-41-27.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768901-tembo+the+badass+elephant+2015-07-22+10-35-41-27.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768901-tembo+the+badass+elephant+2015-07-22+10-35-41-27.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768901-tembo+the+badass+elephant+2015-07-22+10-35-41-27.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768900-tembo+the+badass+elephant+2015-07-22+10-34-31-45.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768900-tembo+the+badass+elephant+2015-07-22+10-34-31-45.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768900-tembo+the+badass+elephant+2015-07-22+10-34-31-45.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768900-tembo+the+badass+elephant+2015-07-22+10-34-31-45.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768900-tembo+the+badass+elephant+2015-07-22+10-34-31-45.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768900-tembo+the+badass+elephant+2015-07-22+10-34-31-45.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768900-tembo+the+badass+elephant+2015-07-22+10-34-31-45.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768899-tembo+the+badass+elephant+2015-07-22+06-43-48-85.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768899-tembo+the+badass+elephant+2015-07-22+06-43-48-85.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768899-tembo+the+badass+elephant+2015-07-22+06-43-48-85.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768899-tembo+the+badass+elephant+2015-07-22+06-43-48-85.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768899-tembo+the+badass+elephant+2015-07-22+06-43-48-85.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768899-tembo+the+badass+elephant+2015-07-22+06-43-48-85.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768899-tembo+the+badass+elephant+2015-07-22+06-43-48-85.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768898-tembo+the+badass+elephant+2015-07-22+06-40-09-34.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768898-tembo+the+badass+elephant+2015-07-22+06-40-09-34.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768898-tembo+the+badass+elephant+2015-07-22+06-40-09-34.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768898-tembo+the+badass+elephant+2015-07-22+06-40-09-34.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768898-tembo+the+badass+elephant+2015-07-22+06-40-09-34.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768898-tembo+the+badass+elephant+2015-07-22+06-40-09-34.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768898-tembo+the+badass+elephant+2015-07-22+06-40-09-34.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768897-tembo+the+badass+elephant+2015-07-22+06-38-47-13.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768897-tembo+the+badass+elephant+2015-07-22+06-38-47-13.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768897-tembo+the+badass+elephant+2015-07-22+06-38-47-13.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768897-tembo+the+badass+elephant+2015-07-22+06-38-47-13.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768897-tembo+the+badass+elephant+2015-07-22+06-38-47-13.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768897-tembo+the+badass+elephant+2015-07-22+06-38-47-13.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768897-tembo+the+badass+elephant+2015-07-22+06-38-47-13.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768896-tembo+the+badass+elephant+2015-07-22+06-38-09-51.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768896-tembo+the+badass+elephant+2015-07-22+06-38-09-51.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768896-tembo+the+badass+elephant+2015-07-22+06-38-09-51.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768896-tembo+the+badass+elephant+2015-07-22+06-38-09-51.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768896-tembo+the+badass+elephant+2015-07-22+06-38-09-51.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768896-tembo+the+badass+elephant+2015-07-22+06-38-09-51.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768896-tembo+the+badass+elephant+2015-07-22+06-38-09-51.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768895-tembo+the+badass+elephant+2015-07-22+06-23-28-20.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768895-tembo+the+badass+elephant+2015-07-22+06-23-28-20.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768895-tembo+the+badass+elephant+2015-07-22+06-23-28-20.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768895-tembo+the+badass+elephant+2015-07-22+06-23-28-20.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768895-tembo+the+badass+elephant+2015-07-22+06-23-28-20.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768895-tembo+the+badass+elephant+2015-07-22+06-23-28-20.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768895-tembo+the+badass+elephant+2015-07-22+06-23-28-20.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768894-tembo+the+badass+elephant+2015-07-22+06-21-31-56.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768894-tembo+the+badass+elephant+2015-07-22+06-21-31-56.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768894-tembo+the+badass+elephant+2015-07-22+06-21-31-56.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768894-tembo+the+badass+elephant+2015-07-22+06-21-31-56.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768894-tembo+the+badass+elephant+2015-07-22+06-21-31-56.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768894-tembo+the+badass+elephant+2015-07-22+06-21-31-56.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768894-tembo+the+badass+elephant+2015-07-22+06-21-31-56.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768893-tembo+the+badass+elephant+2015-07-22+06-19-11-57.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768893-tembo+the+badass+elephant+2015-07-22+06-19-11-57.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768893-tembo+the+badass+elephant+2015-07-22+06-19-11-57.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768893-tembo+the+badass+elephant+2015-07-22+06-19-11-57.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768893-tembo+the+badass+elephant+2015-07-22+06-19-11-57.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768893-tembo+the+badass+elephant+2015-07-22+06-19-11-57.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768893-tembo+the+badass+elephant+2015-07-22+06-19-11-57.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768892-tembo+the+badass+elephant+2015-07-22+06-18-54-10.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768892-tembo+the+badass+elephant+2015-07-22+06-18-54-10.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768892-tembo+the+badass+elephant+2015-07-22+06-18-54-10.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768892-tembo+the+badass+elephant+2015-07-22+06-18-54-10.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768892-tembo+the+badass+elephant+2015-07-22+06-18-54-10.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768892-tembo+the+badass+elephant+2015-07-22+06-18-54-10.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768892-tembo+the+badass+elephant+2015-07-22+06-18-54-10.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768891-tembo+the+badass+elephant+2015-07-22+06-17-56-29.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768891-tembo+the+badass+elephant+2015-07-22+06-17-56-29.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768891-tembo+the+badass+elephant+2015-07-22+06-17-56-29.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768891-tembo+the+badass+elephant+2015-07-22+06-17-56-29.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768891-tembo+the+badass+elephant+2015-07-22+06-17-56-29.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768891-tembo+the+badass+elephant+2015-07-22+06-17-56-29.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768891-tembo+the+badass+elephant+2015-07-22+06-17-56-29.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768890-tembo+the+badass+elephant+2015-07-22+06-15-56-37.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768890-tembo+the+badass+elephant+2015-07-22+06-15-56-37.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768890-tembo+the+badass+elephant+2015-07-22+06-15-56-37.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768890-tembo+the+badass+elephant+2015-07-22+06-15-56-37.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768890-tembo+the+badass+elephant+2015-07-22+06-15-56-37.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768890-tembo+the+badass+elephant+2015-07-22+06-15-56-37.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768890-tembo+the+badass+elephant+2015-07-22+06-15-56-37.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768889-tembo+the+badass+elephant+2015-07-22+04-58-12-60.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768889-tembo+the+badass+elephant+2015-07-22+04-58-12-60.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768889-tembo+the+badass+elephant+2015-07-22+04-58-12-60.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768889-tembo+the+badass+elephant+2015-07-22+04-58-12-60.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768889-tembo+the+badass+elephant+2015-07-22+04-58-12-60.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768889-tembo+the+badass+elephant+2015-07-22+04-58-12-60.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768889-tembo+the+badass+elephant+2015-07-22+04-58-12-60.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768888-tembo+the+badass+elephant+2015-07-22+04-56-14-00.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768888-tembo+the+badass+elephant+2015-07-22+04-56-14-00.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768888-tembo+the+badass+elephant+2015-07-22+04-56-14-00.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768888-tembo+the+badass+elephant+2015-07-22+04-56-14-00.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768888-tembo+the+badass+elephant+2015-07-22+04-56-14-00.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768888-tembo+the+badass+elephant+2015-07-22+04-56-14-00.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768888-tembo+the+badass+elephant+2015-07-22+04-56-14-00.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768887-tembo+the+badass+elephant+2015-07-22+04-55-31-62.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768887-tembo+the+badass+elephant+2015-07-22+04-55-31-62.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768887-tembo+the+badass+elephant+2015-07-22+04-55-31-62.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768887-tembo+the+badass+elephant+2015-07-22+04-55-31-62.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768887-tembo+the+badass+elephant+2015-07-22+04-55-31-62.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768887-tembo+the+badass+elephant+2015-07-22+04-55-31-62.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768887-tembo+the+badass+elephant+2015-07-22+04-55-31-62.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768886-tembo+the+badass+elephant+2015-07-22+04-55-21-35.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768886-tembo+the+badass+elephant+2015-07-22+04-55-21-35.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768886-tembo+the+badass+elephant+2015-07-22+04-55-21-35.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768886-tembo+the+badass+elephant+2015-07-22+04-55-21-35.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768886-tembo+the+badass+elephant+2015-07-22+04-55-21-35.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768886-tembo+the+badass+elephant+2015-07-22+04-55-21-35.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768886-tembo+the+badass+elephant+2015-07-22+04-55-21-35.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768885-tembo+the+badass+elephant+2015-07-22+04-54-18-98.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768885-tembo+the+badass+elephant+2015-07-22+04-54-18-98.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768885-tembo+the+badass+elephant+2015-07-22+04-54-18-98.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768885-tembo+the+badass+elephant+2015-07-22+04-54-18-98.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768885-tembo+the+badass+elephant+2015-07-22+04-54-18-98.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768885-tembo+the+badass+elephant+2015-07-22+04-54-18-98.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768885-tembo+the+badass+elephant+2015-07-22+04-54-18-98.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768884-tembo+the+badass+elephant+2015-07-22+04-54-10-74.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768884-tembo+the+badass+elephant+2015-07-22+04-54-10-74.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768884-tembo+the+badass+elephant+2015-07-22+04-54-10-74.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768884-tembo+the+badass+elephant+2015-07-22+04-54-10-74.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768884-tembo+the+badass+elephant+2015-07-22+04-54-10-74.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768884-tembo+the+badass+elephant+2015-07-22+04-54-10-74.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768884-tembo+the+badass+elephant+2015-07-22+04-54-10-74.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768883-tembo+the+badass+elephant+2015-07-22+04-53-45-89.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768883-tembo+the+badass+elephant+2015-07-22+04-53-45-89.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768883-tembo+the+badass+elephant+2015-07-22+04-53-45-89.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768883-tembo+the+badass+elephant+2015-07-22+04-53-45-89.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768883-tembo+the+badass+elephant+2015-07-22+04-53-45-89.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768883-tembo+the+badass+elephant+2015-07-22+04-53-45-89.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768883-tembo+the+badass+elephant+2015-07-22+04-53-45-89.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768882-tembo+the+badass+elephant+2015-07-22+04-52-53-11.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768882-tembo+the+badass+elephant+2015-07-22+04-52-53-11.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768882-tembo+the+badass+elephant+2015-07-22+04-52-53-11.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768882-tembo+the+badass+elephant+2015-07-22+04-52-53-11.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768882-tembo+the+badass+elephant+2015-07-22+04-52-53-11.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768882-tembo+the+badass+elephant+2015-07-22+04-52-53-11.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768882-tembo+the+badass+elephant+2015-07-22+04-52-53-11.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768881-tembo+the+badass+elephant+2015-07-22+04-52-49-21.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768881-tembo+the+badass+elephant+2015-07-22+04-52-49-21.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2768881-tembo+the+badass+elephant+2015-07-22+04-52-49-21.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2768881-tembo+the+badass+elephant+2015-07-22+04-52-49-21.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2768881-tembo+the+badass+elephant+2015-07-22+04-52-49-21.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2768881-tembo+the+badass+elephant+2015-07-22+04-52-49-21.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2768881-tembo+the+badass+elephant+2015-07-22+04-52-49-21.jpg",
+      "tags": "All Images, PC Screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10009/",
+      "id": 10009,
+      "name": "Tembo the Badass Elephant Is a Game About Tembo, a Badass Elephant",
+      "site_detail_url": "http://www.giantbomb.com/videos/tembo-the-badass-elephant-is-a-game-about-tembo-a-/2300-10009/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10512/",
+      "id": 10512,
+      "name": "Game Freak's Tembo the Badass Elephant Launches Tomorrow",
+      "site_detail_url": "http://www.giantbomb.com/videos/game-freaks-tembo-the-badass-elephant-launches-tom/2300-10512/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10550/",
+      "id": 10550,
+      "name": "Quick Look: Tembo the Badass Elephant",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-tembo-the-badass-elephant/2300-10550/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142497/",
+      "id": 142497,
+      "name": "Tembo the Badass Elephant",
+      "site_detail_url": "http://www.giantbomb.com/tembo-the-badass-elephant/3030-49133/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142498/",
+      "id": 142498,
+      "name": "Tembo the Badass Elephant",
+      "site_detail_url": "http://www.giantbomb.com/tembo-the-badass-elephant/3030-49133/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142499/",
+      "id": 142499,
+      "name": "Tembo the Badass Elephant",
+      "site_detail_url": "http://www.giantbomb.com/tembo-the-badass-elephant/3030-49133/releases/"
+    }
+  ]
+}

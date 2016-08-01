@@ -1,0 +1,84 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48399/",
+  "deck": "A 3D tag-team fighting game based on the JoJo's Bizarre Adventure series.",
+  "id": 48399,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2783263-7400164369-12006.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2783263-7400164369-12006.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2783263-7400164369-12006.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2783263-7400164369-12006.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2783263-7400164369-12006.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2783263-7400164369-12006.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2783263-7400164369-12006.jpg"
+  },
+  "name": "JoJo's Bizarre Adventure: Eyes of Heaven",
+  "original_release_date": "2015-12-17 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/jojos-bizarre-adventure-eyes-of-heaven/3030-48399/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2783263-7400164369-12006.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2783263-7400164369-12006.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2783263-7400164369-12006.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2783263-7400164369-12006.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2783263-7400164369-12006.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2783263-7400164369-12006.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2783263-7400164369-12006.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2710242-0225909643-10417.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2710242-0225909643-10417.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2710242-0225909643-10417.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2710242-0225909643-10417.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2710242-0225909643-10417.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2710242-0225909643-10417.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2710242-0225909643-10417.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-9/",
+      "id": 9,
+      "name": "Fighting",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=fighting&wikiTypeId=3060&wikiId=9&genre=9"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144860/",
+      "id": 144860,
+      "name": "JoJo no Kimyo na Bouken: Eyes of Heaven",
+      "site_detail_url": "http://www.giantbomb.com/jojos-bizarre-adventure-eyes-of-heaven/3030-48399/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144861/",
+      "id": 144861,
+      "name": "JoJo no Kimyo na Bouken: Eyes of Heaven",
+      "site_detail_url": "http://www.giantbomb.com/jojos-bizarre-adventure-eyes-of-heaven/3030-48399/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147853/",
+      "id": 147853,
+      "name": "JoJo's Bizarre Adventure: Eyes of Heaven",
+      "site_detail_url": "http://www.giantbomb.com/jojos-bizarre-adventure-eyes-of-heaven/3030-48399/releases/"
+    }
+  ]
+}

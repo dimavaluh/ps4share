@@ -1,0 +1,51 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-50454/",
+  "deck": "A modern take on arcade space shooters.",
+  "id": 50454,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2769207-ci_b0nyuwaasbnf.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2769207-ci_b0nyuwaasbnf.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2769207-ci_b0nyuwaasbnf.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2769207-ci_b0nyuwaasbnf.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2769207-ci_b0nyuwaasbnf.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2769207-ci_b0nyuwaasbnf.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2769207-ci_b0nyuwaasbnf.jpg"
+  },
+  "name": "Zotrix",
+  "original_release_date": "2015-12-08 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/zotrix/3030-50454/",
+  "images": [],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-48/",
+      "id": 48,
+      "name": "Shoot 'Em Up",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shoot-em-up&wikiTypeId=3060&wikiId=48&genre=48"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145094/",
+      "id": 145094,
+      "name": "Zotrix",
+      "site_detail_url": "http://www.giantbomb.com/zotrix/3030-50454/releases/"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48203/",
+  "deck": "A PlayStation 4 and Xbox One re-release of Saints Row IV that comes bundled with all of its DLC, including the Gat Out of Hell expansion pack.",
+  "id": 48203,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2716884-91raiixyzol._sl1500_.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2716884-91raiixyzol._sl1500_.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2716884-91raiixyzol._sl1500_.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2716884-91raiixyzol._sl1500_.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2716884-91raiixyzol._sl1500_.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2716884-91raiixyzol._sl1500_.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2716884-91raiixyzol._sl1500_.jpg"
+  },
+  "name": "Saints Row IV: Re-Elected",
+  "original_release_date": "2015-01-20 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/saints-row-iv-reelected/3030-48203/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2716884-91raiixyzol._sl1500_.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2716884-91raiixyzol._sl1500_.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2716884-91raiixyzol._sl1500_.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2716884-91raiixyzol._sl1500_.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2716884-91raiixyzol._sl1500_.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2716884-91raiixyzol._sl1500_.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2716884-91raiixyzol._sl1500_.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2699723-sriv_reelected_artwork_06.0.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2699723-sriv_reelected_artwork_06.0.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2699723-sriv_reelected_artwork_06.0.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2699723-sriv_reelected_artwork_06.0.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2699723-sriv_reelected_artwork_06.0.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2699723-sriv_reelected_artwork_06.0.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2699723-sriv_reelected_artwork_06.0.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-15/",
+      "id": 15,
+      "name": "Compilation",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=compilation&wikiTypeId=3060&wikiId=15&genre=15"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-139267/",
+      "id": 139267,
+      "name": "Saints Row IV: Re-Elected",
+      "site_detail_url": "http://www.giantbomb.com/saints-row-iv-reelected/3030-48203/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-139268/",
+      "id": 139268,
+      "name": "Saints Row IV: Re-Elected",
+      "site_detail_url": "http://www.giantbomb.com/saints-row-iv-reelected/3030-48203/releases/"
+    }
+  ]
+}

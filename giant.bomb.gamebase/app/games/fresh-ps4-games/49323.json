@@ -1,0 +1,277 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49323/",
+  "deck": "A kickstarted, gothic, pixel art action/platformer for PC and Consoles in the vein of classics like Ghouls 'n Ghosts.",
+  "id": 49323,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2787947-steam_capsule_mainnew2-1.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2787947-steam_capsule_mainnew2-1.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2787947-steam_capsule_mainnew2-1.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2787947-steam_capsule_mainnew2-1.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2787947-steam_capsule_mainnew2-1.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2787947-steam_capsule_mainnew2-1.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2787947-steam_capsule_mainnew2-1.jpg"
+  },
+  "name": "Slain!",
+  "original_release_date": "2016-03-24 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/slain/3030-49323/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787959-bloodhellgroubds.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787959-bloodhellgroubds.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787959-bloodhellgroubds.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787959-bloodhellgroubds.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2787959-bloodhellgroubds.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2787959-bloodhellgroubds.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2787959-bloodhellgroubds.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787958-dd_2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787958-dd_2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787958-dd_2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787958-dd_2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2787958-dd_2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2787958-dd_2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2787958-dd_2.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787957-dd_1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787957-dd_1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787957-dd_1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787957-dd_1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2787957-dd_1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2787957-dd_1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2787957-dd_1.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787956-bloodgrounds1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787956-bloodgrounds1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787956-bloodgrounds1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787956-bloodgrounds1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2787956-bloodgrounds1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2787956-bloodgrounds1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2787956-bloodgrounds1.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787955-wolfcata2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787955-wolfcata2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787955-wolfcata2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787955-wolfcata2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2787955-wolfcata2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2787955-wolfcata2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2787955-wolfcata2.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787954-high_land_tower_big.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787954-high_land_tower_big.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787954-high_land_tower_big.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787954-high_land_tower_big.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2787954-high_land_tower_big.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2787954-high_land_tower_big.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2787954-high_land_tower_big.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787953-wolfwoods_start.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787953-wolfwoods_start.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787953-wolfwoods_start.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787953-wolfwoods_start.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2787953-wolfwoods_start.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2787953-wolfwoods_start.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2787953-wolfwoods_start.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787952-petra41.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787952-petra41.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787952-petra41.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787952-petra41.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2787952-petra41.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2787952-petra41.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2787952-petra41.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787951-slain_wide_unity2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787951-slain_wide_unity2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787951-slain_wide_unity2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787951-slain_wide_unity2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2787951-slain_wide_unity2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2787951-slain_wide_unity2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2787951-slain_wide_unity2.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787950-highlands.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787950-highlands.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787950-highlands.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787950-highlands.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2787950-highlands.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2787950-highlands.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2787950-highlands.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787949-petra2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787949-petra2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787949-petra2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787949-petra2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2787949-petra2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2787949-petra2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2787949-petra2.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787947-steam_capsule_mainnew2-1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787947-steam_capsule_mainnew2-1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2787947-steam_capsule_mainnew2-1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2787947-steam_capsule_mainnew2-1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2787947-steam_capsule_mainnew2-1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2787947-steam_capsule_mainnew2-1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2787947-steam_capsule_mainnew2-1.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/88377/2784222-wolfcata1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/88377/2784222-wolfcata1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/88377/2784222-wolfcata1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/88377/2784222-wolfcata1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/88377/2784222-wolfcata1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/88377/2784222-wolfcata1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/88377/2784222-wolfcata1.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/88377/2784221-wolf_tower_1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/88377/2784221-wolf_tower_1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/88377/2784221-wolf_tower_1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/88377/2784221-wolf_tower_1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/88377/2784221-wolf_tower_1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/88377/2784221-wolf_tower_1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/88377/2784221-wolf_tower_1.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/88377/2784220-bloodtowertop11.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/88377/2784220-bloodtowertop11.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/88377/2784220-bloodtowertop11.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/88377/2784220-bloodtowertop11.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/88377/2784220-bloodtowertop11.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/88377/2784220-bloodtowertop11.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/88377/2784220-bloodtowertop11.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/59302/2741725-slainlogo.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/59302/2741725-slainlogo.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/59302/2741725-slainlogo.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/59302/2741725-slainlogo.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/59302/2741725-slainlogo.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/59302/2741725-slainlogo.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/59302/2741725-slainlogo.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143700/",
+      "id": 143700,
+      "name": "Slain!",
+      "site_detail_url": "http://www.giantbomb.com/slain/3030-49323/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144051/",
+      "id": 144051,
+      "name": "Slain!",
+      "site_detail_url": "http://www.giantbomb.com/slain/3030-49323/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144052/",
+      "id": 144052,
+      "name": "Slain!",
+      "site_detail_url": "http://www.giantbomb.com/slain/3030-49323/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144053/",
+      "id": 144053,
+      "name": "Slain!",
+      "site_detail_url": "http://www.giantbomb.com/slain/3030-49323/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144054/",
+      "id": 144054,
+      "name": "Slain!",
+      "site_detail_url": "http://www.giantbomb.com/slain/3030-49323/releases/"
+    }
+  ]
+}

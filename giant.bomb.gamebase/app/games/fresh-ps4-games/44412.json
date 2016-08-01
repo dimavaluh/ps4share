@@ -1,0 +1,416 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-44412/",
+  "deck": "Sony's critically acclaimed Major League Baseball franchise continues into the next generation.",
+  "id": 44412,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2603666-theshow14.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2603666-theshow14.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2603666-theshow14.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2603666-theshow14.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2603666-theshow14.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2603666-theshow14.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2603666-theshow14.jpg"
+  },
+  "name": "MLB 14: The Show",
+  "original_release_date": "2014-04-01 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/mlb-14-the-show/3030-44412/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844646-mlb%C2%AE+14+the+show%E2%84%A2_20150510150041.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844646-mlb%C2%AE+14+the+show%E2%84%A2_20150510150041.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844646-mlb%C2%AE+14+the+show%E2%84%A2_20150510150041.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844646-mlb%C2%AE+14+the+show%E2%84%A2_20150510150041.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844646-mlb%C2%AE+14+the+show%E2%84%A2_20150510150041.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844646-mlb%C2%AE+14+the+show%E2%84%A2_20150510150041.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844646-mlb%C2%AE+14+the+show%E2%84%A2_20150510150041.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844645-mlb%C2%AE+14+the+show%E2%84%A2_20150510150002.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844645-mlb%C2%AE+14+the+show%E2%84%A2_20150510150002.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2844645-mlb%C2%AE+14+the+show%E2%84%A2_20150510150002.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2844645-mlb%C2%AE+14+the+show%E2%84%A2_20150510150002.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2844645-mlb%C2%AE+14+the+show%E2%84%A2_20150510150002.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2844645-mlb%C2%AE+14+the+show%E2%84%A2_20150510150002.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2844645-mlb%C2%AE+14+the+show%E2%84%A2_20150510150002.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/12/122165/2629911-mlb+the+show+14+face+coach.gif",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/12/122165/2629911-mlb+the+show+14+face+coach.gif",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/12/122165/2629911-mlb+the+show+14+face+coach.gif",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/12/122165/2629911-mlb+the+show+14+face+coach.gif",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/12/122165/2629911-mlb+the+show+14+face+coach.gif",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/12/122165/2629911-mlb+the+show+14+face+coach.gif",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/12/122165/2629911-mlb+the+show+14+face+coach.gif",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2610997-tumblr_n2nqv5trqw1tv27two8_1280.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2610997-tumblr_n2nqv5trqw1tv27two8_1280.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2610997-tumblr_n2nqv5trqw1tv27two8_1280.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2610997-tumblr_n2nqv5trqw1tv27two8_1280.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2610997-tumblr_n2nqv5trqw1tv27two8_1280.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2610997-tumblr_n2nqv5trqw1tv27two8_1280.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2610997-tumblr_n2nqv5trqw1tv27two8_1280.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2610996-tumblr_n2nqv5trqw1tv27two7_1280.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2610996-tumblr_n2nqv5trqw1tv27two7_1280.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2610996-tumblr_n2nqv5trqw1tv27two7_1280.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2610996-tumblr_n2nqv5trqw1tv27two7_1280.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2610996-tumblr_n2nqv5trqw1tv27two7_1280.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2610996-tumblr_n2nqv5trqw1tv27two7_1280.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2610996-tumblr_n2nqv5trqw1tv27two7_1280.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2610995-tumblr_n2nqv5trqw1tv27two6_1280.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2610995-tumblr_n2nqv5trqw1tv27two6_1280.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2610995-tumblr_n2nqv5trqw1tv27two6_1280.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2610995-tumblr_n2nqv5trqw1tv27two6_1280.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2610995-tumblr_n2nqv5trqw1tv27two6_1280.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2610995-tumblr_n2nqv5trqw1tv27two6_1280.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2610995-tumblr_n2nqv5trqw1tv27two6_1280.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2610994-tumblr_n2nqv5trqw1tv27two5_1280.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2610994-tumblr_n2nqv5trqw1tv27two5_1280.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2610994-tumblr_n2nqv5trqw1tv27two5_1280.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2610994-tumblr_n2nqv5trqw1tv27two5_1280.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2610994-tumblr_n2nqv5trqw1tv27two5_1280.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2610994-tumblr_n2nqv5trqw1tv27two5_1280.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2610994-tumblr_n2nqv5trqw1tv27two5_1280.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2610993-tumblr_n2nqv5trqw1tv27two4_1280.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2610993-tumblr_n2nqv5trqw1tv27two4_1280.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2610993-tumblr_n2nqv5trqw1tv27two4_1280.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2610993-tumblr_n2nqv5trqw1tv27two4_1280.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2610993-tumblr_n2nqv5trqw1tv27two4_1280.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2610993-tumblr_n2nqv5trqw1tv27two4_1280.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2610993-tumblr_n2nqv5trqw1tv27two4_1280.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2610992-tumblr_n2nqv5trqw1tv27two3_1280.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2610992-tumblr_n2nqv5trqw1tv27two3_1280.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2610992-tumblr_n2nqv5trqw1tv27two3_1280.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2610992-tumblr_n2nqv5trqw1tv27two3_1280.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2610992-tumblr_n2nqv5trqw1tv27two3_1280.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2610992-tumblr_n2nqv5trqw1tv27two3_1280.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2610992-tumblr_n2nqv5trqw1tv27two3_1280.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2610991-tumblr_n2nqv5trqw1tv27two2_1280.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2610991-tumblr_n2nqv5trqw1tv27two2_1280.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2610991-tumblr_n2nqv5trqw1tv27two2_1280.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2610991-tumblr_n2nqv5trqw1tv27two2_1280.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2610991-tumblr_n2nqv5trqw1tv27two2_1280.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2610991-tumblr_n2nqv5trqw1tv27two2_1280.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2610991-tumblr_n2nqv5trqw1tv27two2_1280.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2610990-tumblr_n2nqv5trqw1tv27two1_1280.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2610990-tumblr_n2nqv5trqw1tv27two1_1280.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2610990-tumblr_n2nqv5trqw1tv27two1_1280.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2610990-tumblr_n2nqv5trqw1tv27two1_1280.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2610990-tumblr_n2nqv5trqw1tv27two1_1280.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2610990-tumblr_n2nqv5trqw1tv27two1_1280.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2610990-tumblr_n2nqv5trqw1tv27two1_1280.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2607198-8_28763.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2607198-8_28763.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2607198-8_28763.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2607198-8_28763.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2607198-8_28763.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2607198-8_28763.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2607198-8_28763.png",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2607197-7_28763.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2607197-7_28763.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2607197-7_28763.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2607197-7_28763.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2607197-7_28763.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2607197-7_28763.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2607197-7_28763.png",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2607196-6_28763.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2607196-6_28763.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2607196-6_28763.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2607196-6_28763.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2607196-6_28763.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2607196-6_28763.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2607196-6_28763.png",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2607195-5_28763.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2607195-5_28763.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2607195-5_28763.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2607195-5_28763.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2607195-5_28763.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2607195-5_28763.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2607195-5_28763.png",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2607194-4_28763.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2607194-4_28763.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2607194-4_28763.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2607194-4_28763.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2607194-4_28763.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2607194-4_28763.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2607194-4_28763.png",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2607193-3_28763.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2607193-3_28763.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2607193-3_28763.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2607193-3_28763.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2607193-3_28763.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2607193-3_28763.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2607193-3_28763.png",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2607192-2_28763.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2607192-2_28763.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2607192-2_28763.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2607192-2_28763.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2607192-2_28763.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2607192-2_28763.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2607192-2_28763.png",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2607191-1_28763.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2607191-1_28763.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2607191-1_28763.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2607191-1_28763.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2607191-1_28763.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2607191-1_28763.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2607191-1_28763.png",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/6/63119/2603666-theshow14.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/6/63119/2603666-theshow14.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/6/63119/2603666-theshow14.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/6/63119/2603666-theshow14.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/6/63119/2603666-theshow14.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/6/63119/2603666-theshow14.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/6/63119/2603666-theshow14.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2600603-12500495394_f52861474c_o.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2600603-12500495394_f52861474c_o.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2600603-12500495394_f52861474c_o.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2600603-12500495394_f52861474c_o.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2600603-12500495394_f52861474c_o.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2600603-12500495394_f52861474c_o.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2600603-12500495394_f52861474c_o.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2600602-12500494564_ffd2a006dc_o.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2600602-12500494564_ffd2a006dc_o.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2600602-12500494564_ffd2a006dc_o.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2600602-12500494564_ffd2a006dc_o.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2600602-12500494564_ffd2a006dc_o.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2600602-12500494564_ffd2a006dc_o.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2600602-12500494564_ffd2a006dc_o.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2600601-12500145763_56008177a0_o.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2600601-12500145763_56008177a0_o.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2600601-12500145763_56008177a0_o.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2600601-12500145763_56008177a0_o.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2600601-12500145763_56008177a0_o.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2600601-12500145763_56008177a0_o.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2600601-12500145763_56008177a0_o.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2600600-12500145493_71985f4dd3_o.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2600600-12500145493_71985f4dd3_o.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2600600-12500145493_71985f4dd3_o.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2600600-12500145493_71985f4dd3_o.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2600600-12500145493_71985f4dd3_o.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2600600-12500145493_71985f4dd3_o.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2600600-12500145493_71985f4dd3_o.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2600599-12500145313_b40d835f38_o.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2600599-12500145313_b40d835f38_o.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2600599-12500145313_b40d835f38_o.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2600599-12500145313_b40d835f38_o.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2600599-12500145313_b40d835f38_o.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2600599-12500145313_b40d835f38_o.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2600599-12500145313_b40d835f38_o.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2600598-12500144173_6a7896c268_o.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2600598-12500144173_6a7896c268_o.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2600598-12500144173_6a7896c268_o.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2600598-12500144173_6a7896c268_o.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2600598-12500144173_6a7896c268_o.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2600598-12500144173_6a7896c268_o.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2600598-12500144173_6a7896c268_o.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2600597-12500142763_caab3ccf3a_o.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2600597-12500142763_caab3ccf3a_o.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2600597-12500142763_caab3ccf3a_o.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2600597-12500142763_caab3ccf3a_o.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2600597-12500142763_caab3ccf3a_o.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2600597-12500142763_caab3ccf3a_o.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2600597-12500142763_caab3ccf3a_o.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2600596-12500021885_b4c77b19e7_o.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2600596-12500021885_b4c77b19e7_o.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2600596-12500021885_b4c77b19e7_o.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2600596-12500021885_b4c77b19e7_o.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2600596-12500021885_b4c77b19e7_o.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2600596-12500021885_b4c77b19e7_o.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2600596-12500021885_b4c77b19e7_o.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2600595-12500021035_5ef78175b6_o.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2600595-12500021035_5ef78175b6_o.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2600595-12500021035_5ef78175b6_o.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2600595-12500021035_5ef78175b6_o.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2600595-12500021035_5ef78175b6_o.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2600595-12500021035_5ef78175b6_o.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2600595-12500021035_5ef78175b6_o.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2600594-12500020735_b0cea48145_o.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2600594-12500020735_b0cea48145_o.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2600594-12500020735_b0cea48145_o.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2600594-12500020735_b0cea48145_o.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2600594-12500020735_b0cea48145_o.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2600594-12500020735_b0cea48145_o.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2600594-12500020735_b0cea48145_o.jpg",
+      "tags": "All Images, Screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8710/",
+      "id": 8710,
+      "name": "Quick Look: MLB 14: The Show (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-mlb-14-the-show-ps3/2300-8710/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8847/",
+      "id": 8847,
+      "name": "Quick Look: MLB 14: The Show (PS4)",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-mlb-14-the-show-ps4/2300-8847/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-3/",
+      "id": 3,
+      "name": "Sports",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=sports&wikiTypeId=3060&wikiId=3&genre=3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-34/",
+      "id": 34,
+      "name": "Baseball",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=baseball&wikiTypeId=3060&wikiId=34&genre=34"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132939/",
+      "id": 132939,
+      "name": "MLB 14: The Show",
+      "site_detail_url": "http://www.giantbomb.com/mlb-14-the-show/3030-44412/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132940/",
+      "id": 132940,
+      "name": "MLB 14: The Show",
+      "site_detail_url": "http://www.giantbomb.com/mlb-14-the-show/3030-44412/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132941/",
+      "id": 132941,
+      "name": "MLB 14: The Show",
+      "site_detail_url": "http://www.giantbomb.com/mlb-14-the-show/3030-44412/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132942/",
+      "id": 132942,
+      "name": "MLB 14: The Show",
+      "site_detail_url": "http://www.giantbomb.com/mlb-14-the-show/3030-44412/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132943/",
+      "id": 132943,
+      "name": "MLB 14: The Show",
+      "site_detail_url": "http://www.giantbomb.com/mlb-14-the-show/3030-44412/releases/"
+    }
+  ]
+}

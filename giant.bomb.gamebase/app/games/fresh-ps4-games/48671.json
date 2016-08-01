@@ -1,0 +1,67 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48671/",
+  "deck": "A Free 2 Play online full open world game for the PS3, PS4 and PC.",
+  "id": 48671,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2720691-capture.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2720691-capture.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2720691-capture.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2720691-capture.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2720691-capture.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2720691-capture.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2720691-capture.jpg"
+  },
+  "name": "Dragon's Dogma Online",
+  "original_release_date": "2015-08-27 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/dragons-dogma-online/3030-48671/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2720691-capture.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2720691-capture.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2720691-capture.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2720691-capture.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2720691-capture.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2720691-capture.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2720691-capture.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-16/",
+      "id": 16,
+      "name": "MMORPG",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=mmorpg&wikiTypeId=3060&wikiId=16&genre=16"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-38664/",
+  "deck": "A mission based side-scrolling 2D shooter with loot and craftable weapons.",
+  "id": 38664,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2634063-mercenary_kings_box_art.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2634063-mercenary_kings_box_art.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2634063-mercenary_kings_box_art.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2634063-mercenary_kings_box_art.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2634063-mercenary_kings_box_art.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2634063-mercenary_kings_box_art.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2634063-mercenary_kings_box_art.jpg"
+  },
+  "name": "Mercenary Kings",
+  "original_release_date": "2014-02-25 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-154/",
+      "id": 154,
+      "name": "Ouya",
+      "site_detail_url": "http://www.giantbomb.com/ouya/3045-154/",
+      "abbreviation": "OUYA"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/mercenary-kings/3030-38664/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2634063-mercenary_kings_box_art.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2634063-mercenary_kings_box_art.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2634063-mercenary_kings_box_art.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2634063-mercenary_kings_box_art.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/136036/2634063-mercenary_kings_box_art.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/136036/2634063-mercenary_kings_box_art.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/136036/2634063-mercenary_kings_box_art.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2634059-image.jpeg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2634059-image.jpeg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2634059-image.jpeg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2634059-image.jpeg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/136036/2634059-image.jpeg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/136036/2634059-image.jpeg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/136036/2634059-image.jpeg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633890-ss_f205526bc32e2976e0a3a7fefd6841f6db98b938.1920x1080.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633890-ss_f205526bc32e2976e0a3a7fefd6841f6db98b938.1920x1080.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633890-ss_f205526bc32e2976e0a3a7fefd6841f6db98b938.1920x1080.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633890-ss_f205526bc32e2976e0a3a7fefd6841f6db98b938.1920x1080.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/136036/2633890-ss_f205526bc32e2976e0a3a7fefd6841f6db98b938.1920x1080.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/136036/2633890-ss_f205526bc32e2976e0a3a7fefd6841f6db98b938.1920x1080.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/136036/2633890-ss_f205526bc32e2976e0a3a7fefd6841f6db98b938.1920x1080.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633889-ss_c2cfa117ade409332f8aa2ef551cefdc97a65667.1920x1080.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633889-ss_c2cfa117ade409332f8aa2ef551cefdc97a65667.1920x1080.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633889-ss_c2cfa117ade409332f8aa2ef551cefdc97a65667.1920x1080.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633889-ss_c2cfa117ade409332f8aa2ef551cefdc97a65667.1920x1080.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/136036/2633889-ss_c2cfa117ade409332f8aa2ef551cefdc97a65667.1920x1080.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/136036/2633889-ss_c2cfa117ade409332f8aa2ef551cefdc97a65667.1920x1080.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/136036/2633889-ss_c2cfa117ade409332f8aa2ef551cefdc97a65667.1920x1080.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633888-ss_1595a01c540c326d1b55796113ef77da2197c4b2.1920x1080.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633888-ss_1595a01c540c326d1b55796113ef77da2197c4b2.1920x1080.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633888-ss_1595a01c540c326d1b55796113ef77da2197c4b2.1920x1080.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633888-ss_1595a01c540c326d1b55796113ef77da2197c4b2.1920x1080.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/136036/2633888-ss_1595a01c540c326d1b55796113ef77da2197c4b2.1920x1080.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/136036/2633888-ss_1595a01c540c326d1b55796113ef77da2197c4b2.1920x1080.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/136036/2633888-ss_1595a01c540c326d1b55796113ef77da2197c4b2.1920x1080.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633887-ss_359a2da9f63318ee545f4f53ba4e6e730ce3b6d2.1920x1080.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633887-ss_359a2da9f63318ee545f4f53ba4e6e730ce3b6d2.1920x1080.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633887-ss_359a2da9f63318ee545f4f53ba4e6e730ce3b6d2.1920x1080.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633887-ss_359a2da9f63318ee545f4f53ba4e6e730ce3b6d2.1920x1080.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/136036/2633887-ss_359a2da9f63318ee545f4f53ba4e6e730ce3b6d2.1920x1080.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/136036/2633887-ss_359a2da9f63318ee545f4f53ba4e6e730ce3b6d2.1920x1080.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/136036/2633887-ss_359a2da9f63318ee545f4f53ba4e6e730ce3b6d2.1920x1080.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633886-ss_80c8f1a7217b58fa71714c04a2e3a6d75051e2e2.1920x1080.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633886-ss_80c8f1a7217b58fa71714c04a2e3a6d75051e2e2.1920x1080.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633886-ss_80c8f1a7217b58fa71714c04a2e3a6d75051e2e2.1920x1080.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633886-ss_80c8f1a7217b58fa71714c04a2e3a6d75051e2e2.1920x1080.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/136036/2633886-ss_80c8f1a7217b58fa71714c04a2e3a6d75051e2e2.1920x1080.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/136036/2633886-ss_80c8f1a7217b58fa71714c04a2e3a6d75051e2e2.1920x1080.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/136036/2633886-ss_80c8f1a7217b58fa71714c04a2e3a6d75051e2e2.1920x1080.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633885-ss_65d7664ecd895dbb862a45c6338ca3bd99b16fee.1920x1080.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633885-ss_65d7664ecd895dbb862a45c6338ca3bd99b16fee.1920x1080.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633885-ss_65d7664ecd895dbb862a45c6338ca3bd99b16fee.1920x1080.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633885-ss_65d7664ecd895dbb862a45c6338ca3bd99b16fee.1920x1080.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/136036/2633885-ss_65d7664ecd895dbb862a45c6338ca3bd99b16fee.1920x1080.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/136036/2633885-ss_65d7664ecd895dbb862a45c6338ca3bd99b16fee.1920x1080.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/136036/2633885-ss_65d7664ecd895dbb862a45c6338ca3bd99b16fee.1920x1080.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633884-ss_33a37f8f3173a1a334440d9e4fe4e130b0de3cf9.1920x1080.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633884-ss_33a37f8f3173a1a334440d9e4fe4e130b0de3cf9.1920x1080.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633884-ss_33a37f8f3173a1a334440d9e4fe4e130b0de3cf9.1920x1080.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633884-ss_33a37f8f3173a1a334440d9e4fe4e130b0de3cf9.1920x1080.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/136036/2633884-ss_33a37f8f3173a1a334440d9e4fe4e130b0de3cf9.1920x1080.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/136036/2633884-ss_33a37f8f3173a1a334440d9e4fe4e130b0de3cf9.1920x1080.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/136036/2633884-ss_33a37f8f3173a1a334440d9e4fe4e130b0de3cf9.1920x1080.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633883-ss_4d9aa8d5d590ec9ee49cc0c87d20ac181a4515b5.1920x1080.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633883-ss_4d9aa8d5d590ec9ee49cc0c87d20ac181a4515b5.1920x1080.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633883-ss_4d9aa8d5d590ec9ee49cc0c87d20ac181a4515b5.1920x1080.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633883-ss_4d9aa8d5d590ec9ee49cc0c87d20ac181a4515b5.1920x1080.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/136036/2633883-ss_4d9aa8d5d590ec9ee49cc0c87d20ac181a4515b5.1920x1080.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/136036/2633883-ss_4d9aa8d5d590ec9ee49cc0c87d20ac181a4515b5.1920x1080.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/136036/2633883-ss_4d9aa8d5d590ec9ee49cc0c87d20ac181a4515b5.1920x1080.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633882-ss_2a50327e8231be0351034f61465fb4f6b2ef4cb7.1920x1080.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633882-ss_2a50327e8231be0351034f61465fb4f6b2ef4cb7.1920x1080.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633882-ss_2a50327e8231be0351034f61465fb4f6b2ef4cb7.1920x1080.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633882-ss_2a50327e8231be0351034f61465fb4f6b2ef4cb7.1920x1080.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/136036/2633882-ss_2a50327e8231be0351034f61465fb4f6b2ef4cb7.1920x1080.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/136036/2633882-ss_2a50327e8231be0351034f61465fb4f6b2ef4cb7.1920x1080.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/136036/2633882-ss_2a50327e8231be0351034f61465fb4f6b2ef4cb7.1920x1080.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633881-ss_1fd0c5ec72d7e0f4eff9a94986142406443429c6.1920x1080.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633881-ss_1fd0c5ec72d7e0f4eff9a94986142406443429c6.1920x1080.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633881-ss_1fd0c5ec72d7e0f4eff9a94986142406443429c6.1920x1080.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633881-ss_1fd0c5ec72d7e0f4eff9a94986142406443429c6.1920x1080.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/136036/2633881-ss_1fd0c5ec72d7e0f4eff9a94986142406443429c6.1920x1080.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/136036/2633881-ss_1fd0c5ec72d7e0f4eff9a94986142406443429c6.1920x1080.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/136036/2633881-ss_1fd0c5ec72d7e0f4eff9a94986142406443429c6.1920x1080.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633873-ss_1fd0c5ec72d7e0f4eff9a94986142406443429c6.1920x1080.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633873-ss_1fd0c5ec72d7e0f4eff9a94986142406443429c6.1920x1080.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/136036/2633873-ss_1fd0c5ec72d7e0f4eff9a94986142406443429c6.1920x1080.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/136036/2633873-ss_1fd0c5ec72d7e0f4eff9a94986142406443429c6.1920x1080.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/136036/2633873-ss_1fd0c5ec72d7e0f4eff9a94986142406443429c6.1920x1080.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/136036/2633873-ss_1fd0c5ec72d7e0f4eff9a94986142406443429c6.1920x1080.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/136036/2633873-ss_1fd0c5ec72d7e0f4eff9a94986142406443429c6.1920x1080.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621328-dsc05918.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621328-dsc05918.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621328-dsc05918.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621328-dsc05918.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2621328-dsc05918.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2621328-dsc05918.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2621328-dsc05918.jpg",
+      "tags": "All Images, Tribute Games, PAX East 2014 Booth, PAX East 2014"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621327-dsc05917.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621327-dsc05917.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621327-dsc05917.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621327-dsc05917.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2621327-dsc05917.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2621327-dsc05917.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2621327-dsc05917.jpg",
+      "tags": "All Images, Tribute Games, PAX East 2014 Booth, PAX East 2014"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14876/2609093-mercenary_kings_box_art.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14876/2609093-mercenary_kings_box_art.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14876/2609093-mercenary_kings_box_art.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14876/2609093-mercenary_kings_box_art.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14876/2609093-mercenary_kings_box_art.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14876/2609093-mercenary_kings_box_art.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14876/2609093-mercenary_kings_box_art.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2496430-mk.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2496430-mk.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2496430-mk.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2496430-mk.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2496430-mk.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2496430-mk.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2496430-mk.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2462099-dsc04037.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2462099-dsc04037.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2462099-dsc04037.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2462099-dsc04037.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2462099-dsc04037.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2462099-dsc04037.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2462099-dsc04037.jpg",
+      "tags": "All Images, Tribute, PAX East 2013 Booth, PAX East 2013"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2462098-dsc04036.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2462098-dsc04036.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2462098-dsc04036.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2462098-dsc04036.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2462098-dsc04036.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2462098-dsc04036.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2462098-dsc04036.jpg",
+      "tags": "All Images, Tribute, PAX East 2013 Booth, PAX East 2013"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93770/2421397-photo_full.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93770/2421397-photo_full.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93770/2421397-photo_full.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93770/2421397-photo_full.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93770/2421397-photo_full.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93770/2421397-photo_full.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93770/2421397-photo_full.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/143948/2417577-tumblr_m9zxock6cv1ro3irro1_500.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/143948/2417577-tumblr_m9zxock6cv1ro3irro1_500.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/143948/2417577-tumblr_m9zxock6cv1ro3irro1_500.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/143948/2417577-tumblr_m9zxock6cv1ro3irro1_500.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/143948/2417577-tumblr_m9zxock6cv1ro3irro1_500.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/143948/2417577-tumblr_m9zxock6cv1ro3irro1_500.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/143948/2417577-tumblr_m9zxock6cv1ro3irro1_500.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/143948/2417576-merckingsfuuuckyeah.gif",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/143948/2417576-merckingsfuuuckyeah.gif",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/143948/2417576-merckingsfuuuckyeah.gif",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/143948/2417576-merckingsfuuuckyeah.gif",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/143948/2417576-merckingsfuuuckyeah.gif",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/143948/2417576-merckingsfuuuckyeah.gif",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/143948/2417576-merckingsfuuuckyeah.gif",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/143948/2417564-tumblr_mgugwxtieg1qzp9weo6_r1_1280.gif",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/143948/2417564-tumblr_mgugwxtieg1qzp9weo6_r1_1280.gif",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/143948/2417564-tumblr_mgugwxtieg1qzp9weo6_r1_1280.gif",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/143948/2417564-tumblr_mgugwxtieg1qzp9weo6_r1_1280.gif",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/143948/2417564-tumblr_mgugwxtieg1qzp9weo6_r1_1280.gif",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/143948/2417564-tumblr_mgugwxtieg1qzp9weo6_r1_1280.gif",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/143948/2417564-tumblr_mgugwxtieg1qzp9weo6_r1_1280.gif",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/143948/2417563-tumblr_mgugwxtieg1qzp9weo5_r1_1280.gif",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/143948/2417563-tumblr_mgugwxtieg1qzp9weo5_r1_1280.gif",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/143948/2417563-tumblr_mgugwxtieg1qzp9weo5_r1_1280.gif",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/143948/2417563-tumblr_mgugwxtieg1qzp9weo5_r1_1280.gif",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/143948/2417563-tumblr_mgugwxtieg1qzp9weo5_r1_1280.gif",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/143948/2417563-tumblr_mgugwxtieg1qzp9weo5_r1_1280.gif",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/143948/2417563-tumblr_mgugwxtieg1qzp9weo5_r1_1280.gif",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/143948/2417562-tumblr_mgugwxtieg1qzp9weo2_1280.gif",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/143948/2417562-tumblr_mgugwxtieg1qzp9weo2_1280.gif",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/143948/2417562-tumblr_mgugwxtieg1qzp9weo2_1280.gif",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/143948/2417562-tumblr_mgugwxtieg1qzp9weo2_1280.gif",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/143948/2417562-tumblr_mgugwxtieg1qzp9weo2_1280.gif",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/143948/2417562-tumblr_mgugwxtieg1qzp9weo2_1280.gif",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/143948/2417562-tumblr_mgugwxtieg1qzp9weo2_1280.gif",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/143948/2417561-tumblr_mgugwxtieg1qzp9weo1_1280.gif",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/143948/2417561-tumblr_mgugwxtieg1qzp9weo1_1280.gif",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/143948/2417561-tumblr_mgugwxtieg1qzp9weo1_1280.gif",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/143948/2417561-tumblr_mgugwxtieg1qzp9weo1_1280.gif",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/143948/2417561-tumblr_mgugwxtieg1qzp9weo1_1280.gif",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/143948/2417561-tumblr_mgugwxtieg1qzp9weo1_1280.gif",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/143948/2417561-tumblr_mgugwxtieg1qzp9weo1_1280.gif",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/143948/2417560-d69ccdc5a3e45c9d6c93af180ab1562a_large.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/143948/2417560-d69ccdc5a3e45c9d6c93af180ab1562a_large.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/143948/2417560-d69ccdc5a3e45c9d6c93af180ab1562a_large.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/143948/2417560-d69ccdc5a3e45c9d6c93af180ab1562a_large.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/143948/2417560-d69ccdc5a3e45c9d6c93af180ab1562a_large.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/143948/2417560-d69ccdc5a3e45c9d6c93af180ab1562a_large.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/143948/2417560-d69ccdc5a3e45c9d6c93af180ab1562a_large.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/143948/2417559-583359d898176b07d37b750880703c06_large.gif",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/143948/2417559-583359d898176b07d37b750880703c06_large.gif",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/143948/2417559-583359d898176b07d37b750880703c06_large.gif",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/143948/2417559-583359d898176b07d37b750880703c06_large.gif",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/143948/2417559-583359d898176b07d37b750880703c06_large.gif",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/143948/2417559-583359d898176b07d37b750880703c06_large.gif",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/143948/2417559-583359d898176b07d37b750880703c06_large.gif",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/143948/2417558-05555ed1e5ebd8d595d1ee5ca9ead7f7_large.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/143948/2417558-05555ed1e5ebd8d595d1ee5ca9ead7f7_large.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/143948/2417558-05555ed1e5ebd8d595d1ee5ca9ead7f7_large.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/143948/2417558-05555ed1e5ebd8d595d1ee5ca9ead7f7_large.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/143948/2417558-05555ed1e5ebd8d595d1ee5ca9ead7f7_large.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/143948/2417558-05555ed1e5ebd8d595d1ee5ca9ead7f7_large.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/143948/2417558-05555ed1e5ebd8d595d1ee5ca9ead7f7_large.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/4/48950/2320610-78de6326d77f73e6ee8b8064c91287de_large.gif",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/4/48950/2320610-78de6326d77f73e6ee8b8064c91287de_large.gif",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/4/48950/2320610-78de6326d77f73e6ee8b8064c91287de_large.gif",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/4/48950/2320610-78de6326d77f73e6ee8b8064c91287de_large.gif",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/4/48950/2320610-78de6326d77f73e6ee8b8064c91287de_large.gif",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/4/48950/2320610-78de6326d77f73e6ee8b8064c91287de_large.gif",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/4/48950/2320610-78de6326d77f73e6ee8b8064c91287de_large.gif",
+      "tags": "All Images, Concept Art"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7678/",
+      "id": 7678,
+      "name": "Mercenary King's Bad Ass Pixels Hitting Steam Early Access",
+      "site_detail_url": "http://www.giantbomb.com/videos/mercenary-king-s-bad-ass-pixels-hitting-steam-earl/2300-7678/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7721/",
+      "id": 7721,
+      "name": "Quick Look: Mercenary Kings",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-mercenary-kings/2300-7721/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8704/",
+      "id": 8704,
+      "name": "Mercenary Kings Offers its Services to PlayStation 4 Owners",
+      "site_detail_url": "http://www.giantbomb.com/videos/mercenary-kings-offers-its-services-to-playstation/2300-8704/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8716/",
+      "id": 8716,
+      "name": "Quick Look: Mercenary Kings (PS4)",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-mercenary-kings-ps4/2300-8716/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-11/",
+      "id": 11,
+      "name": "Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shooter&wikiTypeId=3060&wikiId=11&genre=11"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128982/",
+      "id": 128982,
+      "name": "Mercenary Kings",
+      "site_detail_url": "http://www.giantbomb.com/mercenary-kings/3030-38664/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133318/",
+      "id": 133318,
+      "name": "Mercenary Kings",
+      "site_detail_url": "http://www.giantbomb.com/mercenary-kings/3030-38664/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133319/",
+      "id": 133319,
+      "name": "Mercenary Kings",
+      "site_detail_url": "http://www.giantbomb.com/mercenary-kings/3030-38664/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134521/",
+      "id": 134521,
+      "name": "Mercenary Kings",
+      "site_detail_url": "http://www.giantbomb.com/mercenary-kings/3030-38664/releases/"
+    }
+  ]
+}

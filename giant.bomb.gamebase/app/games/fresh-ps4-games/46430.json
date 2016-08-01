@@ -1,0 +1,307 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-46430/",
+  "deck": "A brand new Lego Batman game that takes Batman and Robin into an \"out of this world\" adventure.",
+  "id": 46430,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2699660-lego-batman-3-cover-jpg.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2699660-lego-batman-3-cover-jpg.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2699660-lego-batman-3-cover-jpg.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2699660-lego-batman-3-cover-jpg.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2699660-lego-batman-3-cover-jpg.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2699660-lego-batman-3-cover-jpg.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2699660-lego-batman-3-cover-jpg.jpg"
+  },
+  "name": "Lego Batman 3: Beyond Gotham",
+  "original_release_date": "2014-11-11 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+      "id": 86,
+      "name": "Xbox 360 Games Store",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+      "abbreviation": "XBGS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-96/",
+      "id": 96,
+      "name": "iPhone",
+      "site_detail_url": "http://www.giantbomb.com/iphone/3045-96/",
+      "abbreviation": "IPHN"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-117/",
+      "id": 117,
+      "name": "Nintendo 3DS",
+      "site_detail_url": "http://www.giantbomb.com/nintendo-3ds/3045-117/",
+      "abbreviation": "3DS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-121/",
+      "id": 121,
+      "name": "iPad",
+      "site_detail_url": "http://www.giantbomb.com/ipad/3045-121/",
+      "abbreviation": "IPAD"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-123/",
+      "id": 123,
+      "name": "Android",
+      "site_detail_url": "http://www.giantbomb.com/android/3045-123/",
+      "abbreviation": "ANDR"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-138/",
+      "id": 138,
+      "name": "Nintendo 3DS eShop",
+      "site_detail_url": "http://www.giantbomb.com/nintendo-3ds-eshop/3045-138/",
+      "abbreviation": "3DSE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/lego-batman-3-beyond-gotham/3030-46430/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2744111-b3.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2744111-b3.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/775/2744111-b3.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/775/2744111-b3.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/775/2744111-b3.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/775/2744111-b3.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/775/2744111-b3.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2699660-lego-batman-3-cover-jpg.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2699660-lego-batman-3-cover-jpg.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2699660-lego-batman-3-cover-jpg.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2699660-lego-batman-3-cover-jpg.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2699660-lego-batman-3-cover-jpg.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2699660-lego-batman-3-cover-jpg.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2699660-lego-batman-3-cover-jpg.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2696697-0641550669-BznzX.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2696697-0641550669-BznzX.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2696697-0641550669-BznzX.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2696697-0641550669-BznzX.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2696697-0641550669-BznzX.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2696697-0641550669-BznzX.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2696697-0641550669-BznzX.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2637538-5+-+pn67mcm.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2637538-5+-+pn67mcm.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2637538-5+-+pn67mcm.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2637538-5+-+pn67mcm.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2637538-5+-+pn67mcm.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2637538-5+-+pn67mcm.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2637538-5+-+pn67mcm.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2637537-4+-+2svca9g.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2637537-4+-+2svca9g.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2637537-4+-+2svca9g.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2637537-4+-+2svca9g.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2637537-4+-+2svca9g.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2637537-4+-+2svca9g.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2637537-4+-+2svca9g.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2637536-3+-+sf1hfot.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2637536-3+-+sf1hfot.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2637536-3+-+sf1hfot.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2637536-3+-+sf1hfot.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2637536-3+-+sf1hfot.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2637536-3+-+sf1hfot.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2637536-3+-+sf1hfot.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2637535-2+-+8l5cepm.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2637535-2+-+8l5cepm.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2637535-2+-+8l5cepm.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2637535-2+-+8l5cepm.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2637535-2+-+8l5cepm.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2637535-2+-+8l5cepm.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2637535-2+-+8l5cepm.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2637534-1+-+nlvnive.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2637534-1+-+nlvnive.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2637534-1+-+nlvnive.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2637534-1+-+nlvnive.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2637534-1+-+nlvnive.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2637534-1+-+nlvnive.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2637534-1+-+nlvnive.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2637531-den1ysj+-+imgur.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2637531-den1ysj+-+imgur.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2637531-den1ysj+-+imgur.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2637531-den1ysj+-+imgur.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2637531-den1ysj+-+imgur.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2637531-den1ysj+-+imgur.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2637531-den1ysj+-+imgur.jpg",
+      "tags": "All Images, Box Art"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8930/",
+      "id": 8930,
+      "name": "LEGO Batman Goes Beyond Gotham, Into Space",
+      "site_detail_url": "http://www.giantbomb.com/videos/lego-batman-goes-beyond-gotham-into-space/2300-8930/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138583/",
+      "id": 138583,
+      "name": "Lego Batman 3: Beyond Gotham",
+      "site_detail_url": "http://www.giantbomb.com/lego-batman-3-beyond-gotham/3030-46430/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138584/",
+      "id": 138584,
+      "name": "Lego Batman 3: Beyond Gotham",
+      "site_detail_url": "http://www.giantbomb.com/lego-batman-3-beyond-gotham/3030-46430/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138585/",
+      "id": 138585,
+      "name": "Lego Batman 3: Beyond Gotham",
+      "site_detail_url": "http://www.giantbomb.com/lego-batman-3-beyond-gotham/3030-46430/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138586/",
+      "id": 138586,
+      "name": "Lego Batman 3: Beyond Gotham",
+      "site_detail_url": "http://www.giantbomb.com/lego-batman-3-beyond-gotham/3030-46430/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138587/",
+      "id": 138587,
+      "name": "Lego Batman 3: Beyond Gotham",
+      "site_detail_url": "http://www.giantbomb.com/lego-batman-3-beyond-gotham/3030-46430/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138588/",
+      "id": 138588,
+      "name": "Lego Batman 3: Beyond Gotham",
+      "site_detail_url": "http://www.giantbomb.com/lego-batman-3-beyond-gotham/3030-46430/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138589/",
+      "id": 138589,
+      "name": "Lego Batman 3: Beyond Gotham",
+      "site_detail_url": "http://www.giantbomb.com/lego-batman-3-beyond-gotham/3030-46430/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138590/",
+      "id": 138590,
+      "name": "Lego Batman 3: Beyond Gotham",
+      "site_detail_url": "http://www.giantbomb.com/lego-batman-3-beyond-gotham/3030-46430/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138613/",
+      "id": 138613,
+      "name": "Lego Batman 3: Beyond Gotham",
+      "site_detail_url": "http://www.giantbomb.com/lego-batman-3-beyond-gotham/3030-46430/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138614/",
+      "id": 138614,
+      "name": "Lego Batman 3: Beyond Gotham",
+      "site_detail_url": "http://www.giantbomb.com/lego-batman-3-beyond-gotham/3030-46430/releases/"
+    }
+  ]
+}

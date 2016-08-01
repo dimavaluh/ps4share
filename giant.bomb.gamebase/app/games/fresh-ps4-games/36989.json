@@ -1,0 +1,516 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-36989/",
+  "deck": "Joel and Ellie must survive in a post-apocalyptic world where a deadly parasitic fungus infects people's brains in this  PS3 exclusive third-person action-adventure game from Naughty Dog.",
+  "id": 36989,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2419553-397060_386577108098888_427807760_n.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2419553-397060_386577108098888_427807760_n.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2419553-397060_386577108098888_427807760_n.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2419553-397060_386577108098888_427807760_n.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2419553-397060_386577108098888_427807760_n.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2419553-397060_386577108098888_427807760_n.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2419553-397060_386577108098888_427807760_n.jpg"
+  },
+  "name": "The Last of Us",
+  "original_release_date": "2013-06-14 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/the-last-of-us/3030-36989/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692783-the+last+of+us%E2%84%A2+remastered_20140921210557.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692783-the+last+of+us%E2%84%A2+remastered_20140921210557.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692783-the+last+of+us%E2%84%A2+remastered_20140921210557.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692783-the+last+of+us%E2%84%A2+remastered_20140921210557.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2692783-the+last+of+us%E2%84%A2+remastered_20140921210557.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2692783-the+last+of+us%E2%84%A2+remastered_20140921210557.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2692783-the+last+of+us%E2%84%A2+remastered_20140921210557.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692782-the+last+of+us%E2%84%A2+remastered_20140921205910.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692782-the+last+of+us%E2%84%A2+remastered_20140921205910.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692782-the+last+of+us%E2%84%A2+remastered_20140921205910.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692782-the+last+of+us%E2%84%A2+remastered_20140921205910.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2692782-the+last+of+us%E2%84%A2+remastered_20140921205910.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2692782-the+last+of+us%E2%84%A2+remastered_20140921205910.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2692782-the+last+of+us%E2%84%A2+remastered_20140921205910.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692781-the+last+of+us%E2%84%A2+remastered_20140916121141.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692781-the+last+of+us%E2%84%A2+remastered_20140916121141.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692781-the+last+of+us%E2%84%A2+remastered_20140916121141.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692781-the+last+of+us%E2%84%A2+remastered_20140916121141.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2692781-the+last+of+us%E2%84%A2+remastered_20140916121141.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2692781-the+last+of+us%E2%84%A2+remastered_20140916121141.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2692781-the+last+of+us%E2%84%A2+remastered_20140916121141.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692780-the+last+of+us%E2%84%A2+remastered_20140916115402.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692780-the+last+of+us%E2%84%A2+remastered_20140916115402.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692780-the+last+of+us%E2%84%A2+remastered_20140916115402.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692780-the+last+of+us%E2%84%A2+remastered_20140916115402.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2692780-the+last+of+us%E2%84%A2+remastered_20140916115402.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2692780-the+last+of+us%E2%84%A2+remastered_20140916115402.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2692780-the+last+of+us%E2%84%A2+remastered_20140916115402.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692779-the+last+of+us%E2%84%A2+remastered_20140916115236.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692779-the+last+of+us%E2%84%A2+remastered_20140916115236.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692779-the+last+of+us%E2%84%A2+remastered_20140916115236.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692779-the+last+of+us%E2%84%A2+remastered_20140916115236.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2692779-the+last+of+us%E2%84%A2+remastered_20140916115236.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2692779-the+last+of+us%E2%84%A2+remastered_20140916115236.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2692779-the+last+of+us%E2%84%A2+remastered_20140916115236.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692778-the+last+of+us%E2%84%A2+remastered_20140916113710.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692778-the+last+of+us%E2%84%A2+remastered_20140916113710.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692778-the+last+of+us%E2%84%A2+remastered_20140916113710.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692778-the+last+of+us%E2%84%A2+remastered_20140916113710.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2692778-the+last+of+us%E2%84%A2+remastered_20140916113710.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2692778-the+last+of+us%E2%84%A2+remastered_20140916113710.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2692778-the+last+of+us%E2%84%A2+remastered_20140916113710.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692777-the+last+of+us%E2%84%A2+remastered_20140916005243.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692777-the+last+of+us%E2%84%A2+remastered_20140916005243.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692777-the+last+of+us%E2%84%A2+remastered_20140916005243.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692777-the+last+of+us%E2%84%A2+remastered_20140916005243.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2692777-the+last+of+us%E2%84%A2+remastered_20140916005243.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2692777-the+last+of+us%E2%84%A2+remastered_20140916005243.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2692777-the+last+of+us%E2%84%A2+remastered_20140916005243.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692776-the+last+of+us%E2%84%A2+remastered_20140916003200.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692776-the+last+of+us%E2%84%A2+remastered_20140916003200.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692776-the+last+of+us%E2%84%A2+remastered_20140916003200.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692776-the+last+of+us%E2%84%A2+remastered_20140916003200.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2692776-the+last+of+us%E2%84%A2+remastered_20140916003200.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2692776-the+last+of+us%E2%84%A2+remastered_20140916003200.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2692776-the+last+of+us%E2%84%A2+remastered_20140916003200.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692775-the+last+of+us%E2%84%A2+remastered_20140914215807.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692775-the+last+of+us%E2%84%A2+remastered_20140914215807.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692775-the+last+of+us%E2%84%A2+remastered_20140914215807.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692775-the+last+of+us%E2%84%A2+remastered_20140914215807.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2692775-the+last+of+us%E2%84%A2+remastered_20140914215807.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2692775-the+last+of+us%E2%84%A2+remastered_20140914215807.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2692775-the+last+of+us%E2%84%A2+remastered_20140914215807.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692774-the+last+of+us%E2%84%A2+remastered_20140914215647.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692774-the+last+of+us%E2%84%A2+remastered_20140914215647.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692774-the+last+of+us%E2%84%A2+remastered_20140914215647.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692774-the+last+of+us%E2%84%A2+remastered_20140914215647.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2692774-the+last+of+us%E2%84%A2+remastered_20140914215647.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2692774-the+last+of+us%E2%84%A2+remastered_20140914215647.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2692774-the+last+of+us%E2%84%A2+remastered_20140914215647.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692773-the+last+of+us%E2%84%A2+remastered_20140914214511.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692773-the+last+of+us%E2%84%A2+remastered_20140914214511.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692773-the+last+of+us%E2%84%A2+remastered_20140914214511.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692773-the+last+of+us%E2%84%A2+remastered_20140914214511.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2692773-the+last+of+us%E2%84%A2+remastered_20140914214511.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2692773-the+last+of+us%E2%84%A2+remastered_20140914214511.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2692773-the+last+of+us%E2%84%A2+remastered_20140914214511.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692772-the+last+of+us%E2%84%A2+remastered_20140914123910.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692772-the+last+of+us%E2%84%A2+remastered_20140914123910.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692772-the+last+of+us%E2%84%A2+remastered_20140914123910.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692772-the+last+of+us%E2%84%A2+remastered_20140914123910.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2692772-the+last+of+us%E2%84%A2+remastered_20140914123910.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2692772-the+last+of+us%E2%84%A2+remastered_20140914123910.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2692772-the+last+of+us%E2%84%A2+remastered_20140914123910.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692771-the+last+of+us%E2%84%A2+remastered_20140914123712.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692771-the+last+of+us%E2%84%A2+remastered_20140914123712.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692771-the+last+of+us%E2%84%A2+remastered_20140914123712.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692771-the+last+of+us%E2%84%A2+remastered_20140914123712.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2692771-the+last+of+us%E2%84%A2+remastered_20140914123712.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2692771-the+last+of+us%E2%84%A2+remastered_20140914123712.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2692771-the+last+of+us%E2%84%A2+remastered_20140914123712.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692770-the+last+of+us%E2%84%A2+remastered_20140914112435.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692770-the+last+of+us%E2%84%A2+remastered_20140914112435.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692770-the+last+of+us%E2%84%A2+remastered_20140914112435.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692770-the+last+of+us%E2%84%A2+remastered_20140914112435.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2692770-the+last+of+us%E2%84%A2+remastered_20140914112435.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2692770-the+last+of+us%E2%84%A2+remastered_20140914112435.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2692770-the+last+of+us%E2%84%A2+remastered_20140914112435.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692769-the+last+of+us%E2%84%A2+remastered_20140914013041.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692769-the+last+of+us%E2%84%A2+remastered_20140914013041.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692769-the+last+of+us%E2%84%A2+remastered_20140914013041.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692769-the+last+of+us%E2%84%A2+remastered_20140914013041.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2692769-the+last+of+us%E2%84%A2+remastered_20140914013041.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2692769-the+last+of+us%E2%84%A2+remastered_20140914013041.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2692769-the+last+of+us%E2%84%A2+remastered_20140914013041.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692768-the+last+of+us%E2%84%A2+remastered_20140914010909.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692768-the+last+of+us%E2%84%A2+remastered_20140914010909.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692768-the+last+of+us%E2%84%A2+remastered_20140914010909.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692768-the+last+of+us%E2%84%A2+remastered_20140914010909.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2692768-the+last+of+us%E2%84%A2+remastered_20140914010909.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2692768-the+last+of+us%E2%84%A2+remastered_20140914010909.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2692768-the+last+of+us%E2%84%A2+remastered_20140914010909.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692767-the+last+of+us%E2%84%A2+remastered_20140914005324.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692767-the+last+of+us%E2%84%A2+remastered_20140914005324.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692767-the+last+of+us%E2%84%A2+remastered_20140914005324.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692767-the+last+of+us%E2%84%A2+remastered_20140914005324.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2692767-the+last+of+us%E2%84%A2+remastered_20140914005324.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2692767-the+last+of+us%E2%84%A2+remastered_20140914005324.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2692767-the+last+of+us%E2%84%A2+remastered_20140914005324.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692766-the+last+of+us%E2%84%A2+remastered_20140913233532.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692766-the+last+of+us%E2%84%A2+remastered_20140913233532.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692766-the+last+of+us%E2%84%A2+remastered_20140913233532.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692766-the+last+of+us%E2%84%A2+remastered_20140913233532.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2692766-the+last+of+us%E2%84%A2+remastered_20140913233532.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2692766-the+last+of+us%E2%84%A2+remastered_20140913233532.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2692766-the+last+of+us%E2%84%A2+remastered_20140913233532.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692765-the+last+of+us%E2%84%A2+remastered_20140913225120.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692765-the+last+of+us%E2%84%A2+remastered_20140913225120.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692765-the+last+of+us%E2%84%A2+remastered_20140913225120.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692765-the+last+of+us%E2%84%A2+remastered_20140913225120.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2692765-the+last+of+us%E2%84%A2+remastered_20140913225120.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2692765-the+last+of+us%E2%84%A2+remastered_20140913225120.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2692765-the+last+of+us%E2%84%A2+remastered_20140913225120.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692764-the+last+of+us%E2%84%A2+remastered_20140913221848.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692764-the+last+of+us%E2%84%A2+remastered_20140913221848.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2692764-the+last+of+us%E2%84%A2+remastered_20140913221848.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2692764-the+last+of+us%E2%84%A2+remastered_20140913221848.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2692764-the+last+of+us%E2%84%A2+remastered_20140913221848.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2692764-the+last+of+us%E2%84%A2+remastered_20140913221848.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2692764-the+last+of+us%E2%84%A2+remastered_20140913221848.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2666944-the+last+of+us%E2%84%A2+remastered_20140805172859.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2666944-the+last+of+us%E2%84%A2+remastered_20140805172859.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2666944-the+last+of+us%E2%84%A2+remastered_20140805172859.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2666944-the+last+of+us%E2%84%A2+remastered_20140805172859.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2666944-the+last+of+us%E2%84%A2+remastered_20140805172859.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2666944-the+last+of+us%E2%84%A2+remastered_20140805172859.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2666944-the+last+of+us%E2%84%A2+remastered_20140805172859.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2666943-the+last+of+us%E2%84%A2+remastered_20140805172505.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2666943-the+last+of+us%E2%84%A2+remastered_20140805172505.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2666943-the+last+of+us%E2%84%A2+remastered_20140805172505.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2666943-the+last+of+us%E2%84%A2+remastered_20140805172505.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2666943-the+last+of+us%E2%84%A2+remastered_20140805172505.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2666943-the+last+of+us%E2%84%A2+remastered_20140805172505.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2666943-the+last+of+us%E2%84%A2+remastered_20140805172505.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2666942-the+last+of+us%E2%84%A2+remastered_20140805170621.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2666942-the+last+of+us%E2%84%A2+remastered_20140805170621.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2666942-the+last+of+us%E2%84%A2+remastered_20140805170621.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2666942-the+last+of+us%E2%84%A2+remastered_20140805170621.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2666942-the+last+of+us%E2%84%A2+remastered_20140805170621.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2666942-the+last+of+us%E2%84%A2+remastered_20140805170621.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2666942-the+last+of+us%E2%84%A2+remastered_20140805170621.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2666941-the+last+of+us%E2%84%A2+remastered_20140805163601.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2666941-the+last+of+us%E2%84%A2+remastered_20140805163601.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2666941-the+last+of+us%E2%84%A2+remastered_20140805163601.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2666941-the+last+of+us%E2%84%A2+remastered_20140805163601.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2666941-the+last+of+us%E2%84%A2+remastered_20140805163601.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2666941-the+last+of+us%E2%84%A2+remastered_20140805163601.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2666941-the+last+of+us%E2%84%A2+remastered_20140805163601.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2666728-the+last+of+us%E2%84%A2+remastered_20140805112542.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2666728-the+last+of+us%E2%84%A2+remastered_20140805112542.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2666728-the+last+of+us%E2%84%A2+remastered_20140805112542.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2666728-the+last+of+us%E2%84%A2+remastered_20140805112542.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2666728-the+last+of+us%E2%84%A2+remastered_20140805112542.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2666728-the+last+of+us%E2%84%A2+remastered_20140805112542.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2666728-the+last+of+us%E2%84%A2+remastered_20140805112542.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2666726-the+last+of+us%E2%84%A2+remastered_20140805112442.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2666726-the+last+of+us%E2%84%A2+remastered_20140805112442.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2666726-the+last+of+us%E2%84%A2+remastered_20140805112442.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2666726-the+last+of+us%E2%84%A2+remastered_20140805112442.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2666726-the+last+of+us%E2%84%A2+remastered_20140805112442.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2666726-the+last+of+us%E2%84%A2+remastered_20140805112442.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2666726-the+last+of+us%E2%84%A2+remastered_20140805112442.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2666724-the+last+of+us%E2%84%A2+remastered_20140805111952.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2666724-the+last+of+us%E2%84%A2+remastered_20140805111952.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2666724-the+last+of+us%E2%84%A2+remastered_20140805111952.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2666724-the+last+of+us%E2%84%A2+remastered_20140805111952.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2666724-the+last+of+us%E2%84%A2+remastered_20140805111952.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2666724-the+last+of+us%E2%84%A2+remastered_20140805111952.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2666724-the+last+of+us%E2%84%A2+remastered_20140805111952.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2666723-the+last+of+us%E2%84%A2+remastered_20140805111846.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2666723-the+last+of+us%E2%84%A2+remastered_20140805111846.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2666723-the+last+of+us%E2%84%A2+remastered_20140805111846.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2666723-the+last+of+us%E2%84%A2+remastered_20140805111846.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2666723-the+last+of+us%E2%84%A2+remastered_20140805111846.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2666723-the+last+of+us%E2%84%A2+remastered_20140805111846.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2666723-the+last+of+us%E2%84%A2+remastered_20140805111846.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2666722-the+last+of+us%E2%84%A2+remastered_20140805110855.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2666722-the+last+of+us%E2%84%A2+remastered_20140805110855.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2666722-the+last+of+us%E2%84%A2+remastered_20140805110855.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2666722-the+last+of+us%E2%84%A2+remastered_20140805110855.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2666722-the+last+of+us%E2%84%A2+remastered_20140805110855.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2666722-the+last+of+us%E2%84%A2+remastered_20140805110855.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2666722-the+last+of+us%E2%84%A2+remastered_20140805110855.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2666721-the+last+of+us%E2%84%A2+remastered_20140805110306.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2666721-the+last+of+us%E2%84%A2+remastered_20140805110306.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2666721-the+last+of+us%E2%84%A2+remastered_20140805110306.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2666721-the+last+of+us%E2%84%A2+remastered_20140805110306.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2666721-the+last+of+us%E2%84%A2+remastered_20140805110306.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2666721-the+last+of+us%E2%84%A2+remastered_20140805110306.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2666721-the+last+of+us%E2%84%A2+remastered_20140805110306.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-5389/",
+      "id": 5389,
+      "name": "The Last of Us Are in Some Big Trouble",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-last-of-us-are-in-some-big-trouble/2300-5389/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6102/",
+      "id": 6102,
+      "name": "E3 2012: The Last of Us Demo",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2012-the-last-of-us-demo/2300-6102/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6197/",
+      "id": 6197,
+      "name": "E3 2012: The Last of Us Interview",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2012-the-last-of-us-interview/2300-6197/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6436/",
+      "id": 6436,
+      "name": "A Recap of The Last of Us' Previous Showings",
+      "site_detail_url": "http://www.giantbomb.com/videos/a-recap-of-the-last-of-us-previous-showings/2300-6436/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7439/",
+      "id": 7439,
+      "name": "I Love Mondays 06-03-2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/i-love-mondays-06-03-2013/2300-7439/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7467/",
+      "id": 7467,
+      "name": "Quick Look: The Last of Us",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-the-last-of-us/2300-7467/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7529/",
+      "id": 7529,
+      "name": "E3 2013: The Last of Us Comes Out Very Soon",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-the-last-of-us-comes-out-very-soon/2300-7529/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7626/",
+      "id": 7626,
+      "name": "Thursday Night Throwdown: 06/20/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/thursday-night-throwdown-06-20-2013/2300-7626/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8226/",
+      "id": 8226,
+      "name": "Ellie's Alone in The Last of Us: Left Behind",
+      "site_detail_url": "http://www.giantbomb.com/videos/ellie-s-alone-in-the-last-of-us-left-behind/2300-8226/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8324/",
+      "id": 8324,
+      "name": "Game of the Year 2013: Day One Recap",
+      "site_detail_url": "http://www.giantbomb.com/videos/game-of-the-year-2013-day-one-recap/2300-8324/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8325/",
+      "id": 8325,
+      "name": "Game of the Year 2013: Day Two Recap",
+      "site_detail_url": "http://www.giantbomb.com/videos/game-of-the-year-2013-day-two-recap/2300-8325/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8326/",
+      "id": 8326,
+      "name": "Game of the Year 2013: Day Three Recap",
+      "site_detail_url": "http://www.giantbomb.com/videos/game-of-the-year-2013-day-three-recap/2300-8326/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8328/",
+      "id": 8328,
+      "name": "Game of the Year 2013: Day Five Recap",
+      "site_detail_url": "http://www.giantbomb.com/videos/game-of-the-year-2013-day-five-recap/2300-8328/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8395/",
+      "id": 8395,
+      "name": "Here Are the Opening Minutes of The Last of Us' Left Behind DLC",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-are-the-opening-minutes-of-the-last-of-us-lef/2300-8395/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9043/",
+      "id": 9043,
+      "name": "E3 2014: There's Something in the Way of The Last of Us Remastered",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2014-theres-something-in-the-way-of-the-last-of/2300-9043/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9276/",
+      "id": 9276,
+      "name": "Quick Look: The Last of Us Remastered",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-the-last-of-us-remastered/2300-9276/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-11/",
+      "id": 11,
+      "name": "Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shooter&wikiTypeId=3060&wikiId=11&genre=11"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-122697/",
+      "id": 122697,
+      "name": "The Last of Us",
+      "site_detail_url": "http://www.giantbomb.com/the-last-of-us/3030-36989/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-122698/",
+      "id": 122698,
+      "name": "The Last of Us",
+      "site_detail_url": "http://www.giantbomb.com/the-last-of-us/3030-36989/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125167/",
+      "id": 125167,
+      "name": "The Last of Us",
+      "site_detail_url": "http://www.giantbomb.com/the-last-of-us/3030-36989/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127840/",
+      "id": 127840,
+      "name": "The Last of Us",
+      "site_detail_url": "http://www.giantbomb.com/the-last-of-us/3030-36989/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128084/",
+      "id": 128084,
+      "name": "The Last of Us (Joel Edition)",
+      "site_detail_url": "http://www.giantbomb.com/the-last-of-us/3030-36989/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128085/",
+      "id": 128085,
+      "name": "The Last of Us (Ellie Edition)",
+      "site_detail_url": "http://www.giantbomb.com/the-last-of-us/3030-36989/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132127/",
+      "id": 132127,
+      "name": "The Last of Us (Post-Pandemic Edition)",
+      "site_detail_url": "http://www.giantbomb.com/the-last-of-us/3030-36989/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132128/",
+      "id": 132128,
+      "name": "The Last of Us (Survival Edition)",
+      "site_detail_url": "http://www.giantbomb.com/the-last-of-us/3030-36989/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133844/",
+      "id": 133844,
+      "name": "The Last of Us: Remastered",
+      "site_detail_url": "http://www.giantbomb.com/the-last-of-us/3030-36989/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133845/",
+      "id": 133845,
+      "name": "The Last of Us: Remastered",
+      "site_detail_url": "http://www.giantbomb.com/the-last-of-us/3030-36989/releases/"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-39576/",
+  "deck": "From the developer of SpaceChem, Ironclad Tactics is a realtime tactical card game set in an alternate-historical version of the American Civil War in which steam-powered robots rule the battlefield.",
+  "id": 39576,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2557158-7107997127-60ec4.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2557158-7107997127-60ec4.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2557158-7107997127-60ec4.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2557158-7107997127-60ec4.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2557158-7107997127-60ec4.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2557158-7107997127-60ec4.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2557158-7107997127-60ec4.png"
+  },
+  "name": "Ironclad Tactics",
+  "original_release_date": "2013-09-18 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/ironclad-tactics/3030-39576/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2557158-7107997127-60ec4.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2557158-7107997127-60ec4.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2557158-7107997127-60ec4.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2557158-7107997127-60ec4.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/17/171291/2557158-7107997127-60ec4.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/17/171291/2557158-7107997127-60ec4.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/17/171291/2557158-7107997127-60ec4.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2541679-dsc05259.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2541679-dsc05259.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2541679-dsc05259.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2541679-dsc05259.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2541679-dsc05259.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2541679-dsc05259.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2541679-dsc05259.jpg",
+      "tags": "All Images, Indie Mega Booth, PAX Prime 2013, PAX Prime 2013 Booth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/81005/2305398-ironclad.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/81005/2305398-ironclad.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/81005/2305398-ironclad.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/81005/2305398-ironclad.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/81005/2305398-ironclad.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/81005/2305398-ironclad.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/81005/2305398-ironclad.png",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-12/",
+      "id": 12,
+      "name": "Real-Time Strategy",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=real-time-strategy&wikiTypeId=3060&wikiId=12&genre=12"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-13/",
+      "id": 13,
+      "name": "Card Game",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=card-game&wikiTypeId=3060&wikiId=13&genre=13"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-129606/",
+      "id": 129606,
+      "name": "Ironclad Tactics",
+      "site_detail_url": "http://www.giantbomb.com/ironclad-tactics/3030-39576/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-129607/",
+      "id": 129607,
+      "name": "Ironclad Tactics",
+      "site_detail_url": "http://www.giantbomb.com/ironclad-tactics/3030-39576/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-129608/",
+      "id": 129608,
+      "name": "Ironclad Tactics",
+      "site_detail_url": "http://www.giantbomb.com/ironclad-tactics/3030-39576/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130086/",
+      "id": 130086,
+      "name": "Ironclad Tactics",
+      "site_detail_url": "http://www.giantbomb.com/ironclad-tactics/3030-39576/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130087/",
+      "id": 130087,
+      "name": "Ironclad Tactics",
+      "site_detail_url": "http://www.giantbomb.com/ironclad-tactics/3030-39576/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-130088/",
+      "id": 130088,
+      "name": "Ironclad Tactics",
+      "site_detail_url": "http://www.giantbomb.com/ironclad-tactics/3030-39576/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-139532/",
+      "id": 139532,
+      "name": "Ironclad Tactics",
+      "site_detail_url": "http://www.giantbomb.com/ironclad-tactics/3030-39576/releases/"
+    }
+  ]
+}

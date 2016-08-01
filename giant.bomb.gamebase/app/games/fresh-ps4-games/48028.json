@@ -1,0 +1,53 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48028/",
+  "deck": "The second game based on the Tadeo Jones franchise.",
+  "id": 48028,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2690527-1480814517-51a6J.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2690527-1480814517-51a6J.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2690527-1480814517-51a6J.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2690527-1480814517-51a6J.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2690527-1480814517-51a6J.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2690527-1480814517-51a6J.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2690527-1480814517-51a6J.jpg"
+  },
+  "name": "Tadeo Jones Y El Manuscrito Perdido",
+  "original_release_date": "2014-11-14 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/tadeo-jones-y-el-manuscrito-perdido/3030-48028/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2690527-1480814517-51a6J.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2690527-1480814517-51a6J.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2690527-1480814517-51a6J.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2690527-1480814517-51a6J.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2690527-1480814517-51a6J.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2690527-1480814517-51a6J.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2690527-1480814517-51a6J.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": []
+}

@@ -1,0 +1,79 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-54007/",
+  "deck": "An enhanced re-release of Flying Wild Hog's cyberpunk shooter. The Redux version includes new weapons, abilities, and remixed level designs not seen in the original release alongside graphical improvements.",
+  "id": 54007,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2856383-4680427129-14539.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2856383-4680427129-14539.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2856383-4680427129-14539.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2856383-4680427129-14539.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2856383-4680427129-14539.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2856383-4680427129-14539.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2856383-4680427129-14539.jpg"
+  },
+  "name": "Hard Reset: Redux",
+  "original_release_date": "2016-06-03 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/hard-reset-redux/3030-54007/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/6/62561/2857700-hardreset01.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/6/62561/2857700-hardreset01.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/6/62561/2857700-hardreset01.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/6/62561/2857700-hardreset01.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/6/62561/2857700-hardreset01.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/6/62561/2857700-hardreset01.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/6/62561/2857700-hardreset01.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2856383-4680427129-14539.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2856383-4680427129-14539.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/10354/2856383-4680427129-14539.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/10354/2856383-4680427129-14539.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/10354/2856383-4680427129-14539.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/10354/2856383-4680427129-14539.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/10354/2856383-4680427129-14539.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-32/",
+      "id": 32,
+      "name": "First-Person Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=first-person-shooter&wikiTypeId=3060&wikiId=32&genre=32"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147866/",
+      "id": 147866,
+      "name": "Hard Reset: Redux",
+      "site_detail_url": "http://www.giantbomb.com/hard-reset-redux/3030-54007/releases/"
+    }
+  ]
+}

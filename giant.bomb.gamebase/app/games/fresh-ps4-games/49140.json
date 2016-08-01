@@ -1,0 +1,92 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49140/",
+  "deck": "fault -milestone one- is a kinetic novel developed by ALICE IN DISSONANCE.",
+  "id": 49140,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2732623-21155.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2732623-21155.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2732623-21155.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2732623-21155.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2732623-21155.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2732623-21155.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2732623-21155.jpg"
+  },
+  "name": "fault -milestone one-",
+  "original_release_date": "2013-08-09 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/fault-milestone-one/3030-49140/",
+  "images": [],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11348/",
+      "id": 11348,
+      "name": "E3 2016: Visual Novels Coming to the West with Fault: Milestone One",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2016-visual-novels-coming-to-the-west-with-faul/2300-11348/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-4/",
+      "id": 4,
+      "name": "Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=adventure&wikiTypeId=3060&wikiId=4&genre=4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-7/",
+      "id": 7,
+      "name": "Simulation",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=simulation&wikiTypeId=3060&wikiId=7&genre=7"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148418/",
+      "id": 148418,
+      "name": "fault -milestone one-",
+      "site_detail_url": "http://www.giantbomb.com/fault-milestone-one/3030-49140/releases/"
+    }
+  ]
+}

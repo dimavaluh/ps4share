@@ -1,0 +1,135 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-45581/",
+  "deck": "Shadow Blade is a fast-paced ninja game.",
+  "id": 45581,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2606949-1034732352-Shado.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2606949-1034732352-Shado.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2606949-1034732352-Shado.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2606949-1034732352-Shado.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2606949-1034732352-Shado.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2606949-1034732352-Shado.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2606949-1034732352-Shado.png"
+  },
+  "name": "Shadow Blade",
+  "original_release_date": "2014-01-16 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-96/",
+      "id": 96,
+      "name": "iPhone",
+      "site_detail_url": "http://www.giantbomb.com/iphone/3045-96/",
+      "abbreviation": "IPHN"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-121/",
+      "id": 121,
+      "name": "iPad",
+      "site_detail_url": "http://www.giantbomb.com/ipad/3045-121/",
+      "abbreviation": "IPAD"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-123/",
+      "id": 123,
+      "name": "Android",
+      "site_detail_url": "http://www.giantbomb.com/android/3045-123/",
+      "abbreviation": "ANDR"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-154/",
+      "id": 154,
+      "name": "Ouya",
+      "site_detail_url": "http://www.giantbomb.com/ouya/3045-154/",
+      "abbreviation": "OUYA"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/shadow-blade/3030-45581/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2606949-1034732352-Shado.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2606949-1034732352-Shado.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2606949-1034732352-Shado.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2606949-1034732352-Shado.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2606949-1034732352-Shado.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2606949-1034732352-Shado.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2606949-1034732352-Shado.png",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133248/",
+      "id": 133248,
+      "name": "Shadow Blade",
+      "site_detail_url": "http://www.giantbomb.com/shadow-blade/3030-45581/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133249/",
+      "id": 133249,
+      "name": "Shadow Blade",
+      "site_detail_url": "http://www.giantbomb.com/shadow-blade/3030-45581/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133250/",
+      "id": 133250,
+      "name": "Shadow Blade",
+      "site_detail_url": "http://www.giantbomb.com/shadow-blade/3030-45581/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147873/",
+      "id": 147873,
+      "name": "Shadow Blade: Reload",
+      "site_detail_url": "http://www.giantbomb.com/shadow-blade/3030-45581/releases/"
+    }
+  ]
+}

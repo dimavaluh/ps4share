@@ -1,0 +1,84 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-47361/",
+  "deck": "A remake of Tearaway retooled for the PS4 and the DualShock 4 controller.",
+  "id": 47361,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2781337-tearaway%20unfolded%20v1.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2781337-tearaway%20unfolded%20v1.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2781337-tearaway%20unfolded%20v1.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2781337-tearaway%20unfolded%20v1.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2781337-tearaway%20unfolded%20v1.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2781337-tearaway%20unfolded%20v1.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2781337-tearaway%20unfolded%20v1.jpg"
+  },
+  "name": "Tearaway Unfolded",
+  "original_release_date": "2015-09-08 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/tearaway-unfolded/3030-47361/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/3699/2781337-tearaway+unfolded+v1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/3699/2781337-tearaway+unfolded+v1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/3699/2781337-tearaway+unfolded+v1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/3699/2781337-tearaway+unfolded+v1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/3699/2781337-tearaway+unfolded+v1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/3699/2781337-tearaway+unfolded+v1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/3699/2781337-tearaway+unfolded+v1.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2669535-tearawayunfolded.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2669535-tearawayunfolded.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/14741/2669535-tearawayunfolded.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/14741/2669535-tearawayunfolded.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/14741/2669535-tearawayunfolded.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/14741/2669535-tearawayunfolded.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/14741/2669535-tearawayunfolded.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10653/",
+      "id": 10653,
+      "name": "Quick Look: Tearaway Unfolded",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-tearaway-unfolded/2300-10653/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142980/",
+      "id": 142980,
+      "name": "Tearaway Unfolded",
+      "site_detail_url": "http://www.giantbomb.com/tearaway-unfolded/3030-47361/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142981/",
+      "id": 142981,
+      "name": "Tearaway Unfolded",
+      "site_detail_url": "http://www.giantbomb.com/tearaway-unfolded/3030-47361/releases/"
+    }
+  ]
+}

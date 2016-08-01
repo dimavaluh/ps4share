@@ -1,0 +1,96 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49367/",
+  "deck": "Castles is a match three puzzle game that requires players to use engineers to move blocks on a 5 x 5 grid in order to gather supplies required to continue building the tower.",
+  "id": 49367,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2741214-castles-720x380.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2741214-castles-720x380.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2741214-castles-720x380.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2741214-castles-720x380.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2741214-castles-720x380.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2741214-castles-720x380.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2741214-castles-720x380.jpg"
+  },
+  "name": "Castles",
+  "original_release_date": "2016-06-28 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/castles/3030-49367/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2741214-castles-720x380.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2741214-castles-720x380.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2741214-castles-720x380.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2741214-castles-720x380.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2741214-castles-720x380.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2741214-castles-720x380.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2741214-castles-720x380.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2733863-dsc07592.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2733863-dsc07592.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2733863-dsc07592.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2733863-dsc07592.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2733863-dsc07592.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2733863-dsc07592.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2733863-dsc07592.jpg",
+      "tags": "All Images, Badland Games, PAX East 2015 Booth, PAX East 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2733862-dsc07591.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2733862-dsc07591.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2733862-dsc07591.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2733862-dsc07591.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2733862-dsc07591.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2733862-dsc07591.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2733862-dsc07591.jpg",
+      "tags": "All Images, Badland Games, PAX East 2015 Booth, PAX East 2015"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-18/",
+      "id": 18,
+      "name": "Puzzle",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=puzzle&wikiTypeId=3060&wikiId=18&genre=18"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148308/",
+      "id": 148308,
+      "name": "Castles",
+      "site_detail_url": "http://www.giantbomb.com/castles/3030-49367/releases/"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49237/",
+  "deck": "A new entry in Spike Chunsoft's Mystery Dungeon series.",
+  "id": 49237,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2770238-8842294537-pljs70028_jacket",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2770238-8842294537-pljs70028_jacket",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2770238-8842294537-pljs70028_jacket",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2770238-8842294537-pljs70028_jacket",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2770238-8842294537-pljs70028_jacket",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2770238-8842294537-pljs70028_jacket",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2770238-8842294537-pljs70028_jacket"
+  },
+  "name": "Mystery Chronicle: One Way Heroics",
+  "original_release_date": "2015-07-30 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/mystery-chronicle-one-way-heroics/3030-49237/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2770238-8842294537-pljs70028_jacket",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2770238-8842294537-pljs70028_jacket",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2770238-8842294537-pljs70028_jacket",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2770238-8842294537-pljs70028_jacket",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2770238-8842294537-pljs70028_jacket",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2770238-8842294537-pljs70028_jacket",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2770238-8842294537-pljs70028_jacket",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141297/",
+      "id": 141297,
+      "name": "Fushigi no Chronicle: Furikaerimasen Katsu Madewa",
+      "site_detail_url": "http://www.giantbomb.com/mystery-chronicle-one-way-heroics/3030-49237/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142829/",
+      "id": 142829,
+      "name": "Fushigi no Chronicle: Furikaerimasen Katsu Madewa",
+      "site_detail_url": "http://www.giantbomb.com/mystery-chronicle-one-way-heroics/3030-49237/releases/"
+    }
+  ]
+}

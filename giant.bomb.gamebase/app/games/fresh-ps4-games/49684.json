@@ -1,0 +1,74 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49684/",
+  "deck": "The thirteenth entry in the Romance of the Three Kingdoms franchise.",
+  "id": 49684,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2804808-0292900791-latest",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2804808-0292900791-latest",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2804808-0292900791-latest",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2804808-0292900791-latest",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2804808-0292900791-latest",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2804808-0292900791-latest",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2804808-0292900791-latest"
+  },
+  "name": "Romance of the Three Kingdoms XIII",
+  "original_release_date": "2016-01-28 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/romance-of-the-three-kingdoms-xiii/3030-49684/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2804808-0292900791-latest",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2804808-0292900791-latest",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2804808-0292900791-latest",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2804808-0292900791-latest",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2804808-0292900791-latest",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2804808-0292900791-latest",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2804808-0292900791-latest",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-2/",
+      "id": 2,
+      "name": "Strategy",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=strategy&wikiTypeId=3060&wikiId=2&genre=2"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-7/",
+      "id": 7,
+      "name": "Simulation",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=simulation&wikiTypeId=3060&wikiId=7&genre=7"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141660/",
+      "id": 141660,
+      "name": "Sangokushi 13",
+      "site_detail_url": "http://www.giantbomb.com/romance-of-the-three-kingdoms-xiii/3030-49684/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148389/",
+      "id": 148389,
+      "name": "Romance of the Three Kingdoms XIII",
+      "site_detail_url": "http://www.giantbomb.com/romance-of-the-three-kingdoms-xiii/3030-49684/releases/"
+    }
+  ]
+}

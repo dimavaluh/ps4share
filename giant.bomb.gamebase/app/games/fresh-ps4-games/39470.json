@@ -1,0 +1,62 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-39470/",
+  "deck": "Bowling game released for PSN. It features an anime art style along with wacky bear shenanigans.",
+  "id": 39470,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2299138-1616__525x300_customize_icon.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2299138-1616__525x300_customize_icon.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2299138-1616__525x300_customize_icon.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2299138-1616__525x300_customize_icon.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2299138-1616__525x300_customize_icon.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2299138-1616__525x300_customize_icon.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2299138-1616__525x300_customize_icon.jpg"
+  },
+  "name": "Crazy Strike Bowling",
+  "original_release_date": "2016-05-25 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/crazy-strike-bowling/3030-39470/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/163353/2299138-1616__525x300_customize_icon.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/163353/2299138-1616__525x300_customize_icon.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/163353/2299138-1616__525x300_customize_icon.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/163353/2299138-1616__525x300_customize_icon.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/163353/2299138-1616__525x300_customize_icon.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/163353/2299138-1616__525x300_customize_icon.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/163353/2299138-1616__525x300_customize_icon.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-29/",
+      "id": 29,
+      "name": "Bowling",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=bowling&wikiTypeId=3060&wikiId=29&genre=29"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147771/",
+      "id": 147771,
+      "name": "Crazy Strike Bowling",
+      "site_detail_url": "http://www.giantbomb.com/crazy-strike-bowling/3030-39470/releases/"
+    }
+  ]
+}

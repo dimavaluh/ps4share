@@ -1,0 +1,562 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-47342/",
+  "deck": "An episodic adventure game based around time manipulation from Remember Me developers DONTNOD.",
+  "id": 47342,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2721398-rsz_image.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2721398-rsz_image.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2721398-rsz_image.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2721398-rsz_image.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2721398-rsz_image.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2721398-rsz_image.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2721398-rsz_image.jpg"
+  },
+  "name": "Life Is Strange",
+  "original_release_date": "2015-01-30 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+      "id": 86,
+      "name": "Xbox 360 Games Store",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+      "abbreviation": "XBGS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/life-is-strange/3030-47342/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2825721-lifeisstrangefront.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2825721-lifeisstrangefront.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2825721-lifeisstrangefront.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2825721-lifeisstrangefront.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2825721-lifeisstrangefront.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2825721-lifeisstrangefront.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2825721-lifeisstrangefront.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2825720-lifeisstrangespine.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2825720-lifeisstrangespine.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2825720-lifeisstrangespine.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2825720-lifeisstrangespine.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2825720-lifeisstrangespine.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2825720-lifeisstrangespine.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2825720-lifeisstrangespine.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2825719-lifeisstrangetop.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2825719-lifeisstrangetop.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2825719-lifeisstrangetop.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2825719-lifeisstrangetop.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2825719-lifeisstrangetop.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2825719-lifeisstrangetop.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2825719-lifeisstrangetop.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2825718-lifeisstrangeback.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2825718-lifeisstrangeback.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2825718-lifeisstrangeback.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2825718-lifeisstrangeback.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2825718-lifeisstrangeback.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2825718-lifeisstrangeback.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2825718-lifeisstrangeback.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2819507-6712662440-oneff.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2819507-6712662440-oneff.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2819507-6712662440-oneff.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2819507-6712662440-oneff.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/94709/2819507-6712662440-oneff.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/94709/2819507-6712662440-oneff.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/94709/2819507-6712662440-oneff.jpg",
+      "tags": "All Images, Concept and Model Art, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2819506-5635317336-osgq9.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2819506-5635317336-osgq9.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2819506-5635317336-osgq9.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2819506-5635317336-osgq9.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/94709/2819506-5635317336-osgq9.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/94709/2819506-5635317336-osgq9.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/94709/2819506-5635317336-osgq9.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2819505-5203424743-rkihk.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2819505-5203424743-rkihk.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2819505-5203424743-rkihk.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2819505-5203424743-rkihk.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/94709/2819505-5203424743-rkihk.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/94709/2819505-5203424743-rkihk.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/94709/2819505-5203424743-rkihk.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2819504-8394836035-ehlsb.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2819504-8394836035-ehlsb.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2819504-8394836035-ehlsb.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2819504-8394836035-ehlsb.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/94709/2819504-8394836035-ehlsb.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/94709/2819504-8394836035-ehlsb.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/94709/2819504-8394836035-ehlsb.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2819503-0333973555-icx5f.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2819503-0333973555-icx5f.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2819503-0333973555-icx5f.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2819503-0333973555-icx5f.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/94709/2819503-0333973555-icx5f.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/94709/2819503-0333973555-icx5f.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/94709/2819503-0333973555-icx5f.jpg",
+      "tags": "All Images, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2819502-7969362657-trwwo.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2819502-7969362657-trwwo.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2819502-7969362657-trwwo.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2819502-7969362657-trwwo.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/94709/2819502-7969362657-trwwo.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/94709/2819502-7969362657-trwwo.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/94709/2819502-7969362657-trwwo.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/23/233984/2815297-319630_screenshots_2016-01-12_00002.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/23/233984/2815297-319630_screenshots_2016-01-12_00002.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/23/233984/2815297-319630_screenshots_2016-01-12_00002.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/23/233984/2815297-319630_screenshots_2016-01-12_00002.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/23/233984/2815297-319630_screenshots_2016-01-12_00002.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/23/233984/2815297-319630_screenshots_2016-01-12_00002.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/23/233984/2815297-319630_screenshots_2016-01-12_00002.jpg",
+      "tags": "All Images, Episode 4"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2812616-lis-ep03.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2812616-lis-ep03.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2812616-lis-ep03.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2812616-lis-ep03.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/94709/2812616-lis-ep03.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/94709/2812616-lis-ep03.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/94709/2812616-lis-ep03.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2812485-9691007128-28647.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2812485-9691007128-28647.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2812485-9691007128-28647.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2812485-9691007128-28647.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/94709/2812485-9691007128-28647.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/94709/2812485-9691007128-28647.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/94709/2812485-9691007128-28647.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/11660/2808908-download+%283%29.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/11660/2808908-download+%283%29.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/11660/2808908-download+%283%29.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/11660/2808908-download+%283%29.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/11660/2808908-download+%283%29.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/11660/2808908-download+%283%29.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/11660/2808908-download+%283%29.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/11660/2808906-download+%281%29.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/11660/2808906-download+%281%29.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/11660/2808906-download+%281%29.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/11660/2808906-download+%281%29.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/11660/2808906-download+%281%29.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/11660/2808906-download+%281%29.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/11660/2808906-download+%281%29.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2802647-0053251755-91ylS.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2802647-0053251755-91ylS.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2802647-0053251755-91ylS.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2802647-0053251755-91ylS.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2802647-0053251755-91ylS.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2802647-0053251755-91ylS.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2802647-0053251755-91ylS.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2802646-6063940899-919w0.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2802646-6063940899-919w0.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2802646-6063940899-919w0.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2802646-6063940899-919w0.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2802646-6063940899-919w0.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2802646-6063940899-919w0.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2802646-6063940899-919w0.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793215-2005163375-life%25.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793215-2005163375-life%25.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793215-2005163375-life%25.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793215-2005163375-life%25.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/94709/2793215-2005163375-life%25.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/94709/2793215-2005163375-life%25.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/94709/2793215-2005163375-life%25.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793214-6748498429-2015-.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793214-6748498429-2015-.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793214-6748498429-2015-.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793214-6748498429-2015-.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/94709/2793214-6748498429-2015-.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/94709/2793214-6748498429-2015-.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/94709/2793214-6748498429-2015-.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793213-9348252458-lifei.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793213-9348252458-lifei.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793213-9348252458-lifei.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793213-9348252458-lifei.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/94709/2793213-9348252458-lifei.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/94709/2793213-9348252458-lifei.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/94709/2793213-9348252458-lifei.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793212-9132974171-maxre.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793212-9132974171-maxre.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793212-9132974171-maxre.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793212-9132974171-maxre.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/94709/2793212-9132974171-maxre.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/94709/2793212-9132974171-maxre.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/94709/2793212-9132974171-maxre.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793211-5334515882-13654.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793211-5334515882-13654.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793211-5334515882-13654.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793211-5334515882-13654.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/94709/2793211-5334515882-13654.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/94709/2793211-5334515882-13654.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/94709/2793211-5334515882-13654.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793210-0670242761-life-.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793210-0670242761-life-.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793210-0670242761-life-.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793210-0670242761-life-.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/94709/2793210-0670242761-life-.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/94709/2793210-0670242761-life-.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/94709/2793210-0670242761-life-.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793209-6610832222-lis-4.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793209-6610832222-lis-4.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793209-6610832222-lis-4.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793209-6610832222-lis-4.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/94709/2793209-6610832222-lis-4.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/94709/2793209-6610832222-lis-4.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/94709/2793209-6610832222-lis-4.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793202-3450550782-maxre.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793202-3450550782-maxre.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793202-3450550782-maxre.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793202-3450550782-maxre.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/94709/2793202-3450550782-maxre.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/94709/2793202-3450550782-maxre.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/94709/2793202-3450550782-maxre.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793196-1794034940-tumbl.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793196-1794034940-tumbl.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793196-1794034940-tumbl.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793196-1794034940-tumbl.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/94709/2793196-1794034940-tumbl.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/94709/2793196-1794034940-tumbl.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/94709/2793196-1794034940-tumbl.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793195-6739101651-maxre.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793195-6739101651-maxre.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793195-6739101651-maxre.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793195-6739101651-maxre.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/94709/2793195-6739101651-maxre.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/94709/2793195-6739101651-maxre.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/94709/2793195-6739101651-maxre.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793194-5904856985-10925.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793194-5904856985-10925.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793194-5904856985-10925.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793194-5904856985-10925.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/94709/2793194-5904856985-10925.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/94709/2793194-5904856985-10925.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/94709/2793194-5904856985-10925.jpg",
+      "tags": "All Images, Concept and Model Art, Concept Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793193-5092865827-20141.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793193-5092865827-20141.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793193-5092865827-20141.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793193-5092865827-20141.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/94709/2793193-5092865827-20141.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/94709/2793193-5092865827-20141.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/94709/2793193-5092865827-20141.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793192-1980375765-tumbl.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793192-1980375765-tumbl.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/94709/2793192-1980375765-tumbl.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/94709/2793192-1980375765-tumbl.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/94709/2793192-1980375765-tumbl.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/94709/2793192-1980375765-tumbl.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/94709/2793192-1980375765-tumbl.jpg",
+      "tags": "All Images, Concept and Model Art"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9806/",
+      "id": 9806,
+      "name": "Life Is Strange Kicks Off Episodic Time Travel in January",
+      "site_detail_url": "http://www.giantbomb.com/videos/life-is-strange-kicks-off-episodic-time-travel-in-/2300-9806/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9834/",
+      "id": 9834,
+      "name": "The Developers at DONTNOD Talk About Their Upcoming Game, Life Is Strange",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-developers-at-dontnod-talk-about-their-upcomin/2300-9834/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9890/",
+      "id": 9890,
+      "name": "Quick Look: Life Is Strange",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-life-is-strange/2300-9890/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10037/",
+      "id": 10037,
+      "name": "Life Is Strange's Second Episode Drops Next Week",
+      "site_detail_url": "http://www.giantbomb.com/videos/life-is-strange-s-second-episode-drops-next-week/2300-10037/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10396/",
+      "id": 10396,
+      "name": "E3 2015: Max's Powers Continue to Prove That Life Is Strange in Oregon",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2015-max-s-powers-continue-to-prove-that-life-i/2300-10396/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10521/",
+      "id": 10521,
+      "name": "A Storm Is Brewing in Life Is Strange",
+      "site_detail_url": "http://www.giantbomb.com/videos/a-storm-is-brewing-in-life-is-strange/2300-10521/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10767/",
+      "id": 10767,
+      "name": "Choose Our Own Adventure!: 10/14/2015 (Life is Strange)",
+      "site_detail_url": "http://www.giantbomb.com/videos/choose-our-own-adventure-10142015-life-is-strange/2300-10767/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10787/",
+      "id": 10787,
+      "name": "Life Is Strange's Final Episode Is Out Now",
+      "site_detail_url": "http://www.giantbomb.com/videos/life-is-stranges-final-episode-is-out-now/2300-10787/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10788/",
+      "id": 10788,
+      "name": "Choose Our Own Adventure!: 10/20/2015 (Life is Strange)",
+      "site_detail_url": "http://www.giantbomb.com/videos/choose-our-own-adventure-10202015-life-is-strange/2300-10788/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10825/",
+      "id": 10825,
+      "name": "Choose Our Own Adventure!: 11/04/2015 (Life is Strange)",
+      "site_detail_url": "http://www.giantbomb.com/videos/choose-our-own-adventure-11042015-life-is-strange/2300-10825/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10880/",
+      "id": 10880,
+      "name": "GBE Playdate: Life is Strange (11/20/2015)",
+      "site_detail_url": "http://www.giantbomb.com/videos/gbe-playdate-life-is-strange-11202015/2300-10880/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10912/",
+      "id": 10912,
+      "name": "GBE Playdate: Life is Strange (12/11/2015)",
+      "site_detail_url": "http://www.giantbomb.com/videos/gbe-playdate-life-is-strange-12112015/2300-10912/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10934/",
+      "id": 10934,
+      "name": "GBE Playdate: Life is Strange (01/08/2016)",
+      "site_detail_url": "http://www.giantbomb.com/videos/gbe-playdate-life-is-strange-01082016/2300-10934/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10944/",
+      "id": 10944,
+      "name": "GBE Playdate: Life is Strange (01/15/2016)",
+      "site_detail_url": "http://www.giantbomb.com/videos/gbe-playdate-life-is-strange-01152016/2300-10944/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-4/",
+      "id": 4,
+      "name": "Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=adventure&wikiTypeId=3060&wikiId=4&genre=4"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-139577/",
+      "id": 139577,
+      "name": "Life Is Strange: Episode One",
+      "site_detail_url": "http://www.giantbomb.com/life-is-strange/3030-47342/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-139673/",
+      "id": 139673,
+      "name": "Life Is Strange: Episode One",
+      "site_detail_url": "http://www.giantbomb.com/life-is-strange/3030-47342/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-139674/",
+      "id": 139674,
+      "name": "Life Is Strange: Episode One",
+      "site_detail_url": "http://www.giantbomb.com/life-is-strange/3030-47342/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-139675/",
+      "id": 139675,
+      "name": "Life Is Strange: Episode One",
+      "site_detail_url": "http://www.giantbomb.com/life-is-strange/3030-47342/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-139676/",
+      "id": 139676,
+      "name": "Life Is Strange: Episode One",
+      "site_detail_url": "http://www.giantbomb.com/life-is-strange/3030-47342/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140004/",
+      "id": 140004,
+      "name": "Life Is Strange: Episode 1",
+      "site_detail_url": "http://www.giantbomb.com/life-is-strange/3030-47342/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140902/",
+      "id": 140902,
+      "name": "Life Is Strange - Episode 2: Out of Time",
+      "site_detail_url": "http://www.giantbomb.com/life-is-strange/3030-47342/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140915/",
+      "id": 140915,
+      "name": "Life Is Strange: Episode 2",
+      "site_detail_url": "http://www.giantbomb.com/life-is-strange/3030-47342/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143140/",
+      "id": 143140,
+      "name": "Life Is Strange: Episode 3",
+      "site_detail_url": "http://www.giantbomb.com/life-is-strange/3030-47342/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143141/",
+      "id": 143141,
+      "name": "Life Is Strange: Episode 4",
+      "site_detail_url": "http://www.giantbomb.com/life-is-strange/3030-47342/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144365/",
+      "id": 144365,
+      "name": "Life Is Strange: Episode 5",
+      "site_detail_url": "http://www.giantbomb.com/life-is-strange/3030-47342/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145065/",
+      "id": 145065,
+      "name": "Life is Strange: Limited Edition",
+      "site_detail_url": "http://www.giantbomb.com/life-is-strange/3030-47342/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145066/",
+      "id": 145066,
+      "name": "Life is Strange: Limited Edition",
+      "site_detail_url": "http://www.giantbomb.com/life-is-strange/3030-47342/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145493/",
+      "id": 145493,
+      "name": "PEGI Rating Label Life is Strange Limited Edition",
+      "site_detail_url": "http://www.giantbomb.com/life-is-strange/3030-47342/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145494/",
+      "id": 145494,
+      "name": "Life is Strange Limited Edition",
+      "site_detail_url": "http://www.giantbomb.com/life-is-strange/3030-47342/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145689/",
+      "id": 145689,
+      "name": "Life Is Strange Complete Season",
+      "site_detail_url": "http://www.giantbomb.com/life-is-strange/3030-47342/releases/"
+    }
+  ]
+}

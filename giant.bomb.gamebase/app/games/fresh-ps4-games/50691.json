@@ -1,0 +1,44 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-50691/",
+  "deck": "3D puzzle game designed by students at Sheffield Hallam University.",
+  "id": 50691,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2777255-4195799998-4058..png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2777255-4195799998-4058..png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2777255-4195799998-4058..png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2777255-4195799998-4058..png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2777255-4195799998-4058..png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2777255-4195799998-4058..png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2777255-4195799998-4058..png"
+  },
+  "name": "PieceFall",
+  "original_release_date": "2015-07-15 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/piecefall/3030-50691/",
+  "images": [],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-18/",
+      "id": 18,
+      "name": "Puzzle",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=puzzle&wikiTypeId=3060&wikiId=18&genre=18"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144103/",
+      "id": 144103,
+      "name": "PieceFall",
+      "site_detail_url": "http://www.giantbomb.com/piecefall/3030-50691/releases/"
+    }
+  ]
+}

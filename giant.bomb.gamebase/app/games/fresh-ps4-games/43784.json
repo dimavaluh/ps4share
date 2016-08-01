@@ -1,0 +1,119 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-43784/",
+  "deck": "Road Not Taken is a procedural generated roguelike puzzle game about rescuing children from a forest.",
+  "id": 43784,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2538188-rnt_teaser_image_2b.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2538188-rnt_teaser_image_2b.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2538188-rnt_teaser_image_2b.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2538188-rnt_teaser_image_2b.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2538188-rnt_teaser_image_2b.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2538188-rnt_teaser_image_2b.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2538188-rnt_teaser_image_2b.jpg"
+  },
+  "name": "Road Not Taken",
+  "original_release_date": "2014-08-05 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-96/",
+      "id": 96,
+      "name": "iPhone",
+      "site_detail_url": "http://www.giantbomb.com/iphone/3045-96/",
+      "abbreviation": "IPHN"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-121/",
+      "id": 121,
+      "name": "iPad",
+      "site_detail_url": "http://www.giantbomb.com/ipad/3045-121/",
+      "abbreviation": "IPAD"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/road-not-taken/3030-43784/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2665197-4728627915-Road-N.jpeg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2665197-4728627915-Road-N.jpeg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2665197-4728627915-Road-N.jpeg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2665197-4728627915-Road-N.jpeg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/17/171291/2665197-4728627915-Road-N.jpeg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/17/171291/2665197-4728627915-Road-N.jpeg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/17/171291/2665197-4728627915-Road-N.jpeg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2538188-rnt_teaser_image_2b.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2538188-rnt_teaser_image_2b.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2538188-rnt_teaser_image_2b.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2538188-rnt_teaser_image_2b.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/17/171291/2538188-rnt_teaser_image_2b.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/17/171291/2538188-rnt_teaser_image_2b.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/17/171291/2538188-rnt_teaser_image_2b.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9088/",
+      "id": 9088,
+      "name": "E3 2014: Road Not Taken is Puzzle Game About Life's Surprises",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2014-road-not-taken-is-puzzle-game-about-lifes-/2300-9088/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9315/",
+      "id": 9315,
+      "name": "Quick Look: Road Not Taken",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-road-not-taken/2300-9315/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-18/",
+      "id": 18,
+      "name": "Puzzle",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=puzzle&wikiTypeId=3060&wikiId=18&genre=18"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135707/",
+      "id": 135707,
+      "name": "Road Not Taken",
+      "site_detail_url": "http://www.giantbomb.com/road-not-taken/3030-43784/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135708/",
+      "id": 135708,
+      "name": "Road Not Taken",
+      "site_detail_url": "http://www.giantbomb.com/road-not-taken/3030-43784/releases/"
+    }
+  ]
+}

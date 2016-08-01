@@ -1,0 +1,87 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-46389/",
+  "deck": "Harmonix is going back to its roots and producing a new Amplitude for PS3 and PS4.",
+  "id": 46389,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2635611-news_letter.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2635611-news_letter.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2635611-news_letter.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2635611-news_letter.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2635611-news_letter.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2635611-news_letter.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2635611-news_letter.jpg"
+  },
+  "name": "Amplitude",
+  "original_release_date": "2016-01-05 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/amplitude/3030-46389/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/2635611-news_letter.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/2635611-news_letter.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/2635611-news_letter.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/2635611-news_letter.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/2635611-news_letter.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/26/2635611-news_letter.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/2635611-news_letter.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9987/",
+      "id": 9987,
+      "name": "Here's Video of Harmonix's Amplitude in Action, Including its New Team Play Mode",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-video-of-harmonix-s-amplitude-in-action-inc/2300-9987/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10931/",
+      "id": 10931,
+      "name": "Quick Look: Amplitude",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-amplitude/2300-10931/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-19/",
+      "id": 19,
+      "name": "Music/Rhythm",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=musicrhythm&wikiTypeId=3060&wikiId=19&genre=19"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142815/",
+      "id": 142815,
+      "name": "Amplitude",
+      "site_detail_url": "http://www.giantbomb.com/amplitude/3030-46389/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142816/",
+      "id": 142816,
+      "name": "Amplitude",
+      "site_detail_url": "http://www.giantbomb.com/amplitude/3030-46389/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145053/",
+      "id": 145053,
+      "name": "Amplitude",
+      "site_detail_url": "http://www.giantbomb.com/amplitude/3030-46389/releases/"
+    }
+  ]
+}

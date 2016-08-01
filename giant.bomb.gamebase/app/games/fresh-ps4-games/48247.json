@@ -1,0 +1,68 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48247/",
+  "deck": "Open world adventure about a high school student who joins the journalism club as a photographer and decides to \"report\" on all the beautiful girls in and around the school.",
+  "id": 48247,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2742961-rsz_natsuiro-high-school-seishun-hakusho_2015_04-16-15_001.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2742961-rsz_natsuiro-high-school-seishun-hakusho_2015_04-16-15_001.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2742961-rsz_natsuiro-high-school-seishun-hakusho_2015_04-16-15_001.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2742961-rsz_natsuiro-high-school-seishun-hakusho_2015_04-16-15_001.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2742961-rsz_natsuiro-high-school-seishun-hakusho_2015_04-16-15_001.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2742961-rsz_natsuiro-high-school-seishun-hakusho_2015_04-16-15_001.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2742961-rsz_natsuiro-high-school-seishun-hakusho_2015_04-16-15_001.jpg"
+  },
+  "name": "Natsuiro High School: Seishun Hakusho",
+  "original_release_date": "2015-06-04 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/natsuiro-high-school-seishun-hakusho/3030-48247/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2742961-rsz_natsuiro-high-school-seishun-hakusho_2015_04-16-15_001.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2742961-rsz_natsuiro-high-school-seishun-hakusho_2015_04-16-15_001.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2742961-rsz_natsuiro-high-school-seishun-hakusho_2015_04-16-15_001.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2742961-rsz_natsuiro-high-school-seishun-hakusho_2015_04-16-15_001.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2742961-rsz_natsuiro-high-school-seishun-hakusho_2015_04-16-15_001.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2742961-rsz_natsuiro-high-school-seishun-hakusho_2015_04-16-15_001.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2742961-rsz_natsuiro-high-school-seishun-hakusho_2015_04-16-15_001.jpg",
+      "tags": "All Images, Box Art"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-4/",
+      "id": 4,
+      "name": "Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=adventure&wikiTypeId=3060&wikiId=4&genre=4"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140519/",
+      "id": 140519,
+      "name": "Natsuiro High School: Seishun Hakusho",
+      "site_detail_url": "http://www.giantbomb.com/natsuiro-high-school-seishun-hakusho/3030-48247/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141244/",
+      "id": 141244,
+      "name": "Natsuiro High School: Seishun Hakusho",
+      "site_detail_url": "http://www.giantbomb.com/natsuiro-high-school-seishun-hakusho/3030-48247/releases/"
+    }
+  ]
+}

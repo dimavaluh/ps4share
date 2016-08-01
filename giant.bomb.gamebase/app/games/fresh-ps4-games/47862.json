@@ -1,0 +1,129 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-47862/",
+  "deck": "A third Sword Art Online game developed by Bandai Namco, this time set in the world of ALfheim Online.",
+  "id": 47862,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2699761-2873091865-614oX.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2699761-2873091865-614oX.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2699761-2873091865-614oX.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2699761-2873091865-614oX.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2699761-2873091865-614oX.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2699761-2873091865-614oX.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2699761-2873091865-614oX.jpg"
+  },
+  "name": "Sword Art Online: Lost Song",
+  "original_release_date": "2015-03-26 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/sword-art-online-lost-song/3030-47862/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/12/123805/2801973-113908b.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/12/123805/2801973-113908b.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/12/123805/2801973-113908b.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/12/123805/2801973-113908b.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/12/123805/2801973-113908b.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/12/123805/2801973-113908b.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/12/123805/2801973-113908b.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2699761-2873091865-614oX.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2699761-2873091865-614oX.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2699761-2873091865-614oX.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2699761-2873091865-614oX.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2699761-2873091865-614oX.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2699761-2873091865-614oX.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2699761-2873091865-614oX.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138620/",
+      "id": 138620,
+      "name": "Sword Art Online: Lost Song",
+      "site_detail_url": "http://www.giantbomb.com/sword-art-online-lost-song/3030-47862/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-139165/",
+      "id": 139165,
+      "name": "Sword Art Online: Lost Song",
+      "site_detail_url": "http://www.giantbomb.com/sword-art-online-lost-song/3030-47862/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-139166/",
+      "id": 139166,
+      "name": "Sword Art Online: Lost Song",
+      "site_detail_url": "http://www.giantbomb.com/sword-art-online-lost-song/3030-47862/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143078/",
+      "id": 143078,
+      "name": "Sword Art Online: Lost Song",
+      "site_detail_url": "http://www.giantbomb.com/sword-art-online-lost-song/3030-47862/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144721/",
+      "id": 144721,
+      "name": "Sword Art Online: Lost Song",
+      "site_detail_url": "http://www.giantbomb.com/sword-art-online-lost-song/3030-47862/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144722/",
+      "id": 144722,
+      "name": "Sword Art Online: Lost Song",
+      "site_detail_url": "http://www.giantbomb.com/sword-art-online-lost-song/3030-47862/releases/"
+    }
+  ]
+}

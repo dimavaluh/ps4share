@@ -1,0 +1,68 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-51756/",
+  "deck": "FarSight Studios has produced a PS4 and Xbox One bowling game with the Brunswick license.",
+  "id": 51756,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2803658-816yuuup7jl._sl1500_.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2803658-816yuuup7jl._sl1500_.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2803658-816yuuup7jl._sl1500_.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2803658-816yuuup7jl._sl1500_.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2803658-816yuuup7jl._sl1500_.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2803658-816yuuup7jl._sl1500_.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2803658-816yuuup7jl._sl1500_.jpg"
+  },
+  "name": "Brunswick Pro Bowling",
+  "original_release_date": "2015-11-24 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/brunswick-pro-bowling/3030-51756/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/2803658-816yuuup7jl._sl1500_.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/2803658-816yuuup7jl._sl1500_.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/2803658-816yuuup7jl._sl1500_.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/2803658-816yuuup7jl._sl1500_.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/2803658-816yuuup7jl._sl1500_.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/26/2803658-816yuuup7jl._sl1500_.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/2803658-816yuuup7jl._sl1500_.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-29/",
+      "id": 29,
+      "name": "Bowling",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=bowling&wikiTypeId=3060&wikiId=29&genre=29"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145109/",
+      "id": 145109,
+      "name": "Brunswick Pro Bowling",
+      "site_detail_url": "http://www.giantbomb.com/brunswick-pro-bowling/3030-51756/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146831/",
+      "id": 146831,
+      "name": "Brunswick Pro Bowling",
+      "site_detail_url": "http://www.giantbomb.com/brunswick-pro-bowling/3030-51756/releases/"
+    }
+  ]
+}

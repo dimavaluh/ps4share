@@ -1,0 +1,462 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49833/",
+  "deck": "The Fallout series continues in a post-apocalyptic Boston, Massachusetts.",
+  "id": 49833,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2795700-2356006370-64616.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2795700-2356006370-64616.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2795700-2356006370-64616.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2795700-2356006370-64616.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2795700-2356006370-64616.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2795700-2356006370-64616.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2795700-2356006370-64616.jpg"
+  },
+  "name": "Fallout 4",
+  "original_release_date": "2015-11-10 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/fallout-4/3030-49833/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2795700-2356006370-64616.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2795700-2356006370-64616.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2795700-2356006370-64616.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2795700-2356006370-64616.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2795700-2356006370-64616.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2795700-2356006370-64616.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2795700-2356006370-64616.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2795666-0416173671-Fallo.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2795666-0416173671-Fallo.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2795666-0416173671-Fallo.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2795666-0416173671-Fallo.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2795666-0416173671-Fallo.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2795666-0416173671-Fallo.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2795666-0416173671-Fallo.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2795665-0006109876-Fallo.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2795665-0006109876-Fallo.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2795665-0006109876-Fallo.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2795665-0006109876-Fallo.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2795665-0006109876-Fallo.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2795665-0006109876-Fallo.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2795665-0006109876-Fallo.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2795664-3168907376-Fallo.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2795664-3168907376-Fallo.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2795664-3168907376-Fallo.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2795664-3168907376-Fallo.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2795664-3168907376-Fallo.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2795664-3168907376-Fallo.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2795664-3168907376-Fallo.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2795663-8805964914-Fallo.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2795663-8805964914-Fallo.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2795663-8805964914-Fallo.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2795663-8805964914-Fallo.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2795663-8805964914-Fallo.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2795663-8805964914-Fallo.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2795663-8805964914-Fallo.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2795662-0947930578-Fallo.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2795662-0947930578-Fallo.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2795662-0947930578-Fallo.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2795662-0947930578-Fallo.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2795662-0947930578-Fallo.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2795662-0947930578-Fallo.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2795662-0947930578-Fallo.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780634-dsc08668.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780634-dsc08668.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780634-dsc08668.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780634-dsc08668.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2780634-dsc08668.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2780634-dsc08668.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2780634-dsc08668.jpg",
+      "tags": "All Images, Bethesda, PAX Prime 2015 Booth, PAX Prime 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780633-dsc08667.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780633-dsc08667.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780633-dsc08667.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780633-dsc08667.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2780633-dsc08667.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2780633-dsc08667.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2780633-dsc08667.jpg",
+      "tags": "All Images, Bethesda, PAX Prime 2015 Booth, PAX Prime 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780632-dsc08666.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780632-dsc08666.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780632-dsc08666.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780632-dsc08666.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2780632-dsc08666.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2780632-dsc08666.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2780632-dsc08666.jpg",
+      "tags": "All Images, Bethesda, PAX Prime 2015 Booth, PAX Prime 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780631-dsc08665.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780631-dsc08665.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780631-dsc08665.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780631-dsc08665.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2780631-dsc08665.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2780631-dsc08665.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2780631-dsc08665.jpg",
+      "tags": "All Images, Bethesda, PAX Prime 2015 Booth, PAX Prime 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780630-dsc08664.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780630-dsc08664.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2780630-dsc08664.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2780630-dsc08664.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2780630-dsc08664.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2780630-dsc08664.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2780630-dsc08664.jpg",
+      "tags": "All Images, Bethesda, PAX Prime 2015 Booth, PAX Prime 2015"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/2770576-weaponmodsreqs.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/2770576-weaponmodsreqs.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/2770576-weaponmodsreqs.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/2770576-weaponmodsreqs.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/46/2770576-weaponmodsreqs.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/46/2770576-weaponmodsreqs.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/46/2770576-weaponmodsreqs.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/2770575-weaponmodsex.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/2770575-weaponmodsex.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/2770575-weaponmodsex.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/2770575-weaponmodsex.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/46/2770575-weaponmodsex.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/46/2770575-weaponmodsex.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/46/2770575-weaponmodsex.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/2770574-tradingstand.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/2770574-tradingstand.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/2770574-tradingstand.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/2770574-tradingstand.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/46/2770574-tradingstand.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/46/2770574-tradingstand.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/46/2770574-tradingstand.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/2770573-special.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/2770573-special.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/2770573-special.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/2770573-special.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/46/2770573-special.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/46/2770573-special.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/46/2770573-special.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/2770572-powerterminal.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/2770572-powerterminal.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/2770572-powerterminal.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/2770572-powerterminal.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/46/2770572-powerterminal.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/46/2770572-powerterminal.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/46/2770572-powerterminal.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/2770571-powergenerator.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/2770571-powergenerator.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/2770571-powergenerator.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/2770571-powergenerator.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/46/2770571-powergenerator.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/46/2770571-powergenerator.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/46/2770571-powergenerator.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/2770570-house.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/2770570-house.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/2770570-house.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/2770570-house.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/46/2770570-house.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/46/2770570-house.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/46/2770570-house.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/2770568-defenses.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/2770568-defenses.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/2770568-defenses.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/2770568-defenses.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/46/2770568-defenses.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/46/2770568-defenses.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/46/2770568-defenses.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/2770567-armormodsex.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/2770567-armormodsex.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/46/2770567-armormodsex.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/46/2770567-armormodsex.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/46/2770567-armormodsex.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/46/2770567-armormodsex.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/46/2770567-armormodsex.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/81005/2754782-1407608692-capsu.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/81005/2754782-1407608692-capsu.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/81005/2754782-1407608692-capsu.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/81005/2754782-1407608692-capsu.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/81005/2754782-1407608692-capsu.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/81005/2754782-1407608692-capsu.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/81005/2754782-1407608692-capsu.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/27436/2754722-fallout4.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/27436/2754722-fallout4.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/27436/2754722-fallout4.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/27436/2754722-fallout4.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/27436/2754722-fallout4.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/27436/2754722-fallout4.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/27436/2754722-fallout4.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2754695-i8ujmxd.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2754695-i8ujmxd.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2754695-i8ujmxd.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2754695-i8ujmxd.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2754695-i8ujmxd.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2754695-i8ujmxd.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2754695-i8ujmxd.jpg",
+      "tags": "All Images, E3 Prep"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2754692-woqphcb.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2754692-woqphcb.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2754692-woqphcb.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2754692-woqphcb.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2754692-woqphcb.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2754692-woqphcb.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2754692-woqphcb.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2754691-ramjwdo.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2754691-ramjwdo.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2754691-ramjwdo.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2754691-ramjwdo.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2754691-ramjwdo.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2754691-ramjwdo.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2754691-ramjwdo.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2754690-ikwfofe.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2754690-ikwfofe.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2754690-ikwfofe.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2754690-ikwfofe.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2754690-ikwfofe.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2754690-ikwfofe.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2754690-ikwfofe.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2754689-hz2rvp1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2754689-hz2rvp1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2754689-hz2rvp1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2754689-hz2rvp1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2754689-hz2rvp1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2754689-hz2rvp1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2754689-hz2rvp1.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2754688-abokttn.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2754688-abokttn.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2754688-abokttn.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2754688-abokttn.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2754688-abokttn.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2754688-abokttn.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2754688-abokttn.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2754687-rsz_51o6sdcjvpl.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2754687-rsz_51o6sdcjvpl.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2754687-rsz_51o6sdcjvpl.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2754687-rsz_51o6sdcjvpl.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2754687-rsz_51o6sdcjvpl.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2754687-rsz_51o6sdcjvpl.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2754687-rsz_51o6sdcjvpl.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2754686-519opyli7jl.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2754686-519opyli7jl.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2754686-519opyli7jl.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2754686-519opyli7jl.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2754686-519opyli7jl.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2754686-519opyli7jl.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2754686-519opyli7jl.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10227/",
+      "id": 10227,
+      "name": "Here's the First Fallout 4 Trailer",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-the-first-fallout-4-trailer/2300-10227/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10274/",
+      "id": 10274,
+      "name": "E3 2015: We Talk Over The Bethesda Press Conference",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2015-we-talk-over-the-bethesda-press-conference/2300-10274/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10827/",
+      "id": 10827,
+      "name": "Quick Look: Fallout 4",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-fallout-4/2300-10827/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11144/",
+      "id": 11144,
+      "name": "Live From Vinny's Basement: Fallout 4",
+      "site_detail_url": "http://www.giantbomb.com/videos/live-from-vinnys-basement-fallout-4/2300-11144/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11252/",
+      "id": 11252,
+      "name": "E3 2016: Todd Howard Has Some Secrets About Fallout & Skyrim",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2016-todd-howard-has-some-secrets-about-fallout/2300-11252/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-11/",
+      "id": 11,
+      "name": "Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shooter&wikiTypeId=3060&wikiId=11&genre=11"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142301/",
+      "id": 142301,
+      "name": "Fallout 4",
+      "site_detail_url": "http://www.giantbomb.com/fallout-4/3030-49833/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142302/",
+      "id": 142302,
+      "name": "Fallout 4",
+      "site_detail_url": "http://www.giantbomb.com/fallout-4/3030-49833/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142717/",
+      "id": 142717,
+      "name": "Fallout 4",
+      "site_detail_url": "http://www.giantbomb.com/fallout-4/3030-49833/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142741/",
+      "id": 142741,
+      "name": "Fallout 4",
+      "site_detail_url": "http://www.giantbomb.com/fallout-4/3030-49833/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142742/",
+      "id": 142742,
+      "name": "Fallout 4",
+      "site_detail_url": "http://www.giantbomb.com/fallout-4/3030-49833/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142743/",
+      "id": 142743,
+      "name": "Fallout 4",
+      "site_detail_url": "http://www.giantbomb.com/fallout-4/3030-49833/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142744/",
+      "id": 142744,
+      "name": "Fallout 4",
+      "site_detail_url": "http://www.giantbomb.com/fallout-4/3030-49833/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142745/",
+      "id": 142745,
+      "name": "Fallout 4",
+      "site_detail_url": "http://www.giantbomb.com/fallout-4/3030-49833/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142746/",
+      "id": 142746,
+      "name": "Fallout 4",
+      "site_detail_url": "http://www.giantbomb.com/fallout-4/3030-49833/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142747/",
+      "id": 142747,
+      "name": "Fallout 4",
+      "site_detail_url": "http://www.giantbomb.com/fallout-4/3030-49833/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142748/",
+      "id": 142748,
+      "name": "Fallout 4",
+      "site_detail_url": "http://www.giantbomb.com/fallout-4/3030-49833/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142749/",
+      "id": 142749,
+      "name": "Fallout 4",
+      "site_detail_url": "http://www.giantbomb.com/fallout-4/3030-49833/releases/"
+    }
+  ]
+}

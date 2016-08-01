@@ -1,0 +1,87 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49271/",
+  "deck": "Players pilot mechs in this block matching game.",
+  "id": 49271,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2738327-8775149635-tumbl.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2738327-8775149635-tumbl.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2738327-8775149635-tumbl.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2738327-8775149635-tumbl.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2738327-8775149635-tumbl.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2738327-8775149635-tumbl.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2738327-8775149635-tumbl.png"
+  },
+  "name": "Ironcast",
+  "original_release_date": "2015-03-26 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/ironcast/3030-49271/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2738327-8775149635-tumbl.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2738327-8775149635-tumbl.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2738327-8775149635-tumbl.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2738327-8775149635-tumbl.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2738327-8775149635-tumbl.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2738327-8775149635-tumbl.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2738327-8775149635-tumbl.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10113/",
+      "id": 10113,
+      "name": "Quick Look: Ironcast",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-ironcast/2300-10113/"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140895/",
+      "id": 140895,
+      "name": "Ironcast",
+      "site_detail_url": "http://www.giantbomb.com/ironcast/3030-49271/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146222/",
+      "id": 146222,
+      "name": "Ironcast",
+      "site_detail_url": "http://www.giantbomb.com/ironcast/3030-49271/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146441/",
+      "id": 146441,
+      "name": "Ironcast",
+      "site_detail_url": "http://www.giantbomb.com/ironcast/3030-49271/releases/"
+    }
+  ]
+}

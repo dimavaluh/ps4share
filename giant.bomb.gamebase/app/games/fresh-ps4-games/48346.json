@@ -1,0 +1,128 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48346/",
+  "deck": "A narrative game by bracket games.",
+  "id": 48346,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2707401-three%20fourths%20home.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2707401-three%20fourths%20home.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2707401-three%20fourths%20home.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2707401-three%20fourths%20home.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2707401-three%20fourths%20home.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2707401-three%20fourths%20home.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2707401-three%20fourths%20home.jpg"
+  },
+  "name": "Three Fourths Home",
+  "original_release_date": "2014-07-14 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/three-fourths-home/3030-48346/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/17/170507/2707638-04.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/17/170507/2707638-04.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/17/170507/2707638-04.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/17/170507/2707638-04.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/17/170507/2707638-04.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/17/170507/2707638-04.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/17/170507/2707638-04.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/17/170507/2707637-05.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/17/170507/2707637-05.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/17/170507/2707637-05.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/17/170507/2707637-05.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/17/170507/2707637-05.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/17/170507/2707637-05.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/17/170507/2707637-05.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/17/170507/2707636-02.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/17/170507/2707636-02.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/17/170507/2707636-02.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/17/170507/2707636-02.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/17/170507/2707636-02.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/17/170507/2707636-02.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/17/170507/2707636-02.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-4/",
+      "id": 4,
+      "name": "Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=adventure&wikiTypeId=3060&wikiId=4&genre=4"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144324/",
+      "id": 144324,
+      "name": "Three Fourths Home",
+      "site_detail_url": "http://www.giantbomb.com/three-fourths-home/3030-48346/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144325/",
+      "id": 144325,
+      "name": "Three Fourths Home: Extended Edition",
+      "site_detail_url": "http://www.giantbomb.com/three-fourths-home/3030-48346/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144326/",
+      "id": 144326,
+      "name": "Three Fourths Home: Extended Edition",
+      "site_detail_url": "http://www.giantbomb.com/three-fourths-home/3030-48346/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144327/",
+      "id": 144327,
+      "name": "Three Fourths Home: Extended Edition",
+      "site_detail_url": "http://www.giantbomb.com/three-fourths-home/3030-48346/releases/"
+    }
+  ]
+}

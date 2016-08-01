@@ -1,0 +1,384 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-46307/",
+  "deck": "A top down action-RPG from Interceptor Entertainment.",
+  "id": 46307,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2818816-untitled.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2818816-untitled.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2818816-untitled.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2818816-untitled.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2818816-untitled.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2818816-untitled.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2818816-untitled.png"
+  },
+  "name": "Bombshell",
+  "original_release_date": "2016-01-29 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/bombshell/3030-46307/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824196-113194bombshell.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824196-113194bombshell.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824196-113194bombshell.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824196-113194bombshell.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824196-113194bombshell.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824196-113194bombshell.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824196-113194bombshell.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824195-105187bombshell1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824195-105187bombshell1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824195-105187bombshell1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824195-105187bombshell1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824195-105187bombshell1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824195-105187bombshell1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824195-105187bombshell1.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824194-99161bombshell.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824194-99161bombshell.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824194-99161bombshell.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824194-99161bombshell.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824194-99161bombshell.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824194-99161bombshell.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824194-99161bombshell.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824193-95183bombshell1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824193-95183bombshell1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824193-95183bombshell1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824193-95183bombshell1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824193-95183bombshell1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824193-95183bombshell1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824193-95183bombshell1.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824192-92203bombshell1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824192-92203bombshell1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824192-92203bombshell1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824192-92203bombshell1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824192-92203bombshell1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824192-92203bombshell1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824192-92203bombshell1.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824191-85184bombshell1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824191-85184bombshell1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824191-85184bombshell1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824191-85184bombshell1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824191-85184bombshell1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824191-85184bombshell1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824191-85184bombshell1.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824190-81173bombshell.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824190-81173bombshell.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824190-81173bombshell.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824190-81173bombshell.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824190-81173bombshell.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824190-81173bombshell.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824190-81173bombshell.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824189-66190bombshell1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824189-66190bombshell1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824189-66190bombshell1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824189-66190bombshell1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824189-66190bombshell1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824189-66190bombshell1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824189-66190bombshell1.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824188-65172bombshell.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824188-65172bombshell.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824188-65172bombshell.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824188-65172bombshell.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824188-65172bombshell.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824188-65172bombshell.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824188-65172bombshell.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824187-62174bombshell1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824187-62174bombshell1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824187-62174bombshell1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824187-62174bombshell1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824187-62174bombshell1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824187-62174bombshell1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824187-62174bombshell1.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824186-61198bombshel.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824186-61198bombshel.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824186-61198bombshel.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824186-61198bombshel.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824186-61198bombshel.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824186-61198bombshel.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824186-61198bombshel.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824185-60134bombshel.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824185-60134bombshel.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824185-60134bombshel.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824185-60134bombshel.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824185-60134bombshel.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824185-60134bombshel.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824185-60134bombshel.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824184-57139bombshell1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824184-57139bombshell1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824184-57139bombshell1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824184-57139bombshell1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824184-57139bombshell1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824184-57139bombshell1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824184-57139bombshell1.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824183-47206bombshell.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824183-47206bombshell.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824183-47206bombshell.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824183-47206bombshell.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824183-47206bombshell.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824183-47206bombshell.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824183-47206bombshell.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824182-44131bombshell1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824182-44131bombshell1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824182-44131bombshell1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824182-44131bombshell1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824182-44131bombshell1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824182-44131bombshell1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824182-44131bombshell1.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824181-40197bombshell.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824181-40197bombshell.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824181-40197bombshell.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824181-40197bombshell.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824181-40197bombshell.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824181-40197bombshell.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824181-40197bombshell.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824180-39177bombshell1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824180-39177bombshell1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824180-39177bombshell1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824180-39177bombshell1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824180-39177bombshell1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824180-39177bombshell1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824180-39177bombshell1.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824179-35147bombshel.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824179-35147bombshel.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824179-35147bombshel.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824179-35147bombshel.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824179-35147bombshel.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824179-35147bombshel.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824179-35147bombshel.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824178-30169bombshel.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824178-30169bombshel.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824178-30169bombshel.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824178-30169bombshel.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824178-30169bombshel.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824178-30169bombshel.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824178-30169bombshel.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824177-24148bombshel.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824177-24148bombshel.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824177-24148bombshel.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824177-24148bombshel.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824177-24148bombshel.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824177-24148bombshel.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824177-24148bombshel.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824176-23108bombshel.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824176-23108bombshel.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824176-23108bombshel.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824176-23108bombshel.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824176-23108bombshel.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824176-23108bombshel.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824176-23108bombshel.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824175-19111bombshell.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824175-19111bombshell.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824175-19111bombshell.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824175-19111bombshell.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824175-19111bombshell.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824175-19111bombshell.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824175-19111bombshell.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824174-18159bombshell1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824174-18159bombshell1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824174-18159bombshell1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824174-18159bombshell1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824174-18159bombshell1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824174-18159bombshell1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824174-18159bombshell1.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824173-17120bombshell.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824173-17120bombshell.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824173-17120bombshell.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824173-17120bombshell.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824173-17120bombshell.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824173-17120bombshell.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824173-17120bombshell.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824172-11870bombshell.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824172-11870bombshell.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824172-11870bombshell.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824172-11870bombshell.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824172-11870bombshell.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824172-11870bombshell.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824172-11870bombshell.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824171-11767bombshell.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824171-11767bombshell.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824171-11767bombshell.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824171-11767bombshell.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824171-11767bombshell.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824171-11767bombshell.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824171-11767bombshell.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824170-11568bombshell.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824170-11568bombshell.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824170-11568bombshell.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824170-11568bombshell.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824170-11568bombshell.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824170-11568bombshell.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824170-11568bombshell.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824169-11450bombshell.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824169-11450bombshell.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824169-11450bombshell.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824169-11450bombshell.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824169-11450bombshell.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824169-11450bombshell.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824169-11450bombshell.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824168-11181bombshell.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824168-11181bombshell.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824168-11181bombshell.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824168-11181bombshell.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824168-11181bombshell.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824168-11181bombshell.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824168-11181bombshell.jpg",
+      "tags": "All Images, PC Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824167-10979bombshell.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824167-10979bombshell.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84290/2824167-10979bombshell.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84290/2824167-10979bombshell.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84290/2824167-10979bombshell.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84290/2824167-10979bombshell.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84290/2824167-10979bombshell.jpg",
+      "tags": "All Images, PC Screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8886/",
+      "id": 8886,
+      "name": "Bombshell, Born From the Ashes of a Duke Nukem Lawsuit",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombshell-born-from-the-ashes-of-a-duke-nukem-laws/2300-8886/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9986/",
+      "id": 9986,
+      "name": "Cyborg Lady Dispenses Isometric Justice in Bombshell",
+      "site_detail_url": "http://www.giantbomb.com/videos/cyborg-lady-dispenses-isometric-justice-in-bombshe/2300-9986/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10976/",
+      "id": 10976,
+      "name": "Quick Look: Bombshell",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-bombshell/2300-10976/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145602/",
+      "id": 145602,
+      "name": "Bombshell",
+      "site_detail_url": "http://www.giantbomb.com/bombshell/3030-46307/releases/"
+    }
+  ]
+}

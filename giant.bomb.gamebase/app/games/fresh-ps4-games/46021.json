@@ -1,0 +1,121 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-46021/",
+  "deck": "A NES-style 2D fantasy brawler from Tribute Games.",
+  "id": 46021,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2774478-cc.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2774478-cc.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2774478-cc.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2774478-cc.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2774478-cc.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2774478-cc.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2774478-cc.jpg"
+  },
+  "name": "Curses 'N Chaos",
+  "original_release_date": "2015-08-18 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/curses-n-chaos/3030-46021/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/23546/2774478-cc.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/23546/2774478-cc.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/23546/2774478-cc.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/23546/2774478-cc.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/23546/2774478-cc.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/23546/2774478-cc.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/23546/2774478-cc.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621328-dsc05918.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621328-dsc05918.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621328-dsc05918.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621328-dsc05918.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2621328-dsc05918.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2621328-dsc05918.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2621328-dsc05918.jpg",
+      "tags": "All Images, Tribute Games, PAX East 2014 Booth, PAX East 2014"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621327-dsc05917.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621327-dsc05917.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2621327-dsc05917.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2621327-dsc05917.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2621327-dsc05917.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2621327-dsc05917.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2621327-dsc05917.jpg",
+      "tags": "All Images, Tribute Games, PAX East 2014 Booth, PAX East 2014"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8761/",
+      "id": 8761,
+      "name": "Curses 'n Chaos No Longer a Vita Exclusive",
+      "site_detail_url": "http://www.giantbomb.com/videos/curses-n-chaos-no-longer-a-vita-exclusive/2300-8761/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-37/",
+      "id": 37,
+      "name": "Brawler",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=brawler&wikiTypeId=3060&wikiId=37&genre=37"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143061/",
+      "id": 143061,
+      "name": "Curses 'N Chaos",
+      "site_detail_url": "http://www.giantbomb.com/curses-n-chaos/3030-46021/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143070/",
+      "id": 143070,
+      "name": "Curses 'N Chaos",
+      "site_detail_url": "http://www.giantbomb.com/curses-n-chaos/3030-46021/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144049/",
+      "id": 144049,
+      "name": "Curses N' Chaos",
+      "site_detail_url": "http://www.giantbomb.com/curses-n-chaos/3030-46021/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144050/",
+      "id": 144050,
+      "name": "Curses N' Chaos",
+      "site_detail_url": "http://www.giantbomb.com/curses-n-chaos/3030-46021/releases/"
+    }
+  ]
+}

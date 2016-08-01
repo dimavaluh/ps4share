@@ -1,0 +1,555 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-36978/",
+  "deck": "An Obsidian-developed role-playing game based on the South Park animated TV series, in which players control a new kid in the eponymous town of South Park and takes part in an epic pretend-fantasy story that threatens the entire town.",
+  "id": 36978,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2600454-81bh2nkwxxl._sl1500_.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2600454-81bh2nkwxxl._sl1500_.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2600454-81bh2nkwxxl._sl1500_.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2600454-81bh2nkwxxl._sl1500_.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2600454-81bh2nkwxxl._sl1500_.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2600454-81bh2nkwxxl._sl1500_.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2600454-81bh2nkwxxl._sl1500_.jpg"
+  },
+  "name": "South Park: The Stick of Truth",
+  "original_release_date": "2014-03-04 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/south-park-the-stick-of-truth/3030-36978/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/81005/2606972-south-park-game.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/81005/2606972-south-park-game.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/81005/2606972-south-park-game.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/81005/2606972-south-park-game.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/81005/2606972-south-park-game.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/81005/2606972-south-park-game.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/81005/2606972-south-park-game.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2606489-tumblr_n1s5mgbojr1qiz4ulo1_1280.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2606489-tumblr_n1s5mgbojr1qiz4ulo1_1280.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/7003/2606489-tumblr_n1s5mgbojr1qiz4ulo1_1280.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/7003/2606489-tumblr_n1s5mgbojr1qiz4ulo1_1280.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/7003/2606489-tumblr_n1s5mgbojr1qiz4ulo1_1280.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/7003/2606489-tumblr_n1s5mgbojr1qiz4ulo1_1280.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/7003/2606489-tumblr_n1s5mgbojr1qiz4ulo1_1280.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2600454-81bh2nkwxxl._sl1500_.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2600454-81bh2nkwxxl._sl1500_.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2600454-81bh2nkwxxl._sl1500_.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2600454-81bh2nkwxxl._sl1500_.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/8169/2600454-81bh2nkwxxl._sl1500_.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/8169/2600454-81bh2nkwxxl._sl1500_.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/8169/2600454-81bh2nkwxxl._sl1500_.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495882-south-park-the-stick-of-truth_2013_06-10-13_003.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495882-south-park-the-stick-of-truth_2013_06-10-13_003.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495882-south-park-the-stick-of-truth_2013_06-10-13_003.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495882-south-park-the-stick-of-truth_2013_06-10-13_003.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495882-south-park-the-stick-of-truth_2013_06-10-13_003.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495882-south-park-the-stick-of-truth_2013_06-10-13_003.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495882-south-park-the-stick-of-truth_2013_06-10-13_003.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495881-south-park-the-stick-of-truth_2013_06-10-13_002.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495881-south-park-the-stick-of-truth_2013_06-10-13_002.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495881-south-park-the-stick-of-truth_2013_06-10-13_002.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495881-south-park-the-stick-of-truth_2013_06-10-13_002.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495881-south-park-the-stick-of-truth_2013_06-10-13_002.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495881-south-park-the-stick-of-truth_2013_06-10-13_002.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495881-south-park-the-stick-of-truth_2013_06-10-13_002.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495880-south-park-the-stick-of-truth_2013_06-10-13_001.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495880-south-park-the-stick-of-truth_2013_06-10-13_001.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495880-south-park-the-stick-of-truth_2013_06-10-13_001.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495880-south-park-the-stick-of-truth_2013_06-10-13_001.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495880-south-park-the-stick-of-truth_2013_06-10-13_001.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495880-south-park-the-stick-of-truth_2013_06-10-13_001.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495880-south-park-the-stick-of-truth_2013_06-10-13_001.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2391160-box_sptsot.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2391160-box_sptsot.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2391160-box_sptsot.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2391160-box_sptsot.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2391160-box_sptsot.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2391160-box_sptsot.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2391160-box_sptsot.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93770/2377579-360_cr.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93770/2377579-360_cr.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93770/2377579-360_cr.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93770/2377579-360_cr.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93770/2377579-360_cr.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93770/2377579-360_cr.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93770/2377579-360_cr.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93770/2377578-360.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93770/2377578-360.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93770/2377578-360.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93770/2377578-360.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93770/2377578-360.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93770/2377578-360.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93770/2377578-360.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2273907-008845.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2273907-008845.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2273907-008845.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2273907-008845.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2273907-008845.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2273907-008845.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2273907-008845.jpg",
+      "tags": "All Images, Screenshots, South Park: The Stick of Truth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2273906-008844.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2273906-008844.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2273906-008844.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2273906-008844.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2273906-008844.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2273906-008844.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2273906-008844.jpg",
+      "tags": "All Images, Screenshots, South Park: The Stick of Truth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2273905-008843.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2273905-008843.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2273905-008843.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2273905-008843.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2273905-008843.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2273905-008843.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2273905-008843.jpg",
+      "tags": "All Images, Screenshots, South Park: The Stick of Truth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2273904-008842.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2273904-008842.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2273904-008842.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2273904-008842.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2273904-008842.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2273904-008842.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2273904-008842.jpg",
+      "tags": "All Images, Screenshots, South Park: The Stick of Truth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87749/2230419-sp3.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87749/2230419-sp3.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87749/2230419-sp3.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87749/2230419-sp3.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87749/2230419-sp3.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87749/2230419-sp3.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87749/2230419-sp3.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87749/2230418-sp2.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87749/2230418-sp2.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87749/2230418-sp2.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87749/2230418-sp2.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87749/2230418-sp2.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87749/2230418-sp2.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87749/2230418-sp2.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87749/2230417-sp1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87749/2230417-sp1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87749/2230417-sp1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87749/2230417-sp1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87749/2230417-sp1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87749/2230417-sp1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87749/2230417-sp1.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87749/2227302-sp4.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87749/2227302-sp4.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87749/2227302-sp4.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87749/2227302-sp4.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87749/2227302-sp4.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87749/2227302-sp4.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87749/2227302-sp4.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87749/2227301-sp3.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87749/2227301-sp3.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87749/2227301-sp3.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87749/2227301-sp3.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87749/2227301-sp3.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87749/2227301-sp3.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87749/2227301-sp3.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87749/2227300-sp2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87749/2227300-sp2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87749/2227300-sp2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87749/2227300-sp2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87749/2227300-sp2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87749/2227300-sp2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87749/2227300-sp2.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87749/2227299-sp1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87749/2227299-sp1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87749/2227299-sp1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87749/2227299-sp1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87749/2227299-sp1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87749/2227299-sp1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87749/2227299-sp1.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2226406-southparstickoftruth7238worldscreenstoms.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2226406-southparstickoftruth7238worldscreenstoms.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2226406-southparstickoftruth7238worldscreenstoms.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2226406-southparstickoftruth7238worldscreenstoms.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2226406-southparstickoftruth7238worldscreenstoms.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2226406-southparstickoftruth7238worldscreenstoms.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2226406-southparstickoftruth7238worldscreenstoms.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2226405-southparstickoftruth7237combatmongolians.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2226405-southparstickoftruth7237combatmongolians.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2226405-southparstickoftruth7237combatmongolians.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2226405-southparstickoftruth7237combatmongolians.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2226405-southparstickoftruth7237combatmongolians.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2226405-southparstickoftruth7237combatmongolians.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2226405-southparstickoftruth7237combatmongolians.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2226404-southparstickoftruth7236combatcrabpeople.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2226404-southparstickoftruth7236combatcrabpeople.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2226404-southparstickoftruth7236combatcrabpeople.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2226404-southparstickoftruth7236combatcrabpeople.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2226404-southparstickoftruth7236combatcrabpeople.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2226404-southparstickoftruth7236combatcrabpeople.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2226404-southparstickoftruth7236combatcrabpeople.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84530/2226333-2012_06_04_134325.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84530/2226333-2012_06_04_134325.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84530/2226333-2012_06_04_134325.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84530/2226333-2012_06_04_134325.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84530/2226333-2012_06_04_134325.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84530/2226333-2012_06_04_134325.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84530/2226333-2012_06_04_134325.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/84530/2226332-2012_06_04_133951.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/84530/2226332-2012_06_04_133951.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/84530/2226332-2012_06_04_133951.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/84530/2226332-2012_06_04_133951.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/84530/2226332-2012_06_04_133951.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/84530/2226332-2012_06_04_133951.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/84530/2226332-2012_06_04_133951.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1817/2199924-southpark.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1817/2199924-southpark.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1817/2199924-southpark.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1817/2199924-southpark.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1817/2199924-southpark.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1817/2199924-southpark.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1817/2199924-southpark.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/17416/2199309-southparkstickoftruth.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/17416/2199309-southparkstickoftruth.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/17416/2199309-southparkstickoftruth.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/17416/2199309-southparkstickoftruth.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/17416/2199309-southparkstickoftruth.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/17416/2199309-southparkstickoftruth.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/17416/2199309-southparkstickoftruth.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2097037-southpark7002intothewild.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2097037-southpark7002intothewild.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2097037-southpark7002intothewild.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2097037-southpark7002intothewild.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2097037-southpark7002intothewild.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2097037-southpark7002intothewild.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2097037-southpark7002intothewild.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2097036-southpark6998bewarethegingers.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2097036-southpark6998bewarethegingers.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2097036-southpark6998bewarethegingers.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2097036-southpark6998bewarethegingers.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2097036-southpark6998bewarethegingers.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2097036-southpark6998bewarethegingers.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2097036-southpark6998bewarethegingers.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2097035-southpark6997archerassault.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2097035-southpark6997archerassault.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2097035-southpark6997archerassault.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2097035-southpark6997archerassault.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2097035-southpark6997archerassault.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2097035-southpark6997archerassault.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2097035-southpark6997archerassault.jpg",
+      "tags": "All Images, Screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6037/",
+      "id": 6037,
+      "name": "E3 2012: South Park is No Place for Underpants Gnomes",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2012-south-park-is-no-place-for-underpants-gnom/2300-6037/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6877/",
+      "id": 6877,
+      "name": "This Latest South Park: The Stick of Truth Trailer Features Elves, Epic Battles, and Princess Kenny",
+      "site_detail_url": "http://www.giantbomb.com/videos/this-latest-south-park-the-stick-of-truth-trailer-/2300-6877/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7507/",
+      "id": 7507,
+      "name": "E3 2013: Learn About Devastating Farts in South Park: The Stick of Truth",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-learn-about-devastating-farts-in-south-par/2300-7507/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7989/",
+      "id": 7989,
+      "name": "South Park: The Stick of Truth Arrives December 10",
+      "site_detail_url": "http://www.giantbomb.com/videos/south-park-the-stick-of-truth-arrives-december-10/2300-7989/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8144/",
+      "id": 8144,
+      "name": "South Park: The Stick of Truth Delayed to March 4",
+      "site_detail_url": "http://www.giantbomb.com/videos/south-park-the-stick-of-truth-delayed-to-march-4/2300-8144/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8493/",
+      "id": 8493,
+      "name": "South Park: The Stick of Truth Has Officially Gone Gold",
+      "site_detail_url": "http://www.giantbomb.com/videos/south-park-the-stick-of-truth-has-officially-gone-/2300-8493/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8508/",
+      "id": 8508,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 02/14/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-02-14-2014/2300-8508/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8510/",
+      "id": 8510,
+      "name": "In South Park: The Stick of Truth, You Are 'The New Kid'",
+      "site_detail_url": "http://www.giantbomb.com/videos/in-south-park-the-stick-of-truth-you-are-the-new-k/2300-8510/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8511/",
+      "id": 8511,
+      "name": "Unfinished: South Park: The Stick of Truth 02/14/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/unfinished-south-park-the-stick-of-truth-02-14-201/2300-8511/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8565/",
+      "id": 8565,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 02/28/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-02-28-2014/2300-8565/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8580/",
+      "id": 8580,
+      "name": "Quick Look: South Park: The Stick of Truth",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-south-park-the-stick-of-truth/2300-8580/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8585/",
+      "id": 8585,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 03/04/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-03-04-2014/2300-8585/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8587/",
+      "id": 8587,
+      "name": "Here's South Park: The Stick of Truth's Requisite Launch Trailer",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-south-park-the-stick-of-truth-s-requisite-l/2300-8587/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8606/",
+      "id": 8606,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 03/07/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-03-07-2014/2300-8606/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8613/",
+      "id": 8613,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 03/10/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-03-10-2014/2300-8613/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8634/",
+      "id": 8634,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 03/14/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-03-14-2014/2300-8634/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9818/",
+      "id": 9818,
+      "name": "Game of the Year 2014: Day One Recap",
+      "site_detail_url": "http://www.giantbomb.com/videos/game-of-the-year-2014-day-one-recap/2300-9818/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9821/",
+      "id": 9821,
+      "name": "Game of the Year 2014: Day Four Recap",
+      "site_detail_url": "http://www.giantbomb.com/videos/game-of-the-year-2014-day-four-recap/2300-9821/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-115398/",
+      "id": 115398,
+      "name": "South Park: The Stick of Truth",
+      "site_detail_url": "http://www.giantbomb.com/south-park-the-stick-of-truth/3030-36978/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-115399/",
+      "id": 115399,
+      "name": "South Park: The Stick of Truth",
+      "site_detail_url": "http://www.giantbomb.com/south-park-the-stick-of-truth/3030-36978/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-115400/",
+      "id": 115400,
+      "name": "South Park: The Stick of Truth",
+      "site_detail_url": "http://www.giantbomb.com/south-park-the-stick-of-truth/3030-36978/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-121864/",
+      "id": 121864,
+      "name": "South Park: The Stick of Truth",
+      "site_detail_url": "http://www.giantbomb.com/south-park-the-stick-of-truth/3030-36978/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-121865/",
+      "id": 121865,
+      "name": "South Park: The Stick of Truth",
+      "site_detail_url": "http://www.giantbomb.com/south-park-the-stick-of-truth/3030-36978/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-121866/",
+      "id": 121866,
+      "name": "South Park: The Stick of Truth",
+      "site_detail_url": "http://www.giantbomb.com/south-park-the-stick-of-truth/3030-36978/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-122495/",
+      "id": 122495,
+      "name": "South Park: The Stick of Truth",
+      "site_detail_url": "http://www.giantbomb.com/south-park-the-stick-of-truth/3030-36978/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-122496/",
+      "id": 122496,
+      "name": "South Park: The Stick of Truth",
+      "site_detail_url": "http://www.giantbomb.com/south-park-the-stick-of-truth/3030-36978/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-122497/",
+      "id": 122497,
+      "name": "South Park: The Stick of Truth",
+      "site_detail_url": "http://www.giantbomb.com/south-park-the-stick-of-truth/3030-36978/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133223/",
+      "id": 133223,
+      "name": "South Park: The Stick of Truth",
+      "site_detail_url": "http://www.giantbomb.com/south-park-the-stick-of-truth/3030-36978/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148135/",
+      "id": 148135,
+      "name": "South Park: The Stick of Truth",
+      "site_detail_url": "http://www.giantbomb.com/south-park-the-stick-of-truth/3030-36978/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148136/",
+      "id": 148136,
+      "name": "South Park: The Stick of Truth",
+      "site_detail_url": "http://www.giantbomb.com/south-park-the-stick-of-truth/3030-36978/releases/"
+    }
+  ]
+}

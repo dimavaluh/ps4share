@@ -1,0 +1,61 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48421/",
+  "deck": "A rallycross racing game where the player competes for a place on rally champion Sébastien Loeb's team.",
+  "id": 48421,
+  "image": null,
+  "name": "Sébastien Loeb Rally Evo",
+  "original_release_date": "2016-03-22 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/sebastien-loeb-rally-evo/3030-48421/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847645-dsc00798.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847645-dsc00798.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847645-dsc00798.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847645-dsc00798.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2847645-dsc00798.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2847645-dsc00798.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2847645-dsc00798.jpg",
+      "tags": "All Images, Square Enix, PAX East 2016 Booth, PAX East 2016"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-6/",
+      "id": 6,
+      "name": "Driving/Racing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=drivingracing&wikiTypeId=3060&wikiId=6&genre=6"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146820/",
+      "id": 146820,
+      "name": "Sebastien Loeb Rally Evo",
+      "site_detail_url": "http://www.giantbomb.com/sebastien-loeb-rally-evo/3030-48421/releases/"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49455/",
+  "deck": "Guardians of the Forest is a 2D brawler game with local multiplayer.\nPlay with hares, kill bears and jump over wolfs!\nThis game will feature a simple but fast fighting game mechanic, plus some other features such us level editor, multiple characters, online multiplayer.",
+  "id": 49455,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2742218-twitterlogo.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2742218-twitterlogo.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2742218-twitterlogo.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2742218-twitterlogo.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2742218-twitterlogo.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2742218-twitterlogo.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2742218-twitterlogo.png"
+  },
+  "name": "Guardians of the Forest",
+  "original_release_date": "2015-12-31 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-154/",
+      "id": 154,
+      "name": "Ouya",
+      "site_detail_url": "http://www.giantbomb.com/ouya/3045-154/",
+      "abbreviation": "OUYA"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/guardians-of-the-forest/3030-49455/",
+  "images": [],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-9/",
+      "id": 9,
+      "name": "Fighting",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=fighting&wikiTypeId=3060&wikiId=9&genre=9"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-37/",
+      "id": 37,
+      "name": "Brawler",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=brawler&wikiTypeId=3060&wikiId=37&genre=37"
+    }
+  ]
+}

@@ -1,0 +1,597 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-39035/",
+  "deck": "DICE's popular multiplayer-focused shooter series continues, making its debut appearance on the PS4 and Xbox One.",
+  "id": 39035,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2575456-box_bf4.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2575456-box_bf4.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2575456-box_bf4.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2575456-box_bf4.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2575456-box_bf4.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2575456-box_bf4.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2575456-box_bf4.png"
+  },
+  "name": "Battlefield 4",
+  "original_release_date": "2013-10-29 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/battlefield-4/3030-39035/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701940-battlefield+4%E2%84%A2_20141115151145.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701940-battlefield+4%E2%84%A2_20141115151145.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701940-battlefield+4%E2%84%A2_20141115151145.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701940-battlefield+4%E2%84%A2_20141115151145.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2701940-battlefield+4%E2%84%A2_20141115151145.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2701940-battlefield+4%E2%84%A2_20141115151145.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2701940-battlefield+4%E2%84%A2_20141115151145.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701939-battlefield+4%E2%84%A2_20141115151033.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701939-battlefield+4%E2%84%A2_20141115151033.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701939-battlefield+4%E2%84%A2_20141115151033.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701939-battlefield+4%E2%84%A2_20141115151033.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2701939-battlefield+4%E2%84%A2_20141115151033.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2701939-battlefield+4%E2%84%A2_20141115151033.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2701939-battlefield+4%E2%84%A2_20141115151033.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701938-battlefield+4%E2%84%A2_20141115151025.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701938-battlefield+4%E2%84%A2_20141115151025.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701938-battlefield+4%E2%84%A2_20141115151025.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701938-battlefield+4%E2%84%A2_20141115151025.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2701938-battlefield+4%E2%84%A2_20141115151025.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2701938-battlefield+4%E2%84%A2_20141115151025.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2701938-battlefield+4%E2%84%A2_20141115151025.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701937-battlefield+4%E2%84%A2_20141115151005.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701937-battlefield+4%E2%84%A2_20141115151005.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701937-battlefield+4%E2%84%A2_20141115151005.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701937-battlefield+4%E2%84%A2_20141115151005.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2701937-battlefield+4%E2%84%A2_20141115151005.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2701937-battlefield+4%E2%84%A2_20141115151005.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2701937-battlefield+4%E2%84%A2_20141115151005.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701936-battlefield+4%E2%84%A2_20141115150955.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701936-battlefield+4%E2%84%A2_20141115150955.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701936-battlefield+4%E2%84%A2_20141115150955.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701936-battlefield+4%E2%84%A2_20141115150955.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2701936-battlefield+4%E2%84%A2_20141115150955.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2701936-battlefield+4%E2%84%A2_20141115150955.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2701936-battlefield+4%E2%84%A2_20141115150955.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701935-battlefield+4%E2%84%A2_20141115150930.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701935-battlefield+4%E2%84%A2_20141115150930.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701935-battlefield+4%E2%84%A2_20141115150930.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701935-battlefield+4%E2%84%A2_20141115150930.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2701935-battlefield+4%E2%84%A2_20141115150930.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2701935-battlefield+4%E2%84%A2_20141115150930.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2701935-battlefield+4%E2%84%A2_20141115150930.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701934-battlefield+4%E2%84%A2_20141115150907.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701934-battlefield+4%E2%84%A2_20141115150907.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701934-battlefield+4%E2%84%A2_20141115150907.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701934-battlefield+4%E2%84%A2_20141115150907.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2701934-battlefield+4%E2%84%A2_20141115150907.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2701934-battlefield+4%E2%84%A2_20141115150907.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2701934-battlefield+4%E2%84%A2_20141115150907.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701933-battlefield+4%E2%84%A2_20141115150843.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701933-battlefield+4%E2%84%A2_20141115150843.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701933-battlefield+4%E2%84%A2_20141115150843.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701933-battlefield+4%E2%84%A2_20141115150843.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2701933-battlefield+4%E2%84%A2_20141115150843.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2701933-battlefield+4%E2%84%A2_20141115150843.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2701933-battlefield+4%E2%84%A2_20141115150843.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701932-battlefield+4%E2%84%A2_20141115150811.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701932-battlefield+4%E2%84%A2_20141115150811.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701932-battlefield+4%E2%84%A2_20141115150811.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701932-battlefield+4%E2%84%A2_20141115150811.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2701932-battlefield+4%E2%84%A2_20141115150811.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2701932-battlefield+4%E2%84%A2_20141115150811.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2701932-battlefield+4%E2%84%A2_20141115150811.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701931-battlefield+4%E2%84%A2_20141115150804.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701931-battlefield+4%E2%84%A2_20141115150804.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701931-battlefield+4%E2%84%A2_20141115150804.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701931-battlefield+4%E2%84%A2_20141115150804.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2701931-battlefield+4%E2%84%A2_20141115150804.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2701931-battlefield+4%E2%84%A2_20141115150804.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2701931-battlefield+4%E2%84%A2_20141115150804.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701930-battlefield+4%E2%84%A2_20141115150700.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701930-battlefield+4%E2%84%A2_20141115150700.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701930-battlefield+4%E2%84%A2_20141115150700.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701930-battlefield+4%E2%84%A2_20141115150700.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2701930-battlefield+4%E2%84%A2_20141115150700.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2701930-battlefield+4%E2%84%A2_20141115150700.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2701930-battlefield+4%E2%84%A2_20141115150700.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701929-battlefield+4%E2%84%A2_20141115150632.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701929-battlefield+4%E2%84%A2_20141115150632.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701929-battlefield+4%E2%84%A2_20141115150632.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701929-battlefield+4%E2%84%A2_20141115150632.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2701929-battlefield+4%E2%84%A2_20141115150632.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2701929-battlefield+4%E2%84%A2_20141115150632.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2701929-battlefield+4%E2%84%A2_20141115150632.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701928-battlefield+4%E2%84%A2_20141115150625.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701928-battlefield+4%E2%84%A2_20141115150625.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701928-battlefield+4%E2%84%A2_20141115150625.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701928-battlefield+4%E2%84%A2_20141115150625.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2701928-battlefield+4%E2%84%A2_20141115150625.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2701928-battlefield+4%E2%84%A2_20141115150625.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2701928-battlefield+4%E2%84%A2_20141115150625.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701927-battlefield+4%E2%84%A2_20141115150615.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701927-battlefield+4%E2%84%A2_20141115150615.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701927-battlefield+4%E2%84%A2_20141115150615.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701927-battlefield+4%E2%84%A2_20141115150615.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2701927-battlefield+4%E2%84%A2_20141115150615.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2701927-battlefield+4%E2%84%A2_20141115150615.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2701927-battlefield+4%E2%84%A2_20141115150615.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701926-battlefield+4%E2%84%A2_20141115150457.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701926-battlefield+4%E2%84%A2_20141115150457.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701926-battlefield+4%E2%84%A2_20141115150457.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701926-battlefield+4%E2%84%A2_20141115150457.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2701926-battlefield+4%E2%84%A2_20141115150457.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2701926-battlefield+4%E2%84%A2_20141115150457.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2701926-battlefield+4%E2%84%A2_20141115150457.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701925-battlefield+4%E2%84%A2_20141115150403.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701925-battlefield+4%E2%84%A2_20141115150403.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701925-battlefield+4%E2%84%A2_20141115150403.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701925-battlefield+4%E2%84%A2_20141115150403.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2701925-battlefield+4%E2%84%A2_20141115150403.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2701925-battlefield+4%E2%84%A2_20141115150403.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2701925-battlefield+4%E2%84%A2_20141115150403.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701924-battlefield+4%E2%84%A2_20141115150254.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701924-battlefield+4%E2%84%A2_20141115150254.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701924-battlefield+4%E2%84%A2_20141115150254.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701924-battlefield+4%E2%84%A2_20141115150254.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2701924-battlefield+4%E2%84%A2_20141115150254.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2701924-battlefield+4%E2%84%A2_20141115150254.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2701924-battlefield+4%E2%84%A2_20141115150254.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701923-battlefield+4%E2%84%A2_20141115150058.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701923-battlefield+4%E2%84%A2_20141115150058.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701923-battlefield+4%E2%84%A2_20141115150058.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701923-battlefield+4%E2%84%A2_20141115150058.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2701923-battlefield+4%E2%84%A2_20141115150058.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2701923-battlefield+4%E2%84%A2_20141115150058.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2701923-battlefield+4%E2%84%A2_20141115150058.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701922-battlefield+4%E2%84%A2_20141115145920.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701922-battlefield+4%E2%84%A2_20141115145920.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701922-battlefield+4%E2%84%A2_20141115145920.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701922-battlefield+4%E2%84%A2_20141115145920.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2701922-battlefield+4%E2%84%A2_20141115145920.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2701922-battlefield+4%E2%84%A2_20141115145920.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2701922-battlefield+4%E2%84%A2_20141115145920.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701921-battlefield+4%E2%84%A2_20141115145526.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701921-battlefield+4%E2%84%A2_20141115145526.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/2/28666/2701921-battlefield+4%E2%84%A2_20141115145526.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/2/28666/2701921-battlefield+4%E2%84%A2_20141115145526.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/2/28666/2701921-battlefield+4%E2%84%A2_20141115145526.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/2/28666/2701921-battlefield+4%E2%84%A2_20141115145526.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/2/28666/2701921-battlefield+4%E2%84%A2_20141115145526.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2575456-box_bf4.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2575456-box_bf4.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2575456-box_bf4.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2575456-box_bf4.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2575456-box_bf4.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2575456-box_bf4.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2575456-box_bf4.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2573474-box_bf4.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2573474-box_bf4.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2573474-box_bf4.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2573474-box_bf4.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2573474-box_bf4.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2573474-box_bf4.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2573474-box_bf4.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82565/2570793-16605214504132804608_screenshots_2013-10-31_00001.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82565/2570793-16605214504132804608_screenshots_2013-10-31_00001.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82565/2570793-16605214504132804608_screenshots_2013-10-31_00001.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82565/2570793-16605214504132804608_screenshots_2013-10-31_00001.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82565/2570793-16605214504132804608_screenshots_2013-10-31_00001.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82565/2570793-16605214504132804608_screenshots_2013-10-31_00001.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82565/2570793-16605214504132804608_screenshots_2013-10-31_00001.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82565/2570792-16605214504132804608_screenshots_2013-10-30_00023.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82565/2570792-16605214504132804608_screenshots_2013-10-30_00023.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82565/2570792-16605214504132804608_screenshots_2013-10-30_00023.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82565/2570792-16605214504132804608_screenshots_2013-10-30_00023.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82565/2570792-16605214504132804608_screenshots_2013-10-30_00023.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82565/2570792-16605214504132804608_screenshots_2013-10-30_00023.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82565/2570792-16605214504132804608_screenshots_2013-10-30_00023.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82565/2570791-16605214504132804608_screenshots_2013-11-03_00002.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82565/2570791-16605214504132804608_screenshots_2013-11-03_00002.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82565/2570791-16605214504132804608_screenshots_2013-11-03_00002.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82565/2570791-16605214504132804608_screenshots_2013-11-03_00002.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82565/2570791-16605214504132804608_screenshots_2013-11-03_00002.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82565/2570791-16605214504132804608_screenshots_2013-11-03_00002.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82565/2570791-16605214504132804608_screenshots_2013-11-03_00002.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82565/2570790-16605214504132804608_screenshots_2013-11-09_00003.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82565/2570790-16605214504132804608_screenshots_2013-11-09_00003.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82565/2570790-16605214504132804608_screenshots_2013-11-09_00003.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82565/2570790-16605214504132804608_screenshots_2013-11-09_00003.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82565/2570790-16605214504132804608_screenshots_2013-11-09_00003.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82565/2570790-16605214504132804608_screenshots_2013-11-09_00003.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82565/2570790-16605214504132804608_screenshots_2013-11-09_00003.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2560915-b4clean.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2560915-b4clean.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2560915-b4clean.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2560915-b4clean.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2560915-b4clean.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2560915-b4clean.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2560915-b4clean.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2560196-box_bf4.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2560196-box_bf4.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2560196-box_bf4.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2560196-box_bf4.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2560196-box_bf4.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2560196-box_bf4.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2560196-box_bf4.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82565/2554064-bf4+2013-10-02+01-50-34-71.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82565/2554064-bf4+2013-10-02+01-50-34-71.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82565/2554064-bf4+2013-10-02+01-50-34-71.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82565/2554064-bf4+2013-10-02+01-50-34-71.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82565/2554064-bf4+2013-10-02+01-50-34-71.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82565/2554064-bf4+2013-10-02+01-50-34-71.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82565/2554064-bf4+2013-10-02+01-50-34-71.png",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82565/2554063-bf4+2013-10-02+01-50-28-89.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82565/2554063-bf4+2013-10-02+01-50-28-89.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82565/2554063-bf4+2013-10-02+01-50-28-89.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82565/2554063-bf4+2013-10-02+01-50-28-89.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82565/2554063-bf4+2013-10-02+01-50-28-89.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82565/2554063-bf4+2013-10-02+01-50-28-89.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82565/2554063-bf4+2013-10-02+01-50-28-89.png",
+      "tags": "All Images, Screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7187/",
+      "id": 7187,
+      "name": "Battlefield 4 Announcement Trailer",
+      "site_detail_url": "http://www.giantbomb.com/videos/battlefield-4-announcement-trailer/2300-7187/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7189/",
+      "id": 7189,
+      "name": "A Chunk of Battlefield 4 Footage",
+      "site_detail_url": "http://www.giantbomb.com/videos/a-chunk-of-battlefield-4-footage/2300-7189/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7484/",
+      "id": 7484,
+      "name": "E3 2013: Five Good Minutes of Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-five-good-minutes-of-battlefield-4/2300-7484/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7503/",
+      "id": 7503,
+      "name": "E3 2013: Another Five Good Minutes of Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-another-five-good-minutes-of-battlefield-4/2300-7503/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7504/",
+      "id": 7504,
+      "name": "E3 2013: BF4 Shanghai Highlights",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-bf4-shanghai-highlights/2300-7504/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7551/",
+      "id": 7551,
+      "name": "E3 2013: Commander Mode is Back in Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-commander-mode-is-back-in-battlefield-4/2300-7551/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7636/",
+      "id": 7636,
+      "name": "Battlefield 4 Devs Talk About the Many Benefits of the Frostbite 3 Engine",
+      "site_detail_url": "http://www.giantbomb.com/videos/battlefield-4-devs-talk-about-the-many-benefits-of/2300-7636/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7725/",
+      "id": 7725,
+      "name": "Battlefield 4 Devs Talk Battlelog",
+      "site_detail_url": "http://www.giantbomb.com/videos/battlefield-4-devs-talk-battlelog/2300-7725/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8101/",
+      "id": 8101,
+      "name": "EA Would Like to Remind You That Battlefield 4 Has a Story",
+      "site_detail_url": "http://www.giantbomb.com/videos/ea-would-like-to-remind-you-that-battlefield-4-has/2300-8101/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8127/",
+      "id": 8127,
+      "name": "It's About Time to Get Your Battlefield 4 Multiplayer On",
+      "site_detail_url": "http://www.giantbomb.com/videos/it-s-about-time-to-get-your-battlefield-4-multipla/2300-8127/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8137/",
+      "id": 8137,
+      "name": "Quick Look: Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-battlefield-4/2300-8137/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8171/",
+      "id": 8171,
+      "name": "Extra Life 2013 - Day 2: Part 09",
+      "site_detail_url": "http://www.giantbomb.com/videos/extra-life-2013-day-2-part-09/2300-8171/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8182/",
+      "id": 8182,
+      "name": "Extra Life 2013 - Day 1: Part 08",
+      "site_detail_url": "http://www.giantbomb.com/videos/extra-life-2013-day-1-part-08/2300-8182/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8183/",
+      "id": 8183,
+      "name": "Extra Life 2013 - Day 1: Part 09",
+      "site_detail_url": "http://www.giantbomb.com/videos/extra-life-2013-day-1-part-09/2300-8183/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8194/",
+      "id": 8194,
+      "name": "Xbox One? Man, I Saw That",
+      "site_detail_url": "http://www.giantbomb.com/videos/xbox-one-man-i-saw-that/2300-8194/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8237/",
+      "id": 8237,
+      "name": "PlayStation 4 Launchstravaganza: Part 03",
+      "site_detail_url": "http://www.giantbomb.com/videos/playstation-4-launchstravaganza-part-03/2300-8237/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8262/",
+      "id": 8262,
+      "name": "Xbox One Launchtacular: Part 03",
+      "site_detail_url": "http://www.giantbomb.com/videos/xbox-one-launchtacular-part-03/2300-8262/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8280/",
+      "id": 8280,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 12/06/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-12-06-2013/2300-8280/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-32/",
+      "id": 32,
+      "name": "First-Person Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=first-person-shooter&wikiTypeId=3060&wikiId=32&genre=32"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126365/",
+      "id": 126365,
+      "name": "Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/battlefield-4/3030-39035/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126431/",
+      "id": 126431,
+      "name": "Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/battlefield-4/3030-39035/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126432/",
+      "id": 126432,
+      "name": "Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/battlefield-4/3030-39035/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126433/",
+      "id": 126433,
+      "name": "Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/battlefield-4/3030-39035/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126434/",
+      "id": 126434,
+      "name": "Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/battlefield-4/3030-39035/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126435/",
+      "id": 126435,
+      "name": "Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/battlefield-4/3030-39035/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126436/",
+      "id": 126436,
+      "name": "Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/battlefield-4/3030-39035/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126437/",
+      "id": 126437,
+      "name": "Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/battlefield-4/3030-39035/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126484/",
+      "id": 126484,
+      "name": "Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/battlefield-4/3030-39035/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126485/",
+      "id": 126485,
+      "name": "Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/battlefield-4/3030-39035/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126486/",
+      "id": 126486,
+      "name": "Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/battlefield-4/3030-39035/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-126487/",
+      "id": 126487,
+      "name": "Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/battlefield-4/3030-39035/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127952/",
+      "id": 127952,
+      "name": "Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/battlefield-4/3030-39035/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127953/",
+      "id": 127953,
+      "name": "Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/battlefield-4/3030-39035/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-131017/",
+      "id": 131017,
+      "name": "Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/battlefield-4/3030-39035/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132614/",
+      "id": 132614,
+      "name": "Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/battlefield-4/3030-39035/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132615/",
+      "id": 132615,
+      "name": "Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/battlefield-4/3030-39035/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137429/",
+      "id": 137429,
+      "name": "バトルフィールド 4",
+      "site_detail_url": "http://www.giantbomb.com/battlefield-4/3030-39035/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137430/",
+      "id": 137430,
+      "name": "Battlefield 4",
+      "site_detail_url": "http://www.giantbomb.com/battlefield-4/3030-39035/releases/"
+    }
+  ]
+}

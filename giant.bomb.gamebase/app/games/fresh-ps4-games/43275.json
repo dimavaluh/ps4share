@@ -1,0 +1,414 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-43275/",
+  "deck": "Strider Hiryu must assassinate Grandmaster Meio in this action-adventure game from Double Helix and Capcom.",
+  "id": 43275,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2604874-box_strider.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2604874-box_strider.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2604874-box_strider.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2604874-box_strider.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2604874-box_strider.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2604874-box_strider.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2604874-box_strider.png"
+  },
+  "name": "Strider",
+  "original_release_date": "2014-02-18 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/strider/3030-43275/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2604874-box_strider.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2604874-box_strider.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2604874-box_strider.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2604874-box_strider.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2604874-box_strider.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2604874-box_strider.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2604874-box_strider.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/2598624-7026753838-91Oxj.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/2598624-7026753838-91Oxj.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/2598624-7026753838-91Oxj.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/2598624-7026753838-91Oxj.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/2598624-7026753838-91Oxj.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/26/2598624-7026753838-91Oxj.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/2598624-7026753838-91Oxj.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/2593983-strider_hiryu_keyart_.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/2593983-strider_hiryu_keyart_.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/26/2593983-strider_hiryu_keyart_.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/26/2593983-strider_hiryu_keyart_.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/26/2593983-strider_hiryu_keyart_.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/26/2593983-strider_hiryu_keyart_.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/26/2593983-strider_hiryu_keyart_.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2578292-024811.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2578292-024811.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2578292-024811.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2578292-024811.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2578292-024811.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2578292-024811.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2578292-024811.jpg",
+      "tags": "All Images, Screenshots, Strider (2014)"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2578291-024820.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2578291-024820.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2578291-024820.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2578291-024820.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2578291-024820.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2578291-024820.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2578291-024820.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2578290-024819.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2578290-024819.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2578290-024819.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2578290-024819.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2578290-024819.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2578290-024819.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2578290-024819.jpg",
+      "tags": "All Images, Screenshots, Strider (2014)"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2578289-024818.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2578289-024818.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2578289-024818.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2578289-024818.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2578289-024818.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2578289-024818.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2578289-024818.jpg",
+      "tags": "All Images, Screenshots, Strider (2014)"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2578288-024817.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2578288-024817.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2578288-024817.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2578288-024817.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2578288-024817.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2578288-024817.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2578288-024817.jpg",
+      "tags": "All Images, Screenshots, Strider (2014)"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2578287-024816.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2578287-024816.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2578287-024816.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2578287-024816.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2578287-024816.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2578287-024816.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2578287-024816.jpg",
+      "tags": "All Images, Screenshots, Strider (2014)"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2578286-024815.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2578286-024815.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2578286-024815.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2578286-024815.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2578286-024815.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2578286-024815.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2578286-024815.jpg",
+      "tags": "All Images, Screenshots, Strider (2014)"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2578285-024814.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2578285-024814.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2578285-024814.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2578285-024814.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2578285-024814.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2578285-024814.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2578285-024814.jpg",
+      "tags": "All Images, Screenshots, Strider (2014)"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2578284-024813.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2578284-024813.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2578284-024813.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2578284-024813.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2578284-024813.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2578284-024813.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2578284-024813.jpg",
+      "tags": "All Images, Screenshots, Strider (2014)"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2578283-024812.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2578283-024812.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2578283-024812.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2578283-024812.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2578283-024812.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2578283-024812.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2578283-024812.jpg",
+      "tags": "All Images, Screenshots, Strider (2014)"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2541559-dsc04951.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2541559-dsc04951.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2541559-dsc04951.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2541559-dsc04951.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2541559-dsc04951.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2541559-dsc04951.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2541559-dsc04951.jpg",
+      "tags": "All Images, Capcom, PAX Prime 2013"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517206-ea4ef363331f811dbd925becc78b1db0.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517206-ea4ef363331f811dbd925becc78b1db0.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517206-ea4ef363331f811dbd925becc78b1db0.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517206-ea4ef363331f811dbd925becc78b1db0.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56735/2517206-ea4ef363331f811dbd925becc78b1db0.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56735/2517206-ea4ef363331f811dbd925becc78b1db0.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56735/2517206-ea4ef363331f811dbd925becc78b1db0.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517205-64313f25d7acb3afc5b6c75f92f14083.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517205-64313f25d7acb3afc5b6c75f92f14083.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517205-64313f25d7acb3afc5b6c75f92f14083.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517205-64313f25d7acb3afc5b6c75f92f14083.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56735/2517205-64313f25d7acb3afc5b6c75f92f14083.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56735/2517205-64313f25d7acb3afc5b6c75f92f14083.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56735/2517205-64313f25d7acb3afc5b6c75f92f14083.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517204-5594b2c7a6a9aa4be359937ad7237bb1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517204-5594b2c7a6a9aa4be359937ad7237bb1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517204-5594b2c7a6a9aa4be359937ad7237bb1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517204-5594b2c7a6a9aa4be359937ad7237bb1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56735/2517204-5594b2c7a6a9aa4be359937ad7237bb1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56735/2517204-5594b2c7a6a9aa4be359937ad7237bb1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56735/2517204-5594b2c7a6a9aa4be359937ad7237bb1.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517203-753bdbeafc0ca0540c5c9b78ffd7883a.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517203-753bdbeafc0ca0540c5c9b78ffd7883a.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517203-753bdbeafc0ca0540c5c9b78ffd7883a.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517203-753bdbeafc0ca0540c5c9b78ffd7883a.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56735/2517203-753bdbeafc0ca0540c5c9b78ffd7883a.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56735/2517203-753bdbeafc0ca0540c5c9b78ffd7883a.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56735/2517203-753bdbeafc0ca0540c5c9b78ffd7883a.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517202-522a7b64da4d10646f7794ff2975608f.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517202-522a7b64da4d10646f7794ff2975608f.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517202-522a7b64da4d10646f7794ff2975608f.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517202-522a7b64da4d10646f7794ff2975608f.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56735/2517202-522a7b64da4d10646f7794ff2975608f.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56735/2517202-522a7b64da4d10646f7794ff2975608f.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56735/2517202-522a7b64da4d10646f7794ff2975608f.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517201-67c349baac3e8ee6fa64cd8e96f55c39.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517201-67c349baac3e8ee6fa64cd8e96f55c39.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517201-67c349baac3e8ee6fa64cd8e96f55c39.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517201-67c349baac3e8ee6fa64cd8e96f55c39.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56735/2517201-67c349baac3e8ee6fa64cd8e96f55c39.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56735/2517201-67c349baac3e8ee6fa64cd8e96f55c39.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56735/2517201-67c349baac3e8ee6fa64cd8e96f55c39.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517199-8a2ae13f81feec19e446ee1f8e98ef99.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517199-8a2ae13f81feec19e446ee1f8e98ef99.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517199-8a2ae13f81feec19e446ee1f8e98ef99.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517199-8a2ae13f81feec19e446ee1f8e98ef99.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56735/2517199-8a2ae13f81feec19e446ee1f8e98ef99.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56735/2517199-8a2ae13f81feec19e446ee1f8e98ef99.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56735/2517199-8a2ae13f81feec19e446ee1f8e98ef99.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517198-6ea024073190d828708cdd6bb8db9c9b.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517198-6ea024073190d828708cdd6bb8db9c9b.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517198-6ea024073190d828708cdd6bb8db9c9b.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517198-6ea024073190d828708cdd6bb8db9c9b.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56735/2517198-6ea024073190d828708cdd6bb8db9c9b.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56735/2517198-6ea024073190d828708cdd6bb8db9c9b.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56735/2517198-6ea024073190d828708cdd6bb8db9c9b.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517197-2d783205ca63f96e0ca6e1f36dc1fcdd.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517197-2d783205ca63f96e0ca6e1f36dc1fcdd.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517197-2d783205ca63f96e0ca6e1f36dc1fcdd.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517197-2d783205ca63f96e0ca6e1f36dc1fcdd.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56735/2517197-2d783205ca63f96e0ca6e1f36dc1fcdd.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56735/2517197-2d783205ca63f96e0ca6e1f36dc1fcdd.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56735/2517197-2d783205ca63f96e0ca6e1f36dc1fcdd.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517196-0f021d848e1f334c019991f9ddec72e6.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517196-0f021d848e1f334c019991f9ddec72e6.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517196-0f021d848e1f334c019991f9ddec72e6.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517196-0f021d848e1f334c019991f9ddec72e6.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56735/2517196-0f021d848e1f334c019991f9ddec72e6.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56735/2517196-0f021d848e1f334c019991f9ddec72e6.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56735/2517196-0f021d848e1f334c019991f9ddec72e6.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517195-4219652758-a00_c.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517195-4219652758-a00_c.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517195-4219652758-a00_c.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517195-4219652758-a00_c.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56735/2517195-4219652758-a00_c.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56735/2517195-4219652758-a00_c.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56735/2517195-4219652758-a00_c.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517192-5215305552-Strid.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517192-5215305552-Strid.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517192-5215305552-Strid.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517192-5215305552-Strid.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56735/2517192-5215305552-Strid.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56735/2517192-5215305552-Strid.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56735/2517192-5215305552-Strid.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2517191-strider.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2517191-strider.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2517191-strider.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2517191-strider.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2517191-strider.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2517191-strider.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2517191-strider.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517178-bpfessvcuaavxym.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517178-bpfessvcuaavxym.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/5/56735/2517178-bpfessvcuaavxym.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/5/56735/2517178-bpfessvcuaavxym.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/5/56735/2517178-bpfessvcuaavxym.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/5/56735/2517178-bpfessvcuaavxym.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/5/56735/2517178-bpfessvcuaavxym.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7709/",
+      "id": 7709,
+      "name": "Strider Is Back",
+      "site_detail_url": "http://www.giantbomb.com/videos/strider-is-back/2300-7709/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8046/",
+      "id": 8046,
+      "name": "Strider Still Moves From Left to Right",
+      "site_detail_url": "http://www.giantbomb.com/videos/strider-still-moves-from-left-to-right/2300-8046/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8519/",
+      "id": 8519,
+      "name": "Double Helix's New Strider Game Hits Xbox Live/PSN/PC Today",
+      "site_detail_url": "http://www.giantbomb.com/videos/double-helix-s-new-strider-game-hits-xbox-live-psn/2300-8519/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8523/",
+      "id": 8523,
+      "name": "Quick Look: Strider",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-strider/2300-8523/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8533/",
+      "id": 8533,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 02/21/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-02-21-2014/2300-8533/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8539/",
+      "id": 8539,
+      "name": "Bombin' the A.M. With Cara Ellison",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-cara-ellison/2300-8539/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132627/",
+      "id": 132627,
+      "name": "Strider",
+      "site_detail_url": "http://www.giantbomb.com/strider/3030-43275/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132846/",
+      "id": 132846,
+      "name": "Strider",
+      "site_detail_url": "http://www.giantbomb.com/strider/3030-43275/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132847/",
+      "id": 132847,
+      "name": "Strider",
+      "site_detail_url": "http://www.giantbomb.com/strider/3030-43275/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132873/",
+      "id": 132873,
+      "name": "Strider",
+      "site_detail_url": "http://www.giantbomb.com/strider/3030-43275/releases/"
+    }
+  ]
+}

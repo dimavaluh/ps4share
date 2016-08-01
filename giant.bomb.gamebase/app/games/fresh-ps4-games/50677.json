@@ -1,0 +1,77 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-50677/",
+  "deck": "Match 3 puzzler in a toy factory.",
+  "id": 50677,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2777250-2618885180-20532.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2777250-2618885180-20532.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2777250-2618885180-20532.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2777250-2618885180-20532.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2777250-2618885180-20532.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2777250-2618885180-20532.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2777250-2618885180-20532.jpg"
+  },
+  "name": "Tina's Toy Factory",
+  "original_release_date": "2014-09-02 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-124/",
+      "id": 124,
+      "name": "Windows Phone",
+      "site_detail_url": "http://www.giantbomb.com/windows-phone/3045-124/",
+      "abbreviation": "WP"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-154/",
+      "id": 154,
+      "name": "Ouya",
+      "site_detail_url": "http://www.giantbomb.com/ouya/3045-154/",
+      "abbreviation": "OUYA"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/tinas-toy-factory/3030-50677/",
+  "images": [],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-18/",
+      "id": 18,
+      "name": "Puzzle",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=puzzle&wikiTypeId=3060&wikiId=18&genre=18"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143316/",
+      "id": 143316,
+      "name": "Tina's Toy Factory",
+      "site_detail_url": "http://www.giantbomb.com/tinas-toy-factory/3030-50677/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143317/",
+      "id": 143317,
+      "name": "Tina's Toy Factory",
+      "site_detail_url": "http://www.giantbomb.com/tinas-toy-factory/3030-50677/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143318/",
+      "id": 143318,
+      "name": "Tina's Toy Factory",
+      "site_detail_url": "http://www.giantbomb.com/tinas-toy-factory/3030-50677/releases/"
+    }
+  ]
+}

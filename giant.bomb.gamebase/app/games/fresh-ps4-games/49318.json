@@ -1,0 +1,125 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-49318/",
+  "deck": "A 2.5D downloadable title for the Xbox One, PlayStation 4 and PC. The game follows Shao Jun, the last remaining Assassin of the Chinese Brotherhood.",
+  "id": 49318,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2739447-assassins-creed-unity-china-chronicles-1.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2739447-assassins-creed-unity-china-chronicles-1.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2739447-assassins-creed-unity-china-chronicles-1.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2739447-assassins-creed-unity-china-chronicles-1.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2739447-assassins-creed-unity-china-chronicles-1.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2739447-assassins-creed-unity-china-chronicles-1.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2739447-assassins-creed-unity-china-chronicles-1.jpg"
+  },
+  "name": "Assassin's Creed Chronicles: China",
+  "original_release_date": "2015-04-21 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/assassins-creed-chronicles-china/3030-49318/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2739447-assassins-creed-unity-china-chronicles-1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2739447-assassins-creed-unity-china-chronicles-1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2739447-assassins-creed-unity-china-chronicles-1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2739447-assassins-creed-unity-china-chronicles-1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2739447-assassins-creed-unity-china-chronicles-1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2739447-assassins-creed-unity-china-chronicles-1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2739447-assassins-creed-unity-china-chronicles-1.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10126/",
+      "id": 10126,
+      "name": "Assassin's Creed Chronicles: China Is Out Today",
+      "site_detail_url": "http://www.giantbomb.com/videos/assassin-s-creed-chronicles-china-is-out-today/2300-10126/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10141/",
+      "id": 10141,
+      "name": "Quick Look: Assassin's Creed Chronicles: China",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-assassin-s-creed-chronicles-china/2300-10141/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140974/",
+      "id": 140974,
+      "name": "Assassin's Creed Chronicles: China",
+      "site_detail_url": "http://www.giantbomb.com/assassins-creed-chronicles-china/3030-49318/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140975/",
+      "id": 140975,
+      "name": "Assassin's Creed Chronicles: China",
+      "site_detail_url": "http://www.giantbomb.com/assassins-creed-chronicles-china/3030-49318/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140976/",
+      "id": 140976,
+      "name": "Assassin's Creed Chronicles: China",
+      "site_detail_url": "http://www.giantbomb.com/assassins-creed-chronicles-china/3030-49318/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140977/",
+      "id": 140977,
+      "name": "Assassin's Creed Chronicles: China",
+      "site_detail_url": "http://www.giantbomb.com/assassins-creed-chronicles-china/3030-49318/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140978/",
+      "id": 140978,
+      "name": "Assassin's Creed Chronicles: China",
+      "site_detail_url": "http://www.giantbomb.com/assassins-creed-chronicles-china/3030-49318/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140979/",
+      "id": 140979,
+      "name": "Assassin's Creed Chronicles: China",
+      "site_detail_url": "http://www.giantbomb.com/assassins-creed-chronicles-china/3030-49318/releases/"
+    }
+  ]
+}

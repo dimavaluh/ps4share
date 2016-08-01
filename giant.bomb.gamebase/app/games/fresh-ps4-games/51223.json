@@ -1,0 +1,110 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-51223/",
+  "deck": "A 2D Action Adventure/RPG.",
+  "id": 51223,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2790200-cot.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2790200-cot.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2790200-cot.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2790200-cot.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2790200-cot.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2790200-cot.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2790200-cot.jpg"
+  },
+  "name": "Chronicles of Teddy: Harmony of Exidus",
+  "original_release_date": "2016-03-29 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/chronicles-of-teddy-harmony-of-exidus/3030-51223/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2790200-cot.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2790200-cot.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2790200-cot.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2790200-cot.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2790200-cot.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2790200-cot.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2790200-cot.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2790197-logo-lg-chronicles-of-teddy.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2790197-logo-lg-chronicles-of-teddy.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2790197-logo-lg-chronicles-of-teddy.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2790197-logo-lg-chronicles-of-teddy.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2790197-logo-lg-chronicles-of-teddy.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2790197-logo-lg-chronicles-of-teddy.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2790197-logo-lg-chronicles-of-teddy.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144207/",
+      "id": 144207,
+      "name": "Chronicles of Teddy: Harmony of Exidus",
+      "site_detail_url": "http://www.giantbomb.com/chronicles-of-teddy-harmony-of-exidus/3030-51223/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144208/",
+      "id": 144208,
+      "name": "Chronicles of Teddy: Harmony of Exidus",
+      "site_detail_url": "http://www.giantbomb.com/chronicles-of-teddy-harmony-of-exidus/3030-51223/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145348/",
+      "id": 145348,
+      "name": "Chronicles of Teddy: Harmony of Exidus",
+      "site_detail_url": "http://www.giantbomb.com/chronicles-of-teddy-harmony-of-exidus/3030-51223/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147125/",
+      "id": 147125,
+      "name": "Chronicles of Teddy: Harmony of Exidus",
+      "site_detail_url": "http://www.giantbomb.com/chronicles-of-teddy-harmony-of-exidus/3030-51223/releases/"
+    }
+  ]
+}

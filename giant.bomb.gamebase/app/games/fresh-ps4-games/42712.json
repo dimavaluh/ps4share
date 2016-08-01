@@ -1,0 +1,529 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-42712/",
+  "deck": "Dying Light is a first-person, open world game set in a zombie apocalypse. The player character is able to free-run to get around the environment quickly.",
+  "id": 42712,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2496414-dying-light-2013523175751_8.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2496414-dying-light-2013523175751_8.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2496414-dying-light-2013523175751_8.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2496414-dying-light-2013523175751_8.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2496414-dying-light-2013523175751_8.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2496414-dying-light-2013523175751_8.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2496414-dying-light-2013523175751_8.jpg"
+  },
+  "name": "Dying Light",
+  "original_release_date": "2015-01-27 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/dying-light/3030-42712/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/22/223162/2824380-boxes-eu-ee-xo.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/22/223162/2824380-boxes-eu-ee-xo.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/22/223162/2824380-boxes-eu-ee-xo.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/22/223162/2824380-boxes-eu-ee-xo.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/22/223162/2824380-boxes-eu-ee-xo.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/22/223162/2824380-boxes-eu-ee-xo.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/22/223162/2824380-boxes-eu-ee-xo.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/22/223162/2824379-boxes-eu-ee-ps4.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/22/223162/2824379-boxes-eu-ee-ps4.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/22/223162/2824379-boxes-eu-ee-ps4.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/22/223162/2824379-boxes-eu-ee-ps4.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/22/223162/2824379-boxes-eu-ee-ps4.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/22/223162/2824379-boxes-eu-ee-ps4.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/22/223162/2824379-boxes-eu-ee-ps4.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/22/223162/2824378-boxes-eu-ee-pc.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/22/223162/2824378-boxes-eu-ee-pc.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/22/223162/2824378-boxes-eu-ee-pc.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/22/223162/2824378-boxes-eu-ee-pc.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/22/223162/2824378-boxes-eu-ee-pc.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/22/223162/2824378-boxes-eu-ee-pc.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/22/223162/2824378-boxes-eu-ee-pc.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/22/223162/2824377-boxes-eu-ee.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/22/223162/2824377-boxes-eu-ee.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/22/223162/2824377-boxes-eu-ee.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/22/223162/2824377-boxes-eu-ee.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/22/223162/2824377-boxes-eu-ee.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/22/223162/2824377-boxes-eu-ee.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/22/223162/2824377-boxes-eu-ee.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755958-dying+light_20150131121517.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755958-dying+light_20150131121517.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755958-dying+light_20150131121517.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755958-dying+light_20150131121517.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755958-dying+light_20150131121517.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755958-dying+light_20150131121517.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755958-dying+light_20150131121517.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755957-dying+light_20150131120612.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755957-dying+light_20150131120612.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755957-dying+light_20150131120612.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755957-dying+light_20150131120612.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755957-dying+light_20150131120612.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755957-dying+light_20150131120612.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755957-dying+light_20150131120612.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755956-dying+light_20150131115417.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755956-dying+light_20150131115417.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755956-dying+light_20150131115417.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755956-dying+light_20150131115417.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755956-dying+light_20150131115417.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755956-dying+light_20150131115417.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755956-dying+light_20150131115417.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755955-dying+light_20150131115032.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755955-dying+light_20150131115032.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755955-dying+light_20150131115032.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755955-dying+light_20150131115032.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755955-dying+light_20150131115032.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755955-dying+light_20150131115032.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755955-dying+light_20150131115032.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755954-dying+light_20150128180544.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755954-dying+light_20150128180544.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755954-dying+light_20150128180544.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755954-dying+light_20150128180544.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755954-dying+light_20150128180544.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755954-dying+light_20150128180544.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755954-dying+light_20150128180544.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755953-dying+light_20150128170627.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755953-dying+light_20150128170627.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755953-dying+light_20150128170627.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755953-dying+light_20150128170627.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755953-dying+light_20150128170627.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755953-dying+light_20150128170627.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755953-dying+light_20150128170627.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755952-dying+light_20150128170624.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755952-dying+light_20150128170624.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755952-dying+light_20150128170624.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755952-dying+light_20150128170624.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755952-dying+light_20150128170624.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755952-dying+light_20150128170624.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755952-dying+light_20150128170624.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755951-dying+light_20150128163847.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755951-dying+light_20150128163847.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755951-dying+light_20150128163847.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755951-dying+light_20150128163847.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755951-dying+light_20150128163847.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755951-dying+light_20150128163847.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755951-dying+light_20150128163847.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755950-dying+light_20150128163813.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755950-dying+light_20150128163813.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755950-dying+light_20150128163813.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755950-dying+light_20150128163813.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755950-dying+light_20150128163813.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755950-dying+light_20150128163813.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755950-dying+light_20150128163813.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755949-dying+light_20150128162049.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755949-dying+light_20150128162049.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755949-dying+light_20150128162049.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755949-dying+light_20150128162049.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755949-dying+light_20150128162049.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755949-dying+light_20150128162049.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755949-dying+light_20150128162049.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755948-dying+light_20150128155814.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755948-dying+light_20150128155814.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755948-dying+light_20150128155814.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755948-dying+light_20150128155814.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755948-dying+light_20150128155814.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755948-dying+light_20150128155814.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755948-dying+light_20150128155814.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755947-dying+light_20150128155054.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755947-dying+light_20150128155054.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755947-dying+light_20150128155054.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755947-dying+light_20150128155054.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755947-dying+light_20150128155054.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755947-dying+light_20150128155054.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755947-dying+light_20150128155054.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755946-dying+light_20150127180026.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755946-dying+light_20150127180026.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755946-dying+light_20150127180026.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755946-dying+light_20150127180026.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755946-dying+light_20150127180026.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755946-dying+light_20150127180026.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755946-dying+light_20150127180026.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755945-dying+light_20150127175802.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755945-dying+light_20150127175802.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755945-dying+light_20150127175802.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755945-dying+light_20150127175802.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755945-dying+light_20150127175802.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755945-dying+light_20150127175802.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755945-dying+light_20150127175802.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755944-dying+light_20150127175739.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755944-dying+light_20150127175739.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755944-dying+light_20150127175739.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755944-dying+light_20150127175739.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755944-dying+light_20150127175739.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755944-dying+light_20150127175739.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755944-dying+light_20150127175739.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755943-dying+light_20150127175428.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755943-dying+light_20150127175428.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755943-dying+light_20150127175428.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755943-dying+light_20150127175428.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755943-dying+light_20150127175428.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755943-dying+light_20150127175428.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755943-dying+light_20150127175428.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755942-dying+light_20150127175233.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755942-dying+light_20150127175233.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755942-dying+light_20150127175233.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755942-dying+light_20150127175233.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755942-dying+light_20150127175233.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755942-dying+light_20150127175233.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755942-dying+light_20150127175233.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755941-dying+light_20150127175136.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755941-dying+light_20150127175136.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755941-dying+light_20150127175136.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755941-dying+light_20150127175136.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755941-dying+light_20150127175136.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755941-dying+light_20150127175136.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755941-dying+light_20150127175136.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755940-dying+light_20150127175124.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755940-dying+light_20150127175124.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755940-dying+light_20150127175124.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755940-dying+light_20150127175124.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755940-dying+light_20150127175124.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755940-dying+light_20150127175124.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755940-dying+light_20150127175124.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755939-dying+light_20150127174721.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755939-dying+light_20150127174721.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755939-dying+light_20150127174721.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755939-dying+light_20150127174721.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755939-dying+light_20150127174721.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755939-dying+light_20150127174721.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755939-dying+light_20150127174721.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2726591-dyinglightgame+2015-02-14+23-30-22-47.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2726591-dyinglightgame+2015-02-14+23-30-22-47.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2726591-dyinglightgame+2015-02-14+23-30-22-47.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2726591-dyinglightgame+2015-02-14+23-30-22-47.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/75926/2726591-dyinglightgame+2015-02-14+23-30-22-47.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/75926/2726591-dyinglightgame+2015-02-14+23-30-22-47.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/75926/2726591-dyinglightgame+2015-02-14+23-30-22-47.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2726567-dyinglightgame+2015-02-14+22-45-17-31.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2726567-dyinglightgame+2015-02-14+22-45-17-31.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2726567-dyinglightgame+2015-02-14+22-45-17-31.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2726567-dyinglightgame+2015-02-14+22-45-17-31.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/75926/2726567-dyinglightgame+2015-02-14+22-45-17-31.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/75926/2726567-dyinglightgame+2015-02-14+22-45-17-31.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/75926/2726567-dyinglightgame+2015-02-14+22-45-17-31.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2726363-dyinglightgame+2015-02-13+21-34-35-08.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2726363-dyinglightgame+2015-02-13+21-34-35-08.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2726363-dyinglightgame+2015-02-13+21-34-35-08.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2726363-dyinglightgame+2015-02-13+21-34-35-08.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/75926/2726363-dyinglightgame+2015-02-13+21-34-35-08.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/75926/2726363-dyinglightgame+2015-02-13+21-34-35-08.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/75926/2726363-dyinglightgame+2015-02-13+21-34-35-08.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2726362-dyinglightgame+2015-02-13+21-11-48-23.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2726362-dyinglightgame+2015-02-13+21-11-48-23.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2726362-dyinglightgame+2015-02-13+21-11-48-23.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2726362-dyinglightgame+2015-02-13+21-11-48-23.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/75926/2726362-dyinglightgame+2015-02-13+21-11-48-23.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/75926/2726362-dyinglightgame+2015-02-13+21-11-48-23.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/75926/2726362-dyinglightgame+2015-02-13+21-11-48-23.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2726184-dyinglightgame+2015-01-27+19-45-57-50.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2726184-dyinglightgame+2015-01-27+19-45-57-50.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2726184-dyinglightgame+2015-01-27+19-45-57-50.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2726184-dyinglightgame+2015-01-27+19-45-57-50.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/75926/2726184-dyinglightgame+2015-01-27+19-45-57-50.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/75926/2726184-dyinglightgame+2015-01-27+19-45-57-50.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/75926/2726184-dyinglightgame+2015-01-27+19-45-57-50.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2726183-dyinglightgame+2015-01-27+19-59-31-49.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2726183-dyinglightgame+2015-01-27+19-59-31-49.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2726183-dyinglightgame+2015-01-27+19-59-31-49.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2726183-dyinglightgame+2015-01-27+19-59-31-49.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/75926/2726183-dyinglightgame+2015-01-27+19-59-31-49.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/75926/2726183-dyinglightgame+2015-01-27+19-59-31-49.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/75926/2726183-dyinglightgame+2015-01-27+19-59-31-49.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7462/",
+      "id": 7462,
+      "name": "Techland's Taking Another Swing at Killin' Zombies With Dying Light",
+      "site_detail_url": "http://www.giantbomb.com/videos/techland-s-taking-another-swing-at-killin-zombies-/2300-7462/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7829/",
+      "id": 7829,
+      "name": "Proof Dying Light Is the Real Sequel to Dead Island",
+      "site_detail_url": "http://www.giantbomb.com/videos/proof-dying-light-is-the-real-sequel-to-dead-islan/2300-7829/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8234/",
+      "id": 8234,
+      "name": "Here's a Quick Glimpse of Dying Light's, Uh, Lights",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-a-quick-glimpse-of-dying-light-s-uh-lights/2300-8234/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8486/",
+      "id": 8486,
+      "name": "There's Not Much Hope in Dying Light's World",
+      "site_detail_url": "http://www.giantbomb.com/videos/there-s-not-much-hope-in-dying-light-s-world/2300-8486/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8954/",
+      "id": 8954,
+      "name": "It's Not E3 Yet, but Here's Dying Light's E3 Trailer Anyway",
+      "site_detail_url": "http://www.giantbomb.com/videos/its-not-e3-yet-but-heres-dying-lights-e3-trailer-a/2300-8954/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9311/",
+      "id": 9311,
+      "name": "You'll Need Friends to Survive in Dying Light",
+      "site_detail_url": "http://www.giantbomb.com/videos/youll-need-friends-to-survive-in-dying-light/2300-9311/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9880/",
+      "id": 9880,
+      "name": "Quick Look: Dying Light",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-dying-light/2300-9880/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9892/",
+      "id": 9892,
+      "name": "Quick Look: Dying Light Co-Op",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-dying-light-co-op/2300-9892/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10993/",
+      "id": 10993,
+      "name": "Quick Look: Dying Light: The Following",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-dying-light-the-following/2300-10993/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11182/",
+      "id": 11182,
+      "name": "Giant Bomb Mailbag: Destroying America Edition",
+      "site_detail_url": "http://www.giantbomb.com/videos/giant-bomb-mailbag-destroying-america-edition/2300-11182/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-32/",
+      "id": 32,
+      "name": "First-Person Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=first-person-shooter&wikiTypeId=3060&wikiId=32&genre=32"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137557/",
+      "id": 137557,
+      "name": "Dying Light",
+      "site_detail_url": "http://www.giantbomb.com/dying-light/3030-42712/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137558/",
+      "id": 137558,
+      "name": "Dying Light",
+      "site_detail_url": "http://www.giantbomb.com/dying-light/3030-42712/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137559/",
+      "id": 137559,
+      "name": "Dying Light",
+      "site_detail_url": "http://www.giantbomb.com/dying-light/3030-42712/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137560/",
+      "id": 137560,
+      "name": "Dying Light",
+      "site_detail_url": "http://www.giantbomb.com/dying-light/3030-42712/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137568/",
+      "id": 137568,
+      "name": "Dying Light",
+      "site_detail_url": "http://www.giantbomb.com/dying-light/3030-42712/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137569/",
+      "id": 137569,
+      "name": "Dying Light",
+      "site_detail_url": "http://www.giantbomb.com/dying-light/3030-42712/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137571/",
+      "id": 137571,
+      "name": "Dying Light",
+      "site_detail_url": "http://www.giantbomb.com/dying-light/3030-42712/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137572/",
+      "id": 137572,
+      "name": "Dying Light",
+      "site_detail_url": "http://www.giantbomb.com/dying-light/3030-42712/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137577/",
+      "id": 137577,
+      "name": "Dying Light",
+      "site_detail_url": "http://www.giantbomb.com/dying-light/3030-42712/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137578/",
+      "id": 137578,
+      "name": "Dying Light",
+      "site_detail_url": "http://www.giantbomb.com/dying-light/3030-42712/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137579/",
+      "id": 137579,
+      "name": "Dying Light",
+      "site_detail_url": "http://www.giantbomb.com/dying-light/3030-42712/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137580/",
+      "id": 137580,
+      "name": "Dying Light",
+      "site_detail_url": "http://www.giantbomb.com/dying-light/3030-42712/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-139763/",
+      "id": 139763,
+      "name": "Dying Light",
+      "site_detail_url": "http://www.giantbomb.com/dying-light/3030-42712/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146025/",
+      "id": 146025,
+      "name": "Dying Light Enhanced Edition",
+      "site_detail_url": "http://www.giantbomb.com/dying-light/3030-42712/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146026/",
+      "id": 146026,
+      "name": "Dying Light Enhanced Edition",
+      "site_detail_url": "http://www.giantbomb.com/dying-light/3030-42712/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146027/",
+      "id": 146027,
+      "name": "Dying Light Enhanced Edition",
+      "site_detail_url": "http://www.giantbomb.com/dying-light/3030-42712/releases/"
+    }
+  ]
+}

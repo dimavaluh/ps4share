@@ -1,0 +1,502 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-43241/",
+  "deck": "The third major installment of the Street Fighter IV legacy adds characters and stages from Street Fighter X Tekken, a brand new fighter, new gameplay mechanics (including the ability to bring both Ultra Combos into the fight), and a variety of balance tweaks, training enhancements, and new modes.",
+  "id": 43241,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2515618-usf4.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2515618-usf4.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2515618-usf4.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2515618-usf4.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2515618-usf4.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2515618-usf4.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2515618-usf4.jpg"
+  },
+  "name": "Ultra Street Fighter IV",
+  "original_release_date": "2014-04-17 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-84/",
+      "id": 84,
+      "name": "Arcade",
+      "site_detail_url": "http://www.giantbomb.com/arcade/3045-84/",
+      "abbreviation": "ARC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+      "id": 86,
+      "name": "Xbox 360 Games Store",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+      "abbreviation": "XBGS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/ultra-street-fighter-iv/3030-43241/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752610-ultra+street+fighter+iv_20150527125117.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752610-ultra+street+fighter+iv_20150527125117.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752610-ultra+street+fighter+iv_20150527125117.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752610-ultra+street+fighter+iv_20150527125117.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2752610-ultra+street+fighter+iv_20150527125117.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2752610-ultra+street+fighter+iv_20150527125117.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2752610-ultra+street+fighter+iv_20150527125117.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752609-ultra+street+fighter+iv_20150527124946.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752609-ultra+street+fighter+iv_20150527124946.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752609-ultra+street+fighter+iv_20150527124946.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752609-ultra+street+fighter+iv_20150527124946.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2752609-ultra+street+fighter+iv_20150527124946.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2752609-ultra+street+fighter+iv_20150527124946.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2752609-ultra+street+fighter+iv_20150527124946.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752608-ultra+street+fighter+iv_20150527124844.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752608-ultra+street+fighter+iv_20150527124844.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752608-ultra+street+fighter+iv_20150527124844.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752608-ultra+street+fighter+iv_20150527124844.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2752608-ultra+street+fighter+iv_20150527124844.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2752608-ultra+street+fighter+iv_20150527124844.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2752608-ultra+street+fighter+iv_20150527124844.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752607-ultra+street+fighter+iv_20150527124731.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752607-ultra+street+fighter+iv_20150527124731.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752607-ultra+street+fighter+iv_20150527124731.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752607-ultra+street+fighter+iv_20150527124731.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2752607-ultra+street+fighter+iv_20150527124731.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2752607-ultra+street+fighter+iv_20150527124731.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2752607-ultra+street+fighter+iv_20150527124731.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752606-ultra+street+fighter+iv_20150527124607.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752606-ultra+street+fighter+iv_20150527124607.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752606-ultra+street+fighter+iv_20150527124607.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752606-ultra+street+fighter+iv_20150527124607.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2752606-ultra+street+fighter+iv_20150527124607.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2752606-ultra+street+fighter+iv_20150527124607.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2752606-ultra+street+fighter+iv_20150527124607.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752605-ultra+street+fighter+iv_20150527124402.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752605-ultra+street+fighter+iv_20150527124402.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752605-ultra+street+fighter+iv_20150527124402.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752605-ultra+street+fighter+iv_20150527124402.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2752605-ultra+street+fighter+iv_20150527124402.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2752605-ultra+street+fighter+iv_20150527124402.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2752605-ultra+street+fighter+iv_20150527124402.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752604-ultra+street+fighter+iv_20150527002955.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752604-ultra+street+fighter+iv_20150527002955.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752604-ultra+street+fighter+iv_20150527002955.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752604-ultra+street+fighter+iv_20150527002955.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2752604-ultra+street+fighter+iv_20150527002955.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2752604-ultra+street+fighter+iv_20150527002955.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2752604-ultra+street+fighter+iv_20150527002955.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752603-ultra+street+fighter+iv_20150527002648.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752603-ultra+street+fighter+iv_20150527002648.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752603-ultra+street+fighter+iv_20150527002648.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752603-ultra+street+fighter+iv_20150527002648.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2752603-ultra+street+fighter+iv_20150527002648.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2752603-ultra+street+fighter+iv_20150527002648.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2752603-ultra+street+fighter+iv_20150527002648.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752602-ultra+street+fighter+iv_20150527002443.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752602-ultra+street+fighter+iv_20150527002443.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752602-ultra+street+fighter+iv_20150527002443.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752602-ultra+street+fighter+iv_20150527002443.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2752602-ultra+street+fighter+iv_20150527002443.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2752602-ultra+street+fighter+iv_20150527002443.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2752602-ultra+street+fighter+iv_20150527002443.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752601-ultra+street+fighter+iv_20150527001427.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752601-ultra+street+fighter+iv_20150527001427.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752601-ultra+street+fighter+iv_20150527001427.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752601-ultra+street+fighter+iv_20150527001427.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2752601-ultra+street+fighter+iv_20150527001427.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2752601-ultra+street+fighter+iv_20150527001427.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2752601-ultra+street+fighter+iv_20150527001427.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752600-ultra+street+fighter+iv_20150527001213.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752600-ultra+street+fighter+iv_20150527001213.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752600-ultra+street+fighter+iv_20150527001213.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752600-ultra+street+fighter+iv_20150527001213.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2752600-ultra+street+fighter+iv_20150527001213.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2752600-ultra+street+fighter+iv_20150527001213.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2752600-ultra+street+fighter+iv_20150527001213.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752599-ultra+street+fighter+iv_20150527001144.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752599-ultra+street+fighter+iv_20150527001144.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752599-ultra+street+fighter+iv_20150527001144.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752599-ultra+street+fighter+iv_20150527001144.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2752599-ultra+street+fighter+iv_20150527001144.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2752599-ultra+street+fighter+iv_20150527001144.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2752599-ultra+street+fighter+iv_20150527001144.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752598-ultra+street+fighter+iv_20150527001135.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752598-ultra+street+fighter+iv_20150527001135.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2752598-ultra+street+fighter+iv_20150527001135.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2752598-ultra+street+fighter+iv_20150527001135.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2752598-ultra+street+fighter+iv_20150527001135.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2752598-ultra+street+fighter+iv_20150527001135.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2752598-ultra+street+fighter+iv_20150527001135.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2679270-dsc06568.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2679270-dsc06568.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2679270-dsc06568.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2679270-dsc06568.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2679270-dsc06568.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2679270-dsc06568.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2679270-dsc06568.jpg",
+      "tags": "All Images, Capcom, PAX Prime 2014"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627483-029136.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627483-029136.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627483-029136.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627483-029136.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2627483-029136.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2627483-029136.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2627483-029136.jpg",
+      "tags": "All Images, Screenshots, Ultra Street Fighter IV"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627482-029134.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627482-029134.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627482-029134.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627482-029134.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2627482-029134.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2627482-029134.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2627482-029134.jpg",
+      "tags": "All Images, Screenshots, Ultra Street Fighter IV"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627481-029133.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627481-029133.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627481-029133.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627481-029133.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2627481-029133.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2627481-029133.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2627481-029133.jpg",
+      "tags": "All Images, Screenshots, Ultra Street Fighter IV"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627480-029132.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627480-029132.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627480-029132.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627480-029132.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2627480-029132.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2627480-029132.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2627480-029132.jpg",
+      "tags": "All Images, Screenshots, Ultra Street Fighter IV"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627479-029131.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627479-029131.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627479-029131.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627479-029131.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2627479-029131.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2627479-029131.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2627479-029131.jpg",
+      "tags": "All Images, Screenshots, Ultra Street Fighter IV"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627478-029130.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627478-029130.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627478-029130.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627478-029130.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2627478-029130.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2627478-029130.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2627478-029130.jpg",
+      "tags": "All Images, Screenshots, Ultra Street Fighter IV"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627476-029129.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627476-029129.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627476-029129.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627476-029129.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2627476-029129.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2627476-029129.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2627476-029129.jpg",
+      "tags": "All Images, Screenshots, Ultra Street Fighter IV"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627475-029128.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627475-029128.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627475-029128.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627475-029128.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2627475-029128.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2627475-029128.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2627475-029128.jpg",
+      "tags": "All Images, Screenshots, Ultra Street Fighter IV"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627474-029127.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627474-029127.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627474-029127.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627474-029127.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2627474-029127.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2627474-029127.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2627474-029127.jpg",
+      "tags": "All Images, Screenshots, Ultra Street Fighter IV"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627473-029126.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627473-029126.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627473-029126.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627473-029126.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2627473-029126.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2627473-029126.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2627473-029126.jpg",
+      "tags": "All Images, Screenshots, Ultra Street Fighter IV"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627472-029125.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627472-029125.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627472-029125.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627472-029125.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2627472-029125.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2627472-029125.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2627472-029125.jpg",
+      "tags": "All Images, Screenshots, Ultra Street Fighter IV"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627471-029124.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627471-029124.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2627471-029124.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2627471-029124.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2627471-029124.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2627471-029124.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2627471-029124.jpg",
+      "tags": "All Images, Screenshots, Ultra Street Fighter IV"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2581067-025017.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2581067-025017.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2581067-025017.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2581067-025017.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2581067-025017.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2581067-025017.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2581067-025017.jpg",
+      "tags": "All Images, Screenshots, Ultra Street Fighter IV"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2581066-025016.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2581066-025016.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2581066-025016.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2581066-025016.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2581066-025016.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2581066-025016.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2581066-025016.jpg",
+      "tags": "All Images, Screenshots, Ultra Street Fighter IV"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2581065-025015.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2581065-025015.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2581065-025015.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2581065-025015.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2581065-025015.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2581065-025015.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2581065-025015.jpg",
+      "tags": "All Images, Screenshots, Ultra Street Fighter IV"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2581064-025014.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2581064-025014.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9493/2581064-025014.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9493/2581064-025014.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9493/2581064-025014.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9493/2581064-025014.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9493/2581064-025014.jpg",
+      "tags": "All Images, Screenshots, Ultra Street Fighter IV"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7686/",
+      "id": 7686,
+      "name": "Capcom Forgot How to Count to Five",
+      "site_detail_url": "http://www.giantbomb.com/videos/capcom-forgot-how-to-count-to-five/2300-7686/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8301/",
+      "id": 8301,
+      "name": "Here's All the Stuff Being Added to Ultra Street Fighter IV",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-all-the-stuff-being-added-to-ultra-street-f/2300-8301/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8572/",
+      "id": 8572,
+      "name": "Ultra Street Fighter IV Lets You Swap Character Versions",
+      "site_detail_url": "http://www.giantbomb.com/videos/ultra-street-fighter-iv-lets-you-swap-character-ve/2300-8572/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8641/",
+      "id": 8641,
+      "name": "Decapre Is Ultra Street Fighter IV's Fifth New Character",
+      "site_detail_url": "http://www.giantbomb.com/videos/decapre-is-ultra-street-fighter-iv-s-fifth-new-cha/2300-8641/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8884/",
+      "id": 8884,
+      "name": "Ultra Street Fighter IV Coming June 3 on PSN, June 4 for Xbox Live",
+      "site_detail_url": "http://www.giantbomb.com/videos/ultra-street-fighter-iv-coming-june-3-on-psn-june-/2300-8884/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8946/",
+      "id": 8946,
+      "name": "Quick Look: Ultra Street Fighter IV",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-ultra-street-fighter-iv/2300-8946/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8952/",
+      "id": 8952,
+      "name": "Oh Yeah, Ultra Street Fighter IV Totally Launches Today, Doesn't It?",
+      "site_detail_url": "http://www.giantbomb.com/videos/oh-yeah-ultra-street-fighter-iv-totally-launches-t/2300-8952/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9626/",
+      "id": 9626,
+      "name": "Extra Life 2014 - Day 2: Part 06",
+      "site_detail_url": "http://www.giantbomb.com/videos/extra-life-2014-day-2-part-06/2300-9626/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9805/",
+      "id": 9805,
+      "name": "Quick Look: Ultra Street Fighter IV: Omega Mode",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-ultra-street-fighter-iv-omega-mode/2300-9805/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10841/",
+      "id": 10841,
+      "name": "Extra Life 2015 - Jason: Part 02",
+      "site_detail_url": "http://www.giantbomb.com/videos/extra-life-2015-jason-part-02/2300-10841/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-9/",
+      "id": 9,
+      "name": "Fighting",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=fighting&wikiTypeId=3060&wikiId=9&genre=9"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128549/",
+      "id": 128549,
+      "name": "Ultra Street Fighter IV",
+      "site_detail_url": "http://www.giantbomb.com/ultra-street-fighter-iv/3030-43241/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128550/",
+      "id": 128550,
+      "name": "Ultra Street Fighter IV",
+      "site_detail_url": "http://www.giantbomb.com/ultra-street-fighter-iv/3030-43241/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133771/",
+      "id": 133771,
+      "name": "Ultra Street Fighter IV",
+      "site_detail_url": "http://www.giantbomb.com/ultra-street-fighter-iv/3030-43241/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136663/",
+      "id": 136663,
+      "name": "Ultra Street Fighter IV",
+      "site_detail_url": "http://www.giantbomb.com/ultra-street-fighter-iv/3030-43241/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136770/",
+      "id": 136770,
+      "name": "Ultra Street Fighter IV",
+      "site_detail_url": "http://www.giantbomb.com/ultra-street-fighter-iv/3030-43241/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136785/",
+      "id": 136785,
+      "name": "Ultra Street Fighter IV",
+      "site_detail_url": "http://www.giantbomb.com/ultra-street-fighter-iv/3030-43241/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136786/",
+      "id": 136786,
+      "name": "Ultra Street Fighter IV",
+      "site_detail_url": "http://www.giantbomb.com/ultra-street-fighter-iv/3030-43241/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136787/",
+      "id": 136787,
+      "name": "Ultra Street Fighter IV",
+      "site_detail_url": "http://www.giantbomb.com/ultra-street-fighter-iv/3030-43241/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141697/",
+      "id": 141697,
+      "name": "Ultra Street Fighter IV",
+      "site_detail_url": "http://www.giantbomb.com/ultra-street-fighter-iv/3030-43241/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141713/",
+      "id": 141713,
+      "name": "Ultra Street Fighter IV",
+      "site_detail_url": "http://www.giantbomb.com/ultra-street-fighter-iv/3030-43241/releases/"
+    }
+  ]
+}

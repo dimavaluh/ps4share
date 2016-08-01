@@ -1,0 +1,451 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-41459/",
+  "deck": "Celebrating 25 years of John Madden Football. No correlation to the year 2025.",
+  "id": 41459,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2488290-box_madden25.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2488290-box_madden25.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2488290-box_madden25.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2488290-box_madden25.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2488290-box_madden25.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2488290-box_madden25.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2488290-box_madden25.png"
+  },
+  "name": "Madden NFL 25",
+  "original_release_date": "2013-08-27 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+      "id": 86,
+      "name": "Xbox 360 Games Store",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+      "abbreviation": "XBGS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/madden-nfl-25/3030-41459/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/138183/2497078-7731738415-61-Ai.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/138183/2497078-7731738415-61-Ai.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/138183/2497078-7731738415-61-Ai.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/138183/2497078-7731738415-61-Ai.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/138183/2497078-7731738415-61-Ai.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/138183/2497078-7731738415-61-Ai.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/138183/2497078-7731738415-61-Ai.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/138183/2497075-9763485486-71VKK.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/138183/2497075-9763485486-71VKK.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/138183/2497075-9763485486-71VKK.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/138183/2497075-9763485486-71VKK.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/138183/2497075-9763485486-71VKK.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/138183/2497075-9763485486-71VKK.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/138183/2497075-9763485486-71VKK.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495661-final_8_watermarked.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495661-final_8_watermarked.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495661-final_8_watermarked.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495661-final_8_watermarked.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495661-final_8_watermarked.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495661-final_8_watermarked.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495661-final_8_watermarked.jpg",
+      "tags": "All Images, Screenshots, XONE/PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495660-final_7_watermarked.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495660-final_7_watermarked.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495660-final_7_watermarked.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495660-final_7_watermarked.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495660-final_7_watermarked.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495660-final_7_watermarked.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495660-final_7_watermarked.jpg",
+      "tags": "All Images, Screenshots, XONE/PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495659-final_6_watermarked.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495659-final_6_watermarked.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495659-final_6_watermarked.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495659-final_6_watermarked.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495659-final_6_watermarked.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495659-final_6_watermarked.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495659-final_6_watermarked.jpg",
+      "tags": "All Images, Screenshots, XONE/PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495658-final_5_watermarked.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495658-final_5_watermarked.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495658-final_5_watermarked.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495658-final_5_watermarked.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495658-final_5_watermarked.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495658-final_5_watermarked.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495658-final_5_watermarked.jpg",
+      "tags": "All Images, Screenshots, XONE/PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495657-final_4_watermarked.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495657-final_4_watermarked.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495657-final_4_watermarked.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495657-final_4_watermarked.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495657-final_4_watermarked.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495657-final_4_watermarked.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495657-final_4_watermarked.jpg",
+      "tags": "All Images, Screenshots, XONE/PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495656-final_3_watermarked.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495656-final_3_watermarked.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495656-final_3_watermarked.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495656-final_3_watermarked.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495656-final_3_watermarked.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495656-final_3_watermarked.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495656-final_3_watermarked.jpg",
+      "tags": "All Images, Screenshots, XONE/PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495655-final_2_watermarked.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495655-final_2_watermarked.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495655-final_2_watermarked.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495655-final_2_watermarked.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495655-final_2_watermarked.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495655-final_2_watermarked.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495655-final_2_watermarked.jpg",
+      "tags": "All Images, Screenshots, XONE/PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495654-final_1_watermarked.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495654-final_1_watermarked.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495654-final_1_watermarked.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495654-final_1_watermarked.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495654-final_1_watermarked.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495654-final_1_watermarked.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495654-final_1_watermarked.jpg",
+      "tags": "All Images, Screenshots, XONE/PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495649-madden25-screen-9.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495649-madden25-screen-9.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495649-madden25-screen-9.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495649-madden25-screen-9.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495649-madden25-screen-9.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495649-madden25-screen-9.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495649-madden25-screen-9.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495648-madden25-screen-8.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495648-madden25-screen-8.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495648-madden25-screen-8.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495648-madden25-screen-8.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495648-madden25-screen-8.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495648-madden25-screen-8.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495648-madden25-screen-8.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495647-madden25-screen-7.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495647-madden25-screen-7.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495647-madden25-screen-7.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495647-madden25-screen-7.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495647-madden25-screen-7.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495647-madden25-screen-7.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495647-madden25-screen-7.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495646-madden25-screen-6.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495646-madden25-screen-6.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495646-madden25-screen-6.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495646-madden25-screen-6.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495646-madden25-screen-6.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495646-madden25-screen-6.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495646-madden25-screen-6.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495645-madden25-screen-5.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495645-madden25-screen-5.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495645-madden25-screen-5.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495645-madden25-screen-5.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495645-madden25-screen-5.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495645-madden25-screen-5.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495645-madden25-screen-5.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495644-madden25-screen-4.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495644-madden25-screen-4.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495644-madden25-screen-4.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495644-madden25-screen-4.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495644-madden25-screen-4.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495644-madden25-screen-4.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495644-madden25-screen-4.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495643-madden25-screen-3.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495643-madden25-screen-3.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495643-madden25-screen-3.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495643-madden25-screen-3.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495643-madden25-screen-3.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495643-madden25-screen-3.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495643-madden25-screen-3.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495642-madden25-screen-2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495642-madden25-screen-2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495642-madden25-screen-2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495642-madden25-screen-2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495642-madden25-screen-2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495642-madden25-screen-2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495642-madden25-screen-2.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495641-madden25-screen-13.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495641-madden25-screen-13.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495641-madden25-screen-13.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495641-madden25-screen-13.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495641-madden25-screen-13.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495641-madden25-screen-13.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495641-madden25-screen-13.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495640-madden25-screen-12.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495640-madden25-screen-12.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495640-madden25-screen-12.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495640-madden25-screen-12.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495640-madden25-screen-12.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495640-madden25-screen-12.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495640-madden25-screen-12.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495639-madden25-screen-11.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495639-madden25-screen-11.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495639-madden25-screen-11.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495639-madden25-screen-11.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495639-madden25-screen-11.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495639-madden25-screen-11.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495639-madden25-screen-11.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495638-madden25-screen-10.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495638-madden25-screen-10.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2840/2495638-madden25-screen-10.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2840/2495638-madden25-screen-10.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2840/2495638-madden25-screen-10.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2840/2495638-madden25-screen-10.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2840/2495638-madden25-screen-10.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2488290-box_madden25.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2488290-box_madden25.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2488290-box_madden25.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2488290-box_madden25.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2488290-box_madden25.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2488290-box_madden25.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2488290-box_madden25.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2473641-screen+shot+2013-04-24+at+9.01.29+pm.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2473641-screen+shot+2013-04-24+at+9.01.29+pm.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2473641-screen+shot+2013-04-24+at+9.01.29+pm.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2473641-screen+shot+2013-04-24+at+9.01.29+pm.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2473641-screen+shot+2013-04-24+at+9.01.29+pm.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2473641-screen+shot+2013-04-24+at+9.01.29+pm.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2473641-screen+shot+2013-04-24+at+9.01.29+pm.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2425755-madden_25.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2425755-madden_25.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2425755-madden_25.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2425755-madden_25.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2425755-madden_25.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2425755-madden_25.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2425755-madden_25.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7297/",
+      "id": 7297,
+      "name": "In Madden NFL 25, Everybody Runs",
+      "site_detail_url": "http://www.giantbomb.com/videos/in-madden-nfl-25-everybody-runs/2300-7297/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7372/",
+      "id": 7372,
+      "name": "Madden NFL 25 Shows Off Some of its Defensive Moves",
+      "site_detail_url": "http://www.giantbomb.com/videos/madden-nfl-25-shows-off-some-of-its-defensive-move/2300-7372/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7500/",
+      "id": 7500,
+      "name": "E3 2013: Ignite Your Inner Turducken with Madden NFL 25",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-ignite-your-inner-turducken-with-madden-nf/2300-7500/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7746/",
+      "id": 7746,
+      "name": "John Madden Is in Madden NFL 25, Oddly Enough",
+      "site_detail_url": "http://www.giantbomb.com/videos/john-madden-is-in-madden-nfl-25-oddly-enough/2300-7746/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7871/",
+      "id": 7871,
+      "name": "Quick Look: Madden NFL 25",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-madden-nfl-25/2300-7871/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8019/",
+      "id": 8019,
+      "name": "Next-Gen Madden Shows Off its High Fidelity Visuals",
+      "site_detail_url": "http://www.giantbomb.com/videos/next-gen-madden-shows-off-its-high-fidelity-visual/2300-8019/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8042/",
+      "id": 8042,
+      "name": "Madden NFL 25 on Xbox One Brings You 'CoachGlass'",
+      "site_detail_url": "http://www.giantbomb.com/videos/madden-nfl-25-on-xbox-one-brings-you-coachglass/2300-8042/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8238/",
+      "id": 8238,
+      "name": "PlayStation 4 Launchstravaganza: Part 04",
+      "site_detail_url": "http://www.giantbomb.com/videos/playstation-4-launchstravaganza-part-04/2300-8238/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-3/",
+      "id": 3,
+      "name": "Sports",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=sports&wikiTypeId=3060&wikiId=3&genre=3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-21/",
+      "id": 21,
+      "name": "Football",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=football&wikiTypeId=3060&wikiId=21&genre=21"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127915/",
+      "id": 127915,
+      "name": "Madden NFL 25",
+      "site_detail_url": "http://www.giantbomb.com/madden-nfl-25/3030-41459/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127916/",
+      "id": 127916,
+      "name": "Madden NFL 25 (Anniversary Edition)",
+      "site_detail_url": "http://www.giantbomb.com/madden-nfl-25/3030-41459/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127917/",
+      "id": 127917,
+      "name": "Madden NFL 25",
+      "site_detail_url": "http://www.giantbomb.com/madden-nfl-25/3030-41459/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127918/",
+      "id": 127918,
+      "name": "Madden NFL 25 (Anniversary Edition)",
+      "site_detail_url": "http://www.giantbomb.com/madden-nfl-25/3030-41459/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127919/",
+      "id": 127919,
+      "name": "Madden NFL 25",
+      "site_detail_url": "http://www.giantbomb.com/madden-nfl-25/3030-41459/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127920/",
+      "id": 127920,
+      "name": "Madden NFL 25",
+      "site_detail_url": "http://www.giantbomb.com/madden-nfl-25/3030-41459/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128782/",
+      "id": 128782,
+      "name": "Madden NFL 25",
+      "site_detail_url": "http://www.giantbomb.com/madden-nfl-25/3030-41459/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128783/",
+      "id": 128783,
+      "name": "Madden NFL 25",
+      "site_detail_url": "http://www.giantbomb.com/madden-nfl-25/3030-41459/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-129602/",
+      "id": 129602,
+      "name": "Madden NFL 25",
+      "site_detail_url": "http://www.giantbomb.com/madden-nfl-25/3030-41459/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-129603/",
+      "id": 129603,
+      "name": "Madden NFL 25",
+      "site_detail_url": "http://www.giantbomb.com/madden-nfl-25/3030-41459/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-129604/",
+      "id": 129604,
+      "name": "Madden NFL 25",
+      "site_detail_url": "http://www.giantbomb.com/madden-nfl-25/3030-41459/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-129776/",
+      "id": 129776,
+      "name": "Madden NFL 25",
+      "site_detail_url": "http://www.giantbomb.com/madden-nfl-25/3030-41459/releases/"
+    }
+  ]
+}

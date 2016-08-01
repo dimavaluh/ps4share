@@ -1,0 +1,67 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-52456/",
+  "deck": "101 Ways To Die is a physics-based puzzler with a twist.\n\nIt's not about Killing...\nIt's about Killing with style!",
+  "id": 52456,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2818784-wtd_logo.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2818784-wtd_logo.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2818784-wtd_logo.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2818784-wtd_logo.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2818784-wtd_logo.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2818784-wtd_logo.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2818784-wtd_logo.png"
+  },
+  "name": "101 Ways to Die",
+  "original_release_date": "2016-03-18 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/101-ways-to-die/3030-52456/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/176/2818784-wtd_logo.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/176/2818784-wtd_logo.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/176/2818784-wtd_logo.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/176/2818784-wtd_logo.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/176/2818784-wtd_logo.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/176/2818784-wtd_logo.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/176/2818784-wtd_logo.png",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146674/",
+      "id": 146674,
+      "name": "101 Ways to Die",
+      "site_detail_url": "http://www.giantbomb.com/101-ways-to-die/3030-52456/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146675/",
+      "id": 146675,
+      "name": "101 Ways to Die",
+      "site_detail_url": "http://www.giantbomb.com/101-ways-to-die/3030-52456/releases/"
+    }
+  ]
+}

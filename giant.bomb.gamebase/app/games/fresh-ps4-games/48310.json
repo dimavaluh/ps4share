@@ -1,0 +1,93 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48310/",
+  "deck": "Free to play MOBA for PlayStation consoles.",
+  "id": 48310,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2705953-logo_invkrs.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2705953-logo_invkrs.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2705953-logo_invkrs.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2705953-logo_invkrs.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2705953-logo_invkrs.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2705953-logo_invkrs.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2705953-logo_invkrs.png"
+  },
+  "name": "Invokers Tournament",
+  "original_release_date": "2014-12-03 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/invokers-tournament/3030-48310/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2705953-logo_invkrs.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2705953-logo_invkrs.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2705953-logo_invkrs.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2705953-logo_invkrs.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2705953-logo_invkrs.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2705953-logo_invkrs.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2705953-logo_invkrs.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-50/",
+      "id": 50,
+      "name": "MOBA",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=moba&wikiTypeId=3060&wikiId=50&genre=50"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138940/",
+      "id": 138940,
+      "name": "Invokers Tournament",
+      "site_detail_url": "http://www.giantbomb.com/invokers-tournament/3030-48310/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138941/",
+      "id": 138941,
+      "name": "Invokers Tournament",
+      "site_detail_url": "http://www.giantbomb.com/invokers-tournament/3030-48310/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141972/",
+      "id": 141972,
+      "name": "Invokers Tournament",
+      "site_detail_url": "http://www.giantbomb.com/invokers-tournament/3030-48310/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143604/",
+      "id": 143604,
+      "name": "Invokers Tournament",
+      "site_detail_url": "http://www.giantbomb.com/invokers-tournament/3030-48310/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143605/",
+      "id": 143605,
+      "name": "Invokers Tournament",
+      "site_detail_url": "http://www.giantbomb.com/invokers-tournament/3030-48310/releases/"
+    }
+  ]
+}

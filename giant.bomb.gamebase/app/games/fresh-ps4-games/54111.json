@@ -1,0 +1,64 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-54111/",
+  "deck": "A local competitive game.",
+  "id": 54111,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2858288-keyart_v2.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2858288-keyart_v2.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2858288-keyart_v2.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2858288-keyart_v2.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2858288-keyart_v2.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2858288-keyart_v2.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2858288-keyart_v2.png"
+  },
+  "name": "Chambara",
+  "original_release_date": "2016-07-26 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/chambara/3030-54111/",
+  "images": [],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11334/",
+      "id": 11334,
+      "name": "E3 2016: Become a Monochrome Bird Ninja in Chambara",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2016-become-a-monochrome-bird-ninja-in-chambara/2300-11334/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11460/",
+      "id": 11460,
+      "name": "Quick Look: Chambara",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-chambara/2300-11460/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148743/",
+      "id": 148743,
+      "name": "Chambara",
+      "site_detail_url": "http://www.giantbomb.com/chambara/3030-54111/releases/"
+    }
+  ]
+}

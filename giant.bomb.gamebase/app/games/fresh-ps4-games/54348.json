@@ -1,0 +1,70 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-54348/",
+  "deck": "Asemblance is a single-player, first-person, psychological thriller.",
+  "id": 54348,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2865480-asemblancetwitch.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2865480-asemblancetwitch.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2865480-asemblancetwitch.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2865480-asemblancetwitch.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2865480-asemblancetwitch.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2865480-asemblancetwitch.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2865480-asemblancetwitch.png"
+  },
+  "name": "Asemblance",
+  "original_release_date": "2016-06-21 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/asemblance/3030-54348/",
+  "images": [],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11409/",
+      "id": 11409,
+      "name": "Quick Look: Asemblance",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-asemblance/2300-11409/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-7/",
+      "id": 7,
+      "name": "Simulation",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=simulation&wikiTypeId=3060&wikiId=7&genre=7"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-18/",
+      "id": 18,
+      "name": "Puzzle",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=puzzle&wikiTypeId=3060&wikiId=18&genre=18"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148393/",
+      "id": 148393,
+      "name": "Asemblance",
+      "site_detail_url": "http://www.giantbomb.com/asemblance/3030-54348/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148394/",
+      "id": 148394,
+      "name": "Asemblance",
+      "site_detail_url": "http://www.giantbomb.com/asemblance/3030-54348/releases/"
+    }
+  ]
+}

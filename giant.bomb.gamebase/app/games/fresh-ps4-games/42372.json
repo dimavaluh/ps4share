@@ -1,0 +1,96 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-42372/",
+  "deck": "A non-combat and non-competitive multiplayer for PC, Mac, Linux, and PlayStation 4.",
+  "id": 42372,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2567018-1602489219-desur.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2567018-1602489219-desur.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2567018-1602489219-desur.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2567018-1602489219-desur.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2567018-1602489219-desur.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2567018-1602489219-desur.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2567018-1602489219-desur.png"
+  },
+  "name": "Wander",
+  "original_release_date": "2015-06-04 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/wander/3030-42372/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2679824-dsc07073.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2679824-dsc07073.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2679824-dsc07073.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2679824-dsc07073.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2679824-dsc07073.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2679824-dsc07073.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2679824-dsc07073.jpg",
+      "tags": "All Images, Wander, PAX Prime 2014 Booth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2567018-1602489219-desur.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2567018-1602489219-desur.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2567018-1602489219-desur.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2567018-1602489219-desur.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/17/171291/2567018-1602489219-desur.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/17/171291/2567018-1602489219-desur.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/17/171291/2567018-1602489219-desur.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2469864-wander.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2469864-wander.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/17/171291/2469864-wander.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/17/171291/2469864-wander.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/17/171291/2469864-wander.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/17/171291/2469864-wander.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/17/171291/2469864-wander.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-7/",
+      "id": 7,
+      "name": "Simulation",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=simulation&wikiTypeId=3060&wikiId=7&genre=7"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141820/",
+      "id": 141820,
+      "name": "Wander",
+      "site_detail_url": "http://www.giantbomb.com/wander/3030-42372/releases/"
+    }
+  ]
+}

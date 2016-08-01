@@ -1,0 +1,96 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-47394/",
+  "deck": "A competitive local multi-player dual-joystick shooter where highly customizable space ships go head to head hazardous space battlefields.",
+  "id": 47394,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2856585-3621540440-heade.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2856585-3621540440-heade.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2856585-3621540440-heade.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2856585-3621540440-heade.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2856585-3621540440-heade.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2856585-3621540440-heade.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2856585-3621540440-heade.jpg"
+  },
+  "name": "In Space We Brawl",
+  "original_release_date": "2014-10-14 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-164/",
+      "id": 164,
+      "name": "Fuze Tomahawk F1",
+      "site_detail_url": "http://www.giantbomb.com/fuze-tomahawk-f1/3045-164/",
+      "abbreviation": "TF1"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/in-space-we-brawl/3030-47394/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2856585-3621540440-heade.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2856585-3621540440-heade.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2856585-3621540440-heade.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2856585-3621540440-heade.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2856585-3621540440-heade.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2856585-3621540440-heade.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2856585-3621540440-heade.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-31/",
+      "id": 31,
+      "name": "Dual-Joystick Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=dual-joystick-shooter&wikiTypeId=3060&wikiId=31&genre=31"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138147/",
+      "id": 138147,
+      "name": "In Space We Brawl",
+      "site_detail_url": "http://www.giantbomb.com/in-space-we-brawl/3030-47394/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138148/",
+      "id": 138148,
+      "name": "In Space We Brawl",
+      "site_detail_url": "http://www.giantbomb.com/in-space-we-brawl/3030-47394/releases/"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-47199/",
+  "deck": "Toto Temple Deluxe is a multiplayer platformer from Juicy Beast.",
+  "id": 47199,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2663945-3939212500-72f4a.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2663945-3939212500-72f4a.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2663945-3939212500-72f4a.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2663945-3939212500-72f4a.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2663945-3939212500-72f4a.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2663945-3939212500-72f4a.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2663945-3939212500-72f4a.jpg"
+  },
+  "name": "Toto Temple Deluxe",
+  "original_release_date": "2014-07-24 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-154/",
+      "id": 154,
+      "name": "Ouya",
+      "site_detail_url": "http://www.giantbomb.com/ouya/3045-154/",
+      "abbreviation": "OUYA"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/toto-temple-deluxe/3030-47199/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2663945-3939212500-72f4a.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2663945-3939212500-72f4a.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2663945-3939212500-72f4a.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2663945-3939212500-72f4a.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2663945-3939212500-72f4a.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2663945-3939212500-72f4a.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2663945-3939212500-72f4a.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140543/",
+      "id": 140543,
+      "name": "Toto Temple Deluxe",
+      "site_detail_url": "http://www.giantbomb.com/toto-temple-deluxe/3030-47199/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143965/",
+      "id": 143965,
+      "name": "Toto Temple Deluxe",
+      "site_detail_url": "http://www.giantbomb.com/toto-temple-deluxe/3030-47199/releases/"
+    }
+  ]
+}

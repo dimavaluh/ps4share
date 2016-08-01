@@ -1,0 +1,492 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-46447/",
+  "deck": "The tenth installment of the bloody and storied fighting game franchise picks up decades after the events of the 2011 franchise re-boot, as new and returning kombatants fight throughout the realms over the power of an imprisoned evil.",
+  "id": 46447,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2743648-box_mkx.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2743648-box_mkx.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2743648-box_mkx.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2743648-box_mkx.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2743648-box_mkx.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2743648-box_mkx.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2743648-box_mkx.png"
+  },
+  "name": "Mortal Kombat X",
+  "original_release_date": "2015-04-14 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/mortal-kombat-x/3030-46447/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187788/2868133-9079856064-heade.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187788/2868133-9079856064-heade.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187788/2868133-9079856064-heade.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187788/2868133-9079856064-heade.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187788/2868133-9079856064-heade.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187788/2868133-9079856064-heade.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187788/2868133-9079856064-heade.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2822486-1936342593-81M6B.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2822486-1936342593-81M6B.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2822486-1936342593-81M6B.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2822486-1936342593-81M6B.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2822486-1936342593-81M6B.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2822486-1936342593-81M6B.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2822486-1936342593-81M6B.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2822485-6443626982-81D5d.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2822485-6443626982-81D5d.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2822485-6443626982-81D5d.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2822485-6443626982-81D5d.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2822485-6443626982-81D5d.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2822485-6443626982-81D5d.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2822485-6443626982-81D5d.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2822484-4855763359-39946.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2822484-4855763359-39946.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2822484-4855763359-39946.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2822484-4855763359-39946.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2822484-4855763359-39946.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2822484-4855763359-39946.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2822484-4855763359-39946.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2822483-1066502204-39946.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2822483-1066502204-39946.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2822483-1066502204-39946.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2822483-1066502204-39946.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2822483-1066502204-39946.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2822483-1066502204-39946.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2822483-1066502204-39946.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755893-mortal+kombat+x_20150506131752.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755893-mortal+kombat+x_20150506131752.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755893-mortal+kombat+x_20150506131752.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755893-mortal+kombat+x_20150506131752.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755893-mortal+kombat+x_20150506131752.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755893-mortal+kombat+x_20150506131752.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755893-mortal+kombat+x_20150506131752.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755892-mortal+kombat+x_20150502142247.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755892-mortal+kombat+x_20150502142247.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755892-mortal+kombat+x_20150502142247.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755892-mortal+kombat+x_20150502142247.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755892-mortal+kombat+x_20150502142247.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755892-mortal+kombat+x_20150502142247.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755892-mortal+kombat+x_20150502142247.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755891-mortal+kombat+x_20150419192129.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755891-mortal+kombat+x_20150419192129.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755891-mortal+kombat+x_20150419192129.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755891-mortal+kombat+x_20150419192129.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755891-mortal+kombat+x_20150419192129.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755891-mortal+kombat+x_20150419192129.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755891-mortal+kombat+x_20150419192129.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755890-mortal+kombat+x_20150419185727.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755890-mortal+kombat+x_20150419185727.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755890-mortal+kombat+x_20150419185727.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755890-mortal+kombat+x_20150419185727.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755890-mortal+kombat+x_20150419185727.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755890-mortal+kombat+x_20150419185727.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755890-mortal+kombat+x_20150419185727.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755889-mortal+kombat+x_20150418213135.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755889-mortal+kombat+x_20150418213135.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755889-mortal+kombat+x_20150418213135.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755889-mortal+kombat+x_20150418213135.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755889-mortal+kombat+x_20150418213135.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755889-mortal+kombat+x_20150418213135.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755889-mortal+kombat+x_20150418213135.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755888-mortal+kombat+x_20150418202125.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755888-mortal+kombat+x_20150418202125.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755888-mortal+kombat+x_20150418202125.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755888-mortal+kombat+x_20150418202125.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755888-mortal+kombat+x_20150418202125.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755888-mortal+kombat+x_20150418202125.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755888-mortal+kombat+x_20150418202125.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755887-mortal+kombat+x_20150418184512.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755887-mortal+kombat+x_20150418184512.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755887-mortal+kombat+x_20150418184512.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755887-mortal+kombat+x_20150418184512.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755887-mortal+kombat+x_20150418184512.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755887-mortal+kombat+x_20150418184512.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755887-mortal+kombat+x_20150418184512.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755886-mortal+kombat+x_20150418140117.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755886-mortal+kombat+x_20150418140117.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755886-mortal+kombat+x_20150418140117.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755886-mortal+kombat+x_20150418140117.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755886-mortal+kombat+x_20150418140117.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755886-mortal+kombat+x_20150418140117.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755886-mortal+kombat+x_20150418140117.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755885-mortal+kombat+x_20150418135538.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755885-mortal+kombat+x_20150418135538.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755885-mortal+kombat+x_20150418135538.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755885-mortal+kombat+x_20150418135538.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755885-mortal+kombat+x_20150418135538.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755885-mortal+kombat+x_20150418135538.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755885-mortal+kombat+x_20150418135538.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755884-mortal+kombat+x_20150417180200.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755884-mortal+kombat+x_20150417180200.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755884-mortal+kombat+x_20150417180200.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755884-mortal+kombat+x_20150417180200.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755884-mortal+kombat+x_20150417180200.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755884-mortal+kombat+x_20150417180200.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755884-mortal+kombat+x_20150417180200.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755883-mortal+kombat+x_20150415214214.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755883-mortal+kombat+x_20150415214214.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755883-mortal+kombat+x_20150415214214.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755883-mortal+kombat+x_20150415214214.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755883-mortal+kombat+x_20150415214214.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755883-mortal+kombat+x_20150415214214.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755883-mortal+kombat+x_20150415214214.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755882-mortal+kombat+x_20150415113924.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755882-mortal+kombat+x_20150415113924.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755882-mortal+kombat+x_20150415113924.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755882-mortal+kombat+x_20150415113924.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755882-mortal+kombat+x_20150415113924.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755882-mortal+kombat+x_20150415113924.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755882-mortal+kombat+x_20150415113924.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755881-mortal+kombat+x_20150415095920.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755881-mortal+kombat+x_20150415095920.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755881-mortal+kombat+x_20150415095920.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755881-mortal+kombat+x_20150415095920.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755881-mortal+kombat+x_20150415095920.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755881-mortal+kombat+x_20150415095920.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755881-mortal+kombat+x_20150415095920.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755880-mortal+kombat+x_20150414185432.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755880-mortal+kombat+x_20150414185432.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755880-mortal+kombat+x_20150414185432.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755880-mortal+kombat+x_20150414185432.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755880-mortal+kombat+x_20150414185432.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755880-mortal+kombat+x_20150414185432.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755880-mortal+kombat+x_20150414185432.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2743648-box_mkx.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2743648-box_mkx.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2743648-box_mkx.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2743648-box_mkx.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2743648-box_mkx.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2743648-box_mkx.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2743648-box_mkx.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2743361-mortal+kombat+x_20150418150225.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2743361-mortal+kombat+x_20150418150225.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2743361-mortal+kombat+x_20150418150225.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2743361-mortal+kombat+x_20150418150225.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2743361-mortal+kombat+x_20150418150225.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2743361-mortal+kombat+x_20150418150225.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2743361-mortal+kombat+x_20150418150225.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2743360-mortal+kombat+x_20150418145845.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2743360-mortal+kombat+x_20150418145845.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2743360-mortal+kombat+x_20150418145845.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2743360-mortal+kombat+x_20150418145845.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2743360-mortal+kombat+x_20150418145845.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2743360-mortal+kombat+x_20150418145845.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2743360-mortal+kombat+x_20150418145845.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2743359-mortal+kombat+x_20150418145611.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2743359-mortal+kombat+x_20150418145611.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2743359-mortal+kombat+x_20150418145611.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2743359-mortal+kombat+x_20150418145611.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2743359-mortal+kombat+x_20150418145611.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2743359-mortal+kombat+x_20150418145611.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2743359-mortal+kombat+x_20150418145611.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2743358-mortal+kombat+x_20150418145551.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2743358-mortal+kombat+x_20150418145551.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2743358-mortal+kombat+x_20150418145551.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2743358-mortal+kombat+x_20150418145551.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2743358-mortal+kombat+x_20150418145551.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2743358-mortal+kombat+x_20150418145551.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2743358-mortal+kombat+x_20150418145551.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2743357-mortal+kombat+x_20150418145139.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2743357-mortal+kombat+x_20150418145139.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2743357-mortal+kombat+x_20150418145139.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2743357-mortal+kombat+x_20150418145139.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2743357-mortal+kombat+x_20150418145139.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2743357-mortal+kombat+x_20150418145139.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2743357-mortal+kombat+x_20150418145139.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2743356-mortal+kombat+x_20150418144748.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2743356-mortal+kombat+x_20150418144748.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2743356-mortal+kombat+x_20150418144748.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2743356-mortal+kombat+x_20150418144748.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2743356-mortal+kombat+x_20150418144748.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2743356-mortal+kombat+x_20150418144748.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2743356-mortal+kombat+x_20150418144748.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2743355-mortal+kombat+x_20150418144356.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2743355-mortal+kombat+x_20150418144356.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2743355-mortal+kombat+x_20150418144356.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2743355-mortal+kombat+x_20150418144356.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2743355-mortal+kombat+x_20150418144356.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2743355-mortal+kombat+x_20150418144356.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2743355-mortal+kombat+x_20150418144356.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2743354-mortal+kombat+x_20150418144147.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2743354-mortal+kombat+x_20150418144147.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2743354-mortal+kombat+x_20150418144147.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2743354-mortal+kombat+x_20150418144147.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2743354-mortal+kombat+x_20150418144147.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2743354-mortal+kombat+x_20150418144147.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2743354-mortal+kombat+x_20150418144147.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2743353-mortal+kombat+x_20150418143900.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2743353-mortal+kombat+x_20150418143900.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2743353-mortal+kombat+x_20150418143900.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2743353-mortal+kombat+x_20150418143900.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2743353-mortal+kombat+x_20150418143900.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2743353-mortal+kombat+x_20150418143900.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2743353-mortal+kombat+x_20150418143900.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2743352-mortal+kombat+x_20150416133339.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2743352-mortal+kombat+x_20150416133339.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2743352-mortal+kombat+x_20150416133339.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2743352-mortal+kombat+x_20150416133339.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2743352-mortal+kombat+x_20150416133339.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2743352-mortal+kombat+x_20150416133339.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2743352-mortal+kombat+x_20150416133339.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8943/",
+      "id": 8943,
+      "name": "Mortal Kombat X Announce Trailer",
+      "site_detail_url": "http://www.giantbomb.com/videos/mortal-kombat-x-announce-trailer/2300-8943/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9076/",
+      "id": 9076,
+      "name": "E3 2014: Ed Boon Talks Mortal Kombat X",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2014-ed-boon-talks-mortal-kombat-x/2300-9076/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9295/",
+      "id": 9295,
+      "name": "Ed Boon Explains How Raiden's Changed in Mortal Kombat X",
+      "site_detail_url": "http://www.giantbomb.com/videos/ed-boon-explains-how-raidens-changed-in-mortal-kom/2300-9295/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9325/",
+      "id": 9325,
+      "name": "Kano's Back for Mortal Kombat, Of Course",
+      "site_detail_url": "http://www.giantbomb.com/videos/kanos-back-for-mortal-kombat-of-course/2300-9325/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9424/",
+      "id": 9424,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 09/05/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-09-05-2014/2300-9424/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9526/",
+      "id": 9526,
+      "name": "Quan Chi Joins Mortal Kombat X's Expanding Lineup",
+      "site_detail_url": "http://www.giantbomb.com/videos/quan-chi-joins-mortal-kombat-xs-expanding-lineup/2300-9526/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9849/",
+      "id": 9849,
+      "name": "Kung Lao and Kitana Officially Join Mortal Kombat X",
+      "site_detail_url": "http://www.giantbomb.com/videos/kung-lao-and-kitana-officially-join-mortal-kombat-/2300-9849/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9920/",
+      "id": 9920,
+      "name": "Mortal Kombat X's Metagame is the Faction War",
+      "site_detail_url": "http://www.giantbomb.com/videos/mortal-kombat-x-s-metagame-is-the-faction-war/2300-9920/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9981/",
+      "id": 9981,
+      "name": "Here's a Look at What's Happening in Mortal Kombat X's Story",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-a-look-at-what-s-happening-in-mortal-kombat/2300-9981/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10016/",
+      "id": 10016,
+      "name": "Mortal Kombat X's Latest Trailer Focuses on the Cage Family",
+      "site_detail_url": "http://www.giantbomb.com/videos/mortal-kombat-x-s-latest-trailer-focuses-on-the-ca/2300-10016/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10056/",
+      "id": 10056,
+      "name": "Return of the Shaolin Monks",
+      "site_detail_url": "http://www.giantbomb.com/videos/return-of-the-shaolin-monks/2300-10056/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10107/",
+      "id": 10107,
+      "name": "Quick Look: Mortal Kombat X",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-mortal-kombat-x/2300-10107/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10147/",
+      "id": 10147,
+      "name": "Unprofessional Fridays: 04/24/2015",
+      "site_detail_url": "http://www.giantbomb.com/videos/unprofessional-fridays-04-24-2015/2300-10147/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10179/",
+      "id": 10179,
+      "name": "Unprofessional Fridays: 05/08/2015",
+      "site_detail_url": "http://www.giantbomb.com/videos/unprofessional-fridays-05-08-2015/2300-10179/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10469/",
+      "id": 10469,
+      "name": "Predator Joins the Mortal Kombat X Roster Today",
+      "site_detail_url": "http://www.giantbomb.com/videos/predator-joins-the-mortal-kombat-x-roster-today/2300-10469/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-9/",
+      "id": 9,
+      "name": "Fighting",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=fighting&wikiTypeId=3060&wikiId=9&genre=9"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135597/",
+      "id": 135597,
+      "name": "Mortal Kombat X",
+      "site_detail_url": "http://www.giantbomb.com/mortal-kombat-x/3030-46447/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135598/",
+      "id": 135598,
+      "name": "Mortal Kombat X",
+      "site_detail_url": "http://www.giantbomb.com/mortal-kombat-x/3030-46447/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135599/",
+      "id": 135599,
+      "name": "Mortal Kombat X",
+      "site_detail_url": "http://www.giantbomb.com/mortal-kombat-x/3030-46447/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135600/",
+      "id": 135600,
+      "name": "Mortal Kombat X",
+      "site_detail_url": "http://www.giantbomb.com/mortal-kombat-x/3030-46447/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135601/",
+      "id": 135601,
+      "name": "Mortal Kombat X",
+      "site_detail_url": "http://www.giantbomb.com/mortal-kombat-x/3030-46447/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142945/",
+      "id": 142945,
+      "name": "Mortal Kombat X",
+      "site_detail_url": "http://www.giantbomb.com/mortal-kombat-x/3030-46447/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145784/",
+      "id": 145784,
+      "name": "Mortal Kombat XL",
+      "site_detail_url": "http://www.giantbomb.com/mortal-kombat-x/3030-46447/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145785/",
+      "id": 145785,
+      "name": "Mortal Kombat XL",
+      "site_detail_url": "http://www.giantbomb.com/mortal-kombat-x/3030-46447/releases/"
+    }
+  ]
+}

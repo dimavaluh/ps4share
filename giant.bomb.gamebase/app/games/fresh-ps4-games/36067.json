@@ -1,0 +1,741 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-36067/",
+  "deck": "Shoot your way across the solar system to level up and collect new loot in this multiplayer-focused first-person shooter from Bungie and Activision.",
+  "id": 36067,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2669576-destiny%20v2.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2669576-destiny%20v2.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2669576-destiny%20v2.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2669576-destiny%20v2.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2669576-destiny%20v2.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2669576-destiny%20v2.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2669576-destiny%20v2.jpg"
+  },
+  "name": "Destiny",
+  "original_release_date": "2014-09-09 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+      "id": 86,
+      "name": "Xbox 360 Games Store",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+      "abbreviation": "XBGS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2786813-caydes_stash_heroic_01.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2786813-caydes_stash_heroic_01.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2786813-caydes_stash_heroic_01.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2786813-caydes_stash_heroic_01.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/30/2786813-caydes_stash_heroic_01.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/30/2786813-caydes_stash_heroic_01.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/30/2786813-caydes_stash_heroic_01.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2786812-fallen_saber_3rd_04.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2786812-fallen_saber_3rd_04.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2786812-fallen_saber_3rd_04.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2786812-fallen_saber_3rd_04.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/30/2786812-fallen_saber_3rd_04.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/30/2786812-fallen_saber_3rd_04.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/30/2786812-fallen_saber_3rd_04.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2786811-npc_cayde-6_01.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2786811-npc_cayde-6_01.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2786811-npc_cayde-6_01.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2786811-npc_cayde-6_01.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/30/2786811-npc_cayde-6_01.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/30/2786811-npc_cayde-6_01.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/30/2786811-npc_cayde-6_01.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2786810-the_undying_mind_3rd_06.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2786810-the_undying_mind_3rd_06.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/30/2786810-the_undying_mind_3rd_06.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/30/2786810-the_undying_mind_3rd_06.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/30/2786810-the_undying_mind_3rd_06.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/30/2786810-the_undying_mind_3rd_06.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/30/2786810-the_undying_mind_3rd_06.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755868-destiny_20150128203850.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755868-destiny_20150128203850.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755868-destiny_20150128203850.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755868-destiny_20150128203850.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755868-destiny_20150128203850.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755868-destiny_20150128203850.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755868-destiny_20150128203850.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755867-destiny_20150127202452.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755867-destiny_20150127202452.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755867-destiny_20150127202452.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755867-destiny_20150127202452.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755867-destiny_20150127202452.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755867-destiny_20150127202452.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755867-destiny_20150127202452.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755866-destiny_20150126205505.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755866-destiny_20150126205505.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755866-destiny_20150126205505.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755866-destiny_20150126205505.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755866-destiny_20150126205505.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755866-destiny_20150126205505.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755866-destiny_20150126205505.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755865-destiny_20150125163233.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755865-destiny_20150125163233.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755865-destiny_20150125163233.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755865-destiny_20150125163233.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755865-destiny_20150125163233.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755865-destiny_20150125163233.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755865-destiny_20150125163233.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755864-destiny_20150125160902.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755864-destiny_20150125160902.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755864-destiny_20150125160902.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755864-destiny_20150125160902.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755864-destiny_20150125160902.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755864-destiny_20150125160902.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755864-destiny_20150125160902.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755863-destiny_20150125152436.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755863-destiny_20150125152436.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755863-destiny_20150125152436.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755863-destiny_20150125152436.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755863-destiny_20150125152436.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755863-destiny_20150125152436.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755863-destiny_20150125152436.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755862-destiny_20150124223638.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755862-destiny_20150124223638.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755862-destiny_20150124223638.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755862-destiny_20150124223638.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755862-destiny_20150124223638.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755862-destiny_20150124223638.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755862-destiny_20150124223638.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755861-destiny_20150124161028.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755861-destiny_20150124161028.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755861-destiny_20150124161028.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755861-destiny_20150124161028.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755861-destiny_20150124161028.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755861-destiny_20150124161028.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755861-destiny_20150124161028.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755860-destiny_20150124155636.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755860-destiny_20150124155636.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755860-destiny_20150124155636.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755860-destiny_20150124155636.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755860-destiny_20150124155636.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755860-destiny_20150124155636.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755860-destiny_20150124155636.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755859-destiny_20150124151356.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755859-destiny_20150124151356.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755859-destiny_20150124151356.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755859-destiny_20150124151356.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755859-destiny_20150124151356.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755859-destiny_20150124151356.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755859-destiny_20150124151356.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755858-destiny_20150104182434.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755858-destiny_20150104182434.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755858-destiny_20150104182434.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755858-destiny_20150104182434.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755858-destiny_20150104182434.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755858-destiny_20150104182434.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755858-destiny_20150104182434.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755857-destiny_20150104172450.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755857-destiny_20150104172450.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755857-destiny_20150104172450.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755857-destiny_20150104172450.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755857-destiny_20150104172450.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755857-destiny_20150104172450.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755857-destiny_20150104172450.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755856-destiny_20150104172133.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755856-destiny_20150104172133.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755856-destiny_20150104172133.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755856-destiny_20150104172133.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755856-destiny_20150104172133.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755856-destiny_20150104172133.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755856-destiny_20150104172133.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755855-destiny_20150104155223.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755855-destiny_20150104155223.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755855-destiny_20150104155223.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755855-destiny_20150104155223.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755855-destiny_20150104155223.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755855-destiny_20150104155223.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755855-destiny_20150104155223.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755854-destiny_20150104145914.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755854-destiny_20150104145914.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755854-destiny_20150104145914.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755854-destiny_20150104145914.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755854-destiny_20150104145914.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755854-destiny_20150104145914.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755854-destiny_20150104145914.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755853-destiny_20150104145053.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755853-destiny_20150104145053.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755853-destiny_20150104145053.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755853-destiny_20150104145053.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755853-destiny_20150104145053.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755853-destiny_20150104145053.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755853-destiny_20150104145053.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755852-destiny_20150104031545.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755852-destiny_20150104031545.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755852-destiny_20150104031545.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755852-destiny_20150104031545.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755852-destiny_20150104031545.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755852-destiny_20150104031545.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755852-destiny_20150104031545.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755851-destiny_20150104011702.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755851-destiny_20150104011702.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755851-destiny_20150104011702.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755851-destiny_20150104011702.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755851-destiny_20150104011702.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755851-destiny_20150104011702.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755851-destiny_20150104011702.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755850-destiny_20150104000803.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755850-destiny_20150104000803.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755850-destiny_20150104000803.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755850-destiny_20150104000803.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755850-destiny_20150104000803.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755850-destiny_20150104000803.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755850-destiny_20150104000803.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755849-destiny_20150102165121.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755849-destiny_20150102165121.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755849-destiny_20150102165121.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755849-destiny_20150102165121.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755849-destiny_20150102165121.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755849-destiny_20150102165121.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755849-destiny_20150102165121.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755847-destiny_20150124223638.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755847-destiny_20150124223638.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755847-destiny_20150124223638.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755847-destiny_20150124223638.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755847-destiny_20150124223638.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755847-destiny_20150124223638.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755847-destiny_20150124223638.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755846-destiny_20150124161028.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755846-destiny_20150124161028.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755846-destiny_20150124161028.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755846-destiny_20150124161028.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755846-destiny_20150124161028.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755846-destiny_20150124161028.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755846-destiny_20150124161028.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755845-destiny_20150124155636.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755845-destiny_20150124155636.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755845-destiny_20150124155636.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755845-destiny_20150124155636.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755845-destiny_20150124155636.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755845-destiny_20150124155636.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755845-destiny_20150124155636.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755844-destiny_20150124151356.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755844-destiny_20150124151356.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755844-destiny_20150124151356.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755844-destiny_20150124151356.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755844-destiny_20150124151356.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755844-destiny_20150124151356.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755844-destiny_20150124151356.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755843-destiny_20150124125822.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755843-destiny_20150124125822.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755843-destiny_20150124125822.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755843-destiny_20150124125822.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755843-destiny_20150124125822.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755843-destiny_20150124125822.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755843-destiny_20150124125822.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755842-destiny_20150122192507.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755842-destiny_20150122192507.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2755842-destiny_20150122192507.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2755842-destiny_20150122192507.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2755842-destiny_20150122192507.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2755842-destiny_20150122192507.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2755842-destiny_20150122192507.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7055/",
+      "id": 7055,
+      "name": "A Grown Man In His Underwear Tells You About Destiny",
+      "site_detail_url": "http://www.giantbomb.com/videos/a-grown-man-in-his-underwear-tells-you-about-desti/2300-7055/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7056/",
+      "id": 7056,
+      "name": "Bungie Talks About Destiny",
+      "site_detail_url": "http://www.giantbomb.com/videos/bungie-talks-about-destiny/2300-7056/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7404/",
+      "id": 7404,
+      "name": "Jon Favreau Directs Bungie's Latest Destiny Teaser",
+      "site_detail_url": "http://www.giantbomb.com/videos/jon-favreau-directs-bungie-s-latest-destiny-teaser/2300-7404/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7528/",
+      "id": 7528,
+      "name": "E3 2013: Destiny Gameplay Finally Revealed",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-destiny-gameplay-finally-revealed/2300-7528/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7673/",
+      "id": 7673,
+      "name": "Here's the Full 12-Minute Destiny Gameplay Demo from E3",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-the-full-12-minute-destiny-gameplay-demo-fr/2300-7673/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7865/",
+      "id": 7865,
+      "name": "Here's a New ViDoc About DeStiny",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-a-new-vidoc-about-destiny/2300-7865/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8021/",
+      "id": 8021,
+      "name": "Destiny Unlocking Beta Access to Pre-Orders",
+      "site_detail_url": "http://www.giantbomb.com/videos/destiny-unlocking-beta-access-to-pre-orders/2300-8021/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8896/",
+      "id": 8896,
+      "name": "Bungie Explains How Players Fit into Destiny's Larger World",
+      "site_detail_url": "http://www.giantbomb.com/videos/bungie-explains-how-players-fit-into-destinys-larg/2300-8896/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8971/",
+      "id": 8971,
+      "name": "Unfinished: Destiny 06/06/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/unfinished-destiny-06-06-2014/2300-8971/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9011/",
+      "id": 9011,
+      "name": "E3 2014: Peter Dinklage is in Destiny",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2014-peter-dinklage-is-in-destiny/2300-9011/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9074/",
+      "id": 9074,
+      "name": "E3 2014: Destiny Developer Diary",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2014-destiny-developer-diary/2300-9074/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9140/",
+      "id": 9140,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 06/20/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-06-20-2014/2300-9140/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9240/",
+      "id": 9240,
+      "name": "Unfinished: Destiny 07/18/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/unfinished-destiny-07-18-2014/2300-9240/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9245/",
+      "id": 9245,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 07/21/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-07-21-2014/2300-9245/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9430/",
+      "id": 9430,
+      "name": "Quick Look: Destiny",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-destiny/2300-9430/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9439/",
+      "id": 9439,
+      "name": "Destiny: Are These Servers Up Yet Or What? (Jeff's Side)",
+      "site_detail_url": "http://www.giantbomb.com/videos/destiny-are-these-servers-up-yet-or-what-jeffs-sid/2300-9439/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9440/",
+      "id": 9440,
+      "name": "Destiny: Are These Servers Up Yet Or What? (Brad's Side)",
+      "site_detail_url": "http://www.giantbomb.com/videos/destiny-are-these-servers-up-yet-or-what-brads-sid/2300-9440/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9444/",
+      "id": 9444,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 09/12/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-09-12-2014/2300-9444/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9449/",
+      "id": 9449,
+      "name": "Quick Look: Destiny (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-destiny-ps3/2300-9449/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9451/",
+      "id": 9451,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 09/15/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-09-15-2014/2300-9451/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9507/",
+      "id": 9507,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 09/26/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-09-26-2014/2300-9507/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9510/",
+      "id": 9510,
+      "name": "Bombin' the A.M. With Alexa Ray Corriea: 09/29/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-alexa-ray-corriea-09-29-2014/2300-9510/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9571/",
+      "id": 9571,
+      "name": "Breaking Brad: Vault of Glass - Part 02",
+      "site_detail_url": "http://www.giantbomb.com/videos/breaking-brad-vault-of-glass-part-02/2300-9571/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9572/",
+      "id": 9572,
+      "name": "Breaking Brad: Vault of Glass - Part 03",
+      "site_detail_url": "http://www.giantbomb.com/videos/breaking-brad-vault-of-glass-part-03/2300-9572/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9573/",
+      "id": 9573,
+      "name": "Breaking Brad: Vault of Glass - Part 01",
+      "site_detail_url": "http://www.giantbomb.com/videos/breaking-brad-vault-of-glass-part-01/2300-9573/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9733/",
+      "id": 9733,
+      "name": "The Dark Below Comes to Destiny on December 9",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-dark-below-comes-to-destiny-on-december-9/2300-9733/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9782/",
+      "id": 9782,
+      "name": "Quick Look: Destiny: The Dark Below",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-destiny-the-dark-below/2300-9782/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10105/",
+      "id": 10105,
+      "name": "Here's What's Happening With the House of Wolves",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-what-s-happening-with-the-house-of-wolves/2300-10105/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10201/",
+      "id": 10201,
+      "name": "Quick Look: Destiny: House of Wolves",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-destiny-house-of-wolves/2300-10201/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10314/",
+      "id": 10314,
+      "name": "E3 2015: The Taken King is Coming for Ya in Destiny",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2015-the-taken-king-is-coming-for-ya-in-destiny/2300-10314/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10580/",
+      "id": 10580,
+      "name": "Watch the New Trailer for Destiny's The Taken King Expansion",
+      "site_detail_url": "http://www.giantbomb.com/videos/watch-the-new-trailer-for-destinys-the-taken-king-/2300-10580/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10680/",
+      "id": 10680,
+      "name": "Quick Look: Destiny: The Taken King",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-destiny-the-taken-king/2300-10680/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10735/",
+      "id": 10735,
+      "name": "Destiny: The King's Fall Raid - Part 01",
+      "site_detail_url": "http://www.giantbomb.com/videos/destiny-the-kings-fall-raid-part-01/2300-10735/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10736/",
+      "id": 10736,
+      "name": "Destiny: The King's Fall Raid - Part 02",
+      "site_detail_url": "http://www.giantbomb.com/videos/destiny-the-kings-fall-raid-part-02/2300-10736/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10744/",
+      "id": 10744,
+      "name": "Destiny: The King's Fall Raid - Part 03",
+      "site_detail_url": "http://www.giantbomb.com/videos/destiny-the-kings-fall-raid-part-03/2300-10744/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10745/",
+      "id": 10745,
+      "name": "Destiny: The King's Fall Raid - Part 04",
+      "site_detail_url": "http://www.giantbomb.com/videos/destiny-the-kings-fall-raid-part-04/2300-10745/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11127/",
+      "id": 11127,
+      "name": "Unprofessional Fridays: 04/15/2016",
+      "site_detail_url": "http://www.giantbomb.com/videos/unprofessional-fridays-04152016/2300-11127/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-32/",
+      "id": 32,
+      "name": "First-Person Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=first-person-shooter&wikiTypeId=3060&wikiId=32&genre=32"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125331/",
+      "id": 125331,
+      "name": "Destiny",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125333/",
+      "id": 125333,
+      "name": "Destiny",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125455/",
+      "id": 125455,
+      "name": "Destiny",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127566/",
+      "id": 127566,
+      "name": "Destiny",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137432/",
+      "id": 137432,
+      "name": "Destiny",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137433/",
+      "id": 137433,
+      "name": "Destiny",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137434/",
+      "id": 137434,
+      "name": "Destiny",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137435/",
+      "id": 137435,
+      "name": "Destiny",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137436/",
+      "id": 137436,
+      "name": "Destiny",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137437/",
+      "id": 137437,
+      "name": "Destiny",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137438/",
+      "id": 137438,
+      "name": "Destiny",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137439/",
+      "id": 137439,
+      "name": "Destiny",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137440/",
+      "id": 137440,
+      "name": "Destiny",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137482/",
+      "id": 137482,
+      "name": "Destiny",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137487/",
+      "id": 137487,
+      "name": "Destiny",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137488/",
+      "id": 137488,
+      "name": "Destiny",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137489/",
+      "id": 137489,
+      "name": "Destiny",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137512/",
+      "id": 137512,
+      "name": "Destiny",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137513/",
+      "id": 137513,
+      "name": "Destiny",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137514/",
+      "id": 137514,
+      "name": "Destiny",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137516/",
+      "id": 137516,
+      "name": "Destiny",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137537/",
+      "id": 137537,
+      "name": "Destiny (Limited Edition)",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143177/",
+      "id": 143177,
+      "name": "Destiny: The Taken King Legendary Edition",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143178/",
+      "id": 143178,
+      "name": "Destiny: The Taken King Legendary Edition",
+      "site_detail_url": "http://www.giantbomb.com/destiny/3030-36067/releases/"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-50675/",
+  "deck": "Players attempt to survive as long as they can in this shmup by WarlockArts.",
+  "id": 50675,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2777248-0024929959-image",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2777248-0024929959-image",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2777248-0024929959-image",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2777248-0024929959-image",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2777248-0024929959-image",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2777248-0024929959-image",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2777248-0024929959-image"
+  },
+  "name": "MasterCube",
+  "original_release_date": "2015-08-19 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/mastercube/3030-50675/",
+  "images": [],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-48/",
+      "id": 48,
+      "name": "Shoot 'Em Up",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shoot-em-up&wikiTypeId=3060&wikiId=48&genre=48"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143314/",
+      "id": 143314,
+      "name": "MasterCube",
+      "site_detail_url": "http://www.giantbomb.com/mastercube/3030-50675/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143315/",
+      "id": 143315,
+      "name": "MasterCube",
+      "site_detail_url": "http://www.giantbomb.com/mastercube/3030-50675/releases/"
+    }
+  ]
+}

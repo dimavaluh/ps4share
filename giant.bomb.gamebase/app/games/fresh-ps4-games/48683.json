@@ -1,0 +1,158 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48683/",
+  "deck": "A gem-matching game from the creators of Puzzle Quest.",
+  "id": 48683,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2721126-header.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2721126-header.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2721126-header.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2721126-header.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2721126-header.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2721126-header.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2721126-header.jpg"
+  },
+  "name": "Gems of War",
+  "original_release_date": "2014-11-19 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-96/",
+      "id": 96,
+      "name": "iPhone",
+      "site_detail_url": "http://www.giantbomb.com/iphone/3045-96/",
+      "abbreviation": "IPHN"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-121/",
+      "id": 121,
+      "name": "iPad",
+      "site_detail_url": "http://www.giantbomb.com/ipad/3045-121/",
+      "abbreviation": "IPAD"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-123/",
+      "id": 123,
+      "name": "Android",
+      "site_detail_url": "http://www.giantbomb.com/android/3045-123/",
+      "abbreviation": "ANDR"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/gems-of-war/3030-48683/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/26/268369/2721283-2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/26/268369/2721283-2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/26/268369/2721283-2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/26/268369/2721283-2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/26/268369/2721283-2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/26/268369/2721283-2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/26/268369/2721283-2.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/26/268369/2721282-1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/26/268369/2721282-1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/26/268369/2721282-1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/26/268369/2721282-1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/26/268369/2721282-1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/26/268369/2721282-1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/26/268369/2721282-1.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87610/2721126-header.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87610/2721126-header.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87610/2721126-header.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87610/2721126-header.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87610/2721126-header.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87610/2721126-header.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87610/2721126-header.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-2/",
+      "id": 2,
+      "name": "Strategy",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=strategy&wikiTypeId=3060&wikiId=2&genre=2"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-18/",
+      "id": 18,
+      "name": "Puzzle",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=puzzle&wikiTypeId=3060&wikiId=18&genre=18"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145522/",
+      "id": 145522,
+      "name": "Gems of War",
+      "site_detail_url": "http://www.giantbomb.com/gems-of-war/3030-48683/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145523/",
+      "id": 145523,
+      "name": "Gems of War",
+      "site_detail_url": "http://www.giantbomb.com/gems-of-war/3030-48683/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145524/",
+      "id": 145524,
+      "name": "Gems of War",
+      "site_detail_url": "http://www.giantbomb.com/gems-of-war/3030-48683/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145525/",
+      "id": 145525,
+      "name": "Gems of War",
+      "site_detail_url": "http://www.giantbomb.com/gems-of-war/3030-48683/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145526/",
+      "id": 145526,
+      "name": "Gems of War",
+      "site_detail_url": "http://www.giantbomb.com/gems-of-war/3030-48683/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145527/",
+      "id": 145527,
+      "name": "Gems of War",
+      "site_detail_url": "http://www.giantbomb.com/gems-of-war/3030-48683/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145528/",
+      "id": 145528,
+      "name": "Gems of War",
+      "site_detail_url": "http://www.giantbomb.com/gems-of-war/3030-48683/releases/"
+    }
+  ]
+}

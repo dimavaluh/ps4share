@@ -1,0 +1,688 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-38538/",
+  "deck": "A third-person open-world game from Ubisoft, set in a dark alternate version of the US where corporations track and catalog all online behavior over a vast data network. A vigilante group called the Watch_Dogs hacks into this data, using it to hunt criminals.",
+  "id": 38538,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2557095-wdclean.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2557095-wdclean.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2557095-wdclean.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2557095-wdclean.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2557095-wdclean.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2557095-wdclean.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2557095-wdclean.jpg"
+  },
+  "name": "Watch Dogs",
+  "original_release_date": "2014-05-27 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2702860-wd_wiiu_01ebuve.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2702860-wd_wiiu_01ebuve.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2702860-wd_wiiu_01ebuve.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2702860-wd_wiiu_01ebuve.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2702860-wd_wiiu_01ebuve.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2702860-wd_wiiu_01ebuve.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2702860-wd_wiiu_01ebuve.jpg",
+      "tags": "All Images, Wii U Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2702859-wd_wiiu_028xuq3.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2702859-wd_wiiu_028xuq3.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2702859-wd_wiiu_028xuq3.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2702859-wd_wiiu_028xuq3.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2702859-wd_wiiu_028xuq3.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2702859-wd_wiiu_028xuq3.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2702859-wd_wiiu_028xuq3.jpg",
+      "tags": "All Images, Wii U Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2702858-wd_wiiu_03i1ub6.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2702858-wd_wiiu_03i1ub6.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2702858-wd_wiiu_03i1ub6.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2702858-wd_wiiu_03i1ub6.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2702858-wd_wiiu_03i1ub6.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2702858-wd_wiiu_03i1ub6.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2702858-wd_wiiu_03i1ub6.jpg",
+      "tags": "All Images, Wii U Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2702857-wd_wiiu_04gnub5.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2702857-wd_wiiu_04gnub5.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2702857-wd_wiiu_04gnub5.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2702857-wd_wiiu_04gnub5.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2702857-wd_wiiu_04gnub5.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2702857-wd_wiiu_04gnub5.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2702857-wd_wiiu_04gnub5.jpg",
+      "tags": "All Images, Wii U Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2702856-wd_wiiu_056lur2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2702856-wd_wiiu_056lur2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2702856-wd_wiiu_056lur2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2702856-wd_wiiu_056lur2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2702856-wd_wiiu_056lur2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2702856-wd_wiiu_056lur2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2702856-wd_wiiu_056lur2.jpg",
+      "tags": "All Images, Wii U Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2702855-wd_wiiu_06clu6e.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2702855-wd_wiiu_06clu6e.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2702855-wd_wiiu_06clu6e.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2702855-wd_wiiu_06clu6e.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2702855-wd_wiiu_06clu6e.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2702855-wd_wiiu_06clu6e.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2702855-wd_wiiu_06clu6e.jpg",
+      "tags": "All Images, Wii U Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2702854-wd_wiiu_076puv8.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2702854-wd_wiiu_076puv8.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2702854-wd_wiiu_076puv8.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2702854-wd_wiiu_076puv8.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2702854-wd_wiiu_076puv8.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2702854-wd_wiiu_076puv8.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2702854-wd_wiiu_076puv8.jpg",
+      "tags": "All Images, Wii U Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2702853-wd_wiiu_08tdujh.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2702853-wd_wiiu_08tdujh.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2702853-wd_wiiu_08tdujh.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2702853-wd_wiiu_08tdujh.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2702853-wd_wiiu_08tdujh.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2702853-wd_wiiu_08tdujh.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2702853-wd_wiiu_08tdujh.jpg",
+      "tags": "All Images, Wii U Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2702852-wd_wiiu_091jux7.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2702852-wd_wiiu_091jux7.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2702852-wd_wiiu_091jux7.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2702852-wd_wiiu_091jux7.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2702852-wd_wiiu_091jux7.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2702852-wd_wiiu_091jux7.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2702852-wd_wiiu_091jux7.jpg",
+      "tags": "All Images, Wii U Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2702851-wd_wiiu_108wuz7.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2702851-wd_wiiu_108wuz7.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2702851-wd_wiiu_108wuz7.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2702851-wd_wiiu_108wuz7.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2702851-wd_wiiu_108wuz7.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2702851-wd_wiiu_108wuz7.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2702851-wd_wiiu_108wuz7.jpg",
+      "tags": "All Images, Wii U Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2655506-watch_dogs+2014-07-10+01-27-51-01.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2655506-watch_dogs+2014-07-10+01-27-51-01.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2655506-watch_dogs+2014-07-10+01-27-51-01.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2655506-watch_dogs+2014-07-10+01-27-51-01.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/75926/2655506-watch_dogs+2014-07-10+01-27-51-01.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/75926/2655506-watch_dogs+2014-07-10+01-27-51-01.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/75926/2655506-watch_dogs+2014-07-10+01-27-51-01.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9456/2651533-dedsec-watch-dogs.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9456/2651533-dedsec-watch-dogs.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9456/2651533-dedsec-watch-dogs.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9456/2651533-dedsec-watch-dogs.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9456/2651533-dedsec-watch-dogs.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9456/2651533-dedsec-watch-dogs.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9456/2651533-dedsec-watch-dogs.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2646029-watch_dogs+2014-06-14+15-37-41-75.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2646029-watch_dogs+2014-06-14+15-37-41-75.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2646029-watch_dogs+2014-06-14+15-37-41-75.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2646029-watch_dogs+2014-06-14+15-37-41-75.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/75926/2646029-watch_dogs+2014-06-14+15-37-41-75.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/75926/2646029-watch_dogs+2014-06-14+15-37-41-75.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/75926/2646029-watch_dogs+2014-06-14+15-37-41-75.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2638436-watch_dogs+2014-05-27+21-37-27-01.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2638436-watch_dogs+2014-05-27+21-37-27-01.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/75926/2638436-watch_dogs+2014-05-27+21-37-27-01.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/75926/2638436-watch_dogs+2014-05-27+21-37-27-01.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/75926/2638436-watch_dogs+2014-05-27+21-37-27-01.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/75926/2638436-watch_dogs+2014-05-27+21-37-27-01.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/75926/2638436-watch_dogs+2014-05-27+21-37-27-01.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637664-watch_dogs%E2%84%A2_20140527225809.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637664-watch_dogs%E2%84%A2_20140527225809.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637664-watch_dogs%E2%84%A2_20140527225809.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637664-watch_dogs%E2%84%A2_20140527225809.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2637664-watch_dogs%E2%84%A2_20140527225809.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2637664-watch_dogs%E2%84%A2_20140527225809.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2637664-watch_dogs%E2%84%A2_20140527225809.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637663-watch_dogs%E2%84%A2_20140527225204.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637663-watch_dogs%E2%84%A2_20140527225204.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637663-watch_dogs%E2%84%A2_20140527225204.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637663-watch_dogs%E2%84%A2_20140527225204.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2637663-watch_dogs%E2%84%A2_20140527225204.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2637663-watch_dogs%E2%84%A2_20140527225204.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2637663-watch_dogs%E2%84%A2_20140527225204.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637662-watch_dogs%E2%84%A2_20140527225046.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637662-watch_dogs%E2%84%A2_20140527225046.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637662-watch_dogs%E2%84%A2_20140527225046.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637662-watch_dogs%E2%84%A2_20140527225046.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2637662-watch_dogs%E2%84%A2_20140527225046.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2637662-watch_dogs%E2%84%A2_20140527225046.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2637662-watch_dogs%E2%84%A2_20140527225046.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637661-watch_dogs%E2%84%A2_20140527224930.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637661-watch_dogs%E2%84%A2_20140527224930.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637661-watch_dogs%E2%84%A2_20140527224930.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637661-watch_dogs%E2%84%A2_20140527224930.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2637661-watch_dogs%E2%84%A2_20140527224930.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2637661-watch_dogs%E2%84%A2_20140527224930.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2637661-watch_dogs%E2%84%A2_20140527224930.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637660-watch_dogs%E2%84%A2_20140527223902.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637660-watch_dogs%E2%84%A2_20140527223902.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637660-watch_dogs%E2%84%A2_20140527223902.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637660-watch_dogs%E2%84%A2_20140527223902.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2637660-watch_dogs%E2%84%A2_20140527223902.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2637660-watch_dogs%E2%84%A2_20140527223902.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2637660-watch_dogs%E2%84%A2_20140527223902.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637659-watch_dogs%E2%84%A2_20140527161537.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637659-watch_dogs%E2%84%A2_20140527161537.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637659-watch_dogs%E2%84%A2_20140527161537.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637659-watch_dogs%E2%84%A2_20140527161537.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2637659-watch_dogs%E2%84%A2_20140527161537.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2637659-watch_dogs%E2%84%A2_20140527161537.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2637659-watch_dogs%E2%84%A2_20140527161537.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637658-watch_dogs%E2%84%A2_20140527161317.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637658-watch_dogs%E2%84%A2_20140527161317.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637658-watch_dogs%E2%84%A2_20140527161317.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637658-watch_dogs%E2%84%A2_20140527161317.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2637658-watch_dogs%E2%84%A2_20140527161317.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2637658-watch_dogs%E2%84%A2_20140527161317.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2637658-watch_dogs%E2%84%A2_20140527161317.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637657-watch_dogs%E2%84%A2_20140527161236.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637657-watch_dogs%E2%84%A2_20140527161236.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637657-watch_dogs%E2%84%A2_20140527161236.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637657-watch_dogs%E2%84%A2_20140527161236.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2637657-watch_dogs%E2%84%A2_20140527161236.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2637657-watch_dogs%E2%84%A2_20140527161236.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2637657-watch_dogs%E2%84%A2_20140527161236.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637656-watch_dogs%E2%84%A2_20140527160901.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637656-watch_dogs%E2%84%A2_20140527160901.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637656-watch_dogs%E2%84%A2_20140527160901.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637656-watch_dogs%E2%84%A2_20140527160901.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2637656-watch_dogs%E2%84%A2_20140527160901.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2637656-watch_dogs%E2%84%A2_20140527160901.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2637656-watch_dogs%E2%84%A2_20140527160901.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637655-watch_dogs%E2%84%A2_20140527160644.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637655-watch_dogs%E2%84%A2_20140527160644.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637655-watch_dogs%E2%84%A2_20140527160644.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637655-watch_dogs%E2%84%A2_20140527160644.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2637655-watch_dogs%E2%84%A2_20140527160644.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2637655-watch_dogs%E2%84%A2_20140527160644.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2637655-watch_dogs%E2%84%A2_20140527160644.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637654-watch_dogs%E2%84%A2_20140527155702.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637654-watch_dogs%E2%84%A2_20140527155702.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637654-watch_dogs%E2%84%A2_20140527155702.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637654-watch_dogs%E2%84%A2_20140527155702.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2637654-watch_dogs%E2%84%A2_20140527155702.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2637654-watch_dogs%E2%84%A2_20140527155702.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2637654-watch_dogs%E2%84%A2_20140527155702.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637653-watch_dogs%E2%84%A2_20140527155157.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637653-watch_dogs%E2%84%A2_20140527155157.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637653-watch_dogs%E2%84%A2_20140527155157.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637653-watch_dogs%E2%84%A2_20140527155157.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2637653-watch_dogs%E2%84%A2_20140527155157.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2637653-watch_dogs%E2%84%A2_20140527155157.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2637653-watch_dogs%E2%84%A2_20140527155157.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637652-watch_dogs%E2%84%A2_20140527142639.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637652-watch_dogs%E2%84%A2_20140527142639.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637652-watch_dogs%E2%84%A2_20140527142639.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637652-watch_dogs%E2%84%A2_20140527142639.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2637652-watch_dogs%E2%84%A2_20140527142639.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2637652-watch_dogs%E2%84%A2_20140527142639.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2637652-watch_dogs%E2%84%A2_20140527142639.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637651-watch_dogs%E2%84%A2_20140527142532.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637651-watch_dogs%E2%84%A2_20140527142532.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637651-watch_dogs%E2%84%A2_20140527142532.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637651-watch_dogs%E2%84%A2_20140527142532.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2637651-watch_dogs%E2%84%A2_20140527142532.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2637651-watch_dogs%E2%84%A2_20140527142532.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2637651-watch_dogs%E2%84%A2_20140527142532.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637650-watch_dogs%E2%84%A2_20140527135958.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637650-watch_dogs%E2%84%A2_20140527135958.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637650-watch_dogs%E2%84%A2_20140527135958.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637650-watch_dogs%E2%84%A2_20140527135958.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2637650-watch_dogs%E2%84%A2_20140527135958.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2637650-watch_dogs%E2%84%A2_20140527135958.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2637650-watch_dogs%E2%84%A2_20140527135958.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637649-watch_dogs%E2%84%A2_20140527135814.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637649-watch_dogs%E2%84%A2_20140527135814.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/329/2637649-watch_dogs%E2%84%A2_20140527135814.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/329/2637649-watch_dogs%E2%84%A2_20140527135814.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/329/2637649-watch_dogs%E2%84%A2_20140527135814.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/329/2637649-watch_dogs%E2%84%A2_20140527135814.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/329/2637649-watch_dogs%E2%84%A2_20140527135814.jpg",
+      "tags": "All Images, Screenshots, PS4 Screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6100/",
+      "id": 6100,
+      "name": "E3 2012: Watch Dogs Demo",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2012-watch-dogs-demo/2300-6100/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7071/",
+      "id": 7071,
+      "name": "Here Is the Entire Watch Dogs Demo Shown at Sony's PlayStation 4 Conference",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-is-the-entire-watch-dogs-demo-shown-at-sony-s/2300-7071/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7302/",
+      "id": 7302,
+      "name": "Watch_Dogs Has a Release Date, New Trailer",
+      "site_detail_url": "http://www.giantbomb.com/videos/watch-dogs-has-a-release-date-new-trailer/2300-7302/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7472/",
+      "id": 7472,
+      "name": "E3 2013: Everything is Connected in Watch_Dogs",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-everything-is-connected-in-watch-dogs/2300-7472/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7567/",
+      "id": 7567,
+      "name": "E3 2013: Over Seven Minutes of Watch_Dogs Gameplay",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-over-seven-minutes-of-watch-dogs-gameplay/2300-7567/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7613/",
+      "id": 7613,
+      "name": "E3 2013: Watch_Dogs Wants to Underscore Choice",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-watch-dogs-wants-to-underscore-choice/2300-7613/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7748/",
+      "id": 7748,
+      "name": "Is Aisha Tyler in Watch_Dogs? Ayup!",
+      "site_detail_url": "http://www.giantbomb.com/videos/is-aisha-tyler-in-watch-dogs-ayup/2300-7748/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7764/",
+      "id": 7764,
+      "name": "Watch_Dogs Won Many E3 Awards, Apparently",
+      "site_detail_url": "http://www.giantbomb.com/videos/watch-dogs-won-many-e3-awards-apparently/2300-7764/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7805/",
+      "id": 7805,
+      "name": "Here's How Hacking Will Work in Watch_Dogs",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-how-hacking-will-work-in-watch-dogs/2300-7805/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7849/",
+      "id": 7849,
+      "name": "Watch Us Watch the Sony Gamescom Press Conference",
+      "site_detail_url": "http://www.giantbomb.com/videos/watch-us-watch-the-sony-gamescom-press-conference/2300-7849/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7898/",
+      "id": 7898,
+      "name": "This Narrated Walkthrough Takes You Around Watch_Dogs' Open World",
+      "site_detail_url": "http://www.giantbomb.com/videos/this-narrated-walkthrough-takes-you-around-watch-d/2300-7898/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8032/",
+      "id": 8032,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 10/04/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-10-04-2013/2300-8032/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8070/",
+      "id": 8070,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 10/14/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-10-14-2013/2300-8070/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8685/",
+      "id": 8685,
+      "name": "Watch_Dogs Welcomes You to Chicago",
+      "site_detail_url": "http://www.giantbomb.com/videos/watch-dogs-welcomes-you-to-chicago/2300-8685/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8779/",
+      "id": 8779,
+      "name": "Unfinished: Watch Dogs 04/22/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/unfinished-watch-dogs-04-22-2014/2300-8779/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8782/",
+      "id": 8782,
+      "name": "Here's Nine Narrated Minutes of Watch Dogs' Multiplayer Mode",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-nine-narrated-minutes-of-watch-dogs-multipl/2300-8782/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8804/",
+      "id": 8804,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 04/28/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-04-28-2014/2300-8804/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8816/",
+      "id": 8816,
+      "name": "Here's What You'll Get in Watch Dogs' DLC Season Pass",
+      "site_detail_url": "http://www.giantbomb.com/videos/heres-what-youll-get-in-watch-dogs-dlc-season-pass/2300-8816/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8861/",
+      "id": 8861,
+      "name": "Watch Dogs Has Characters, Wants to Show You Them",
+      "site_detail_url": "http://www.giantbomb.com/videos/watch-dogs-has-characters-wants-to-show-you-them/2300-8861/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8878/",
+      "id": 8878,
+      "name": "It's a New Week, So Here Is Your Requisite New Watch Dogs Video",
+      "site_detail_url": "http://www.giantbomb.com/videos/its-a-new-week-so-here-is-your-requisite-new-watch/2300-8878/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8915/",
+      "id": 8915,
+      "name": "Here's Your Friendly Reminder That Watch Dogs Launches Next Week",
+      "site_detail_url": "http://www.giantbomb.com/videos/heres-your-friendly-reminder-that-watch-dogs-launc/2300-8915/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8923/",
+      "id": 8923,
+      "name": "Quick Look: Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-watch-dogs/2300-8923/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9173/",
+      "id": 9173,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 06/30/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-06-30-2014/2300-9173/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9490/",
+      "id": 9490,
+      "name": "Hey, Wanna Play as T-Bone From Watch Dogs? Anyone?",
+      "site_detail_url": "http://www.giantbomb.com/videos/hey-wanna-play-as-t-bone-from-watch-dogs-anyone/2300-9490/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9819/",
+      "id": 9819,
+      "name": "Game of the Year 2014: Day Two Recap",
+      "site_detail_url": "http://www.giantbomb.com/videos/game-of-the-year-2014-day-two-recap/2300-9819/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-6/",
+      "id": 6,
+      "name": "Driving/Racing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=drivingracing&wikiTypeId=3060&wikiId=6&genre=6"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-11/",
+      "id": 11,
+      "name": "Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shooter&wikiTypeId=3060&wikiId=11&genre=11"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125481/",
+      "id": 125481,
+      "name": "Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125482/",
+      "id": 125482,
+      "name": "Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125483/",
+      "id": 125483,
+      "name": "Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125484/",
+      "id": 125484,
+      "name": "Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-125485/",
+      "id": 125485,
+      "name": "Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127108/",
+      "id": 127108,
+      "name": "Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127109/",
+      "id": 127109,
+      "name": "Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127110/",
+      "id": 127110,
+      "name": "Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127111/",
+      "id": 127111,
+      "name": "Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127112/",
+      "id": 127112,
+      "name": "Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127116/",
+      "id": 127116,
+      "name": "Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127117/",
+      "id": 127117,
+      "name": "Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127119/",
+      "id": 127119,
+      "name": "Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127120/",
+      "id": 127120,
+      "name": "Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127121/",
+      "id": 127121,
+      "name": "Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128102/",
+      "id": 128102,
+      "name": "Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128103/",
+      "id": 128103,
+      "name": "Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128104/",
+      "id": 128104,
+      "name": "Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133633/",
+      "id": 133633,
+      "name": "Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-133634/",
+      "id": 133634,
+      "name": "Watch Dogs (Special Edition)",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134731/",
+      "id": 134731,
+      "name": "Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134986/",
+      "id": 134986,
+      "name": "Watch_Dogs_ANZ Special Edition",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137428/",
+      "id": 137428,
+      "name": "Watch Dogs",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138731/",
+      "id": 138731,
+      "name": "Watch Dogs (ANZ Special Edition)",
+      "site_detail_url": "http://www.giantbomb.com/watch-dogs/3030-38538/releases/"
+    }
+  ]
+}

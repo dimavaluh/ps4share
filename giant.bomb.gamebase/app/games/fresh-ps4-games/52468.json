@@ -1,0 +1,82 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-52468/",
+  "deck": "Some of the creators of Burnout are working on a new golf game.",
+  "id": 52468,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2857192-8650831242-26688.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2857192-8650831242-26688.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2857192-8650831242-26688.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2857192-8650831242-26688.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2857192-8650831242-26688.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2857192-8650831242-26688.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2857192-8650831242-26688.jpg"
+  },
+  "name": "Dangerous Golf",
+  "original_release_date": "2016-06-03 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/dangerous-golf/3030-52468/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9536/2857192-8650831242-26688.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9536/2857192-8650831242-26688.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9536/2857192-8650831242-26688.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9536/2857192-8650831242-26688.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9536/2857192-8650831242-26688.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9536/2857192-8650831242-26688.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9536/2857192-8650831242-26688.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11147/",
+      "id": 11147,
+      "name": "Unfinished EX: Dangerous Golf 04/27/2016",
+      "site_detail_url": "http://www.giantbomb.com/videos/unfinished-ex-dangerous-golf-04272016/2300-11147/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11216/",
+      "id": 11216,
+      "name": "Unprofessional Fridays: 06/03/2016",
+      "site_detail_url": "http://www.giantbomb.com/videos/unprofessional-fridays-06032016/2300-11216/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-28/",
+      "id": 28,
+      "name": "Golf",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=golf&wikiTypeId=3060&wikiId=28&genre=28"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147864/",
+      "id": 147864,
+      "name": "Dangerous Golf",
+      "site_detail_url": "http://www.giantbomb.com/dangerous-golf/3030-52468/releases/"
+    }
+  ]
+}

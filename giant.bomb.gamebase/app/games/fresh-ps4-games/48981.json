@@ -1,0 +1,77 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48981/",
+  "deck": "A fast, arcade style cricket game that is based off the popular Tabletop game Test Match.",
+  "id": 48981,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2729254-11024800_782052775182535_8807238964384866744_n.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2729254-11024800_782052775182535_8807238964384866744_n.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2729254-11024800_782052775182535_8807238964384866744_n.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2729254-11024800_782052775182535_8807238964384866744_n.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2729254-11024800_782052775182535_8807238964384866744_n.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2729254-11024800_782052775182535_8807238964384866744_n.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2729254-11024800_782052775182535_8807238964384866744_n.png"
+  },
+  "name": "Tabletop Cricket",
+  "original_release_date": "2015-02-25 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/tabletop-cricket/3030-48981/",
+  "images": [],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-3/",
+      "id": 3,
+      "name": "Sports",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=sports&wikiTypeId=3060&wikiId=3&genre=3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-46/",
+      "id": 46,
+      "name": "Cricket",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=cricket&wikiTypeId=3060&wikiId=46&genre=46"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140889/",
+      "id": 140889,
+      "name": "Tabletop Cricket",
+      "site_detail_url": "http://www.giantbomb.com/tabletop-cricket/3030-48981/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140890/",
+      "id": 140890,
+      "name": "Tabletop Cricket",
+      "site_detail_url": "http://www.giantbomb.com/tabletop-cricket/3030-48981/releases/"
+    }
+  ]
+}

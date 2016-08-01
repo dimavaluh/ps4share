@@ -1,0 +1,82 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-46559/",
+  "deck": "A completely reprogrammed version of Two Brothers on a new engine and with brand new combat.",
+  "id": 46559,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2643006-chromophore.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2643006-chromophore.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2643006-chromophore.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2643006-chromophore.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2643006-chromophore.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2643006-chromophore.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2643006-chromophore.jpg"
+  },
+  "name": "Chromophore: The Two Brothers Director's Cut",
+  "original_release_date": "2014-12-31 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/chromophore-the-two-brothers-directors-cut/3030-46559/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2643006-chromophore.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2643006-chromophore.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/82063/2643006-chromophore.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/82063/2643006-chromophore.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/82063/2643006-chromophore.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/82063/2643006-chromophore.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/82063/2643006-chromophore.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9072/",
+      "id": 9072,
+      "name": "E3 2014: Go Retro GameBoy-Style in Chromophore: Two Brothers",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2014-go-retro-gameboy-style-in-chromophore-two-/2300-9072/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-45437/",
+  "deck": "Tottemo E Mahjong Plus is a download-only launch title for Japanese PS4s.",
+  "id": 45437,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2601772-3424670313-jp0036cusa00125_00emahjongplus0000_jacket",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2601772-3424670313-jp0036cusa00125_00emahjongplus0000_jacket",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2601772-3424670313-jp0036cusa00125_00emahjongplus0000_jacket",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2601772-3424670313-jp0036cusa00125_00emahjongplus0000_jacket",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2601772-3424670313-jp0036cusa00125_00emahjongplus0000_jacket",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2601772-3424670313-jp0036cusa00125_00emahjongplus0000_jacket",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2601772-3424670313-jp0036cusa00125_00emahjongplus0000_jacket"
+  },
+  "name": "Tottemo E Mahjong Plus",
+  "original_release_date": "2014-02-22 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/tottemo-e-mahjong-plus/3030-45437/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2601772-3424670313-jp0036cusa00125_00emahjongplus0000_jacket",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2601772-3424670313-jp0036cusa00125_00emahjongplus0000_jacket",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2601772-3424670313-jp0036cusa00125_00emahjongplus0000_jacket",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2601772-3424670313-jp0036cusa00125_00emahjongplus0000_jacket",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2601772-3424670313-jp0036cusa00125_00emahjongplus0000_jacket",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2601772-3424670313-jp0036cusa00125_00emahjongplus0000_jacket",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2601772-3424670313-jp0036cusa00125_00emahjongplus0000_jacket",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8527/",
+      "id": 8527,
+      "name": "Quick Look: Japanese PlayStation 4 Store + Games",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-japanese-playstation-4-store-games/2300-8527/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-13/",
+      "id": 13,
+      "name": "Card Game",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=card-game&wikiTypeId=3060&wikiId=13&genre=13"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-14/",
+      "id": 14,
+      "name": "Trivia/Board Game",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=triviaboard-game&wikiTypeId=3060&wikiId=14&genre=14"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132999/",
+      "id": 132999,
+      "name": "Tottemo E Mahjong Plus",
+      "site_detail_url": "http://www.giantbomb.com/tottemo-e-mahjong-plus/3030-45437/releases/"
+    }
+  ]
+}

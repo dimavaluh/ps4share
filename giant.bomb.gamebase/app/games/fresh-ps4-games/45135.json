@@ -1,0 +1,54 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-45135/",
+  "deck": "Indie horror game inspired by Japanese mythology.",
+  "id": 45135,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2591291-kodoku.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2591291-kodoku.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2591291-kodoku.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2591291-kodoku.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2591291-kodoku.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2591291-kodoku.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2591291-kodoku.png"
+  },
+  "name": "Kodoku",
+  "original_release_date": "2015-03-31 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/kodoku/3030-45135/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2591291-kodoku.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2591291-kodoku.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2591291-kodoku.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2591291-kodoku.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2591291-kodoku.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2591291-kodoku.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2591291-kodoku.png",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-4/",
+      "id": 4,
+      "name": "Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=adventure&wikiTypeId=3060&wikiId=4&genre=4"
+    }
+  ]
+}

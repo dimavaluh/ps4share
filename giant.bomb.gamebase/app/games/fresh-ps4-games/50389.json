@@ -1,0 +1,426 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-50389/",
+  "deck": "An HD remake of the PS2 game Odin Sphere, with reworked gameplay and additional content.",
+  "id": 50389,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2856056-main.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2856056-main.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2856056-main.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2856056-main.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2856056-main.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2856056-main.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2856056-main.png"
+  },
+  "name": "Odin Sphere Leifthrasir",
+  "original_release_date": "2016-01-14 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/odin-sphere-leifthrasir/3030-50389/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/217562/2868040-zz2016-07-05-204102.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/21/217562/2868040-zz2016-07-05-204102.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/217562/2868040-zz2016-07-05-204102.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/21/217562/2868040-zz2016-07-05-204102.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/21/217562/2868040-zz2016-07-05-204102.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/21/217562/2868040-zz2016-07-05-204102.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/217562/2868040-zz2016-07-05-204102.jpg",
+      "tags": "All Images, Screenshots, Vita Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/217562/2868039-zz2016-06-27-224510.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/21/217562/2868039-zz2016-06-27-224510.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/217562/2868039-zz2016-06-27-224510.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/21/217562/2868039-zz2016-06-27-224510.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/21/217562/2868039-zz2016-06-27-224510.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/21/217562/2868039-zz2016-06-27-224510.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/217562/2868039-zz2016-06-27-224510.jpg",
+      "tags": "All Images, Screenshots, Vita Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/217562/2868038-zz2016-06-18-062925.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/21/217562/2868038-zz2016-06-18-062925.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/217562/2868038-zz2016-06-18-062925.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/21/217562/2868038-zz2016-06-18-062925.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/21/217562/2868038-zz2016-06-18-062925.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/21/217562/2868038-zz2016-06-18-062925.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/217562/2868038-zz2016-06-18-062925.jpg",
+      "tags": "All Images, Screenshots, Vita Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/217562/2868037-zz2016-06-18-002231.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/21/217562/2868037-zz2016-06-18-002231.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/217562/2868037-zz2016-06-18-002231.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/21/217562/2868037-zz2016-06-18-002231.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/21/217562/2868037-zz2016-06-18-002231.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/21/217562/2868037-zz2016-06-18-002231.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/217562/2868037-zz2016-06-18-002231.jpg",
+      "tags": "All Images, Screenshots, Vita Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/21/217562/2868036-zz2016-06-17-235317.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/21/217562/2868036-zz2016-06-17-235317.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/21/217562/2868036-zz2016-06-17-235317.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/21/217562/2868036-zz2016-06-17-235317.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/21/217562/2868036-zz2016-06-17-235317.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/21/217562/2868036-zz2016-06-17-235317.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/21/217562/2868036-zz2016-06-17-235317.jpg",
+      "tags": "All Images, Screenshots, Vita Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2856059-vita.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2856059-vita.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2856059-vita.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2856059-vita.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2856059-vita.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2856059-vita.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2856059-vita.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2856058-ps4.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2856058-ps4.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2856058-ps4.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2856058-ps4.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2856058-ps4.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2856058-ps4.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2856058-ps4.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2856057-ps3.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2856057-ps3.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2856057-ps3.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2856057-ps3.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2856057-ps3.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2856057-ps3.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2856057-ps3.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2856056-main.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2856056-main.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2856056-main.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2856056-main.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2856056-main.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2856056-main.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2856056-main.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2837140-odin-sphere-leifthrasir_2016_03-24-16_008.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2837140-odin-sphere-leifthrasir_2016_03-24-16_008.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2837140-odin-sphere-leifthrasir_2016_03-24-16_008.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2837140-odin-sphere-leifthrasir_2016_03-24-16_008.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2837140-odin-sphere-leifthrasir_2016_03-24-16_008.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2837140-odin-sphere-leifthrasir_2016_03-24-16_008.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2837140-odin-sphere-leifthrasir_2016_03-24-16_008.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2837139-odin-sphere-leifthrasir_2016_03-24-16_007.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2837139-odin-sphere-leifthrasir_2016_03-24-16_007.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2837139-odin-sphere-leifthrasir_2016_03-24-16_007.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2837139-odin-sphere-leifthrasir_2016_03-24-16_007.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2837139-odin-sphere-leifthrasir_2016_03-24-16_007.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2837139-odin-sphere-leifthrasir_2016_03-24-16_007.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2837139-odin-sphere-leifthrasir_2016_03-24-16_007.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2837137-odin-sphere-leifthrasir_2016_03-24-16_005.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2837137-odin-sphere-leifthrasir_2016_03-24-16_005.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2837137-odin-sphere-leifthrasir_2016_03-24-16_005.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2837137-odin-sphere-leifthrasir_2016_03-24-16_005.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2837137-odin-sphere-leifthrasir_2016_03-24-16_005.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2837137-odin-sphere-leifthrasir_2016_03-24-16_005.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2837137-odin-sphere-leifthrasir_2016_03-24-16_005.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2837136-odin-sphere-leifthrasir_2016_03-24-16_004.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2837136-odin-sphere-leifthrasir_2016_03-24-16_004.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2837136-odin-sphere-leifthrasir_2016_03-24-16_004.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2837136-odin-sphere-leifthrasir_2016_03-24-16_004.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2837136-odin-sphere-leifthrasir_2016_03-24-16_004.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2837136-odin-sphere-leifthrasir_2016_03-24-16_004.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2837136-odin-sphere-leifthrasir_2016_03-24-16_004.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2837135-odin-sphere-leifthrasir_2016_03-24-16_003.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2837135-odin-sphere-leifthrasir_2016_03-24-16_003.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2837135-odin-sphere-leifthrasir_2016_03-24-16_003.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2837135-odin-sphere-leifthrasir_2016_03-24-16_003.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2837135-odin-sphere-leifthrasir_2016_03-24-16_003.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2837135-odin-sphere-leifthrasir_2016_03-24-16_003.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2837135-odin-sphere-leifthrasir_2016_03-24-16_003.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2837134-odin-sphere-leifthrasir_2016_03-24-16_002.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2837134-odin-sphere-leifthrasir_2016_03-24-16_002.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2837134-odin-sphere-leifthrasir_2016_03-24-16_002.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2837134-odin-sphere-leifthrasir_2016_03-24-16_002.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2837134-odin-sphere-leifthrasir_2016_03-24-16_002.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2837134-odin-sphere-leifthrasir_2016_03-24-16_002.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2837134-odin-sphere-leifthrasir_2016_03-24-16_002.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2837133-odin-sphere-leifthrasir_2016_03-24-16_001.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2837133-odin-sphere-leifthrasir_2016_03-24-16_001.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2837133-odin-sphere-leifthrasir_2016_03-24-16_001.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2837133-odin-sphere-leifthrasir_2016_03-24-16_001.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2837133-odin-sphere-leifthrasir_2016_03-24-16_001.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2837133-odin-sphere-leifthrasir_2016_03-24-16_001.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2837133-odin-sphere-leifthrasir_2016_03-24-16_001.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783715-odin-sphere-lefithrasir_2015_07-20-15_003.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783715-odin-sphere-lefithrasir_2015_07-20-15_003.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783715-odin-sphere-lefithrasir_2015_07-20-15_003.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783715-odin-sphere-lefithrasir_2015_07-20-15_003.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2783715-odin-sphere-lefithrasir_2015_07-20-15_003.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2783715-odin-sphere-lefithrasir_2015_07-20-15_003.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2783715-odin-sphere-lefithrasir_2015_07-20-15_003.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783714-odin-sphere-lefithrasir_2015_07-20-15_002.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783714-odin-sphere-lefithrasir_2015_07-20-15_002.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783714-odin-sphere-lefithrasir_2015_07-20-15_002.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783714-odin-sphere-lefithrasir_2015_07-20-15_002.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2783714-odin-sphere-lefithrasir_2015_07-20-15_002.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2783714-odin-sphere-lefithrasir_2015_07-20-15_002.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2783714-odin-sphere-lefithrasir_2015_07-20-15_002.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783713-odin-sphere-lefithrasir_2015_07-20-15_001.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783713-odin-sphere-lefithrasir_2015_07-20-15_001.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783713-odin-sphere-lefithrasir_2015_07-20-15_001.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783713-odin-sphere-lefithrasir_2015_07-20-15_001.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2783713-odin-sphere-lefithrasir_2015_07-20-15_001.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2783713-odin-sphere-lefithrasir_2015_07-20-15_001.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2783713-odin-sphere-lefithrasir_2015_07-20-15_001.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783712-odinsphere-16.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783712-odinsphere-16.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783712-odinsphere-16.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783712-odinsphere-16.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2783712-odinsphere-16.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2783712-odinsphere-16.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2783712-odinsphere-16.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783711-odinsphere-15.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783711-odinsphere-15.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783711-odinsphere-15.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783711-odinsphere-15.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2783711-odinsphere-15.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2783711-odinsphere-15.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2783711-odinsphere-15.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783710-odinsphere-13.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783710-odinsphere-13.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783710-odinsphere-13.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783710-odinsphere-13.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2783710-odinsphere-13.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2783710-odinsphere-13.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2783710-odinsphere-13.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783709-odinsphere-12.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783709-odinsphere-12.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783709-odinsphere-12.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783709-odinsphere-12.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2783709-odinsphere-12.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2783709-odinsphere-12.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2783709-odinsphere-12.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783708-odinsphere-11.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783708-odinsphere-11.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783708-odinsphere-11.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783708-odinsphere-11.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2783708-odinsphere-11.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2783708-odinsphere-11.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2783708-odinsphere-11.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783707-odinsphere-10.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783707-odinsphere-10.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783707-odinsphere-10.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783707-odinsphere-10.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2783707-odinsphere-10.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2783707-odinsphere-10.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2783707-odinsphere-10.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783706-odinsphere-9.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783706-odinsphere-9.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783706-odinsphere-9.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783706-odinsphere-9.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2783706-odinsphere-9.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2783706-odinsphere-9.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2783706-odinsphere-9.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783705-main.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783705-main.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/97089/2783705-main.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/97089/2783705-main.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/97089/2783705-main.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/97089/2783705-main.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/97089/2783705-main.jpg",
+      "tags": "All Images, Artwork"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2766964-9609020559-Odin-.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2766964-9609020559-Odin-.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2766964-9609020559-Odin-.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2766964-9609020559-Odin-.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2766964-9609020559-Odin-.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2766964-9609020559-Odin-.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2766964-9609020559-Odin-.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11384/",
+      "id": 11384,
+      "name": "Quick Look: Odin Sphere: Leifthrasir",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-odin-sphere-leifthrasir/2300-11384/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-142640/",
+      "id": 142640,
+      "name": "Odin Sphere: Leifdrasir",
+      "site_detail_url": "http://www.giantbomb.com/odin-sphere-leifthrasir/3030-50389/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-146769/",
+      "id": 146769,
+      "name": "Odin Sphere: Leifdrasir",
+      "site_detail_url": "http://www.giantbomb.com/odin-sphere-leifthrasir/3030-50389/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147974/",
+      "id": 147974,
+      "name": "Odin Sphere Leifthrasir",
+      "site_detail_url": "http://www.giantbomb.com/odin-sphere-leifthrasir/3030-50389/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147975/",
+      "id": 147975,
+      "name": "Odin Sphere Leifthrasir",
+      "site_detail_url": "http://www.giantbomb.com/odin-sphere-leifthrasir/3030-50389/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147976/",
+      "id": 147976,
+      "name": "Odin Sphere Leifthrasir",
+      "site_detail_url": "http://www.giantbomb.com/odin-sphere-leifthrasir/3030-50389/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147977/",
+      "id": 147977,
+      "name": "Odin Sphere Leifthrasir",
+      "site_detail_url": "http://www.giantbomb.com/odin-sphere-leifthrasir/3030-50389/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148190/",
+      "id": 148190,
+      "name": "Odin Sphere Leifthrasir",
+      "site_detail_url": "http://www.giantbomb.com/odin-sphere-leifthrasir/3030-50389/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148191/",
+      "id": 148191,
+      "name": "Odin Sphere Leifthrasir",
+      "site_detail_url": "http://www.giantbomb.com/odin-sphere-leifthrasir/3030-50389/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148192/",
+      "id": 148192,
+      "name": "Odin Sphere Leifthrasir",
+      "site_detail_url": "http://www.giantbomb.com/odin-sphere-leifthrasir/3030-50389/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148193/",
+      "id": 148193,
+      "name": "Odin Sphere Leifthrasir",
+      "site_detail_url": "http://www.giantbomb.com/odin-sphere-leifthrasir/3030-50389/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148194/",
+      "id": 148194,
+      "name": "Odin Sphere Leifthrasir",
+      "site_detail_url": "http://www.giantbomb.com/odin-sphere-leifthrasir/3030-50389/releases/"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48005/",
+  "deck": "A science-fiction game that combines elements of first-person shooters and adventure games.",
+  "id": 48005,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2779924-cover.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2779924-cover.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2779924-cover.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2779924-cover.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2779924-cover.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2779924-cover.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2779924-cover.jpg"
+  },
+  "name": "Albedo: Eyes from Outer Space",
+  "original_release_date": "2015-04-10 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/albedo-eyes-from-outer-space/3030-48005/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/19/194982/2779924-cover.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/19/194982/2779924-cover.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/19/194982/2779924-cover.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/19/194982/2779924-cover.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/19/194982/2779924-cover.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/19/194982/2779924-cover.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/19/194982/2779924-cover.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/81005/2689691-5320079190-heade.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/81005/2689691-5320079190-heade.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/81005/2689691-5320079190-heade.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/81005/2689691-5320079190-heade.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/81005/2689691-5320079190-heade.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/81005/2689691-5320079190-heade.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/81005/2689691-5320079190-heade.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-32/",
+      "id": 32,
+      "name": "First-Person Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=first-person-shooter&wikiTypeId=3060&wikiId=32&genre=32"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143430/",
+      "id": 143430,
+      "name": "Albedo: Eyes from Outer Space",
+      "site_detail_url": "http://www.giantbomb.com/albedo-eyes-from-outer-space/3030-48005/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143432/",
+      "id": 143432,
+      "name": "Albedo: Eyes from Outer Space",
+      "site_detail_url": "http://www.giantbomb.com/albedo-eyes-from-outer-space/3030-48005/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145797/",
+      "id": 145797,
+      "name": "Albedo: Eyes from Outer Space",
+      "site_detail_url": "http://www.giantbomb.com/albedo-eyes-from-outer-space/3030-48005/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145884/",
+      "id": 145884,
+      "name": "Albedo: Eyes from Outer Space",
+      "site_detail_url": "http://www.giantbomb.com/albedo-eyes-from-outer-space/3030-48005/releases/"
+    }
+  ]
+}

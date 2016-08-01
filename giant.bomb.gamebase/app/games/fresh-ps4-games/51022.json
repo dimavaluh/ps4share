@@ -1,0 +1,58 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-51022/",
+  "deck": "2D platformer that takes place in a circus arena.",
+  "id": 51022,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2786511-6008762447-penar.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2786511-6008762447-penar.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2786511-6008762447-penar.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2786511-6008762447-penar.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2786511-6008762447-penar.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2786511-6008762447-penar.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2786511-6008762447-penar.jpg"
+  },
+  "name": "Penarium",
+  "original_release_date": "2015-09-22 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/penarium/3030-51022/",
+  "images": [],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-41/",
+      "id": 41,
+      "name": "Platformer",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=platformer&wikiTypeId=3060&wikiId=41&genre=41"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143950/",
+      "id": 143950,
+      "name": "Penarium",
+      "site_detail_url": "http://www.giantbomb.com/penarium/3030-51022/releases/"
+    }
+  ]
+}

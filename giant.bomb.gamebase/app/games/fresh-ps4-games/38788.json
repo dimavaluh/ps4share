@@ -1,0 +1,450 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-38788/",
+  "deck": "A free-to-play, third-person action shooter developed by Digital Extremes.",
+  "id": 38788,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2578175-box_warframe.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2578175-box_warframe.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2578175-box_warframe.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2578175-box_warframe.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2578175-box_warframe.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2578175-box_warframe.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2578175-box_warframe.png"
+  },
+  "name": "Warframe",
+  "original_release_date": "2013-03-25 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/warframe/3030-38788/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2578175-box_warframe.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2578175-box_warframe.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2578175-box_warframe.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2578175-box_warframe.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2578175-box_warframe.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2578175-box_warframe.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2578175-box_warframe.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/71439/2566143-magprime.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/71439/2566143-magprime.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/71439/2566143-magprime.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/71439/2566143-magprime.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/71439/2566143-magprime.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/71439/2566143-magprime.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/71439/2566143-magprime.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/7/71439/2566142-warframe.x64+2013-10-29+00-24-55-618.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/7/71439/2566142-warframe.x64+2013-10-29+00-24-55-618.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/7/71439/2566142-warframe.x64+2013-10-29+00-24-55-618.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/7/71439/2566142-warframe.x64+2013-10-29+00-24-55-618.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/7/71439/2566142-warframe.x64+2013-10-29+00-24-55-618.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/7/71439/2566142-warframe.x64+2013-10-29+00-24-55-618.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/7/71439/2566142-warframe.x64+2013-10-29+00-24-55-618.png",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2541996-dsc05122.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2541996-dsc05122.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2541996-dsc05122.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2541996-dsc05122.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2541996-dsc05122.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2541996-dsc05122.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2541996-dsc05122.jpg",
+      "tags": "All Images, Sony, PAX Prime 2013, PAX Prime 2013 Booth"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2541907-dsc05452.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2541907-dsc05452.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2541907-dsc05452.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2541907-dsc05452.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2541907-dsc05452.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2541907-dsc05452.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2541907-dsc05452.jpg",
+      "tags": "All Images, NVIDIA, PAX Prime 2013 Booth, PAX Prime 2013"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466392-2013-04-07_00014.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466392-2013-04-07_00014.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466392-2013-04-07_00014.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466392-2013-04-07_00014.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/3/35153/2466392-2013-04-07_00014.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/3/35153/2466392-2013-04-07_00014.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/3/35153/2466392-2013-04-07_00014.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466391-2013-04-07_00013.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466391-2013-04-07_00013.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466391-2013-04-07_00013.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466391-2013-04-07_00013.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/3/35153/2466391-2013-04-07_00013.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/3/35153/2466391-2013-04-07_00013.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/3/35153/2466391-2013-04-07_00013.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466390-2013-04-07_00012.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466390-2013-04-07_00012.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466390-2013-04-07_00012.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466390-2013-04-07_00012.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/3/35153/2466390-2013-04-07_00012.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/3/35153/2466390-2013-04-07_00012.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/3/35153/2466390-2013-04-07_00012.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466389-2013-04-07_00011.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466389-2013-04-07_00011.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466389-2013-04-07_00011.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466389-2013-04-07_00011.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/3/35153/2466389-2013-04-07_00011.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/3/35153/2466389-2013-04-07_00011.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/3/35153/2466389-2013-04-07_00011.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466388-2013-04-07_00010.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466388-2013-04-07_00010.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466388-2013-04-07_00010.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466388-2013-04-07_00010.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/3/35153/2466388-2013-04-07_00010.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/3/35153/2466388-2013-04-07_00010.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/3/35153/2466388-2013-04-07_00010.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466387-2013-04-07_00009.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466387-2013-04-07_00009.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466387-2013-04-07_00009.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466387-2013-04-07_00009.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/3/35153/2466387-2013-04-07_00009.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/3/35153/2466387-2013-04-07_00009.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/3/35153/2466387-2013-04-07_00009.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466386-2013-04-07_00008.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466386-2013-04-07_00008.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466386-2013-04-07_00008.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466386-2013-04-07_00008.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/3/35153/2466386-2013-04-07_00008.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/3/35153/2466386-2013-04-07_00008.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/3/35153/2466386-2013-04-07_00008.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466385-2013-04-07_00007.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466385-2013-04-07_00007.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466385-2013-04-07_00007.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466385-2013-04-07_00007.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/3/35153/2466385-2013-04-07_00007.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/3/35153/2466385-2013-04-07_00007.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/3/35153/2466385-2013-04-07_00007.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466384-2013-04-07_00006.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466384-2013-04-07_00006.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466384-2013-04-07_00006.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466384-2013-04-07_00006.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/3/35153/2466384-2013-04-07_00006.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/3/35153/2466384-2013-04-07_00006.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/3/35153/2466384-2013-04-07_00006.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466383-2013-04-07_00005.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466383-2013-04-07_00005.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466383-2013-04-07_00005.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466383-2013-04-07_00005.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/3/35153/2466383-2013-04-07_00005.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/3/35153/2466383-2013-04-07_00005.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/3/35153/2466383-2013-04-07_00005.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466382-2013-04-07_00004.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466382-2013-04-07_00004.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466382-2013-04-07_00004.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466382-2013-04-07_00004.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/3/35153/2466382-2013-04-07_00004.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/3/35153/2466382-2013-04-07_00004.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/3/35153/2466382-2013-04-07_00004.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466381-2013-04-07_00003.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466381-2013-04-07_00003.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466381-2013-04-07_00003.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466381-2013-04-07_00003.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/3/35153/2466381-2013-04-07_00003.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/3/35153/2466381-2013-04-07_00003.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/3/35153/2466381-2013-04-07_00003.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466380-2013-04-07_00002.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466380-2013-04-07_00002.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466380-2013-04-07_00002.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466380-2013-04-07_00002.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/3/35153/2466380-2013-04-07_00002.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/3/35153/2466380-2013-04-07_00002.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/3/35153/2466380-2013-04-07_00002.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466379-2013-04-07_00001.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466379-2013-04-07_00001.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/3/35153/2466379-2013-04-07_00001.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/3/35153/2466379-2013-04-07_00001.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/3/35153/2466379-2013-04-07_00001.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/3/35153/2466379-2013-04-07_00001.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/3/35153/2466379-2013-04-07_00001.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455911-screenshot07.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455911-screenshot07.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455911-screenshot07.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455911-screenshot07.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2891/2455911-screenshot07.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2891/2455911-screenshot07.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2891/2455911-screenshot07.jpg",
+      "tags": "All Images, Screenshots, Warframe"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455910-screenshot06.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455910-screenshot06.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455910-screenshot06.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455910-screenshot06.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2891/2455910-screenshot06.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2891/2455910-screenshot06.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2891/2455910-screenshot06.jpg",
+      "tags": "All Images, Screenshots, Warframe"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455909-screenshot05.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455909-screenshot05.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455909-screenshot05.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455909-screenshot05.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2891/2455909-screenshot05.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2891/2455909-screenshot05.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2891/2455909-screenshot05.jpg",
+      "tags": "All Images, Screenshots, Warframe"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455908-screenshot04.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455908-screenshot04.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455908-screenshot04.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455908-screenshot04.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2891/2455908-screenshot04.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2891/2455908-screenshot04.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2891/2455908-screenshot04.jpg",
+      "tags": "All Images, Screenshots, Warframe"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455907-screenshot03.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455907-screenshot03.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455907-screenshot03.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455907-screenshot03.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2891/2455907-screenshot03.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2891/2455907-screenshot03.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2891/2455907-screenshot03.jpg",
+      "tags": "All Images, Screenshots, Warframe"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455906-screenshot02.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455906-screenshot02.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455906-screenshot02.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455906-screenshot02.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2891/2455906-screenshot02.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2891/2455906-screenshot02.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2891/2455906-screenshot02.jpg",
+      "tags": "All Images, Screenshots, Warframe"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455905-screenshot01.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455905-screenshot01.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455905-screenshot01.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455905-screenshot01.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2891/2455905-screenshot01.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2891/2455905-screenshot01.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2891/2455905-screenshot01.jpg",
+      "tags": "All Images, Screenshots, Warframe"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455902-warframe-factiontenno.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455902-warframe-factiontenno.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455902-warframe-factiontenno.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455902-warframe-factiontenno.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2891/2455902-warframe-factiontenno.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2891/2455902-warframe-factiontenno.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2891/2455902-warframe-factiontenno.jpg",
+      "tags": "All Images, Concept Art, Warframe"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455901-warframe-factiongrineer.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455901-warframe-factiongrineer.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455901-warframe-factiongrineer.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455901-warframe-factiongrineer.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2891/2455901-warframe-factiongrineer.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2891/2455901-warframe-factiongrineer.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2891/2455901-warframe-factiongrineer.jpg",
+      "tags": "All Images, Concept Art, Warframe"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455900-warframe-factioncorpus.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455900-warframe-factioncorpus.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455900-warframe-factioncorpus.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455900-warframe-factioncorpus.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2891/2455900-warframe-factioncorpus.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2891/2455900-warframe-factioncorpus.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2891/2455900-warframe-factioncorpus.jpg",
+      "tags": "All Images, Concept Art, Warframe"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455899-warframebanner2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455899-warframebanner2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/2891/2455899-warframebanner2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/2891/2455899-warframebanner2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/2891/2455899-warframebanner2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/2891/2455899-warframebanner2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/2891/2455899-warframebanner2.jpg",
+      "tags": "All Images, Concept Art, Warframe"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6952/",
+      "id": 6952,
+      "name": "I Love Mondays - 01/14/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/i-love-mondays-01142013/2300-6952/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6959/",
+      "id": 6959,
+      "name": "Quick Look: Warframe Beta",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-warframe-beta/2300-6959/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8199/",
+      "id": 8199,
+      "name": "Just a Reminder That Warframe Will Be Available at PS4 Launch",
+      "site_detail_url": "http://www.giantbomb.com/videos/just-a-reminder-that-warframe-will-be-available-at/2300-8199/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8236/",
+      "id": 8236,
+      "name": "PlayStation 4 Launchstravaganza: Part 02",
+      "site_detail_url": "http://www.giantbomb.com/videos/playstation-4-launchstravaganza-part-02/2300-8236/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9826/",
+      "id": 9826,
+      "name": "Quick Look: Warframe",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-warframe/2300-9826/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-1/",
+      "id": 1,
+      "name": "Action",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action&wikiTypeId=3060&wikiId=1&genre=1"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-11/",
+      "id": 11,
+      "name": "Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shooter&wikiTypeId=3060&wikiId=11&genre=11"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127055/",
+      "id": 127055,
+      "name": "Warframe",
+      "site_detail_url": "http://www.giantbomb.com/warframe/3030-38788/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127171/",
+      "id": 127171,
+      "name": "Warframe",
+      "site_detail_url": "http://www.giantbomb.com/warframe/3030-38788/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127172/",
+      "id": 127172,
+      "name": "Warframe",
+      "site_detail_url": "http://www.giantbomb.com/warframe/3030-38788/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-127173/",
+      "id": 127173,
+      "name": "Warframe",
+      "site_detail_url": "http://www.giantbomb.com/warframe/3030-38788/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-129638/",
+      "id": 129638,
+      "name": "Warframe",
+      "site_detail_url": "http://www.giantbomb.com/warframe/3030-38788/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-129639/",
+      "id": 129639,
+      "name": "Warframe",
+      "site_detail_url": "http://www.giantbomb.com/warframe/3030-38788/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-129644/",
+      "id": 129644,
+      "name": "Warframe",
+      "site_detail_url": "http://www.giantbomb.com/warframe/3030-38788/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136873/",
+      "id": 136873,
+      "name": "Warframe",
+      "site_detail_url": "http://www.giantbomb.com/warframe/3030-38788/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136874/",
+      "id": 136874,
+      "name": "Warframe",
+      "site_detail_url": "http://www.giantbomb.com/warframe/3030-38788/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-136875/",
+      "id": 136875,
+      "name": "Warframe",
+      "site_detail_url": "http://www.giantbomb.com/warframe/3030-38788/releases/"
+    }
+  ]
+}

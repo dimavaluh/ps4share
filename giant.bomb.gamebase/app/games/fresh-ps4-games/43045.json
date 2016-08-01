@@ -1,0 +1,92 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-43045/",
+  "deck": "A love letter to J-RPG classics from the Playstation era like Final Fantasy, Breath of Fire, Suikoden, and Persona.",
+  "id": 43045,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2504735-soul%20saga.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2504735-soul%20saga.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2504735-soul%20saga.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2504735-soul%20saga.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2504735-soul%20saga.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2504735-soul%20saga.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2504735-soul%20saga.jpg"
+  },
+  "name": "Soul Saga",
+  "original_release_date": "2014-12-31 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-139/",
+      "id": 139,
+      "name": "Wii U",
+      "site_detail_url": "http://www.giantbomb.com/wii-u/3045-139/",
+      "abbreviation": "WIIU"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/soul-saga/3030-43045/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/165316/2507659-33bab0715e3984d06270dd636db2cf0f_large.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/165316/2507659-33bab0715e3984d06270dd636db2cf0f_large.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/165316/2507659-33bab0715e3984d06270dd636db2cf0f_large.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/165316/2507659-33bab0715e3984d06270dd636db2cf0f_large.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/165316/2507659-33bab0715e3984d06270dd636db2cf0f_large.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/165316/2507659-33bab0715e3984d06270dd636db2cf0f_large.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/165316/2507659-33bab0715e3984d06270dd636db2cf0f_large.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/11/117587/2504735-soul+saga.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/11/117587/2504735-soul+saga.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/11/117587/2504735-soul+saga.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/11/117587/2504735-soul+saga.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/11/117587/2504735-soul+saga.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/11/117587/2504735-soul+saga.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/11/117587/2504735-soul+saga.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    }
+  ]
+}

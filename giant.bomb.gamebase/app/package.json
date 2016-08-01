@@ -9,9 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "arangojs": "^5.0.3",
     "async": "^2.0.1",
     "jsonfile": "*",
     "request": "^2.74.0"
-
   }
 }

@@ -1,0 +1,118 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-51340/",
+  "deck": "The 2016 edition of Koei Tecmo's long running horse racing sim.",
+  "id": 51340,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2858843-1161675797-58665.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2858843-1161675797-58665.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2858843-1161675797-58665.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2858843-1161675797-58665.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2858843-1161675797-58665.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2858843-1161675797-58665.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2858843-1161675797-58665.jpg"
+  },
+  "name": "Winning Post 8 2016",
+  "original_release_date": "2016-02-19 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/winning-post-8-2016/3030-51340/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2858843-1161675797-58665.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2858843-1161675797-58665.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2858843-1161675797-58665.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2858843-1161675797-58665.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2858843-1161675797-58665.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2858843-1161675797-58665.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2858843-1161675797-58665.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2810195-9979789475-WP8-2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2810195-9979789475-WP8-2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2810195-9979789475-WP8-2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2810195-9979789475-WP8-2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2810195-9979789475-WP8-2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2810195-9979789475-WP8-2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2810195-9979789475-WP8-2.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-6/",
+      "id": 6,
+      "name": "Driving/Racing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=drivingracing&wikiTypeId=3060&wikiId=6&genre=6"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147970/",
+      "id": 147970,
+      "name": "Winning Post 8 2016",
+      "site_detail_url": "http://www.giantbomb.com/winning-post-8-2016/3030-51340/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147971/",
+      "id": 147971,
+      "name": "Winning Post 8 2016",
+      "site_detail_url": "http://www.giantbomb.com/winning-post-8-2016/3030-51340/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147972/",
+      "id": 147972,
+      "name": "Winning Post 8 2016",
+      "site_detail_url": "http://www.giantbomb.com/winning-post-8-2016/3030-51340/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147973/",
+      "id": 147973,
+      "name": "Winning Post 8 2016",
+      "site_detail_url": "http://www.giantbomb.com/winning-post-8-2016/3030-51340/releases/"
+    }
+  ]
+}

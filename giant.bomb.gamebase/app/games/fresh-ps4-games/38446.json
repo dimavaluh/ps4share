@@ -1,0 +1,458 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-38446/",
+  "deck": "Divinity: Original Sin is a top-down turn-based RPG developed by Larian Studios. It introduces new elements to the franchise, such as co-op gameplay and decision-making as well as a more interactive world.",
+  "id": 38446,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2219819-divinityosboxart.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2219819-divinityosboxart.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2219819-divinityosboxart.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2219819-divinityosboxart.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2219819-divinityosboxart.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2219819-divinityosboxart.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2219819-divinityosboxart.jpg"
+  },
+  "name": "Divinity: Original Sin",
+  "original_release_date": "2014-06-30 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/divinity-original-sin/3030-38446/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223858-divinityos028.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223858-divinityos028.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223858-divinityos028.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223858-divinityos028.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2223858-divinityos028.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2223858-divinityos028.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2223858-divinityos028.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223857-divinityos027.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223857-divinityos027.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223857-divinityos027.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223857-divinityos027.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2223857-divinityos027.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2223857-divinityos027.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2223857-divinityos027.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223856-divinityos026.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223856-divinityos026.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223856-divinityos026.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223856-divinityos026.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2223856-divinityos026.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2223856-divinityos026.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2223856-divinityos026.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223855-divinityos025.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223855-divinityos025.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223855-divinityos025.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223855-divinityos025.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2223855-divinityos025.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2223855-divinityos025.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2223855-divinityos025.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223854-divinityos024.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223854-divinityos024.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223854-divinityos024.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223854-divinityos024.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2223854-divinityos024.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2223854-divinityos024.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2223854-divinityos024.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223853-divinityos023.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223853-divinityos023.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223853-divinityos023.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223853-divinityos023.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2223853-divinityos023.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2223853-divinityos023.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2223853-divinityos023.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223851-divinityos022.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223851-divinityos022.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223851-divinityos022.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223851-divinityos022.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2223851-divinityos022.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2223851-divinityos022.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2223851-divinityos022.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223850-divinityos021.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223850-divinityos021.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223850-divinityos021.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223850-divinityos021.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2223850-divinityos021.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2223850-divinityos021.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2223850-divinityos021.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223849-divinityos019.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223849-divinityos019.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223849-divinityos019.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223849-divinityos019.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2223849-divinityos019.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2223849-divinityos019.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2223849-divinityos019.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223848-divinityos018.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223848-divinityos018.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223848-divinityos018.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223848-divinityos018.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2223848-divinityos018.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2223848-divinityos018.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2223848-divinityos018.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223847-divinityos017.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223847-divinityos017.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223847-divinityos017.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223847-divinityos017.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2223847-divinityos017.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2223847-divinityos017.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2223847-divinityos017.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223846-divinityos015.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223846-divinityos015.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223846-divinityos015.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223846-divinityos015.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2223846-divinityos015.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2223846-divinityos015.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2223846-divinityos015.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223845-divinityos013.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223845-divinityos013.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223845-divinityos013.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223845-divinityos013.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2223845-divinityos013.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2223845-divinityos013.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2223845-divinityos013.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223844-divinityos012.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223844-divinityos012.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223844-divinityos012.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223844-divinityos012.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2223844-divinityos012.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2223844-divinityos012.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2223844-divinityos012.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223843-divinityos011.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223843-divinityos011.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223843-divinityos011.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223843-divinityos011.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2223843-divinityos011.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2223843-divinityos011.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2223843-divinityos011.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223842-divinityos010.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223842-divinityos010.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223842-divinityos010.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223842-divinityos010.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2223842-divinityos010.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2223842-divinityos010.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2223842-divinityos010.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223841-divinityos009.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223841-divinityos009.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223841-divinityos009.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223841-divinityos009.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2223841-divinityos009.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2223841-divinityos009.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2223841-divinityos009.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223840-divinityos008.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223840-divinityos008.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223840-divinityos008.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223840-divinityos008.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2223840-divinityos008.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2223840-divinityos008.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2223840-divinityos008.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223839-divinityos005.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223839-divinityos005.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223839-divinityos005.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223839-divinityos005.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2223839-divinityos005.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2223839-divinityos005.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2223839-divinityos005.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223838-divinityos004.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223838-divinityos004.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223838-divinityos004.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223838-divinityos004.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2223838-divinityos004.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2223838-divinityos004.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2223838-divinityos004.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223837-divinityos001.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223837-divinityos001.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/13/135472/2223837-divinityos001.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/13/135472/2223837-divinityos001.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/13/135472/2223837-divinityos001.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/13/135472/2223837-divinityos001.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/13/135472/2223837-divinityos001.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/19306/2219819-divinityosboxart.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/19306/2219819-divinityosboxart.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/19306/2219819-divinityosboxart.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/19306/2219819-divinityosboxart.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/19306/2219819-divinityosboxart.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/19306/2219819-divinityosboxart.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/19306/2219819-divinityosboxart.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/19306/2219760-divinityos_8.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/19306/2219760-divinityos_8.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/19306/2219760-divinityos_8.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/19306/2219760-divinityos_8.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/19306/2219760-divinityos_8.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/19306/2219760-divinityos_8.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/19306/2219760-divinityos_8.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/19306/2219759-divinityos_7.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/19306/2219759-divinityos_7.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/19306/2219759-divinityos_7.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/19306/2219759-divinityos_7.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/19306/2219759-divinityos_7.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/19306/2219759-divinityos_7.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/19306/2219759-divinityos_7.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/19306/2219758-divinityos_6.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/19306/2219758-divinityos_6.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/19306/2219758-divinityos_6.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/19306/2219758-divinityos_6.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/19306/2219758-divinityos_6.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/19306/2219758-divinityos_6.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/19306/2219758-divinityos_6.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/19306/2219757-divinityos_5.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/19306/2219757-divinityos_5.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/19306/2219757-divinityos_5.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/19306/2219757-divinityos_5.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/19306/2219757-divinityos_5.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/19306/2219757-divinityos_5.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/19306/2219757-divinityos_5.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/19306/2219743-divinityos_4.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/19306/2219743-divinityos_4.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/19306/2219743-divinityos_4.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/19306/2219743-divinityos_4.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/19306/2219743-divinityos_4.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/19306/2219743-divinityos_4.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/19306/2219743-divinityos_4.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/19306/2219742-divinityos_3.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/19306/2219742-divinityos_3.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/19306/2219742-divinityos_3.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/19306/2219742-divinityos_3.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/19306/2219742-divinityos_3.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/19306/2219742-divinityos_3.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/19306/2219742-divinityos_3.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/19306/2219741-divinityos_2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/19306/2219741-divinityos_2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/19306/2219741-divinityos_2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/19306/2219741-divinityos_2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/19306/2219741-divinityos_2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/19306/2219741-divinityos_2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/19306/2219741-divinityos_2.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/1/19306/2219740-divinityos_1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/1/19306/2219740-divinityos_1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/1/19306/2219740-divinityos_1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/1/19306/2219740-divinityos_1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/1/19306/2219740-divinityos_1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/1/19306/2219740-divinityos_1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/1/19306/2219740-divinityos_1.jpg",
+      "tags": "All Images, Screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6215/",
+      "id": 6215,
+      "name": "E3 2012: Go Inside Larian Studios for a Look at Divinity: Original Sin",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2012-go-inside-larian-studios-for-a-look-at-div/2300-6215/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9172/",
+      "id": 9172,
+      "name": "Unprofessional Fridays: 06/27/14",
+      "site_detail_url": "http://www.giantbomb.com/videos/unprofessional-fridays-06-27-14/2300-9172/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9203/",
+      "id": 9203,
+      "name": "Quick Look: Divinity: Original Sin",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-divinity-original-sin/2300-9203/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9216/",
+      "id": 9216,
+      "name": "Bombin' the A.M. With Danielle Riendeau: 07/14/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-danielle-riendeau-07-14-2014/2300-9216/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9237/",
+      "id": 9237,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 07/18/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-07-18-2014/2300-9237/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9245/",
+      "id": 9245,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 07/21/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-07-21-2014/2300-9245/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9355/",
+      "id": 9355,
+      "name": "Bombin' the A.M. With Alexa Ray Corriea: 08/18/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-alexa-ray-corriea-08-18-2014/2300-9355/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9379/",
+      "id": 9379,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 08/22/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-08-22-2014/2300-9379/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134148/",
+      "id": 134148,
+      "name": "Divinity: Original Sin",
+      "site_detail_url": "http://www.giantbomb.com/divinity-original-sin/3030-38446/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135819/",
+      "id": 135819,
+      "name": "Divinity: Original Sin",
+      "site_detail_url": "http://www.giantbomb.com/divinity-original-sin/3030-38446/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141788/",
+      "id": 141788,
+      "name": "Divinity Original Sin: Enhanced Edition",
+      "site_detail_url": "http://www.giantbomb.com/divinity-original-sin/3030-38446/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144058/",
+      "id": 144058,
+      "name": "Divinity Original Sin: Enhanced Edition",
+      "site_detail_url": "http://www.giantbomb.com/divinity-original-sin/3030-38446/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144059/",
+      "id": 144059,
+      "name": "Divinity Original Sin: Enhanced Edition",
+      "site_detail_url": "http://www.giantbomb.com/divinity-original-sin/3030-38446/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144060/",
+      "id": 144060,
+      "name": "Divinity Original Sin: Enhanced Edition",
+      "site_detail_url": "http://www.giantbomb.com/divinity-original-sin/3030-38446/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144061/",
+      "id": 144061,
+      "name": "Divinity Original Sin:  Enhanced Edition",
+      "site_detail_url": "http://www.giantbomb.com/divinity-original-sin/3030-38446/releases/"
+    }
+  ]
+}

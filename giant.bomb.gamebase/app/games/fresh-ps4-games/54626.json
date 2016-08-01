@@ -1,0 +1,60 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-54626/",
+  "deck": "Last Wings is a 2D air combat game. Developed by by Vertice Games.",
+  "id": 54626,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2869319-6292109555-image",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2869319-6292109555-image",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2869319-6292109555-image",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2869319-6292109555-image",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2869319-6292109555-image",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2869319-6292109555-image",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2869319-6292109555-image"
+  },
+  "name": "Last Wings",
+  "original_release_date": "2016-07-12 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/last-wings/3030-54626/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/11/118833/2869319-6292109555-image",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/11/118833/2869319-6292109555-image",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/11/118833/2869319-6292109555-image",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/11/118833/2869319-6292109555-image",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/11/118833/2869319-6292109555-image",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/11/118833/2869319-6292109555-image",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/11/118833/2869319-6292109555-image",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148554/",
+      "id": 148554,
+      "name": "Last Wings",
+      "site_detail_url": "http://www.giantbomb.com/last-wings/3030-54626/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-148555/",
+      "id": 148555,
+      "name": "Last Wings",
+      "site_detail_url": "http://www.giantbomb.com/last-wings/3030-54626/releases/"
+    }
+  ]
+}

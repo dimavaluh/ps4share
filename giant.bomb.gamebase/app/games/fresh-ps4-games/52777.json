@@ -1,0 +1,68 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-52777/",
+  "deck": "Shadwen is a stealth-action game developed by Frozenbyte (creators of the Trine franchise).",
+  "id": 52777,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2852265-1117950712-image",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2852265-1117950712-image",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2852265-1117950712-image",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2852265-1117950712-image",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2852265-1117950712-image",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2852265-1117950712-image",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2852265-1117950712-image"
+  },
+  "name": "Shadwen",
+  "original_release_date": "2016-05-17 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/shadwen/3030-52777/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/9536/2852265-1117950712-image",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/9536/2852265-1117950712-image",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/9536/2852265-1117950712-image",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/9536/2852265-1117950712-image",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/9536/2852265-1117950712-image",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/9536/2852265-1117950712-image",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/9536/2852265-1117950712-image",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147560/",
+      "id": 147560,
+      "name": "Shadwen",
+      "site_detail_url": "http://www.giantbomb.com/shadwen/3030-52777/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-147656/",
+      "id": 147656,
+      "name": "Shadwen",
+      "site_detail_url": "http://www.giantbomb.com/shadwen/3030-52777/releases/"
+    }
+  ]
+}

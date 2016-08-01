@@ -1,0 +1,576 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-41484/",
+  "deck": "CD Projekt RED's third Witcher combines the series' non-linear storytelling with a sprawling open world that concludes the saga of Geralt of Rivia.",
+  "id": 41484,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2698809-the%20witcher%203%20-%20wild%20hunt%20v7.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2698809-the%20witcher%203%20-%20wild%20hunt%20v7.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2698809-the%20witcher%203%20-%20wild%20hunt%20v7.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2698809-the%20witcher%203%20-%20wild%20hunt%20v7.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2698809-the%20witcher%203%20-%20wild%20hunt%20v7.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2698809-the%20witcher%203%20-%20wild%20hunt%20v7.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2698809-the%20witcher%203%20-%20wild%20hunt%20v7.jpg"
+  },
+  "name": "The Witcher 3: Wild Hunt",
+  "original_release_date": "2015-05-19 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/the-witcher-3-wild-hunt/3030-41484/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861962-the+witcher+3+04.23.2016+-+15.05.18.03.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861962-the+witcher+3+04.23.2016+-+15.05.18.03.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861962-the+witcher+3+04.23.2016+-+15.05.18.03.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861962-the+witcher+3+04.23.2016+-+15.05.18.03.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/8169/2861962-the+witcher+3+04.23.2016+-+15.05.18.03.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/8169/2861962-the+witcher+3+04.23.2016+-+15.05.18.03.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/8169/2861962-the+witcher+3+04.23.2016+-+15.05.18.03.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861954-the+witcher+3+06.04.2016+-+09.25.38.09.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861954-the+witcher+3+06.04.2016+-+09.25.38.09.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861954-the+witcher+3+06.04.2016+-+09.25.38.09.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861954-the+witcher+3+06.04.2016+-+09.25.38.09.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/8169/2861954-the+witcher+3+06.04.2016+-+09.25.38.09.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/8169/2861954-the+witcher+3+06.04.2016+-+09.25.38.09.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/8169/2861954-the+witcher+3+06.04.2016+-+09.25.38.09.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861952-the+witcher+3+06.05.2016+-+18.54.52.02.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861952-the+witcher+3+06.05.2016+-+18.54.52.02.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861952-the+witcher+3+06.05.2016+-+18.54.52.02.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861952-the+witcher+3+06.05.2016+-+18.54.52.02.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/8169/2861952-the+witcher+3+06.05.2016+-+18.54.52.02.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/8169/2861952-the+witcher+3+06.05.2016+-+18.54.52.02.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/8169/2861952-the+witcher+3+06.05.2016+-+18.54.52.02.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861949-the+witcher+3+06.12.2016+-+08.22.27.02.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861949-the+witcher+3+06.12.2016+-+08.22.27.02.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861949-the+witcher+3+06.12.2016+-+08.22.27.02.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861949-the+witcher+3+06.12.2016+-+08.22.27.02.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/8169/2861949-the+witcher+3+06.12.2016+-+08.22.27.02.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/8169/2861949-the+witcher+3+06.12.2016+-+08.22.27.02.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/8169/2861949-the+witcher+3+06.12.2016+-+08.22.27.02.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861948-the+witcher+3+06.12.2016+-+08.25.34.05.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861948-the+witcher+3+06.12.2016+-+08.25.34.05.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861948-the+witcher+3+06.12.2016+-+08.25.34.05.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861948-the+witcher+3+06.12.2016+-+08.25.34.05.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/8169/2861948-the+witcher+3+06.12.2016+-+08.25.34.05.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/8169/2861948-the+witcher+3+06.12.2016+-+08.25.34.05.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/8169/2861948-the+witcher+3+06.12.2016+-+08.25.34.05.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861946-the+witcher+3+06.12.2016+-+11.58.18.10.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861946-the+witcher+3+06.12.2016+-+11.58.18.10.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861946-the+witcher+3+06.12.2016+-+11.58.18.10.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861946-the+witcher+3+06.12.2016+-+11.58.18.10.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/8169/2861946-the+witcher+3+06.12.2016+-+11.58.18.10.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/8169/2861946-the+witcher+3+06.12.2016+-+11.58.18.10.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/8169/2861946-the+witcher+3+06.12.2016+-+11.58.18.10.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861945-the+witcher+3+06.12.2016+-+20.24.28.01.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861945-the+witcher+3+06.12.2016+-+20.24.28.01.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861945-the+witcher+3+06.12.2016+-+20.24.28.01.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861945-the+witcher+3+06.12.2016+-+20.24.28.01.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/8169/2861945-the+witcher+3+06.12.2016+-+20.24.28.01.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/8169/2861945-the+witcher+3+06.12.2016+-+20.24.28.01.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/8169/2861945-the+witcher+3+06.12.2016+-+20.24.28.01.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861943-the+witcher+3+06.12.2016+-+20.46.38.09.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861943-the+witcher+3+06.12.2016+-+20.46.38.09.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861943-the+witcher+3+06.12.2016+-+20.46.38.09.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861943-the+witcher+3+06.12.2016+-+20.46.38.09.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/8169/2861943-the+witcher+3+06.12.2016+-+20.46.38.09.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/8169/2861943-the+witcher+3+06.12.2016+-+20.46.38.09.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/8169/2861943-the+witcher+3+06.12.2016+-+20.46.38.09.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861942-the+witcher+3+06.14.2016+-+08.44.08.08.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861942-the+witcher+3+06.14.2016+-+08.44.08.08.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861942-the+witcher+3+06.14.2016+-+08.44.08.08.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861942-the+witcher+3+06.14.2016+-+08.44.08.08.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/8169/2861942-the+witcher+3+06.14.2016+-+08.44.08.08.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/8169/2861942-the+witcher+3+06.14.2016+-+08.44.08.08.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/8169/2861942-the+witcher+3+06.14.2016+-+08.44.08.08.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861941-the+witcher+3+06.14.2016+-+08.44.39.09.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861941-the+witcher+3+06.14.2016+-+08.44.39.09.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861941-the+witcher+3+06.14.2016+-+08.44.39.09.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861941-the+witcher+3+06.14.2016+-+08.44.39.09.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/8169/2861941-the+witcher+3+06.14.2016+-+08.44.39.09.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/8169/2861941-the+witcher+3+06.14.2016+-+08.44.39.09.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/8169/2861941-the+witcher+3+06.14.2016+-+08.44.39.09.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861940-the+witcher+3+06.14.2016+-+08.45.20.10.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861940-the+witcher+3+06.14.2016+-+08.45.20.10.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861940-the+witcher+3+06.14.2016+-+08.45.20.10.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861940-the+witcher+3+06.14.2016+-+08.45.20.10.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/8169/2861940-the+witcher+3+06.14.2016+-+08.45.20.10.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/8169/2861940-the+witcher+3+06.14.2016+-+08.45.20.10.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/8169/2861940-the+witcher+3+06.14.2016+-+08.45.20.10.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861939-the+witcher+3+06.14.2016+-+08.46.07.11.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861939-the+witcher+3+06.14.2016+-+08.46.07.11.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861939-the+witcher+3+06.14.2016+-+08.46.07.11.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861939-the+witcher+3+06.14.2016+-+08.46.07.11.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/8169/2861939-the+witcher+3+06.14.2016+-+08.46.07.11.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/8169/2861939-the+witcher+3+06.14.2016+-+08.46.07.11.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/8169/2861939-the+witcher+3+06.14.2016+-+08.46.07.11.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861927-the+witcher+3+06.14.2016+-+08.51.07.15.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861927-the+witcher+3+06.14.2016+-+08.51.07.15.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861927-the+witcher+3+06.14.2016+-+08.51.07.15.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861927-the+witcher+3+06.14.2016+-+08.51.07.15.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/8169/2861927-the+witcher+3+06.14.2016+-+08.51.07.15.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/8169/2861927-the+witcher+3+06.14.2016+-+08.51.07.15.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/8169/2861927-the+witcher+3+06.14.2016+-+08.51.07.15.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861918-the+witcher+3+06.14.2016+-+09.00.22.23.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861918-the+witcher+3+06.14.2016+-+09.00.22.23.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/8169/2861918-the+witcher+3+06.14.2016+-+09.00.22.23.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/8169/2861918-the+witcher+3+06.14.2016+-+09.00.22.23.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/8169/2861918-the+witcher+3+06.14.2016+-+09.00.22.23.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/8169/2861918-the+witcher+3+06.14.2016+-+09.00.22.23.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/8169/2861918-the+witcher+3+06.14.2016+-+09.00.22.23.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847900-dsc00353.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847900-dsc00353.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847900-dsc00353.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847900-dsc00353.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2847900-dsc00353.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2847900-dsc00353.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2847900-dsc00353.jpg",
+      "tags": "All Images, BCEC, PAX East 2016"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847898-dsc00351.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847898-dsc00351.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847898-dsc00351.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847898-dsc00351.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2847898-dsc00351.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2847898-dsc00351.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2847898-dsc00351.jpg",
+      "tags": "All Images, BCEC, PAX East 2016"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847859-dsc00339.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847859-dsc00339.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2847859-dsc00339.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2847859-dsc00339.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2847859-dsc00339.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2847859-dsc00339.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2847859-dsc00339.jpg",
+      "tags": "All Images, BCEC, PAX East 2016"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845253-the+skellige+isles_5.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845253-the+skellige+isles_5.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845253-the+skellige+isles_5.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845253-the+skellige+isles_5.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2845253-the+skellige+isles_5.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2845253-the+skellige+isles_5.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2845253-the+skellige+isles_5.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845252-the+skellige+isles_5.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845252-the+skellige+isles_5.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845252-the+skellige+isles_5.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845252-the+skellige+isles_5.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2845252-the+skellige+isles_5.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2845252-the+skellige+isles_5.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2845252-the+skellige+isles_5.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845251-the+skellige+isles_4.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845251-the+skellige+isles_4.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845251-the+skellige+isles_4.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845251-the+skellige+isles_4.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2845251-the+skellige+isles_4.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2845251-the+skellige+isles_4.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2845251-the+skellige+isles_4.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845250-the+skellige+isles_3.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845250-the+skellige+isles_3.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845250-the+skellige+isles_3.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845250-the+skellige+isles_3.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2845250-the+skellige+isles_3.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2845250-the+skellige+isles_3.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2845250-the+skellige+isles_3.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845249-the+skellige+isles_3.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845249-the+skellige+isles_3.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845249-the+skellige+isles_3.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845249-the+skellige+isles_3.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2845249-the+skellige+isles_3.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2845249-the+skellige+isles_3.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2845249-the+skellige+isles_3.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845248-the+skellige+isles_2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845248-the+skellige+isles_2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845248-the+skellige+isles_2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845248-the+skellige+isles_2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2845248-the+skellige+isles_2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2845248-the+skellige+isles_2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2845248-the+skellige+isles_2.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845247-the+skellige+isles_2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845247-the+skellige+isles_2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845247-the+skellige+isles_2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845247-the+skellige+isles_2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2845247-the+skellige+isles_2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2845247-the+skellige+isles_2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2845247-the+skellige+isles_2.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845246-the+skellige+isles_1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845246-the+skellige+isles_1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845246-the+skellige+isles_1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845246-the+skellige+isles_1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2845246-the+skellige+isles_1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2845246-the+skellige+isles_1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2845246-the+skellige+isles_1.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845245-the+skellige+isles_1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845245-the+skellige+isles_1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845245-the+skellige+isles_1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845245-the+skellige+isles_1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2845245-the+skellige+isles_1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2845245-the+skellige+isles_1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2845245-the+skellige+isles_1.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845244-the+skellige+isles.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845244-the+skellige+isles.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845244-the+skellige+isles.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845244-the+skellige+isles.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2845244-the+skellige+isles.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2845244-the+skellige+isles.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2845244-the+skellige+isles.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845243-the+bits_1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845243-the+bits_1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845243-the+bits_1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845243-the+bits_1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2845243-the+bits_1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2845243-the+bits_1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2845243-the+bits_1.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845242-the+bits.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845242-the+bits.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845242-the+bits.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845242-the+bits.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2845242-the+bits.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2845242-the+bits.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2845242-the+bits.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845241-the+bits.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845241-the+bits.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/85316/2845241-the+bits.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/85316/2845241-the+bits.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/85316/2845241-the+bits.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/85316/2845241-the+bits.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/85316/2845241-the+bits.jpg",
+      "tags": "All Images, PS4 Screenshots"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7012/",
+      "id": 7012,
+      "name": "The Witcher 3 Exists",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-witcher-3-exists/2300-7012/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7481/",
+      "id": 7481,
+      "name": "E3 2013: Witcher 3 is the Last Part of The Legend",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2013-witcher-3-is-the-last-part-of-the-legend/2300-7481/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8287/",
+      "id": 8287,
+      "name": "Some Bad Business Is Going Down in The Witcher 3: Wild Hunt",
+      "site_detail_url": "http://www.giantbomb.com/videos/some-bad-business-is-going-down-in-the-witcher-3-w/2300-8287/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8964/",
+      "id": 8964,
+      "name": "The Witcher 3 Looking Completely Worth the Wait",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-witcher-3-looking-completely-worth-the-wait/2300-8964/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8968/",
+      "id": 8968,
+      "name": "Bombin' the A.M. With Scoops and the Wolf: 06/06/2014",
+      "site_detail_url": "http://www.giantbomb.com/videos/bombin-the-a-m-with-scoops-and-the-wolf-06-06-2014/2300-8968/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-8986/",
+      "id": 8986,
+      "name": "E3 2014: Griffins Get Got in The Witcher 3",
+      "site_detail_url": "http://www.giantbomb.com/videos/e3-2014-griffins-get-got-in-the-witcher-3/2300-8986/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9361/",
+      "id": 9361,
+      "name": "Aaaaaaand Here's 35 Minutes of The Witcher 3",
+      "site_detail_url": "http://www.giantbomb.com/videos/aaaaaaand-heres-35-minutes-of-the-witcher-3/2300-9361/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-9497/",
+      "id": 9497,
+      "name": "Witcher 3's Open World Looks So Good",
+      "site_detail_url": "http://www.giantbomb.com/videos/witcher-3s-open-world-looks-so-good/2300-9497/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10096/",
+      "id": 10096,
+      "name": "Here's Five Minutes of The Witcher 3: Wild Hunt in Action",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-five-minutes-of-the-witcher-3-wild-hunt-in-/2300-10096/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10128/",
+      "id": 10128,
+      "name": "Here's Charles Dance Talking About His Role in The Witcher 3",
+      "site_detail_url": "http://www.giantbomb.com/videos/here-s-charles-dance-talking-about-his-role-in-the/2300-10128/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10172/",
+      "id": 10172,
+      "name": "Witcher 3 Murderin' Spree",
+      "site_detail_url": "http://www.giantbomb.com/videos/witcher-3-murderin-spree/2300-10172/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10194/",
+      "id": 10194,
+      "name": "GBE Playdate: The Witcher 3: Wild Hunt",
+      "site_detail_url": "http://www.giantbomb.com/videos/gbe-playdate-the-witcher-3-wild-hunt/2300-10194/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10199/",
+      "id": 10199,
+      "name": "Quick Look: The Witcher 3: Wild Hunt",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-the-witcher-3-wild-hunt/2300-10199/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10662/",
+      "id": 10662,
+      "name": "'Hearts of Stone' Is The Witcher 3's First Expansion",
+      "site_detail_url": "http://www.giantbomb.com/videos/hearts-of-stone-is-the-witcher-3s-first-expansion/2300-10662/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10856/",
+      "id": 10856,
+      "name": "Extra Life 2015 - Drew & Alexis: Part 05",
+      "site_detail_url": "http://www.giantbomb.com/videos/extra-life-2015-drew-and-alexis-part-05/2300-10856/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-10865/",
+      "id": 10865,
+      "name": "Extra Life 2015 - Vinny's Basement: Part 03",
+      "site_detail_url": "http://www.giantbomb.com/videos/extra-life-2015-vinnys-basement-part-03/2300-10865/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11124/",
+      "id": 11124,
+      "name": "GBE Megadate (04/15/2016)",
+      "site_detail_url": "http://www.giantbomb.com/videos/gbe-megadate-04152016/2300-11124/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-11206/",
+      "id": 11206,
+      "name": "The Witcher 3: Blood and Vin[o]",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-witcher-3-blood-and-vino/2300-11206/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-43/",
+      "id": 43,
+      "name": "Action-Adventure",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=action-adventure&wikiTypeId=3060&wikiId=43&genre=43"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135013/",
+      "id": 135013,
+      "name": "The Witcher 3: Wild Hunt",
+      "site_detail_url": "http://www.giantbomb.com/the-witcher-3-wild-hunt/3030-41484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135014/",
+      "id": 135014,
+      "name": "The Witcher 3: Wild Hunt",
+      "site_detail_url": "http://www.giantbomb.com/the-witcher-3-wild-hunt/3030-41484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135015/",
+      "id": 135015,
+      "name": "The Witcher 3: Wild Hunt",
+      "site_detail_url": "http://www.giantbomb.com/the-witcher-3-wild-hunt/3030-41484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135227/",
+      "id": 135227,
+      "name": "The Witcher 3: Wild Hunt",
+      "site_detail_url": "http://www.giantbomb.com/the-witcher-3-wild-hunt/3030-41484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135228/",
+      "id": 135228,
+      "name": "The Witcher 3: Wild Hunt",
+      "site_detail_url": "http://www.giantbomb.com/the-witcher-3-wild-hunt/3030-41484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-135229/",
+      "id": 135229,
+      "name": "The Witcher 3: Wild Hunt",
+      "site_detail_url": "http://www.giantbomb.com/the-witcher-3-wild-hunt/3030-41484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137951/",
+      "id": 137951,
+      "name": "The Witcher 3: Wild Hunt Collector's Edition",
+      "site_detail_url": "http://www.giantbomb.com/the-witcher-3-wild-hunt/3030-41484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137952/",
+      "id": 137952,
+      "name": "The Witcher 3: Wild Hunt Collector's Edition",
+      "site_detail_url": "http://www.giantbomb.com/the-witcher-3-wild-hunt/3030-41484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137953/",
+      "id": 137953,
+      "name": "The Witcher 3: Wild Hunt Collector's Edition",
+      "site_detail_url": "http://www.giantbomb.com/the-witcher-3-wild-hunt/3030-41484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137954/",
+      "id": 137954,
+      "name": "The Witcher 3: Wild Hunt Collector's Edition",
+      "site_detail_url": "http://www.giantbomb.com/the-witcher-3-wild-hunt/3030-41484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137955/",
+      "id": 137955,
+      "name": "The Witcher 3: Wild Hunt Collector's Edition",
+      "site_detail_url": "http://www.giantbomb.com/the-witcher-3-wild-hunt/3030-41484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137956/",
+      "id": 137956,
+      "name": "The Witcher 3: Wild Hunt Collector's Edition",
+      "site_detail_url": "http://www.giantbomb.com/the-witcher-3-wild-hunt/3030-41484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137957/",
+      "id": 137957,
+      "name": "The Witcher 3: Wild Hunt Collector's Edition",
+      "site_detail_url": "http://www.giantbomb.com/the-witcher-3-wild-hunt/3030-41484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137958/",
+      "id": 137958,
+      "name": "The Witcher 3: Wild Hunt Collector's Edition",
+      "site_detail_url": "http://www.giantbomb.com/the-witcher-3-wild-hunt/3030-41484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137959/",
+      "id": 137959,
+      "name": "The Witcher 3: Wild Hunt Collector's Edition",
+      "site_detail_url": "http://www.giantbomb.com/the-witcher-3-wild-hunt/3030-41484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137960/",
+      "id": 137960,
+      "name": "The Witcher 3: Wild Hunt",
+      "site_detail_url": "http://www.giantbomb.com/the-witcher-3-wild-hunt/3030-41484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137961/",
+      "id": 137961,
+      "name": "The Witcher 3: Wild Hunt",
+      "site_detail_url": "http://www.giantbomb.com/the-witcher-3-wild-hunt/3030-41484/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-137962/",
+      "id": 137962,
+      "name": "The Witcher 3: Wild Hunt",
+      "site_detail_url": "http://www.giantbomb.com/the-witcher-3-wild-hunt/3030-41484/releases/"
+    }
+  ]
+}

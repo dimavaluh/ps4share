@@ -1,0 +1,87 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-41785/",
+  "deck": "A sequel to the first Blood Bowl. A game based on the Games Workshop table top mini figures game of the same name that pits fantasy races from the Warhammer universe against one another in turn-based American football.",
+  "id": 41785,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2443780-bb2.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2443780-bb2.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2443780-bb2.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2443780-bb2.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2443780-bb2.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2443780-bb2.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2443780-bb2.jpg"
+  },
+  "name": "Blood Bowl 2",
+  "original_release_date": "2015-09-22 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/blood-bowl-2/3030-41785/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/19/196019/2791942-9142014366-ss_02.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/19/196019/2791942-9142014366-ss_02.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/19/196019/2791942-9142014366-ss_02.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/19/196019/2791942-9142014366-ss_02.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/19/196019/2791942-9142014366-ss_02.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/19/196019/2791942-9142014366-ss_02.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/19/196019/2791942-9142014366-ss_02.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-2/",
+      "id": 2,
+      "name": "Strategy",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=strategy&wikiTypeId=3060&wikiId=2&genre=2"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-5/",
+      "id": 5,
+      "name": "Role-Playing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=role-playing&wikiTypeId=3060&wikiId=5&genre=5"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-21/",
+      "id": 21,
+      "name": "Football",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=football&wikiTypeId=3060&wikiId=21&genre=21"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143716/",
+      "id": 143716,
+      "name": "Blood Bowl II",
+      "site_detail_url": "http://www.giantbomb.com/blood-bowl-2/3030-41785/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145683/",
+      "id": 145683,
+      "name": "Blood Bowl 2 (US)",
+      "site_detail_url": "http://www.giantbomb.com/blood-bowl-2/3030-41785/releases/"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-50442/",
+  "deck": "BigBen and HB Studios adds the official Rugby World Cup license to their 2015 Rugby game.",
+  "id": 50442,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2786850-3095301717-heade.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2786850-3095301717-heade.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2786850-3095301717-heade.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2786850-3095301717-heade.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2786850-3095301717-heade.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2786850-3095301717-heade.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2786850-3095301717-heade.jpg"
+  },
+  "name": "Rugby World Cup 2015",
+  "original_release_date": "2015-09-04 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/rugby-world-cup-2015/3030-50442/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2786850-3095301717-heade.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2786850-3095301717-heade.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/16/164924/2786850-3095301717-heade.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/16/164924/2786850-3095301717-heade.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/16/164924/2786850-3095301717-heade.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/16/164924/2786850-3095301717-heade.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/16/164924/2786850-3095301717-heade.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-3/",
+      "id": 3,
+      "name": "Sports",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=sports&wikiTypeId=3060&wikiId=3&genre=3"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143351/",
+      "id": 143351,
+      "name": "Rugby World Cup 2015",
+      "site_detail_url": "http://www.giantbomb.com/rugby-world-cup-2015/3030-50442/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-143352/",
+      "id": 143352,
+      "name": "Rugby World Cup 2015",
+      "site_detail_url": "http://www.giantbomb.com/rugby-world-cup-2015/3030-50442/releases/"
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-31582/",
+  "deck": "A turn-based tactics game developed using XNA tools for Windows, XBLA, Windows Phone, and the new Microsoft Surface tablet involving ghost samurai battling it out in feudal Japan.",
+  "id": 31582,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2232816-box_sots.png",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2232816-box_sots.png",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2232816-box_sots.png",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2232816-box_sots.png",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2232816-box_sots.png",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2232816-box_sots.png",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2232816-box_sots.png"
+  },
+  "name": "Skulls of the Shogun",
+  "original_release_date": "2013-01-30 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-17/",
+      "id": 17,
+      "name": "Mac",
+      "site_detail_url": "http://www.giantbomb.com/mac/3045-17/",
+      "abbreviation": "MAC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-86/",
+      "id": 86,
+      "name": "Xbox 360 Games Store",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360-games-store/3045-86/",
+      "abbreviation": "XBGS"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-121/",
+      "id": 121,
+      "name": "iPad",
+      "site_detail_url": "http://www.giantbomb.com/ipad/3045-121/",
+      "abbreviation": "IPAD"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-123/",
+      "id": 123,
+      "name": "Android",
+      "site_detail_url": "http://www.giantbomb.com/android/3045-123/",
+      "abbreviation": "ANDR"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-124/",
+      "id": 124,
+      "name": "Windows Phone",
+      "site_detail_url": "http://www.giantbomb.com/windows-phone/3045-124/",
+      "abbreviation": "WP"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-152/",
+      "id": 152,
+      "name": "Linux",
+      "site_detail_url": "http://www.giantbomb.com/linux/3045-152/",
+      "abbreviation": "LIN"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/skulls-of-the-shogun/3030-31582/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2481908-w8_sots.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2481908-w8_sots.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/8/87790/2481908-w8_sots.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/8/87790/2481908-w8_sots.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/8/87790/2481908-w8_sots.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/8/87790/2481908-w8_sots.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/8/87790/2481908-w8_sots.png",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310066-17bit03.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310066-17bit03.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310066-17bit03.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310066-17bit03.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2310066-17bit03.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2310066-17bit03.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2310066-17bit03.jpg",
+      "tags": "All Images, Indie Mega Booth, PAX Prime 2012 Booth, PAX Prime 2012"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310065-17bit02.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310065-17bit02.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310065-17bit02.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310065-17bit02.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2310065-17bit02.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2310065-17bit02.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2310065-17bit02.jpg",
+      "tags": "All Images, Indie Mega Booth, PAX Prime 2012 Booth, PAX Prime 2012"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310064-17bit01.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310064-17bit01.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/0/1992/2310064-17bit01.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/0/1992/2310064-17bit01.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/0/1992/2310064-17bit01.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/0/1992/2310064-17bit01.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/0/1992/2310064-17bit01.jpg",
+      "tags": "All Images, Indie Mega Booth, PAX Prime 2012 Booth, PAX Prime 2012"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277971-skulls_of_the_shogun_box_art.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277971-skulls_of_the_shogun_box_art.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277971-skulls_of_the_shogun_box_art.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277971-skulls_of_the_shogun_box_art.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277971-skulls_of_the_shogun_box_art.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277971-skulls_of_the_shogun_box_art.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277971-skulls_of_the_shogun_box_art.jpg",
+      "tags": "All Images, Box Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277970-10.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277970-10.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277970-10.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277970-10.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277970-10.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277970-10.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277970-10.jpg",
+      "tags": "All Images, Game Overview"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277969-9.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277969-9.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277969-9.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277969-9.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277969-9.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277969-9.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277969-9.jpg",
+      "tags": "All Images, Game Overview"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277968-8.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277968-8.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277968-8.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277968-8.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277968-8.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277968-8.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277968-8.jpg",
+      "tags": "All Images, Game Overview"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277967-7.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277967-7.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277967-7.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277967-7.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277967-7.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277967-7.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277967-7.jpg",
+      "tags": "All Images, Game Overview"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277965-6.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277965-6.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277965-6.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277965-6.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277965-6.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277965-6.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277965-6.jpg",
+      "tags": "All Images, Game Overview"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277963-5.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277963-5.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277963-5.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277963-5.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277963-5.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277963-5.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277963-5.jpg",
+      "tags": "All Images, Game Overview"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277962-4.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277962-4.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277962-4.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277962-4.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277962-4.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277962-4.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277962-4.jpg",
+      "tags": "All Images, Game Overview"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277961-3.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277961-3.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277961-3.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277961-3.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277961-3.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277961-3.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277961-3.jpg",
+      "tags": "All Images, Game Overview"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277960-2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277960-2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277960-2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277960-2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277960-2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277960-2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277960-2.jpg",
+      "tags": "All Images, Game Overview"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277959-1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277959-1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277959-1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277959-1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277959-1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277959-1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277959-1.jpg",
+      "tags": "All Images, Game Overview"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277958-sots_on_ms_surface.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277958-sots_on_ms_surface.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277958-sots_on_ms_surface.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277958-sots_on_ms_surface.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277958-sots_on_ms_surface.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277958-sots_on_ms_surface.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277958-sots_on_ms_surface.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277957-multiplatform_illustration.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277957-multiplatform_illustration.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277957-multiplatform_illustration.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277957-multiplatform_illustration.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277957-multiplatform_illustration.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277957-multiplatform_illustration.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277957-multiplatform_illustration.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277956-mockup_cd_cover.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277956-mockup_cd_cover.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277956-mockup_cd_cover.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277956-mockup_cd_cover.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277956-mockup_cd_cover.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277956-mockup_cd_cover.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277956-mockup_cd_cover.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277955-flyer_inside.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277955-flyer_inside.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277955-flyer_inside.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277955-flyer_inside.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277955-flyer_inside.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277955-flyer_inside.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277955-flyer_inside.jpg",
+      "tags": "All Images"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277954-sots_13.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277954-sots_13.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277954-sots_13.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277954-sots_13.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277954-sots_13.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277954-sots_13.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277954-sots_13.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277953-sots_12.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277953-sots_12.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277953-sots_12.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277953-sots_12.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277953-sots_12.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277953-sots_12.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277953-sots_12.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277952-sots_11.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277952-sots_11.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277952-sots_11.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277952-sots_11.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277952-sots_11.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277952-sots_11.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277952-sots_11.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277951-sots_9.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277951-sots_9.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277951-sots_9.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277951-sots_9.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277951-sots_9.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277951-sots_9.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277951-sots_9.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277950-sots_6.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277950-sots_6.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277950-sots_6.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277950-sots_6.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277950-sots_6.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277950-sots_6.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277950-sots_6.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277949-sots_4.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277949-sots_4.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277949-sots_4.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277949-sots_4.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277949-sots_4.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277949-sots_4.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277949-sots_4.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277948-sots_3.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277948-sots_3.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277948-sots_3.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277948-sots_3.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277948-sots_3.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277948-sots_3.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277948-sots_3.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277947-sots_2.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277947-sots_2.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277947-sots_2.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277947-sots_2.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277947-sots_2.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277947-sots_2.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277947-sots_2.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277946-sots_1.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277946-sots_1.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277946-sots_1.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277946-sots_1.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277946-sots_1.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277946-sots_1.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277946-sots_1.jpg",
+      "tags": "All Images, Screenshots"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277945-yuki.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277945-yuki.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277945-yuki.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277945-yuki.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277945-yuki.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277945-yuki.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277945-yuki.png",
+      "tags": "All Images, Character Art"
+    },
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277944-winter_general.png",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277944-winter_general.png",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/9/93060/2277944-winter_general.png",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/9/93060/2277944-winter_general.png",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/9/93060/2277944-winter_general.png",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/9/93060/2277944-winter_general.png",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/9/93060/2277944-winter_general.png",
+      "tags": "All Images, Character Art"
+    }
+  ],
+  "videos": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-2849/",
+      "id": 2849,
+      "name": "Quick Look EX: Skulls of the Shogun",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-ex-skulls-of-the-shogun/2300-2849/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-3288/",
+      "id": 3288,
+      "name": "PAX 2010: Skulls of the Shogun Interview",
+      "site_detail_url": "http://www.giantbomb.com/videos/pax-2010-skulls-of-the-shogun-interview/2300-3288/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-4597/",
+      "id": 4597,
+      "name": "The Process Behind Making Skulls of the Shogun",
+      "site_detail_url": "http://www.giantbomb.com/videos/the-process-behind-making-skulls-of-the-shogun/2300-4597/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6273/",
+      "id": 6273,
+      "name": "Quick Look EX: Skulls of the Shogun on Windows 8 Tablet",
+      "site_detail_url": "http://www.giantbomb.com/videos/quick-look-ex-skulls-of-the-shogun-on-windows-8-ta/2300-6273/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6944/",
+      "id": 6944,
+      "name": "Skulls of the Shogun Is Headed Your Way January 30th",
+      "site_detail_url": "http://www.giantbomb.com/videos/skulls-of-the-shogun-is-headed-your-way-january-30/2300-6944/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-6990/",
+      "id": 6990,
+      "name": "I Love Mondays - 01/28/2013",
+      "site_detail_url": "http://www.giantbomb.com/videos/i-love-mondays-01282013/2300-6990/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7003/",
+      "id": 7003,
+      "name": "Thursday Night Throwdown: 01/31/13",
+      "site_detail_url": "http://www.giantbomb.com/videos/thursday-night-throwdown-013113/2300-7003/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/video/2300-7617/",
+      "id": 7617,
+      "name": "Skulls of the Shogun Is Escaping From Windows 8",
+      "site_detail_url": "http://www.giantbomb.com/videos/skulls-of-the-shogun-is-escaping-from-windows-8/2300-7617/"
+    }
+  ],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-2/",
+      "id": 2,
+      "name": "Strategy",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=strategy&wikiTypeId=3060&wikiId=2&genre=2"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-115582/",
+      "id": 115582,
+      "name": "Skulls of the Shogun",
+      "site_detail_url": "http://www.giantbomb.com/skulls-of-the-shogun/3030-31582/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-115583/",
+      "id": 115583,
+      "name": "Skulls of the Shogun",
+      "site_detail_url": "http://www.giantbomb.com/skulls-of-the-shogun/3030-31582/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-124736/",
+      "id": 124736,
+      "name": "Skulls of the Shogun",
+      "site_detail_url": "http://www.giantbomb.com/skulls-of-the-shogun/3030-31582/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128016/",
+      "id": 128016,
+      "name": "Skulls of the Shogun",
+      "site_detail_url": "http://www.giantbomb.com/skulls-of-the-shogun/3030-31582/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-128059/",
+      "id": 128059,
+      "name": "Skulls of the Shogun: Bone-A-Fide Edition",
+      "site_detail_url": "http://www.giantbomb.com/skulls-of-the-shogun/3030-31582/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132077/",
+      "id": 132077,
+      "name": "Skulls of the Shogun",
+      "site_detail_url": "http://www.giantbomb.com/skulls-of-the-shogun/3030-31582/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-132078/",
+      "id": 132078,
+      "name": "Skulls of the Shogun",
+      "site_detail_url": "http://www.giantbomb.com/skulls-of-the-shogun/3030-31582/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-141819/",
+      "id": 141819,
+      "name": "Skulls of the Shogun: Bone-A-Fide Edition",
+      "site_detail_url": "http://www.giantbomb.com/skulls-of-the-shogun/3030-31582/releases/"
+    }
+  ]
+}

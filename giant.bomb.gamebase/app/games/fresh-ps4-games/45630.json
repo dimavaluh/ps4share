@@ -1,0 +1,115 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-45630/",
+  "deck": "The 2014 edition of the official MotoGP World Championship video game.",
+  "id": 45630,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2608254-3725869910-14882.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2608254-3725869910-14882.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2608254-3725869910-14882.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2608254-3725869910-14882.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2608254-3725869910-14882.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2608254-3725869910-14882.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2608254-3725869910-14882.jpg"
+  },
+  "name": "MotoGP 14",
+  "original_release_date": "2014-06-20 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-20/",
+      "id": 20,
+      "name": "Xbox 360",
+      "site_detail_url": "http://www.giantbomb.com/xbox-360/3045-20/",
+      "abbreviation": "X360"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-35/",
+      "id": 35,
+      "name": "PlayStation 3",
+      "site_detail_url": "http://www.giantbomb.com/playstation-3/3045-35/",
+      "abbreviation": "PS3"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-88/",
+      "id": 88,
+      "name": "PlayStation Network (PS3)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-ps3/3045-88/",
+      "abbreviation": "PS3N"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-129/",
+      "id": 129,
+      "name": "PlayStation Vita",
+      "site_detail_url": "http://www.giantbomb.com/playstation-vita/3045-129/",
+      "abbreviation": "VITA"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-143/",
+      "id": 143,
+      "name": "PlayStation Network (Vita)",
+      "site_detail_url": "http://www.giantbomb.com/playstation-network-vita/3045-143/",
+      "abbreviation": "PSNV"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/motogp-14/3030-45630/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2608254-3725869910-14882.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2608254-3725869910-14882.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/14/149021/2608254-3725869910-14882.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/14/149021/2608254-3725869910-14882.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/14/149021/2608254-3725869910-14882.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/14/149021/2608254-3725869910-14882.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/14/149021/2608254-3725869910-14882.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-6/",
+      "id": 6,
+      "name": "Driving/Racing",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=drivingracing&wikiTypeId=3060&wikiId=6&genre=6"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-18/",
+      "id": 18,
+      "name": "Puzzle",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=puzzle&wikiTypeId=3060&wikiId=18&genre=18"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-134884/",
+      "id": 134884,
+      "name": "MotoGP 14",
+      "site_detail_url": "http://www.giantbomb.com/motogp-14/3030-45630/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138504/",
+      "id": 138504,
+      "name": "MotoGP 14",
+      "site_detail_url": "http://www.giantbomb.com/motogp-14/3030-45630/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138505/",
+      "id": 138505,
+      "name": "MotoGP 14",
+      "site_detail_url": "http://www.giantbomb.com/motogp-14/3030-45630/releases/"
+    }
+  ]
+}

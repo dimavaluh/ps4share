@@ -1,0 +1,49 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-52482/",
+  "deck": "An updated version of Chaos Code featuring a number of balance tweaks.",
+  "id": 52482,
+  "image": null,
+  "name": "Chaos Code: New Sign of Catastrophe",
+  "original_release_date": "2013-12-31 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-84/",
+      "id": 84,
+      "name": "Arcade",
+      "site_detail_url": "http://www.giantbomb.com/arcade/3045-84/",
+      "abbreviation": "ARC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/chaos-code-new-sign-of-catastrophe/3030-52482/",
+  "images": [],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-9/",
+      "id": 9,
+      "name": "Fighting",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=fighting&wikiTypeId=3060&wikiId=9&genre=9"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145869/",
+      "id": 145869,
+      "name": "Chaos Code: New Sign of Catastrophe",
+      "site_detail_url": "http://www.giantbomb.com/chaos-code-new-sign-of-catastrophe/3030-52482/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-145870/",
+      "id": 145870,
+      "name": "Chaos Code: New Sign of Catastrophe",
+      "site_detail_url": "http://www.giantbomb.com/chaos-code-new-sign-of-catastrophe/3030-52482/releases/"
+    }
+  ]
+}

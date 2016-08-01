@@ -1,0 +1,111 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48522/",
+  "deck": "A compilation containing Sniper Elite: Nazi Zombie Army 1 and 2, plus the previously unreleased Zombie Army 3.",
+  "id": 48522,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2715381-rcvf.jpg",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2715381-rcvf.jpg",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2715381-rcvf.jpg",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2715381-rcvf.jpg",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2715381-rcvf.jpg",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2715381-rcvf.jpg",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2715381-rcvf.jpg"
+  },
+  "name": "Zombie Army Trilogy",
+  "original_release_date": "2015-03-06 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/zombie-army-trilogy/3030-48522/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2715381-rcvf.jpg",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2715381-rcvf.jpg",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/18/187968/2715381-rcvf.jpg",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/18/187968/2715381-rcvf.jpg",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/18/187968/2715381-rcvf.jpg",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/18/187968/2715381-rcvf.jpg",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/18/187968/2715381-rcvf.jpg",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-11/",
+      "id": 11,
+      "name": "Shooter",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=shooter&wikiTypeId=3060&wikiId=11&genre=11"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-15/",
+      "id": 15,
+      "name": "Compilation",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=compilation&wikiTypeId=3060&wikiId=15&genre=15"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140431/",
+      "id": 140431,
+      "name": "Zombie Army Trilogy",
+      "site_detail_url": "http://www.giantbomb.com/zombie-army-trilogy/3030-48522/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140432/",
+      "id": 140432,
+      "name": "Zombie Army Trilogy",
+      "site_detail_url": "http://www.giantbomb.com/zombie-army-trilogy/3030-48522/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140433/",
+      "id": 140433,
+      "name": "Zombie Army Trilogy",
+      "site_detail_url": "http://www.giantbomb.com/zombie-army-trilogy/3030-48522/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140434/",
+      "id": 140434,
+      "name": "Zombie Army Trilogy",
+      "site_detail_url": "http://www.giantbomb.com/zombie-army-trilogy/3030-48522/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140436/",
+      "id": 140436,
+      "name": "Zombie Army Trilogy",
+      "site_detail_url": "http://www.giantbomb.com/zombie-army-trilogy/3030-48522/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140437/",
+      "id": 140437,
+      "name": "Zombie Army Trilogy",
+      "site_detail_url": "http://www.giantbomb.com/zombie-army-trilogy/3030-48522/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-140438/",
+      "id": 140438,
+      "name": "Zombie Army Trilogy",
+      "site_detail_url": "http://www.giantbomb.com/zombie-army-trilogy/3030-48522/releases/"
+    }
+  ]
+}

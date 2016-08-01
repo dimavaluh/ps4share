@@ -1,0 +1,108 @@
+{
+  "api_detail_url": "http://www.giantbomb.com/api/game/3030-48116/",
+  "deck": "Free-to-play World War II strategy game.",
+  "id": 48116,
+  "image": {
+    "icon_url": "http://www.giantbomb.com/api/image/square_avatar/2696789-8871872259-battle-islands-badge-01-ps4-eu-23sept14",
+    "medium_url": "http://www.giantbomb.com/api/image/scale_medium/2696789-8871872259-battle-islands-badge-01-ps4-eu-23sept14",
+    "screen_url": "http://www.giantbomb.com/api/image/screen_medium/2696789-8871872259-battle-islands-badge-01-ps4-eu-23sept14",
+    "small_url": "http://www.giantbomb.com/api/image/scale_small/2696789-8871872259-battle-islands-badge-01-ps4-eu-23sept14",
+    "super_url": "http://www.giantbomb.com/api/image/scale_large/2696789-8871872259-battle-islands-badge-01-ps4-eu-23sept14",
+    "thumb_url": "http://www.giantbomb.com/api/image/scale_avatar/2696789-8871872259-battle-islands-badge-01-ps4-eu-23sept14",
+    "tiny_url": "http://www.giantbomb.com/api/image/square_mini/2696789-8871872259-battle-islands-badge-01-ps4-eu-23sept14"
+  },
+  "name": "Battle Islands",
+  "original_release_date": "2013-11-01 00:00:00",
+  "platforms": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-94/",
+      "id": 94,
+      "name": "PC",
+      "site_detail_url": "http://www.giantbomb.com/pc/3045-94/",
+      "abbreviation": "PC"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-96/",
+      "id": 96,
+      "name": "iPhone",
+      "site_detail_url": "http://www.giantbomb.com/iphone/3045-96/",
+      "abbreviation": "IPHN"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-121/",
+      "id": 121,
+      "name": "iPad",
+      "site_detail_url": "http://www.giantbomb.com/ipad/3045-121/",
+      "abbreviation": "IPAD"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-123/",
+      "id": 123,
+      "name": "Android",
+      "site_detail_url": "http://www.giantbomb.com/android/3045-123/",
+      "abbreviation": "ANDR"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-145/",
+      "id": 145,
+      "name": "Xbox One",
+      "site_detail_url": "http://www.giantbomb.com/xbox-one/3045-145/",
+      "abbreviation": "XONE"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/platform/3045-146/",
+      "id": 146,
+      "name": "PlayStation 4",
+      "site_detail_url": "http://www.giantbomb.com/playstation-4/3045-146/",
+      "abbreviation": "PS4"
+    }
+  ],
+  "site_detail_url": "http://www.giantbomb.com/battle-islands/3030-48116/",
+  "images": [
+    {
+      "icon_url": "http://static.giantbomb.com/uploads/square_avatar/23/230795/2696789-8871872259-battle-islands-badge-01-ps4-eu-23sept14",
+      "medium_url": "http://static.giantbomb.com/uploads/screen_medium/23/230795/2696789-8871872259-battle-islands-badge-01-ps4-eu-23sept14",
+      "screen_url": "http://static.giantbomb.com/uploads/screen_medium/23/230795/2696789-8871872259-battle-islands-badge-01-ps4-eu-23sept14",
+      "small_url": "http://static.giantbomb.com/uploads/square_avatar/23/230795/2696789-8871872259-battle-islands-badge-01-ps4-eu-23sept14",
+      "super_url": "http://static.giantbomb.com/uploads/scale_large/23/230795/2696789-8871872259-battle-islands-badge-01-ps4-eu-23sept14",
+      "thumb_url": "http://static.giantbomb.com/uploads/scale_small/23/230795/2696789-8871872259-battle-islands-badge-01-ps4-eu-23sept14",
+      "tiny_url": "http://static.giantbomb.com/uploads/square_mini/23/230795/2696789-8871872259-battle-islands-badge-01-ps4-eu-23sept14",
+      "tags": "All Images"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/genre/3060-2/",
+      "id": 2,
+      "name": "Strategy",
+      "site_detail_url": "http://www.giantbomb.com/games/?wikiSlug=strategy&wikiTypeId=3060&wikiId=2&genre=2"
+    }
+  ],
+  "releases": [
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138495/",
+      "id": 138495,
+      "name": "Battle Islands",
+      "site_detail_url": "http://www.giantbomb.com/battle-islands/3030-48116/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138496/",
+      "id": 138496,
+      "name": "Battle Islands",
+      "site_detail_url": "http://www.giantbomb.com/battle-islands/3030-48116/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-138497/",
+      "id": 138497,
+      "name": "Battle Islands",
+      "site_detail_url": "http://www.giantbomb.com/battle-islands/3030-48116/releases/"
+    },
+    {
+      "api_detail_url": "http://www.giantbomb.com/api/release/3050-144101/",
+      "id": 144101,
+      "name": "Battle Islands",
+      "site_detail_url": "http://www.giantbomb.com/battle-islands/3030-48116/releases/"
+    }
+  ]
+}
