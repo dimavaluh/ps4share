@@ -39,6 +39,7 @@ async.map(data.results, (game, done) => {
                 if ( err ) {
                 console.error( err );
                 }
+                console.log("success!")
             } )
         })
 
