@@ -43,7 +43,7 @@ async.map(data.results, (game, done) => {
                 }
                 console.log("success!")
             } )
-        })
+        });
 
 
 
