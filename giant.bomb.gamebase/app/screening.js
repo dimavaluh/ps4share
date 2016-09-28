@@ -2,7 +2,7 @@
 
 var fs = require('fs');
 var async = require('async');
-var jsonfile = require('jsonfile')
+var jsonfile = require('jsonfile');
 
 var physicalList = require('./physicalGamesList.js');
 var globalList = require('./games/fresh-ps4-games.json');
